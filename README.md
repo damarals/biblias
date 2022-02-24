@@ -5,9 +5,9 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/damarals/biblias/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/damarals/biblias/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://img.shields.io/github/workflow/status/damarals/biblias/R-CMD-check?style=for-the-badge)](https://github.com/damarals/biblias/actions/workflows/R-CMD-check.yaml)
 [![GitHub latest
-commit](https://badgen.net/github/last-commit/damarals/biblias)](https://GitHub.com/damarals/biblias/commit/)
+commit](https://img.shields.io/github/last-commit/damarals/biblias?color=blue&label=atualizado&style=for-the-badge)](https://GitHub.com/damarals/biblias/commit/)
 <!-- badges: end -->
 
 O objetivo deste pacote é disponibilizar várias biblias em português e
