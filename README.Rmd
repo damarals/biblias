@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 # Pacote Bíblias
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/damarals/biblias/workflows/R-CMD-check/badge.svg)](https://github.com/damarals/biblias/actions)
+[![R-CMD-check](https://github.com/damarals/biblias/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/damarals/biblias/actions/workflows/R-CMD-check.yaml)
 [![GitHub latest commit](https://badgen.net/github/last-commit/damarals/biblias)](https://GitHub.com/damarals/biblias/commit/)
 <!-- badges: end -->
 
@@ -59,10 +59,4 @@ Na tabela abaixo encontram-se algumas informações e estatísticas das versões
 
 Clique no botão abaixo e patrocine, com qualquer valor pelo *PayPal*, o empenho e a manutenção desse repositório.
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="RSNGTLP66QMXU" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="currency_code" value="BRL" />
-<input type="image" src="https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Faça doações com o botão do PayPal" />
-<img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![button-donate-paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?business=RSNGTLP66QMXU&no_recurring=0&currency_code=BRL)
