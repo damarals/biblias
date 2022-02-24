@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.0">
+  <book code="1CH" style="id">1 Crônicas (KJA)</book>
+  <para style="h">1 Crônicas</para>
+  <para style="toc1">1 Crônicas</para>
+  <para style="toc2">1 Crônicas</para>
+  <para style="toc3">1CR</para>
+  <para style="mt1">1 Crônicas</para>
+  <chapter number="1" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Adam, Adão; Shet, Sete; Enosh, Enos;</para>
+  <para style="p"><verse number="2" style="v"/>Cainã, Maalaleel, Jarede,</para>
+  <para style="p"><verse number="3" style="v"/>Enoque, Matusalém, Lameque, Noé,</para>
+  <para style="p"><verse number="4" style="v"/>Estes foram os filhos de Noé: Sem, Cam e Jafé.</para>
+  <para style="p"><verse number="5" style="v"/>Estes foram os filhos de Jafé: Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tirás.</para>
+  <para style="p"><verse number="6" style="v"/>Estes foram os filhos de Gômer: Asquenaz, Rifate e Togarma.</para>
+  <para style="p"><verse number="7" style="v"/>Estes foram os filhos de Javã: Elisá, Tarsis, Quitim e Rodanim.</para>
+  <para style="p"><verse number="8" style="v"/>Estes foram os filhos de Cam: Cuxe, Mizraim, Fute e Canaã.</para>
+  <para style="p"><verse number="9" style="v"/>Estes foram os filhos de Cuxe: Sebá, Havilá, Sabtá, Raamá e Sabtecá. E estes foram os filhos de Raamá: Sabá e Dedán.</para>
+  <para style="p"><verse number="10" style="v"/>Cuxe gerou Ninrode, que se constituiu no primeiro homem poderoso na terra.</para>
+  <para style="p"><verse number="11" style="v"/>Mizraim deu origem a Ludim, Anamim, Leabim, Naftuim,</para>
+  <para style="p"><verse number="12" style="v"/>Patruim, Casluim, que deu origem aos casluítas, dos quais nasceram os filisteus; e Caftorim, que deu origem aos caftoritas.</para>
+  <para style="p"><verse number="13" style="v"/>Canaã gerou Sidom, seu primogênito, e Hete,</para>
+  <para style="p"><verse number="14" style="v"/>e também os jebuseus, amorreus, girgaseus,</para>
+  <para style="p"><verse number="15" style="v"/>heveus, arqueus, sineus,</para>
+  <para style="p"><verse number="16" style="v"/>arvadeus, zemareus e hamateus.</para>
+  <para style="p"><verse number="17" style="v"/>Os descendentes de Sem foram: Elão, Assur, Arfaxade, Lude e Arã. E estes foram os filhos de Arã: Uz, Hul, Géter e Meseque.</para>
+  <para style="p"><verse number="18" style="v"/>Arfaxade deu origem a Selá, e este gerou Héber.</para>
+  <para style="p"><verse number="19" style="v"/>A Héber nasceram dois filhos: um deles recebeu o nome de Pelég, Pelegue, que significa Divisão, pois em sua época a terra foi repartida; seu irmão chamou-se Ioctán, Joctã.</para>
+  <para style="p"><verse number="20" style="v"/>Joctã gerou Almodá, Salefe, Hazarmavé, Jerá,</para>
+  <para style="p"><verse number="21" style="v"/>Hadorão, Uzal, Dicla,</para>
+  <para style="p"><verse number="22" style="v"/>Ebal, Abimael, Sabá,</para>
+  <para style="p"><verse number="23" style="v"/>Ofir, Havilá e Jobate, todos esses descendentes de Joctã.</para>
+  <para style="p"><verse number="24" style="v"/>Sem, Arfaxade, Selá,</para>
+  <para style="p"><verse number="25" style="v"/>Héber, Pelegue, Reú,</para>
+  <para style="p"><verse number="26" style="v"/>Serugue, Naor, Terá</para>
+  <para style="p"><verse number="27" style="v"/>e Avram, Abrão, que se tornou Avraham, Abraão.</para>
+  <para style="p"><verse number="28" style="v"/>Estes foram os filhos de Abraão: Its’hac, Isaque e Ishmael, Ismael.</para>
+  <para style="p"><verse number="29" style="v"/>E foram estes os seus descendentes: Nebaiote, o primogênito de Ismael, Quedar, Adbeel, Mibsão,</para>
+  <para style="p"><verse number="30" style="v"/>Misma, Dumá, Massá, Hadade, Temá,</para>
+  <para style="p"><verse number="31" style="v"/>Jetur, Nafis e Quedemá. Esses, portanto, foram os filhos de Ismael.</para>
+  <para style="p"><verse number="32" style="v"/>Estes, a seguir, foram os filhos de Abraão com sua concubina Quetura: Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá. Foram estes os filhos de Jocsã: Sabá e Dedã.</para>
+  <para style="p"><verse number="33" style="v"/>Foram estes os filhos de Midiã: Efá, Éfer, Enoque, Abida e Elda. Todos esses foram descendentes da concubina Quetura.</para>
+  <para style="p"><verse number="34" style="v"/>Abraão gerou Isaque. Estes foram os filhos de Isaque: Esaú e Israel.</para>
+  <para style="p"><verse number="35" style="v"/>Estes foram os filhos de Esaú: Elifaz, Reuel, Jeús, Jalão e Corá.</para>
+  <para style="p"><verse number="36" style="v"/>Estes foram os filhos de Elifaz: Temã, Omar, Zefô, Gaetã e Quenaz; Timna e Amaleque.</para>
+  <para style="p"><verse number="37" style="v"/>Estes foram os filhos de Reuel: Naate, Zerá, Samá e Mizá.</para>
+  <para style="p"><verse number="38" style="v"/>Estes foram os filhos de Seir: Lotã, Sobal, Zibeão, Aná, Disom, Ézer e Disã.</para>
+  <para style="p"><verse number="39" style="v"/>Estes foram os filhos de Lotã: Hori e Homã. Lotã; e a irmã de Lotã foi Timna.</para>
+  <para style="p"><verse number="40" style="v"/>Estes foram os filhos de Sobal: Alvã, Manaate, Ebal, Sefô e Onã. Estes foram os filhos de Zibeão: Aiá e Aná.</para>
+  <para style="p"><verse number="41" style="v"/>Aná gerou Disom. E os filhos de Disom foram: Hanrão, Esbã, Itrã e Querã.</para>
+  <para style="p"><verse number="42" style="v"/>Estes foram os filhos de Ezer: Bilã, Zaavã e Jaacã. E os filhos de Disã foram: Uz e Arã.</para>
+  <para style="p"><verse number="43" style="v"/>São estes, pois, os reis que governaram sobre a terra de Edom, antes que os israelitas recebessem um rei: Belá, filho de Beor, natural da cidade de Dinabá.</para>
+  <para style="p"><verse number="44" style="v"/>Belá morreu, e Jobabe, filho de Zerá, de Bozra, foi o seu sucessor.</para>
+  <para style="p"><verse number="45" style="v"/>Após a morte do rei Joabe, governou em seu lugar Husam, da terra dos temanitas.</para>
+  <para style="p"><verse number="46" style="v"/>Husam morreu, e Hadade, filho de Bedade, que tinha derrotado os midianitas na terra de Moabe, foi o seu sucessor. Sua cidade chamava-se Avite.</para>
+  <para style="p"><verse number="47" style="v"/>Depois da morte de Hadade, reinou em seu lugar Samlá da cidade de Samlá de Masreca.</para>
+  <para style="p"><verse number="48" style="v"/>Morto Samlá, sucedeu-lhe Saul de Reobote, cidade próxima ao Rio, o Eufrates.</para>
+  <para style="p"><verse number="49" style="v"/>Com a morte de Saul assumiu o trono, Baal-Hanã, filho de Achor, e reinou em seu lugar.</para>
+  <para style="p"><verse number="50" style="v"/>Baal-Hanã morreu, e Hadade foi aclamado seu sucessor e reinou em seu lugar. Ele era da cidade de Paí, e o nome de sua esposa era Mehetavel bat Matred, Meetabel filha de Matrede e neta de Mezaabe.</para>
+  <para style="p"><verse number="51" style="v"/>Depois da morte de Hadade, Edom foi governada pelos seguintes chefes: Timna, Alva, Jetete,</para>
+  <para style="p"><verse number="52" style="v"/>Oolibama, Elá, Pinom,</para>
+  <para style="p"><verse number="53" style="v"/>Quenaz, Temã, Mibzar,</para>
+  <para style="p"><verse number="54" style="v"/>Magdiel e Irã. Foram esses os líderes e chefes de Edom.</para>
+  <chapter number="2" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Estes foram os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar, Zebulom,</para>
+  <para style="p"><verse number="2" style="v"/>Dã, José, Benjamim, Naftali, Gade e Aser.</para>
+  <para style="p"><verse number="3" style="v"/>Os filhos de Judá foram: Er, Onã e Selá. Estes três filhos lhe nasceram da filha de Sua, a Cananeia; e Er, o primogênito de Judá, praticou o que o SENHOR desaprova e por causa da sua conduta perversa o matou.</para>
+  <para style="p"><verse number="4" style="v"/>Contudo, Tamar, sua nora, lhe deu à luz a Perez e a Zerá; e Judá foi pai de cinco filhos ao todo.</para>
+  <para style="p"><verse number="5" style="v"/>Os filhos de Perez foram: Hezrom e Hamul.</para>
+  <para style="p"><verse number="6" style="v"/>E os filhos de Zerá foram: Zinri, Etã, Hemã, Calcol e Dara; cinco ao todo.</para>
+  <para style="p"><verse number="7" style="v"/>O filho de Carmi foi Acar. Ele foi conhecido como o perturbador de Israel e causou grande desgraça à nação ao violar a proibição de se apossar de objetos sagrados.</para>
+  <para style="p"><verse number="8" style="v"/>E o filho de Etã foi Azarias.</para>
+  <para style="p"><verse number="9" style="v"/>Os filhos que nasceram a Hezrom foram: Jerameel, Rão e Kelubai, Calebe.</para>
+  <para style="p"><verse number="10" style="v"/>E Rão gerou a Aminadabe, e Aminadabe gerou Naassom, príncipe e líder dos filhos de Judá;</para>
+  <para style="p"><verse number="11" style="v"/>Naassom gerou Salmá, Salmom, e Salmom gerou a Boaz;</para>
+  <para style="p"><verse number="12" style="v"/>Boaz gerou a Obede, e Obede gerou Jessé.</para>
+  <para style="p"><verse number="13" style="v"/>Jessé gerou Eliabe, seu primogênito; o segundo filho foi Abinadabe, o terceiro chamou-se Simeia,</para>
+  <para style="p"><verse number="14" style="v"/>o quarto Natanael, o quinto Radai,</para>
+  <para style="p"><verse number="15" style="v"/>o sexto Ozém, e o sétimo Davi.</para>
+  <para style="p"><verse number="16" style="v"/>As irmãs deles foram: Zeruia e Abigail. Os três filhos de Zeruia foram Abisai, Joabe e Asael.</para>
+  <para style="p"><verse number="17" style="v"/>Abigail deu à luz Amasa, filho do ismaelita Jeter.</para>
+  <para style="p"><verse number="18" style="v"/>E Calev ben Hetsron, Calebe filho de Hezrom, teve, com sua esposa Azuba, uma filha chamada Jeriote. Estes foram os filhos de Azuba: Jeser, Sobabe e Ardom.</para>
+  <para style="p"><verse number="19" style="v"/>Com a morte de Azuba, Calebe tomou por esposa a Efrate, com quem teve Hur.</para>
+  <para style="p"><verse number="20" style="v"/>Hur gerou Uri, e Uri gerou Bezabel.</para>
+  <para style="p"><verse number="21" style="v"/>Algum tempo mais tarde, Hezrom, aos sessenta anos, tomou por mulher a filha de Maquir, abba, pai e mestre, de Gileade, e ela deu à luz um filho que recebeu o nome de Segube.</para>
+  <para style="p"><verse number="22" style="v"/>Segube gerou Jair, que governou vinte e três cidades em Gileade.</para>
+  <para style="p"><verse number="23" style="v"/>Gesur e Arã conquistaram Havote-Jair, as fazendas Jair, bem como Kenat e suas aldeias ao redor; ao todo sessenta cidades. Todos esses foram descendentes de Maquir, pai de Gileade.</para>
+  <para style="p"><verse number="24" style="v"/>E, depois da morte de Hezrom, em Calev-Efratá, Calebe de Efrata, a mulher de Hezrom, Abia, deu à luz um filho chamado Asur, que foi o fundador de Tecoa.</para>
+  <para style="p"><verse number="25" style="v"/>Estes foram os filhos de Jerameel, o filho primogênito de Hezrom: Rão, o mais velho, Buna, Orém, Ozém e Aías.</para>
+  <para style="p"><verse number="26" style="v"/>Jerameel teve outra esposa, chamada Atara, que foi a mãe de Onã.</para>
+  <para style="p"><verse number="27" style="v"/>Estes foram os filhos de Rão, o primogênito de Jerameel: Maaz, Jamim e Equer.</para>
+  <para style="p"><verse number="28" style="v"/>E foram os filhos de Onã: Samai e Jada. E estes foram os filhos de Samai: Nadabe e Abisur.</para>
+  <para style="p"><verse number="29" style="v"/>O nome da esposa de Abisur era Abiail, que lhe deu dois filhos: Abã e Molide.</para>
+  <para style="p"><verse number="30" style="v"/>E os filhos de Nadabe foram: Selede e Apaim. Selede morreu sem ter filhos.</para>
+  <para style="p"><verse number="31" style="v"/>O filho de Apaim foi Isi, pai de Sesã, que foi pai de Alai.</para>
+  <para style="p"><verse number="32" style="v"/>E os filhos de Jada, irmão de Samai, foram: Jéter e Jônatas. E Jéter também morreu sem ter filhos.</para>
+  <para style="p"><verse number="33" style="v"/>Estes foram os filhos de Jônatas: Pelete e Zaza. Foram esses, portanto, os descendentes de Jerameel.</para>
+  <para style="p"><verse number="34" style="v"/>Sesã não teve filhos, apenas filhas. Entretanto, tinha Sesã um escravo egípcio, cujo nome era Jará.</para>
+  <para style="p"><verse number="35" style="v"/>Concedeu, pois, Sesã uma de suas filhas por esposa a Jara, seu servo, e esta deu-lhe um filho chamado Atai.</para>
+  <para style="p"><verse number="36" style="v"/>Atai gerou Natã, Natã gerou Zabade,</para>
+  <para style="p"><verse number="37" style="v"/>Zabade gerou Eflal, Eflal gerou Obede,</para>
+  <para style="p"><verse number="38" style="v"/>Obede gerou Jeú, Jeú gerou Azarias,</para>
+  <para style="p"><verse number="39" style="v"/>Azarias gerou Helez, Helez gerou Eleasa,</para>
+  <para style="p"><verse number="40" style="v"/>Eleasa gerou Sismai, Sismai gerou Salum,</para>
+  <para style="p"><verse number="41" style="v"/>Salum gerou Jecamias, e Jecamias gerou Elisama.</para>
+  <para style="p"><verse number="42" style="v"/>Estes foram, pois, os filhos de Calebe, irmão de Jerameel: Messa, o filho primogênito, que tornou-se pai de Zife, e seu filho Maressa, pai de Hebrom.</para>
+  <para style="p"><verse number="43" style="v"/>Estes foram os filhos de Hebrom: Corá, Tapua, Requém e Sema.</para>
+  <para style="p"><verse number="44" style="v"/>Sema gerou Raão, que veio a ser pai de Jorqueão. Requém gerou Samai.</para>
+  <para style="p"><verse number="45" style="v"/>O filho de Samai foi Maom, e Maom foi pai de Bet-Tsur, Bete-Zur.</para>
+  <para style="p"><verse number="46" style="v"/>E Efá, a concubina de Calebe, deu à luz a Harã, e a Mosa, e também a Gazez. Harã deu origem à cidade de Gazez.</para>
+  <para style="p"><verse number="47" style="v"/>E foram os filhos de Jadai: Regém, Jotão, Gesã, Pelete, Efa e Saafe.</para>
+  <para style="p"><verse number="48" style="v"/>A concubina de Calebe, Maaca, deu à luz dois filhos: Seber e Tiraná.</para>
+  <para style="p"><verse number="49" style="v"/>E Maaca ainda teve Saafe, que se tornou pai e líder da cidade de Madmana; e Seva, que foi pai e líder de Macbena e de Gibeá. A filha de Calebe chamava-se Acsa.</para>
+  <para style="p"><verse number="50" style="v"/>Estes foram os descendentes de Calebe, filho de Hur, o primogênito de Efrate: Sobal, pai e fundador de Quiriate-Jearim,</para>
+  <para style="p"><verse number="51" style="v"/>Salma, pai e fundador de Belém, e Harefe, pai e fundador de Bete-Gader.</para>
+  <para style="p"><verse number="52" style="v"/>Os descendentes de Sobal, pai e fundador de Quiriate-Jearim, foram os habitantes de Haroé, metade dos manaatitas,</para>
+  <para style="p"><verse number="53" style="v"/>e os clãs de Quiriate-Jearim: os itritas, os fateus, os sumateus e os misraeus. Desses tiveram origem os zorateus e os estaloeus.</para>
+  <para style="p"><verse number="54" style="v"/>Os descendentes de Salma foram os cidadãos de Belém e de Atrot-Bet-Ioav, Atarote-Bete-Joabe, os netofatitas, metade dos manaatitas, os zoritas,</para>
+  <para style="p"><verse number="55" style="v"/>e os grupos familiares dos escrivãos que viviam em Jabez: os tiratitas, os simeatitas e os sucatitas. Esses foram os queneus, descendentes de Hamate, antepassado e pai da Casa de Bet-Rehav, Clã de Recabe.</para>
+  <chapter number="3" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Eis os filhos de Davi, que nasceram em Hebrom: Amnom, o primogênito, filho de Ainoã de Jezreel; o segundo, Daniel, de Abigail, de Carmeio;</para>
+  <para style="p"><verse number="2" style="v"/>o terceiro, filho de Maaca, filha de Talmai, rei de Gesur; o quarto, Adonias, filho de Hagite;</para>
+  <para style="p"><verse number="3" style="v"/>o quinto, Sefatias, de Abital; e o sexto, Itream, de sua esposa Eglá.</para>
+  <para style="p"><verse number="4" style="v"/>Foram esses, portanto, os seis filhos de Davi que nasceram em Hebrom, onde ele reinou durante sete anos e seis meses. E, em Jerusalém,</para>
+  <para style="p"><verse number="5" style="v"/>cidade onde Davi reinou mais trinta e três anos, nasceram-lhe os seguintes filhos: Simeia, Sobabe, Natã e Salomão, os quatro filhos que ele teve com Bat-Shéva, Bate-Seba, filha de Amiel.</para>
+  <para style="p"><verse number="6" style="v"/>O rei Davi teve ainda mais nove filhos: Ibar, Elisua, Elpalete,</para>
+  <para style="p"><verse number="7" style="v"/>Nogá, Nefegue, Jafia,</para>
+  <para style="p"><verse number="8" style="v"/>Elisama, Eliada e Elifelete.</para>
+  <para style="p"><verse number="9" style="v"/>Todos esses foram gerados por Davi, sem contar os filhos que teve com suas concubinas. Davi também foi pai de uma filha chamada Tamar.</para>
+  <para style="p"><verse number="10" style="v"/>O filho de Salomão foi Roboão; que gerou Abias; e o filho de Abias foi Asa, e o filho de Asa foi Josafá;</para>
+  <para style="p"><verse number="11" style="v"/>o filho de Josafá, Jeorão, e o filho de Jeorão foi Acazias; o filho de Acazias, Joás;</para>
+  <para style="p"><verse number="12" style="v"/>e o filho de Joás foi Amazias, e o filho de Amazias foi Azarias; o filho de Azarias foi Jotão;</para>
+  <para style="p"><verse number="13" style="v"/>o filho de Jotão, Acaz; o filho de Acaz, Ezequias; o filho de Ezequias, Manassés;</para>
+  <para style="p"><verse number="14" style="v"/>e o filho de Manassés foi Amom; e de Amom nasceu Josias.</para>
+  <para style="p"><verse number="15" style="v"/>Josias gerou os seguintes filhos: Joanã, o primogênito; Jeoaquim, o segundo; Zedequias, o terceiro, e Salum, o quarto.</para>
+  <para style="p"><verse number="16" style="v"/>Os herdeiros de Iehoiakim, Jeoaquim foram: Iehoniá, Joaquim e Tsidkiá, Zedequias.</para>
+  <para style="p"><verse number="17" style="v"/>Eis, pois, os sete filhos do rei Joaquim, que foi conduzido para o cativeiro babilônico: Salatiel,</para>
+  <para style="p"><verse number="18" style="v"/>Malquirão, Pedaías, Senazar, Jecamias, Hosama e Nedabias.</para>
+  <para style="p"><verse number="19" style="v"/>Os filhos de Pedaías foram: Zorobabel e Simei. Estes foram os filhos de Zorobabel: Mesulão, Hananias e Shelomit, Selomite, irmã deles.</para>
+  <para style="p"><verse number="20" style="v"/>Pedaías gerou ainda mais cinco filhos: Hasubá, Oel, Berequias, Hasadias e Jusabe-Hesede.</para>
+  <para style="p"><verse number="21" style="v"/>Estes foram os herdeiros de Hananias: Pelatias e Jesaías; os filhos de Refaías; os filhos de Arnã; os filhos de Obadias e os filhos de Secanias.</para>
+  <para style="p"><verse number="22" style="v"/>Os descendentes de Secanias foram: Semaías e seus seis filhos: Hatus, Igal, Barlá, Nearias e Safate.</para>
+  <para style="p"><verse number="23" style="v"/>Nearias teve três filhos: Elioenai, Ezequias e Azricam.</para>
+  <para style="p"><verse number="24" style="v"/>E, Elioenai gerou sete filhos: Hodavias, Eliasibe, Pelaías, Acube, Joanã, Delaías e Anani.</para>
+  <chapter number="4" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Estes também foram herdeiros de Judá: Perez, Hezrom, Carmi, Hur e Sobal.</para>
+  <para style="p"><verse number="2" style="v"/>Reaías, filho de Sobal, gerou Jaate, e Jaate gerou Aumai e Laade. Esses formaram as casas tribais dos zoratitas.</para>
+  <para style="p"><verse number="3" style="v"/>Eis, portanto, os filhos de Abi-Etam: Jezreel, Isma e Idbás, cuja irmã se chamava Hazelelponi.</para>
+  <para style="p"><verse number="4" style="v"/>E ainda Penuel, abba, pai e mestre de Gedor, e Êzer; que foi pai de Husá. Esse, pois, foram os descendentes de Hur, o filho primogênito de Efrate e pai fundador de Belém.</para>
+  <para style="p"><verse number="5" style="v"/>Asur, pai fundador de Tecoa, teve duas esposas: Helá e Naará.</para>
+  <para style="p"><verse number="6" style="v"/>Naará lhe gerou Auzã, Héfer, Temeni e Haastari. Esses foram os filhos de Naará.</para>
+  <para style="p"><verse number="7" style="v"/>Eis os filhos de Helá: Zerete, Zoar, Etnã</para>
+  <para style="p"><verse number="8" style="v"/>e Coz, de quem nasceu Anube e Zobeba e as casas tribais de Aarel, filho de Harum.</para>
+  <para style="p"><verse number="9" style="v"/>Jabez foi o homem mais ilustre e respeitado de sua tribo. Sua mãe lhe deu o nome de Iábets, Jabez, significando: “em meio a muito sofrimento o dei à luz”</para>
+  <para style="p"><verse number="10" style="v"/>É sabido que Jabez rogou ao Deus de Israel: “Que tu me abençoes e aumentes minha propriedade; que a tua boa mão me proteja e não permita que eu seja afligido pelo mal!” E Deus lhe concedeu o que pediu em oração.</para>
+  <para style="p"><verse number="11" style="v"/>Quelube, irmão de Suá, deu origem a Meir, pai de Estom.</para>
+  <para style="p"><verse number="12" style="v"/>Estom gerou Bete-Rafa e Teína, pai fundador de Ir-Naás. Esses clãs viveram em Reca.</para>
+  <para style="p"><verse number="13" style="v"/>Estes foram os filhos de Quenaz: Otoniel e Seraías. E estes foram os herdeiros de Otoniel: Hatate e Meonotai.</para>
+  <para style="p"><verse number="14" style="v"/>Meonotai gerou Ofra. Seraías gerou Joabe, pai fundador de Ge-Harashim, Vale dos Artesãos, cujos habitantes eram artífices.</para>
+  <para style="p"><verse number="15" style="v"/>Estes foram os filhos de Calebe, filho de Jefoné: Iru, Elá e Naã. O filho de Elá foi Quenaz.</para>
+  <para style="p"><verse number="16" style="v"/>Estes foram os filhos de Jealelel: Zife, Zifa e Asareel.</para>
+  <para style="p"><verse number="17" style="v"/>E estes foram os filhos de Ezra: Léter, Merede, Éfer e Jalom. Merede tomou por esposa Bitia, filha do Faraó, e teve os seguintes filhos: Miriam, Samai e Isbá, pai fundador de Etemoa.</para>
+  <para style="p"><verse number="18" style="v"/>Sua esposa judia deu à luz a Jerede, pai fundador de Gedor, a Héder, pai fundador de Socó, e a Jecutiel, pai fundador de Zanoa.</para>
+  <para style="p"><verse number="19" style="v"/>Estes, pois, foram os herdeiros da mulher de Hodias, irmã de Naã: o pai de Queila, o garmita, e Estemosa, o maacatita.</para>
+  <para style="p"><verse number="20" style="v"/>Estes foram os filhos de Simão: Amnom, Rina, Bene-Hanã e Tilom. E estes foram os filhos de Isi: Zoete e Ben-Zoete.</para>
+  <para style="p"><verse number="21" style="v"/>Estes, pois, foram os filhos de Selá, filho de Judá: Er, pai de Leca; Lada, pai de Maressa. Selá também foi antepassado das casas tribais daqueles que trabalhavam com linho em Bete-Asbeia,</para>
+  <para style="p"><verse number="22" style="v"/>de Joquim, dos homens de Cozeba, de Joás e de Sarafe, que governavam em Moabe e em Iashúvi-Léhem, e estes são registros da antiguidade.</para>
+  <para style="p"><verse number="23" style="v"/>Eles eram oleiros e viviam em Netaim e em Gederá, próximo do rei a quem serviam.</para>
+  <para style="p"><verse number="24" style="v"/>Eis, portanto, os filhos de Simeão: Nemuel, Jamim, Jaribe, Zerá e Saul.</para>
+  <para style="p"><verse number="25" style="v"/>Saul foi pai de Mibsão, que foi pai de Misba.</para>
+  <para style="p"><verse number="26" style="v"/>Os filhos de Misba foram: Hamuel, que foi pai de Zacur, que foi o pai de Simei.</para>
+  <para style="p"><verse number="27" style="v"/>Simei gerou dezesseis filhos e seis filhas, mas seus irmãos não tiveram muitos filhos; por esse motivo todos os seus grupos familiares não se igualaram em número à tribo de Judá.</para>
+  <para style="p"><verse number="28" style="v"/>Eles habitavam em Berseba, Moladá, Hazar-Sual,</para>
+  <para style="p"><verse number="29" style="v"/>Bila, Azém, Tolade,</para>
+  <para style="p"><verse number="30" style="v"/>Betuel, Hormã, Ziclague,</para>
+  <para style="p"><verse number="31" style="v"/>Bete-Marcabote, Hazar-Susim, Bete-Biri e Saaraim. Essas, pois, foram suas cidades até o governo do rei Davi.</para>
+  <para style="p"><verse number="32" style="v"/>Eram proprietários das cinco cidades de Etã, Aim, Rimom, Toquém e Asã,</para>
+  <para style="p"><verse number="33" style="v"/>com todas as aldeias e povoados que ficavam ao redor delas até Baalate. Habitavam, portanto, nessas cidades e mantinham um registro histórico de suas genealogias.</para>
+  <para style="p"><verse number="34" style="v"/>Estes, registrados mediante seus nomes, foram príncipes em seus clãs: Mesobabe, Janleque, Josa, filho de Amazias,</para>
+  <para style="p"><verse number="35" style="v"/>Joel, Jeú, que foi filho de Josibias, neto de Seraías e bisneto de Asiel;</para>
+  <para style="p"><verse number="36" style="v"/>e ainda Elioenai, Jaacobá, Jesoaías, Asaías, Adiel, Jesimiel, Benaia</para>
+  <para style="p"><verse number="37" style="v"/>e Ziza, filho de Sifi, neto de Alom, bisneto de Jedaías, trineto de Sinri e tetraneto de Semaías.</para>
+  <para style="p"><verse number="38" style="v"/>Assim, todos esses homens, citados nessa lista nominal, foram príncipes e líderes em seus clãs, e suas casas tribais cresceram grandemente.</para>
+  <para style="p"><verse number="39" style="v"/>Percorreram desde o passo de Gedor até o oriente do vale, em busca de pastagens para seus rebanhos.</para>
+  <para style="p"><verse number="40" style="v"/>Descobriram muitas e boas pastagens, e habitaram numa região vasta, pacífica, generosa e tranquila, onde alguns descendentes de Ham, Cão, haviam vivido antigamente.</para>
+  <para style="p"><verse number="41" style="v"/>Estes, pois, que estão inscritos nominalmente nessa lista chegaram durante o reinado de Ezequias, rei de Judá, e atacaram os camitas e os meunitas que moravam na região e os exterminaram completamente como se observa até nossos dias. Logo em seguida, ocuparam o lugar onde aqueles povos habitavam, porquanto havia ampla e boa pastagem para seus rebanhos.</para>
+  <para style="p"><verse number="42" style="v"/>Assim, quinhentos desses simeonitas, comandados por Pelatias, Nearias, Refaías e Uziel, filhos de Isi, invadiram as colinas de Seir.</para>
+  <para style="p"><verse number="43" style="v"/>Aniquilaram o restante dos amalequitas que havia conseguido fugir, e tomaram posse daquelas terras até o dia de hoje.</para>
+  <chapter number="5" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Quanto à descendência de Rúben, o primogênito de Israel, mesmo sendo o primeiro e mais velho dos filhos, o seu direito de primogenitura foi outorgado aos filhos de José, filho de Israel, porquanto ele havia desonrado o leito de seu pai, de modo que não foram registrados em sua genealogia seus direitos como primeiro filho.</para>
+  <para style="p"><verse number="2" style="v"/>Contudo, embora Judá tenha sido o mais poderoso de seus irmãos e dele havia brotado um príncipe e líder, os direitos de filho mais velho foram entregues a José.</para>
+  <para style="p"><verse number="3" style="v"/>Os filhos de Rúben, filho mais velho de Israel, foram: Enoque, Palu, Hezrom e Carmi.</para>
+  <para style="p"><verse number="4" style="v"/>Os filhos de Joel foram: Semaias, pai e fundador de Gogue, que deu origem a Simei,</para>
+  <para style="p"><verse number="5" style="v"/>pai de Mica, que foi pai de Reaías, pai de Baal,</para>
+  <para style="p"><verse number="6" style="v"/>que gerou Beera, a quem Tiglate-Pileser rei da Assíria conduziu cativo para o exílio. Beera foi um dos príncipes dos rubenitas.</para>
+  <para style="p"><verse number="7" style="v"/>Os seus irmãos, de acordo com seus clãs, quando se registrou a genealogia, foram: Jeiel, o chefe, Zacarias,</para>
+  <para style="p"><verse number="8" style="v"/>Bela ben Azaz, Belá filho de Azaz, neto de Sema e bisneto de Joel. Eles habitaram em toda a região que vai desde Aroer até o monte Nebo e Baal-Meom.</para>
+  <para style="p"><verse number="9" style="v"/>A leste tomaram posse do território que vai até o deserto que se estende na direção do rio Eufrates, porquanto seus rebanhos haviam prosperado e crescido muito em número nas terras de Gileade.</para>
+  <para style="p"><verse number="10" style="v"/>No governo do rei Saul, lutaram contra os hagarenos, que foram derrotados. Eles habitaram nas suas tendas, em toda a região oriental de Gileade.</para>
+  <para style="p"><verse number="11" style="v"/>Ao lado da tribo de Rúben estabeleceu-se a tribo de Gade, que ocupou desde a região de Basã até Salcá.</para>
+  <para style="p"><verse number="12" style="v"/>Joel tornou-se o primeiro chefe de clãs em Basã e Safã foi o segundo; os demais foram Janai e Safate.</para>
+  <para style="p"><verse number="13" style="v"/>Eis, portanto, os parentes deles, por famílias tribais: Micael, Mesulão, Seba, Jorai, Jacá, Zia e Héber. Foram sete ao todo.</para>
+  <para style="p"><verse number="14" style="v"/>Eles foram descendentes de Abiail, filho de Huri, neto de Jaroa, bisneto de Gileade e trineto de Micael, que foi filho de Jesisai, neto de Jado e bisneto de Buz.</para>
+  <para style="p"><verse number="15" style="v"/>Ahí ben Avdiel, Aí filho de Abdiel, e neto de Guni, foi o chefe da casa de seus pais.</para>
+  <para style="p"><verse number="16" style="v"/>Eles se estabeleceram em Gileade, em Basã, e em suas aldeias e povoados, como também em toda a extensão das terras de pastagem de Sarom.</para>
+  <para style="p"><verse number="17" style="v"/>Todos esses foram devidamente registrados, segundo as suas genealogias, durante o governo de Jotão, rei de Judá, e no reinado de Jeroboão, rei de Israel.</para>
+  <para style="p"><verse number="18" style="v"/>As tribos de Rúben, os rubenitas, assim como as tribos de Gade, os gaditas, e a meia tribo de Manassés possuíam juntas de quarenta e quatro mil setecentos e sessenta guerreiros experientes nas batalhas. Eles eram hábeis com o escudo e a espada, bem como certeiros no manejo de seus arcos e armas de guerra.</para>
+  <para style="p"><verse number="19" style="v"/>Lutaram contra os hagarenos, e também contra Jetur, Nafis e Nodabe.</para>
+  <para style="p"><verse number="20" style="v"/>Durante a batalha clamaram a Deus, que os ajudou, entregando os hagarenos e todos os seus aliados nas suas mãos. Deus os atendeu, porquanto, depositaram nele toda a confiança.</para>
+  <para style="p"><verse number="21" style="v"/>Tomaram dos hagarenos o rebanho de cinquenta mil camelos, duzentas e cinquenta mil ovelhas e dois mil jumentos. E ainda fizeram cem mil prisioneiros.</para>
+  <para style="p"><verse number="22" style="v"/>E muitos dos seus inimigos caíram mortos nas batalhas, porquanto essa era uma guerra de Deus. Depois disso, ficaram morando naquelas terras até o cativeiro.</para>
+  <para style="p"><verse number="23" style="v"/>A meia tribo de Manassés habitou naquele território e se multiplicou, desde Basã até Baal-Hermom, até Senir, o monte Hermom.</para>
+  <para style="p"><verse number="24" style="v"/>Estes foram os chefes das famílias dessa tribo: Efer, Isi, Eliel, Azriel, Jeremias, Hodavias e Jadiel. Eram guerreiros corajosos, homens ilustres, e chefes das famílias.</para>
+  <para style="p"><verse number="25" style="v"/>Contudo, agiram com infidelidade para com o Deus de Israel e dos seus antepassados e se prostituíram, prestando culto e seguindo os deuses dos povos pagãos que o próprio Deus havia exterminado de diante deles.</para>
+  <para style="p"><verse number="26" style="v"/>Por essa razão, o Deus de Israel moveu o espírito de Pul, que é Tiglate-Pileser, rei da Assíria, a conduzir as tribos de Rúben, de Gade e a metade da tribo de Manassés para o território das cidades de Hala, Habor, Hara e para a beira do rio Gozã, onde vivem até hoje.</para>
+  <chapter number="6" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Os filhos de Levi foram: Gérson, Coate e Merari.</para>
+  <para style="p"><verse number="2" style="v"/>E estes foram os filhos de Coate: Anrão, Isar, Hebrom e Uziel.</para>
+  <para style="p"><verse number="3" style="v"/>Estes foram os filhos de Anrão: Arão, Moisés e Miriam; e os filhos de Arão foram: Nadabe, Abiú, Eleazar e Itamar.</para>
+  <para style="p"><verse number="4" style="v"/>Eleazar deu origem a Fineias, Fineias gerou Abisua,</para>
+  <para style="p"><verse number="5" style="v"/>Abisua gerou Buqui, Buqui gerou Uzi,</para>
+  <para style="p"><verse number="6" style="v"/>Uzi gerou Zeraías, Zeraías gerou Meraiote,</para>
+  <para style="p"><verse number="7" style="v"/>Meraiote gerou Amarias, Amarias gerou Aitube,</para>
+  <para style="p"><verse number="8" style="v"/>Aitube gerou Zadoque, Zadoque gerou Aimaás,</para>
+  <para style="p"><verse number="9" style="v"/>Aimaás gerou Azarias, Azarias gerou Joanã,</para>
+  <para style="p"><verse number="10" style="v"/>Joanã gerou Azarias, que foi sacerdote no templo edificado pelo rei Salomão em Jerusalém;</para>
+  <para style="p"><verse number="11" style="v"/>Azarias gerou Amarias, Amarias gerou Aitube.</para>
+  <para style="p"><verse number="12" style="v"/>Aitube gerou Zadoque, Zadoque gerou Salum,</para>
+  <para style="p"><verse number="13" style="v"/>Salum gerou Hilquias, Hilquias gerou Azarias,</para>
+  <para style="p"><verse number="14" style="v"/>Azarias gerou Seraías, e Seraías foi pai de Jeozadaque.</para>
+  <para style="p"><verse number="15" style="v"/>Jeozadaque foi levado cativo quandoYahweh, o SENHOR, por intermédio de Nabucodonosor, aprisionou e exilou os habitantes de Judá e Jerusalém.</para>
+  <para style="p"><verse number="16" style="v"/>Portanto, estes foram os filhos de Levi: Gérson, Coate e Merari.</para>
+  <para style="p"><verse number="17" style="v"/>Estes são os nomes dos filhos de Gérson: Libni e Simei.</para>
+  <para style="p"><verse number="18" style="v"/>Os filhos de Coate foram: Anrão, Isar, Hebrom e Uziel.</para>
+  <para style="p"><verse number="19" style="v"/>Os filhos de Merari foram: Mali e Musi. Estes são os grupos familiares dos levitas, de acordo com as casas tribais de seus pais:</para>
+  <para style="p"><verse number="20" style="v"/>De Gerson: seu filho Libni foi pai de Jaate, que foi pai de Zima;</para>
+  <para style="p"><verse number="21" style="v"/>Zima foi pai de Joá, Joá foi pai de Ido, Ido foi pai de Zerá, e Zerá foi pai de Jeaterai.</para>
+  <para style="p"><verse number="22" style="v"/>De Coate: seu filho Aminadabe foi pai de Corá, e Corá foi pai de Assir;</para>
+  <para style="p"><verse number="23" style="v"/>Assir foi pai de Elcana, Elcana foi pai de Ebiafe, e Ebiafe foi pai de Assir;</para>
+  <para style="p"><verse number="24" style="v"/>Assir foi pai de Taate, Taate foi pai de Uriel, Uriel foi pai de Uzias, e Uzias foi o pai de Saul.</para>
+  <para style="p"><verse number="25" style="v"/>De Elcana nasceram dois filhos: Amasai e Aimote.</para>
+  <para style="p"><verse number="26" style="v"/>Aimote foi pai de Elcana, Elcana foi pai de Zofai, e Zofai foi pai de Naate;</para>
+  <para style="p"><verse number="27" style="v"/>Naate foi pai de Eliabe, Eliabe foi pai de Jeroão, e Jeroão foi pai de Elcana, que gerou Samuel.</para>
+  <para style="p"><verse number="28" style="v"/>De Samuel: Joel, o primogênito, e Abias, o segundo.</para>
+  <para style="p"><verse number="29" style="v"/>De Merari: Mali, pai de Libni, pai de Simei, que foi o genitor de Uzá;</para>
+  <para style="p"><verse number="30" style="v"/>Uzá gerou Simeia, Simeia foi pai de Hagias, e Hagias foi o pai de Asaías.</para>
+  <para style="p"><verse number="31" style="v"/>São estes os homens que o rei Davi encarregou de dirigir o canto de adoração a Yahweh no templo do SENHOR depois que a Arca da Aliança foi transferida para lá.</para>
+  <para style="p"><verse number="32" style="v"/>Os adoradores se revezavam nos seus deveres de ministração do louvor diante do Tabernáculo, da Tenda do Encontro, até quando Salomão construiu o templo do SENHOR em Jerusalém.</para>
+  <para style="p"><verse number="33" style="v"/>São estes os nomes dos servos que ali ministravam o louvor, junto com seus filhos. Do grupo de famílias de Coate: o músico Hemã, filho de Joel, filho de Samuel,</para>
+  <para style="p"><verse number="34" style="v"/>filho de Elcana, filho de Jeroão, filho de Eliel, filho de Toá,</para>
+  <para style="p"><verse number="35" style="v"/>filho de Zufe, filho de Elcana, filho de Maate, filho de Amasai,</para>
+  <para style="p"><verse number="36" style="v"/>filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias,</para>
+  <para style="p"><verse number="37" style="v"/>filho de Taate, filho de Corá,</para>
+  <para style="p"><verse number="38" style="v"/>filho de Isar, filho de Coate, filho de Levi, que fora filho de Jacó, Israel.</para>
+  <para style="p"><verse number="39" style="v"/>À direita de Hemã posicionava-se seu parente Asafe, regente do segundo coro, filho de Berequias, filho de Simeia.</para>
+  <para style="p"><verse number="40" style="v"/>filho de Micael, filho de Baaseias, filho de Malquias,</para>
+  <para style="p"><verse number="41" style="v"/>filho de Etni, filho de Zerá, filho de Adaías,</para>
+  <para style="p"><verse number="42" style="v"/>filho de Etã, filho de Zima, filho de Simei,</para>
+  <para style="p"><verse number="43" style="v"/>filho de Jaate, filho de Gérson, filho de Levi.</para>
+  <para style="p"><verse number="44" style="v"/>Dentre os membros do grupo de famílias de Merari, à esquerda de Hemã, posicionava-se seu parente Etã, regente do terceiro coro, filho de Quisi, filho de Abdi, filho de Maluque,</para>
+  <para style="p"><verse number="45" style="v"/>filho de Hasabias, filho de Amazias, filho de Hilquias,</para>
+  <para style="p"><verse number="46" style="v"/>filho de Anzi, filho de Bani, filho de Sêmer,</para>
+  <para style="p"><verse number="47" style="v"/>filho de Mali, filho de Musi, filho de Merari, que era filho de Levi.</para>
+  <para style="p"><verse number="48" style="v"/>Seus colegas e parentes, outros levitas, tinham a responsabilidade de zelar por todo o serviço do Tabernáculo, o templo de Deus.</para>
+  <para style="p"><verse number="49" style="v"/>Contudo, Arão e seus descendentes eram os encarregados oficiais da apresentação das ofertas de incenso e dos holocaustos, os sacrifícios que eram completamente queimados no altar. Eles eram responsáveis por toda a adoração no Lugar Santíssimo e pelos sacrifícios de propiciação por meio dos quais Deus perdoava os pecados do povo de Israel, conforme tudo o que Moisés, servo de Deus, tinha ordenado.</para>
+  <para style="p"><verse number="50" style="v"/>Estes foram, portanto, os descendentes de Arão, que foi pai de Eleazar, pai de Fineias, que foi genitor de Abisua,</para>
+  <para style="p"><verse number="51" style="v"/>pai de Buqui, pai de Uzi, que gerou Zeraías,</para>
+  <para style="p"><verse number="52" style="v"/>pai de Meraiote, genitor de Amarias, que foi o pai de Aitube,</para>
+  <para style="p"><verse number="53" style="v"/>pai de Zadoque, que gerou Aimáas.</para>
+  <para style="p"><verse number="54" style="v"/>Estas foram as cidades e as regiões outorgadas aos levitas para que nelas habitassem em paz. Dentre os descendentes de Arão, as famílias tribais dos coatitas, foram sorteadas em primeiro lugar;</para>
+  <para style="p"><verse number="55" style="v"/>foram-lhes concedida as terras de Hebrom, em Judá, com suas pastagens ao redor.</para>
+  <para style="p"><verse number="56" style="v"/>Mas os campos e os povoados em torno da cidade foram entregues a Calebe, filho de Jefoné.</para>
+  <para style="p"><verse number="57" style="v"/>Sendo assim, os descendentes de Arão receberam Hebrom, cidade de refúgio, e Libna, Jatir, Estemoa,</para>
+  <para style="p"><verse number="58" style="v"/>Hilém, Debir,</para>
+  <para style="p"><verse number="59" style="v"/>Asã, Jutá e Bete-Senues com todos os seus campos ao redor.</para>
+  <para style="p"><verse number="60" style="v"/>E da tribo de Benjamim receberam Geba e Gibeão; Alemete e Anatote, com todos os campos e pastagens ao redor. Ao todo treze cidades foram distribuídas entre os seus clãs.</para>
+  <para style="p"><verse number="61" style="v"/>Dez cidades situadas no território da metade da tribo de Manassés do Oeste, foram dadas mediante sorteio ao restante do grupo de famílias de Coate, clã por clã.</para>
+  <para style="p"><verse number="62" style="v"/>Para os descendentes de Gérson, família por família também, foram sorteadas treze cidades das tribos de Issacar, de Aser e de Naftali, e da metade da tribo de Manassés do Leste, que habitava na região de Basã.</para>
+  <para style="p"><verse number="63" style="v"/>Os filhos de Merari, de acordo com seus clãs, receberam igualmente por sortes tiradas, doze cidades das tribos de Rúben, Gade e Zebulom.</para>
+  <para style="p"><verse number="64" style="v"/>Deste modo, os israelitas deram aos levitas essas cidades com todos os seus respectivos campos e pastagens ao redor.</para>
+  <para style="p"><verse number="65" style="v"/>Outorgaram-lhes estas cidades que são mencionadas anteriormente, nome por nome, da tribo dos filhos de Judá, da tribo dos filhos de Simeão e da tribo dos filhos Benjamim, todas entregues mediante sorteio.</para>
+  <para style="p"><verse number="66" style="v"/>Do grupo de famílias de Coate, algumas receberam no território da tribo de Efraim as seguintes cidades e terras de pastagem:</para>
+  <para style="p"><verse number="67" style="v"/>Siquém, uma típica cidade para abrigo de fugitivos que ficava na região montanhosa de Efraim; a cidade de Gezer,</para>
+  <para style="p"><verse number="68" style="v"/>Jocmeão, Bete-Horom,</para>
+  <para style="p"><verse number="69" style="v"/>Aijalom e Gate-Rimom, com suas respectivas pastagens.</para>
+  <para style="p"><verse number="70" style="v"/>E no território pertencente à metade da tribo de Manassés do Oeste, eles receberam as cidades de Aner e Bileão, com todas as terras de pastagens e campos que ficavam ao seu redor.</para>
+  <para style="p"><verse number="71" style="v"/>Os filhos de Gérson, os gersonitas, receberam as seguintes cidades: do clã da metade da tribo de Manassés do Leste: Golã, na região de Basã, e Astarote, com todas as suas respectivas áreas de pastagens;</para>
+  <para style="p"><verse number="72" style="v"/>da tribo de Issacar: Quedes, Daberate,</para>
+  <para style="p"><verse number="73" style="v"/>Ramote e Aném, com todos os seus campos ao redor;</para>
+  <para style="p"><verse number="74" style="v"/>da tribo de Aser: Masal, Abdom,</para>
+  <para style="p"><verse number="75" style="v"/>Hucoque e Reobe, com suas respectivas áreas de pastagens;</para>
+  <para style="p"><verse number="76" style="v"/>Da tribo de Naftali: Quedes, nas terras da Galileia, Hamom e Quiriataim, com todos os seus campos adjacentes.</para>
+  <para style="p"><verse number="77" style="v"/>Ao restante dos filhos de Merari, os meraritas, entregaram: da tribo de Zebulom, Rimono e as respectivas áreas de pastagens;</para>
+  <para style="p"><verse number="78" style="v"/>e da tribo de Rúben, do lado oriental do Jordão, a Leste de Jericó, deram Bezer, no deserto, bem como seus campos, Jaza e também suas respectivas áreas de pastagens,</para>
+  <para style="p"><verse number="79" style="v"/>Quedemote e Mefaate, igualmente com seus campos e áreas de pastagens;</para>
+  <para style="p"><verse number="80" style="v"/>e da tribo de Gade, Ramote, em Gileade, Maanaim,</para>
+  <para style="p"><verse number="81" style="v"/>Hesbom e Jazar, com todos os seus respectivos campos e pastagens.</para>
+  <chapter number="7" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Issacar gerou quatro filhos: Tolá, Puá, Jasube e Sinrom.</para>
+  <para style="p"><verse number="2" style="v"/>Estes foram os filhos de Tolá: Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel, chefes das famílias que formaram seus clãs. No reinado de Davi, os descendentes de Tolá alistados em suas genealogias somavam 22. guerreiros notáveis.</para>
+  <para style="p"><verse number="3" style="v"/>O filho de Uzi foi Israías. E estes foram os filhos de Israías: Micael, Obadias, Joel e Issias. Todos os cinco eram chefes.</para>
+  <para style="p"><verse number="4" style="v"/>Eles tinham muitas esposas e muitos filhos. Por isso, conforme a genealogia de sua família, eles somavam 36. homens treinados para a guerra.</para>
+  <para style="p"><verse number="5" style="v"/>Tinham irmãos e parentes pertencentes a todos os clãs de Issacar, valentes guerreiros, conforme alistados em sua genealogia, em número de 87. homens.</para>
+  <para style="p"><verse number="6" style="v"/>Estes foram os três filhos de Benjamim: Belá, Bequer e Jediael.</para>
+  <para style="p"><verse number="7" style="v"/>E os filhos de Belá foram: Esbom, Uzi, Uziel, Jeremote e Iri, cinco chefes de famílias. Seu registro genealógico alistava 22. guerreiros valentes.</para>
+  <para style="p"><verse number="8" style="v"/>Estes foram os filhos de Bequer: Zemira, Joás, Eliézer, Elionenai, Onri, Jeremote, Abias, Anatote e Alemete. Todos esses nobres foram filhos de Bequer.</para>
+  <para style="p"><verse number="9" style="v"/>Na lista dos seus descendentes, família por família, havia 20. homens prontos para a guerra.</para>
+  <para style="p"><verse number="10" style="v"/>O filho de Jediael foi Bilã. E estes foram os filhos de Bilã: Jeús, Benjamim, Eúde, Quenaaná, Zetã, Tarsis e Aisaar.</para>
+  <para style="p"><verse number="11" style="v"/>Todos esses descendentes de Jediael eram chefes de famílias que somavam 17. homens aptos para lutarem nas batalhas.</para>
+  <para style="p"><verse number="12" style="v"/>Supim e Hupim eram filhos de Ir; e Husim era filho de Aer.</para>
+  <para style="p"><verse number="13" style="v"/>Naftali foi pai de quatro filhos: Jaziel, Guni, Jezer e Salum, netos de Bil’há, Bila.</para>
+  <para style="p"><verse number="14" style="v"/>Estes foram os descendentes de Manassés: Asriel, filho de sua concubina síria, que também deu à luz Maquir, que foi pai de Gileade.</para>
+  <para style="p"><verse number="15" style="v"/>Maquir tomou por esposa Maacá, irmã de Hupim e de Supim. Outro descendente de Manassés chamava-se Zelofeade, o qual só teve filhas.</para>
+  <para style="p"><verse number="16" style="v"/>Maacá deu dois filhos a seu marido Maquir, em quem eles puseram os nomes de Peres e Seres. O primogênito, Peres, foi pai de dois filhos: Ulão e Requém.</para>
+  <para style="p"><verse number="17" style="v"/>O filho de Ulão foi Bedã. Esses foram descendentes de Gileade, filho de Maquir e neto de Manassés.</para>
+  <para style="p"><verse number="18" style="v"/>Sua irmã Hamolequete deu à luz Isode, Abiezer e Maalá.</para>
+  <para style="p"><verse number="19" style="v"/>Semida foi pai de quatro filhos: Aiã, Siquém, Liqui e Anião.</para>
+  <para style="p"><verse number="20" style="v"/>Efraim foi o genitor de Sutela, e Sutela foi pai de Berede, pai de Taate, pai de Eleada, que foi o pai de Taate,</para>
+  <para style="p"><verse number="21" style="v"/>pai de Zabade, pai de Sutela. Ezer e Eleade, filhos de Efraim, foram mortos por homens da cidade de Gate quando tentavam roubar o gado deles.</para>
+  <para style="p"><verse number="22" style="v"/>Efraim chorou e lamentou-se durante muitos dias pelo que aconteceu com seus filhos, e seus parentes vieram consolá-lo.</para>
+  <para style="p"><verse number="23" style="v"/>Passado algum tempo, Efraim e sua esposa conceberam, ela ficou grávida e deu à luz um filho. Então Efraim decidiu chamar a criança pelo nome de Beriá, Berias, porquanto “uma época de forte crise se abatera sobre sua casa”.</para>
+  <para style="p"><verse number="24" style="v"/>Sua filha chamava-se Sheerá. Foi ela a fundadora da cidade de Bete-Horom, Bate-Horom Baixa, e também Uzém-Sheerá.</para>
+  <para style="p"><verse number="25" style="v"/>O filho de Berias foi Refa, que gerou Resefe, que foi o genitor de Telá, pai de Taã,</para>
+  <para style="p"><verse number="26" style="v"/>pai de Ladã, pai de Amiúde, que deu origem a Elisama,</para>
+  <para style="p"><verse number="27" style="v"/>genitor de Num, que foi o pai de Josué.</para>
+  <para style="p"><verse number="28" style="v"/>Seu território e cidades incluíam Betel e os povoados ao redor, Naarã a Leste, Gozer e seus povoados a Oeste, e Siquém e Aiá com todas as suas aldeias e arredores.</para>
+  <para style="p"><verse number="29" style="v"/>A tribo de Manassés administrava as cidades de Bete-Seã, Taanaque, Megido e Dor, com todas as suas aldeias e arredores. Os descendentes de José, filho de Jacó, Israel, viviam nessas cidades.</para>
+  <para style="p"><verse number="30" style="v"/>Os filhos de Aser foram: Imná, Isvá, Isvi e Berias. A irmã deles chamava-se Sheerá.</para>
+  <para style="p"><verse number="31" style="v"/>E estes foram os filhos de Berias: Héber e Malquiel, que foi o genitor de Birzavite.</para>
+  <para style="p"><verse number="32" style="v"/>Héber deu origem a Jaflete, Somer e Hotão, chamado de Helém, e a irmã deles, Suá.</para>
+  <para style="p"><verse number="33" style="v"/>Jaflete também foi pai de três filhos: Pasaque, Bimal e Asvate. Esses foram os descendentes de Jaflete.</para>
+  <para style="p"><verse number="34" style="v"/>E estes foram os filhos de Somer: Aí, Roga, Jeubá e Arã.</para>
+  <para style="p"><verse number="35" style="v"/>Estes foram os filhos de Helém, irmão de Somer: Zofa, Imna, Seles e Amal.</para>
+  <para style="p"><verse number="36" style="v"/>Estes foram os filhos de Zofa: Suá, Harnefer, Sual, Beri, Inra,</para>
+  <para style="p"><verse number="37" style="v"/>Bezer, Hode, Samá, Silsa, Itrã e Beera.</para>
+  <para style="p"><verse number="38" style="v"/>Estes foram os filhos de Jéter: Jefoné, Pispa e Ara.</para>
+  <para style="p"><verse number="39" style="v"/>E estes foram os filhos de Ula: Ara, Haniel e Rizia.</para>
+  <para style="p"><verse number="40" style="v"/>Todos esses foram descendentes de Aser, chefes de famílias, homens notáveis, soldados corajosos, líderes ilustres. E o número de alistados mediante suas genealogias, para o serviço militar, somava 26. guerreiros.</para>
+  <chapter number="8" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Benjamim foi o genitor de Belá, seu primeiro filho, o primogênito, de Asbel, o segundo, e de Aará, o terceiro,</para>
+  <para style="p"><verse number="2" style="v"/>de Noá, o quarto, e de Rafa, o quinto.</para>
+  <para style="p"><verse number="3" style="v"/>Belá teve estes filhos: Adar, Gera, pai de Eúde,</para>
+  <para style="p"><verse number="4" style="v"/>Abisua, Naamã, Aoá,</para>
+  <para style="p"><verse number="5" style="v"/>Gera, Sefufá e Hurão.</para>
+  <para style="p"><verse number="6" style="v"/>Estes foram os descendentes de Eúde, chefes das famílias dos moradores de Geba, que foram levados cativos para Manaate:</para>
+  <para style="p"><verse number="7" style="v"/>Naamã, Aías e Gera. Foi este homem, chamado Gera, quem os deportou. Ele também gerou Uzá e Aiúde.</para>
+  <para style="p"><verse number="8" style="v"/>Depois de haver repudiado, se divorciado de suas esposas Husim e Baara, Saarim teve filhos na terra de Moabe.</para>
+  <para style="p"><verse number="9" style="v"/>Com sua mulher Hodes ele concebeu e foi pai dos seguintes filhos: Jobabe, Zibia, Messa, Malcã,</para>
+  <para style="p"><verse number="10" style="v"/>Jeús, Saquias e Mirma. Esses se tornaram chefes de famílias.</para>
+  <para style="p"><verse number="11" style="v"/>Com Husim ele gerou Abitube e Elpaal.</para>
+  <para style="p"><verse number="12" style="v"/>Esses foram os filhos de Elpaal: Héber, Misã, Semede, fundador das cidades de Ono e Lode com todas as suas aldeias.</para>
+  <para style="p"><verse number="13" style="v"/>Berias e Sema se tornaram os chefes das famílias dos habitantes de Aijalom, e foram eles que expulsaram os moradores de Gate.</para>
+  <para style="p"><verse number="14" style="v"/>Aiô, Sasaque, Jeremote,</para>
+  <para style="p"><verse number="15" style="v"/>Zebadias, Arade, Éder,</para>
+  <para style="p"><verse number="16" style="v"/>Micael, Ispa e Joá descenderam de Berias.</para>
+  <para style="p"><verse number="17" style="v"/>Zebadias, Mesulão, Hizqui, Héber,</para>
+  <para style="p"><verse number="18" style="v"/>Ismerai, Izlias e Jobate foram descendentes de Elpaal.</para>
+  <para style="p"><verse number="19" style="v"/>Jaquim, Zicri, Zabdi,</para>
+  <para style="p"><verse number="20" style="v"/>Elienai, Ziletai, Eliel,</para>
+  <para style="p"><verse number="21" style="v"/>Adaías, Beraías e Sinrate descenderam de Simei.</para>
+  <para style="p"><verse number="22" style="v"/>Ispã, Héber, Eliel,</para>
+  <para style="p"><verse number="23" style="v"/>Abdom, Zicri, Hanã,</para>
+  <para style="p"><verse number="24" style="v"/>Hananias, Elão, Antotias,</para>
+  <para style="p"><verse number="25" style="v"/>Ifdeias e Penuel foram descendentes de Sasaque.</para>
+  <para style="p"><verse number="26" style="v"/>Sanserai, Searias, Atalias,</para>
+  <para style="p"><verse number="27" style="v"/>Jaaresias, Elias e Zicri descenderam de Jeroão.</para>
+  <para style="p"><verse number="28" style="v"/>Estes todos foram chefes de famílias, segundo as suas gerações. Eles habitaram em Jerusalém.</para>
+  <para style="p"><verse number="29" style="v"/>Jeiel, pai e mestre de Gibeom, habitou na cidade de Gibeom. O nome de sua esposa era Maacá,</para>
+  <para style="p"><verse number="30" style="v"/>e o nome do seu filho primogênito, Abdom. Seus outros filhos foram: Zur, Quis, Baal, Ner, Nadabe,</para>
+  <para style="p"><verse number="31" style="v"/>Gedor, Aiô, Zequer e Miclote.</para>
+  <para style="p"><verse number="32" style="v"/>Miclote deu origem a Simeia; e também estes habitaram em Jerusalém, próximo de seus irmãos.</para>
+  <para style="p"><verse number="33" style="v"/>Ner gerou Quis, que foi pai de Saul. E Saul foi o genitor de Jônatas, Malquisua, Abinadabe e Esbaal, chamado de Is-Bosete.</para>
+  <para style="p"><verse number="34" style="v"/>O filho de Jônatas foi Meribe-Baal, chamado de Mefibosete, que foi pai de Mica.</para>
+  <para style="p"><verse number="35" style="v"/>E estes foram os filhos de Mica: Pitom, Meleque, Tareia e Acaz.</para>
+  <para style="p"><verse number="36" style="v"/>Acaz foi pai de Jeoada, e Jeoada gerou Alemete, Azmavete e Zinri, e Zinri deu origem a Mosa.</para>
+  <para style="p"><verse number="37" style="v"/>Mosa foi pai de Binéa, que gerou Rafa, e que foi pai de Eleasa, pai de Azel.</para>
+  <para style="p"><verse number="38" style="v"/>Azel teve seis filhos: Azricão, Bocru, Ismael, Searias, Obadias e Hanã. Todos esses foram herdeiros de Azel.</para>
+  <para style="p"><verse number="39" style="v"/>Estes foram os filhos de Eseque, seu irmão: Ulão, o mais velho e primogênito; Jeús, o segundo e Elifelete, o terceiro.</para>
+  <para style="p"><verse number="40" style="v"/>Os filhos de Ulão foram guerreiros corajosos e exímios flecheiros. Geraram muitos filhos e netos; somavam cento e cinquenta homens. Todos esses foram membros da tribo de Benjamim.</para>
+  <chapter number="9" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Toda a nação de Israel foi repartida em grupos, registrados segundo suas genealogias e devidamente inscritos nos livros históricos dos Reis de Israel. Foi por causa das suas práticas infiéis que o povo de Judá havia sido deportado como escravos para a Babilônia.</para>
+  <para style="p"><verse number="2" style="v"/>Os primeiros cidadãos de Israel a voltarem e se restabelecer em seus territórios e propriedades foram algumas pessoas do povo e alguns sacerdotes, levitas e servidores do templo.</para>
+  <para style="p"><verse number="3" style="v"/>Uma parte do povo de Judá, Benjamim, Efraim e Manassés, habitaram em Jerusalém:</para>
+  <para style="p"><verse number="4" style="v"/>Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, dos descendentes de Peres, filho de Judá.</para>
+  <para style="p"><verse number="5" style="v"/>Dos silonitas: Asaías, seu primogênito e demais filhos.</para>
+  <para style="p"><verse number="6" style="v"/>Dos filhos de Zerá: Jeuel e seus irmãos. Os de Judá somavam seiscentos e noventa.</para>
+  <para style="p"><verse number="7" style="v"/>Do povo da tribo de Benjamim, os benjamitas foram listados: Salu, filho de Mesulão, neto de Hodavias e bisneto de Hassenua;</para>
+  <para style="p"><verse number="8" style="v"/>Ibneias, filho de Jeroão; Elá, filho de Uzi, filho de Micri; e Mesulão, filho de Sefatias, filho de Reuel, filho de Ibnias.</para>
+  <para style="p"><verse number="9" style="v"/>Da tribo de Benjamim, relacionados em sua genealogia, eram novecentos e cinquenta e seis. Todos esses homens eram chefes de suas famílias.</para>
+  <para style="p"><verse number="10" style="v"/>Dos sacerdotes: Jedaías, Jeoiaribe, Jaquim;</para>
+  <para style="p"><verse number="11" style="v"/>Azarias, filho de Hilquias, neto de Mesulão, bisneto de Zadoque, trineto de Meraiote e tetraneto de Aitube, o chefe e responsável geral pelo templo de Deus;</para>
+  <para style="p"><verse number="12" style="v"/>Adaías, filho de Jeroão, neto de Pasur e bisneto de Malquias; e Masai, filho de Adiel, neto de Jazera, bisneto de Mesulão, trineto de Mesilemite e tetraneto de Imer.</para>
+  <para style="p"><verse number="13" style="v"/>A soma do número de sacerdotes que eram também chefes de famílias chegou ao total 1.. Eram homens ilustres, competentes para realizar todos os serviços necessários no templo de Deus.</para>
+  <para style="p"><verse number="14" style="v"/>Dos levitas foram listados: Semaías, filho de Hassube, neto de Azricão e bisneto de Hasabias, dos descendentes de Merari.</para>
+  <para style="p"><verse number="15" style="v"/>Baquebacar, Heres, Galal e Matanias, filho de Mica, neto de Zicri e bisneto de Asafe;</para>
+  <para style="p"><verse number="16" style="v"/>Obadias, filho de Semaías, neto de Galal e bisneto de Jedutum; e Berequias, filho de Asa e neto de Elcana, que vivia nos povoados dos netofatitas.</para>
+  <para style="p"><verse number="17" style="v"/>Os sentinelas e guardiões dos portais eram: Salum, o chefe, Acube, Talmom, Aimã e os irmãos deles.</para>
+  <para style="p"><verse number="18" style="v"/>Desde aquele tempo até nossos dias, membros dos seus grupos de famílias têm sido os guardas de honra do Portão do Rei, que ficava no lado Leste do Templo. Antigamente eles eram os sentinelas e protetores dos portões dos acampamentos dos levitas.</para>
+  <para style="p"><verse number="19" style="v"/>Salum, filho de Coré, neto de Ebiasafe e bisneto de Corá, e seus parentes, os coreitas, guardas das portas, encarregados de guardar as entradas do templo, como os seus antepassados tinham sido responsáveis por proteger a entrada da Habitação de Yahweh, o arraial do SENHOR.</para>
+  <para style="p"><verse number="20" style="v"/>Naquela época, Fineias, filho de Eleazar, era o chefe desses guardas dos portais, e o SENHOR estava com ele.</para>
+  <para style="p"><verse number="21" style="v"/>Zacarias, filho de Meselemias, era o guarda responsável pelas portas da entrada da Tenda do Encontro.</para>
+  <para style="p"><verse number="22" style="v"/>Todos estes, escolhidos para servirem como guardas das entradas, foram duzentos e doze guerreiros, contados por suas genealogias, nos seus povoados de origem. Davi e o profeta e vidente Samuel.</para>
+  <para style="p"><verse number="23" style="v"/>Eles e seus filhos haviam sido encarregados da guarda das portas do templo do SENHOR, isto é, do templo conhecido por Tenda.</para>
+  <para style="p"><verse number="24" style="v"/>Os porteiros estavam nos quatro lados, no Oriente, no Ocidente, no Norte e no Sul.</para>
+  <para style="p"><verse number="25" style="v"/>Seus irmãos, que habitavam em suas aldeias, tinham que vir de tempos em tempos e dedicar um período de sete dias de trabalho junto com eles.</para>
+  <para style="p"><verse number="26" style="v"/>Entretanto, os quatro principais guardas das portas, que eram levitas, receberam a incumbência de zelar pelas salas onde se recolhiam os tesouros do templo de Deus.</para>
+  <para style="p"><verse number="27" style="v"/>Eles passavam a noite perto da Casa de Deus, pois tinham o dever solene de vigiá-lo até o amanhecer de cada dia, quando abriam as portas ao povo.</para>
+  <para style="p"><verse number="28" style="v"/>Alguns deles eram responsáveis pelos utensílios do serviço religioso, pois estes eram conferidos sempre que trazidos ou levados.</para>
+  <para style="p"><verse number="29" style="v"/>Outros estavam encarregados dos móveis e de todos os demais utensílios e objetos do santuário, como também da farinha, do vinho, do azeite, do incenso e das especiarias.</para>
+  <para style="p"><verse number="30" style="v"/>Alguns dos filhos dos sacerdotes dedicavam-se ao preparo das especiarias.</para>
+  <para style="p"><verse number="31" style="v"/>Um levita chamado Matitias, filho primogênito do coreita Salum, tinha a incumbência de assar os pães destinados às ofertas.</para>
+  <para style="p"><verse number="32" style="v"/>Dentre os coatitas, seus irmãos, alguns estavam encarregados de preparar os pães que eram depositados sobre a mesa em todo Shabbãth, sábado.</para>
+  <para style="p"><verse number="33" style="v"/>Os cantores, chefes das famílias levitas, permaneciam nas salas do templo e estavam isentos de outros deveres, pois dia e noite se dedicavam ao seu próprio ministério.</para>
+  <para style="p"><verse number="34" style="v"/>Todos esses eram chefes de famílias levitas, alistados como líderes e homens ilustres em suas gerações, e todos habitavam em Jerusalém.</para>
+  <para style="p"><verse number="35" style="v"/>Jeiel, abba, pai e mestre de Gibeom, morava na cidade de Gibeom. O nome de sua esposa era Maacá,</para>
+  <para style="p"><verse number="36" style="v"/>e seu filho mais velho, o primogênito, se chamava Abdom. Mais tarde ainda foi pai de Zur, Quis, Baal, Ner, Nadabe,</para>
+  <para style="p"><verse number="37" style="v"/>Gedor, Aiô, Zacarias e Miclote.</para>
+  <para style="p"><verse number="38" style="v"/>Miclote foi pai de Simeia. Eles também habitaram em Jerusalém, próximo de seus irmãos.</para>
+  <para style="p"><verse number="39" style="v"/>Ner gerou Quis, Quis foi pai de Saul, que foi pai de Jônatas, Malquisua, Abinadabe e Esbaal.</para>
+  <para style="p"><verse number="40" style="v"/>O filho de Jônatas foi Meribe-Baal; Meribe-Baal foi pai de Mica.</para>
+  <para style="p"><verse number="41" style="v"/>Os filhos de Mica foram: Pitom, Meleque, Tareia e Acaz.</para>
+  <para style="p"><verse number="42" style="v"/>Acaz foi pai de Jará; Jadá foi pai de Alemete, Azmavete e Zinri; Zinri foi pai de Mosa;</para>
+  <para style="p"><verse number="43" style="v"/>Moza foi pai de Binéa, pai de Refaías, pai de Eleasa, pai de Azel.</para>
+  <para style="p"><verse number="44" style="v"/>Azel teve seis filhos, e os nomes deles foram: Azricão, Bocru, Ismael, Searias, Obadias e Hanã. Esses, portanto, foram os filhos de Azel.</para>
+  <chapter number="10" style="c"/>
+  <para style="p"><verse number="1" style="v"/>E aconteceu que, durante uma batalha com os filisteus, os israelitas foram derrotados, tiveram que fugir para salvar suas vidas e muitos foram mortos no monte Gilboa.</para>
+  <para style="p"><verse number="2" style="v"/>Então os filisteus perseguiram o rei Saul e seus filhos, e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.</para>
+  <para style="p"><verse number="3" style="v"/>O combate foi se tornando a cada momento mais sangrento e torno de Saul, até que os flecheiros inimigos o alcançaram, e ele foi ferido gravemente.</para>
+  <para style="p"><verse number="4" style="v"/>Então Saul ordenou ao seu escudeiro: “Pega tua espada e mata-me, para que não venham estes incircuncisos e zombem de mim!” Contudo, o seu escudeiro não quis matá-lo, pois estava apavorado. Saul, então, apanhou a própria espada e atirou-se sobre ela.</para>
+  <para style="p"><verse number="5" style="v"/>Assim que o escudeiro certificou-se que Saul estava morto, jogou-se também sobre sua espada e morreu.</para>
+  <para style="p"><verse number="6" style="v"/>Assim morreram Saul e seus três filhos; toda a sua família morreu junta.</para>
+  <para style="p"><verse number="7" style="v"/>Quando o povo israelita que habitava no vale percebeu que o exército de Israel havia batido em retirada e que Saul e seus filhos estavam mortos, fugiram desesperados, abandonando suas cidades. Logo depois os filisteus foram ocupá-las.</para>
+  <para style="p"><verse number="8" style="v"/>No dia seguinte à batalha final, quando os filisteus foram saquear a cidade e os mortos, encontraram Saul e seus filhos caídos no monte Gilboa.</para>
+  <para style="p"><verse number="9" style="v"/>Então, cortaram a cabeça do rei Saul, tomaram suas armas reais e enviaram mensageiros por toda a terra dos filisteus proclamando a notícia entre os seus ídolos e o seu povo.</para>
+  <para style="p"><verse number="10" style="v"/>Expuseram as armas reais de Saul em um dos templos dedicados aos seus deuses e penduraram a cabeça de Saul no templo de Dagom.</para>
+  <para style="p"><verse number="11" style="v"/>Quando os moradores de Jabes-Gileade ficaram sabendo de tudo quanto os filisteus haviam feito a Saul,</para>
+  <para style="p"><verse number="12" style="v"/>todos os guerreiros se levantaram indignados, recolheram o cadáver do rei Saul e os corpos de seus filhos, trouxeram-nos a Jabes; e sepultaram seus ossos debaixo da Tamargueira de Iavesh, o Grande Carvalho de Jabes, e jejuaram sete dias.</para>
+  <para style="p"><verse number="13" style="v"/>Assim Saul morreu por causa da sua infidelidade para com Yahweh, o SENHOR, porquanto não havia obedecido à Palavra de Yahweh e, além disso, procurou uma médium tentando consultar os mortos.</para>
+  <para style="p"><verse number="14" style="v"/>Tudo isso em vez de buscar o SENHOR. Por isso o SENHOR o entregou à morte e transferiu o reino a Davi, filho de Jessé.</para>
+  <chapter number="11" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Então todo o Israel se reuniu em torno de Davi, em Hebrom, exclamando: “Vê, somos de teus ossos e de tua carne!</para>
+  <para style="p"><verse number="2" style="v"/>Mesmo antes, quando Saul ainda reinava, eras tu quem liderava Israel nas batalhas. E Yahweh, o teu Deus, te declarou: ‘Tu pastorearás o meu povo Israel, sim, serás príncipe e governarás sobre todos os israelenses’”</para>
+  <para style="p"><verse number="3" style="v"/>Então todos os anciãos e demais autoridades de Israel dirigiram-se ao encontro do rei Davi em Hebrom, onde se celebrou um pacto com elas perante o SENHOR, e ali ungiram Davi rei de Israel, conforme Yahweh havia predito por meio de Samuel.</para>
+  <para style="p"><verse number="4" style="v"/>Então Davi marchou para Jerusalém, conhecida também como Ievus, Jebus. Os jebuseus, habitantes da cidade,</para>
+  <para style="p"><verse number="5" style="v"/>advertiram a Davi dizendo: “Tu não entrarás aqui!” Contudo, Davi conquistou a fortaleza de Tsíon, Sião, que se tornou a Cidade de Davi.</para>
+  <para style="p"><verse number="6" style="v"/>Naquele dia Davi anunciou: “Quem ferir primeiro os jebuseus será o primeiro comandante!” E Joabe, filho de Zeruia, conseguiu o privilégio de tornar-se comandante porque foi o primeiro a atingir aqueles inimigos.</para>
+  <para style="p"><verse number="7" style="v"/>Então o rei Davi passou a morar nessa cidade fortificada e por esse motivo ela foi chamada de Cidade de Davi.</para>
+  <para style="p"><verse number="8" style="v"/>Ele reconstruiu a cidade ao redor da fortaleza, desde o aterro, chamado Milo, até os muros ao redor, e Joabe reformou todo o restante da cidade.</para>
+  <para style="p"><verse number="9" style="v"/>Davi tornava-se cada dia mais forte e respeitado, porquanto Yahweh, o SENHOR dos Exércitos estava com ele.</para>
+  <para style="p"><verse number="10" style="v"/>Eis os chefes dos valentes soldados de Davi, que em cooperação com todo o povo de Israel, deram um grande apoio para estender o seu reinado a todo país, conforme Yahweh, o SENHOR, havia prometido em sua Palavra.</para>
+  <para style="p"><verse number="11" style="v"/>Esta, portanto, é a lista desses homens ilustres: Jasobe-Baal, Jasobeão, um hacmonita, chefe dos oficiais, chamado de o capitão dos trinta, o qual matou em uma mesma batalha trezentos homens, manejando extraordinariamente sua lança.</para>
+  <para style="p"><verse number="12" style="v"/>Em seguida, Eleazar, filho de Dodô, de Aoi, um dos três principais guerreiros do rei.</para>
+  <para style="p"><verse number="13" style="v"/>Ele esteve com Davi na plantação de cevada de Pas-Damim, onde os filisteus se reuniram para a guerra. As tropas israelitas fugiram dos filisteus,</para>
+  <para style="p"><verse number="14" style="v"/>mas eles mantiveram sua posição militar no meio da plantação. Eles a defenderam e mataram muitos filisteus; e o SENHOR os livrou com uma grande vitória.</para>
+  <para style="p"><verse number="15" style="v"/>Três dos trinta capitães desceram ao penhasco para se encontrar com Davi, na caverna de Adulão. Enquanto isso, o exército dos filisteus estava acampado no vale de Refaim.</para>
+  <para style="p"><verse number="16" style="v"/>Estando o rei Davi nesse esconderijo fortificado e o destacamento filisteu na cidade de Belém,</para>
+  <para style="p"><verse number="17" style="v"/>Davi teve um desejo e exclamou: “Quem me dera beber água do povo de Belém, que está perto da porta da cidade!”</para>
+  <para style="p"><verse number="18" style="v"/>Então aqueles três homens invadiram o acampamento dos filisteus, tiraram água do poço de Belém, que estava perto da entrada da cidade, e a trouxeram a Davi. Porém Davi não se sentiu digno de bebê-la sozinho, e a derramou como oferta diante do SENHOR,</para>
+  <para style="p"><verse number="19" style="v"/>e declarou: “Ó meu Deus, eu jamais faria tal coisa! Poderia eu beber o sangue destes homens valorosos? Eles arriscaram a vida para trazer esta água para mim!” De maneira que não a quis beber. Assim procederam aqueles três guerreiros.</para>
+  <para style="p"><verse number="20" style="v"/>Abisai, irmão de Joabe, era o chefe do batalhão dos Trinta. Manejando com perícia sua lança enfrentou trezentos homens e os matou, tornando-se famoso como os três.</para>
+  <para style="p"><verse number="21" style="v"/>Ele foi honrado duas vezes mais do que todos os guerreiros do batalhão dos Trinta e foi promovido a chefe deles, mas nunca se igualou aos três primeiros e ilustres guerreiros do rei.</para>
+  <para style="p"><verse number="22" style="v"/>E havia também o guerreiro Benaiá ben Iehoiadá, Benaia filho de Joiada, natural de Cabzeel, guerreiro de grandes feitos. Ele matou os dois filhos de Ariel de Moabe; depois desceu e matou um leão numa caverna, na estação das neves.</para>
+  <para style="p"><verse number="23" style="v"/>Matou também um soldado egípcio de dois metros e vinte e cinco centímetros de altura. Ainda que o egípcio manejasse grande lança de guerra que mais parecia uma lançadeira de tecelão, Benaia o enfrentou munido apenas de um cajado. Conseguiu arrancar a lança das mãos do egípcio e com ela o matou.</para>
+  <para style="p"><verse number="24" style="v"/>Por haver realizado tais feitos notáveis, Benaia, filho de Joiada, tornou-se igualmente famoso, como os três ilustres guerreiros do rei.</para>
+  <para style="p"><verse number="25" style="v"/>Dos Trinta ele era o mais famoso, todavia também não se igualou em valor aos três primeiros; e Davi o promoveu ao comando da sua guarda pessoal.</para>
+  <para style="p"><verse number="26" style="v"/>Os outros valorosos guerreiros dos exércitos foram: Asael, irmão de Joabe; Elanã, filho de Dodô, de Belém;</para>
+  <para style="p"><verse number="27" style="v"/>Samote, de Haror; Helez, de Pelom;</para>
+  <para style="p"><verse number="28" style="v"/>Ira, filho de Iques, de Tecoa; Abiezer, de Anatote;</para>
+  <para style="p"><verse number="29" style="v"/>Sibecai, de Husate; Ilai, de Aoí;</para>
+  <para style="p"><verse number="30" style="v"/>Maarai, de Netofate; Helede, filho de Baaná, de Netofate;</para>
+  <para style="p"><verse number="31" style="v"/>Itai, filho de Ribai, de Gibeá de Benjamim; Benaia, de Piratom;</para>
+  <para style="p"><verse number="32" style="v"/>Hurai, dos ribeiros de Gaás; Abiel, de Arbate;</para>
+  <para style="p"><verse number="33" style="v"/>Azmavete, de Baurim; Eliaba, de Saalbom;</para>
+  <para style="p"><verse number="34" style="v"/>os filhos de Hasém, de Gizom; Jônatas, filho de Sage, de Harar;</para>
+  <para style="p"><verse number="35" style="v"/>Aião, filho de Sacar, de Harar; Elifal, filho de Ur;</para>
+  <para style="p"><verse number="36" style="v"/>Héfer, de Mequerate; Aías, de Pelom;</para>
+  <para style="p"><verse number="37" style="v"/>Hezro, de Carmelo; Naarai, filho de Ezbai;</para>
+  <para style="p"><verse number="38" style="v"/>Joel, irmão de Natã; Milbar, filho de Hagri;</para>
+  <para style="p"><verse number="39" style="v"/>o amonita Zeleque; Naarai, de Beerote, escudeiro de Joabe, filho de Zeruia;</para>
+  <para style="p"><verse number="40" style="v"/>Ira e Garebe, de Jatir;</para>
+  <para style="p"><verse number="41" style="v"/>Urias, o hitita; Zabade, filho de Alai;</para>
+  <para style="p"><verse number="42" style="v"/>Adina, filho de Siza, de Rúben, notável líder dos rubenitas e do batalhão dos Trinta;</para>
+  <para style="p"><verse number="43" style="v"/>Hanã, filho de Maacá; Josafá, de Mitene;</para>
+  <para style="p"><verse number="44" style="v"/>Uzia, de Asterote; Sama e Jeiel, filhos de Hotão, de Aroer;</para>
+  <para style="p"><verse number="45" style="v"/>Jediael, filho de Sinri; seu irmão, Joá, de Tiz;</para>
+  <para style="p"><verse number="46" style="v"/>Eliel, de Maave; Jeribal e Josavias, filhos de Elnaão; Itma, um moabita,</para>
+  <para style="p"><verse number="47" style="v"/>e Eliel, Obede e Jaasiel, de Mezoba.</para>
+  <chapter number="12" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Esta é a lista dos primeiros seguidores de Davi que se juntaram ao rei em Ziclague, onde se escondia Saul, filho de Quis. Eles estavam entre os combatentes que o ajudaram na guerra;</para>
+  <para style="p"><verse number="2" style="v"/>eram hábeis no uso do arco e flecha, bem como na arte de atirar pedras com a funda, tanto com a mão direita como com a esquerda; pertenciam à tribo de Benjamim e eram parentes de Saul.</para>
+  <para style="p"><verse number="3" style="v"/>Aiezer, o líder deles, e Joás, filhos de Semaá, de Gibeá; Jeziel e Pelete, filhos de Azmavete; Beraca, Jeú, de Anatote,</para>
+  <para style="p"><verse number="4" style="v"/>e Ismaias, de Gibeom, um valoroso militar do batalhão dos Trinta, e chefe deles; Jeremias, Jaaziel, Joanã, Jozabade, de Gederate,</para>
+  <para style="p"><verse number="5" style="v"/>Eluzai, Jeremote, Bealias, Semarias e Sefatias, de Harufe;</para>
+  <para style="p"><verse number="6" style="v"/>Os coreitas Elcana, Issias, Azareel, Joezer e Jasobeão;</para>
+  <para style="p"><verse number="7" style="v"/>e Joela e Zebadias, filhos de Jeroão, de Gedor.</para>
+  <para style="p"><verse number="8" style="v"/>Da tribo de Gade, alguns ofereceram seu apoio a Davi e aliaram-se a ele em sua fortaleza no deserto, eram guerreiros corajosos e treinados nas artes militares, que sabiam manejar com destreza o escudo e a lança; o rostos deles eram fortes e decididos como o de um leão, e eles eram tão ágeis como as mais rápidas corças galopando sobre os montes.</para>
+  <para style="p"><verse number="9" style="v"/>Ézer era o líder e mais destacado entre todos; Obadias, o segundo; Eliabe, o terceiro;</para>
+  <para style="p"><verse number="10" style="v"/>Mismana, o quarto; Jeremias, o quinto;</para>
+  <para style="p"><verse number="11" style="v"/>Atai, o sexto; Eliel, o sétimo;</para>
+  <para style="p"><verse number="12" style="v"/>Joanã, o oitavo; Elzabade, o nono;</para>
+  <para style="p"><verse number="13" style="v"/>Jeremias, o décimo; Machanai, o décimo primeiro.</para>
+  <para style="p"><verse number="14" style="v"/>Estes nobres guerreiros eram todos da tribo de Gade e chefes de exército; o menor deles valia por cem homens, e o maior por mil soldados.</para>
+  <para style="p"><verse number="15" style="v"/>Foram eles que atravessaram o Jordão no primeiro mês do ano quando o rio transborda em todas as suas margens, e conseguiram colocar em fuga todos os moradores dos vales da região, a Leste e a Oeste.</para>
+  <para style="p"><verse number="16" style="v"/>Também vieram alguns do povo de Benjamim e de Judá e se juntaram a Davi, na fortaleza.</para>
+  <para style="p"><verse number="17" style="v"/>Davi saiu para encontrá-los e lhes declarou: “Se viestes a mim pacificamente para cooperar comigo, estou disposto a receber-vos. Mas se viestes para me entregar aos meus inimigos, sem que eu seja culpado de violência, que o Deus de nossos pais o veja e o repreenda!”</para>
+  <para style="p"><verse number="18" style="v"/>Então o Espírito veio sobre Amasai, capitão e chefe do batalhão dos Trinta, e o motivou a declarar: “Ó rei Davi, nós somos teus, e estamos contigo, ó filho de Ishai, Jessé! Shãlôm, paz seja contigo, e com todos os teus aliados, pois o teu Deus é o teu auxílio e cooperador!”</para>
+  <para style="p"><verse number="19" style="v"/>Alguns soldados de Manassés também passaram a seguir Davi quando ele veio com os filisteus para lutar contra Saul. Todavia eles não os ajudaram, pois os chefes dos filisteus, depois de buscarem conselho, mandaram-nos embora, alegando: “Pagaremos com nossas próprias vidas, se porventura ele desertar e vier a passar para o lado de Saul, seu senhor!”</para>
+  <para style="p"><verse number="20" style="v"/>Então, quando Davi retornou a Ziclague, estes chefes militares de Manassés começaram a segui-lo: Adna, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai, chefes de batalhões de mil homens em Manassés.</para>
+  <para style="p"><verse number="21" style="v"/>Eles colaboraram com Davi na luta contra a tropa de saqueadores, pois todos eles eram bravos guerreiros e nobres capitães no exército.</para>
+  <para style="p"><verse number="22" style="v"/>Todos os dias chegavam soldados para ajudar Davi, até que se formou um grande e ilustre exército, como o exército de Deus.</para>
+  <para style="p"><verse number="23" style="v"/>Este é o número dos militares armados para a guerra que vieram cooperar com Davi em Hebrom para lhe entregar o reino de Saul, conforme a Palavra do SENHOR havia predito:</para>
+  <para style="p"><verse number="24" style="v"/>da tribo de Judá, 6. soldados armados para a guerra, com escudo e lança;</para>
+  <para style="p"><verse number="25" style="v"/>da tribo de Simeão, 7. guerreiros treinados e prontos para o combate;</para>
+  <para style="p"><verse number="26" style="v"/>da tribo de Levi, 4. soldados,</para>
+  <para style="p"><verse number="27" style="v"/>inclusive Joiada, chefe da família de Arão, com 3. homens,</para>
+  <para style="p"><verse number="28" style="v"/>e Zadoque, um jovem e valente guerreiro, com vinte e dois oficiais e chefes do seu grupo de famílias.</para>
+  <para style="p"><verse number="29" style="v"/>da tribo de Benjamim, parentes de Saul, 3. homens, a maioria dos quais era até então fiel à família real de Saul;</para>
+  <para style="p"><verse number="30" style="v"/>da tribo de Efraim, 20. valorosos soldados, conhecidos por seus grandes feitos em seus próprios clãs;</para>
+  <para style="p"><verse number="31" style="v"/>da metade da tribo de Manassés, 18., indicados por nome a fim de proclamarem Davi rei;</para>
+  <para style="p"><verse number="32" style="v"/>da tribo de Issacar, duzentos chefes estrategistas, que sabiam como Israel deveria agir em qualquer circunstância. Comandavam todos os seus parentes;</para>
+  <para style="p"><verse number="33" style="v"/>da tribo de Zebulom, 50. soldados corajosos, experientes e hábeis com todo o tipo de armas, prontos para guerrear, decididos a cooperar com Davi;</para>
+  <para style="p"><verse number="34" style="v"/>da tribo de Naftali, 1. capitães com 37. militares armados de escudos e lanças;</para>
+  <para style="p"><verse number="35" style="v"/>da tribo de Dã, 28. homens preparados para o combate;</para>
+  <para style="p"><verse number="36" style="v"/>da tribo de Aser, 40. soldados experientes treinados e prontos para qualquer combate;</para>
+  <para style="p"><verse number="37" style="v"/>e do leste do Jordão, das tribos de Rúben e de Gade, e da metade da tribo de Manassés, 120. soldados muito bem armados.</para>
+  <para style="p"><verse number="38" style="v"/>Todos esses guerreiros, que tinham pleno conhecimento das artes militares em tempos de guerra, vieram a Hebrom decididos a proclamar Davi rei sobre todo o Israel. E todo o restante do povo de Israel era unânime em constituir Davi rei.</para>
+  <para style="p"><verse number="39" style="v"/>Eles permaneceram ali com Davi durante três dias, comendo e bebendo, pois seus parentes lhes tinham preparado todas as provisões.</para>
+  <para style="p"><verse number="40" style="v"/>De igual forma, todos que moravam na vizinhança, e mesmo desde Issacar, Zebulom e Naftali, trouxeram sobre jumentos, camelos, mulas e bois os mantimentos necessários: pão, provisões de farinha, pastas de figos e cachos de passas, vinho e azeite, bois e ovelhas; era suprimento com fartura, porque Israel estava muito feliz e em festa.</para>
+  <chapter number="13" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Logo depois de realizar uma consulta a todos os seus oficiais, os comandantes de mil e de cem homens,</para>
+  <para style="p"><verse number="2" style="v"/>Davi reuniu toda a assembleia de Israel e declarou: “Se estais de acordo, e se esta é a vontade de Yahweh, o SENHOR nosso Deus, enviemos mensageiros por toda parte aos nossos demais irmãos que se encontram em todos os territórios de Israel, e aos sacerdotes e levitas nas suas respectivas cidades e nos seus campos, para que venham e se reúnam conosco;</para>
+  <para style="p"><verse number="3" style="v"/>e voltemos a trazer para nós a Arca da Aliança de nosso Deus, porque não a consultamos nos dias de Saul!”</para>
+  <para style="p"><verse number="4" style="v"/>Toda a comunidade concordou que assim se fizesse, porque isso pareceu bom aos olhos de todo o povo.</para>
+  <para style="p"><verse number="5" style="v"/>Então Davi reuniu todos os israelitas, desde o rio Sior, no Egito, até Lebo-Hamate, para trazerem de Quiriate-Jearim a Arca de Deus.</para>
+  <para style="p"><verse number="6" style="v"/>O rei Davi e todos os israelitas foram a Baalá, que é Quiriate-Jearim, em Judá, a fim de trazer de lá a Arca da Aliança de Deus que tem o seu trono estabelecido entre os querubins; a Arca sobre a qual o seu Nome Yahweh é invocado.</para>
+  <para style="p"><verse number="7" style="v"/>Da casa de Abinadabe transportaram a Arca de Deus sobre um carroção novo e especial, conduzido por Uzá e Aiô.</para>
+  <para style="p"><verse number="8" style="v"/>Davi e todos os israelitas iam exultando, cantando e dançando com todo o vigor e alegria diante de Deus, ao som de harpas, liras, tamborins, címbalos e trombetas.</para>
+  <para style="p"><verse number="9" style="v"/>Assim que chegaram à eira de Quidom, Uzá esticou o braço e segurou a Arca, porquanto os bois haviam tropeçado.</para>
+  <para style="p"><verse number="10" style="v"/>Naquele mesmo instante a ira de Yahweh acendeu-se contra Uzá, e ele o feriu por ter tocado na Arca sagrada. Uzá morreu ali mesmo, diante de Deus e do povo.</para>
+  <para style="p"><verse number="11" style="v"/>Davi ficou contrariado porque o SENHOR, em sua ira, havia fulminado seu companheiro Uzá. E até nossos dias aquele local é conhecido como Pérets-Uzá, a Punição de Uzá.</para>
+  <para style="p"><verse number="12" style="v"/>Naquele dia Davi sentiu grande medo de Deus e se questionou: “Ora, desse modo, como poderei transportar a Arca de Deus?”</para>
+  <para style="p"><verse number="13" style="v"/>Sendo assim, não trouxe a Arca para a cidade de Davi, mas a deixou na casa de Obede-Edom, o geteu.</para>
+  <para style="p"><verse number="14" style="v"/>Então a Arca de Deus permaneceu durante três meses sob os cuidados da família de Obede-Edom, em sua própria casa; e Yahweh abençoou a família de Obede-Edom e fez prosperar toda a sua propriedade.</para>
+  <chapter number="14" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Hirão, rei de Tiro, mandou mensageiros a Davi, levando madeira de cedro, pedreiros e carpinteiros para lhe edificarem um palácio.</para>
+  <para style="p"><verse number="2" style="v"/>Então Davi teve certeza de que Yahweh o confirmara como rei de Israel e que estava fazendo prosperar o seu reino por amor de Israel, seu povo.</para>
+  <para style="p"><verse number="3" style="v"/>Em Jerusalém, Davi tomou para si mais esposas e gerou vários filhos e filhas.</para>
+  <para style="p"><verse number="4" style="v"/>Esta é a lista dos nomes dos filhos que lhe nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão,</para>
+  <para style="p"><verse number="5" style="v"/>Ibar, Elisua, Elpalete,</para>
+  <para style="p"><verse number="6" style="v"/>Nogá, Nefegue, Jafia,</para>
+  <para style="p"><verse number="7" style="v"/>Elisama, Beeliadá e Elifelete.</para>
+  <para style="p"><verse number="8" style="v"/>Quando os filisteus ficaram sabendo que Davi tinha sido ungido rei de todo o Israel, partiram com todo o seu exército a fim de prendê-lo, mas Davi soube disso e saiu para enfrentá-los.</para>
+  <para style="p"><verse number="9" style="v"/>Os filisteus tinham vindo e invadido o vale de Refaim.</para>
+  <para style="p"><verse number="10" style="v"/>Então Davi consultou a Deus, indagando: “Devo atacar os filisteus? Tu os entregarás nas minhas mãos?” E o SENHOR respondeu: “Ataca, pois Eu os entregarei nas tuas mãos!”</para>
+  <para style="p"><verse number="11" style="v"/>Em seguida Davi partiu com seus soldados e chegaram a Báal-Peratsim, Baal-Perazim, onde Davi o derrotou e exclamou: “Deus dizimou os meus inimigos da mesma forma que uma grande e inesperada enchente causa terrível destruição!” E, por esse motivo, deram àquela região o nome de Báal-Peratsim, Senhor que Rompe os Obstáculos.</para>
+  <para style="p"><verse number="12" style="v"/>Como os filisteus haviam abandonado seus ídolos naquele local, Davi ordenou que fossem todos queimados.</para>
+  <para style="p"><verse number="13" style="v"/>Os filisteus voltaram a atacar o vale;</para>
+  <para style="p"><verse number="14" style="v"/>novamente Davi busca e consulta a Deus, que lhe respondeu: “Agora, pois, tu não os atacarás pela frente, mas dá volta por trás e ataca-os defronte às amoreiras!</para>
+  <para style="p"><verse number="15" style="v"/>Assim que ouvires um barulho de marcha por sobre as copas das amoreiras, sairás à batalha, porque Deus terá saído adiante de ti para ferir todo o exército dos filisteus.”</para>
+  <para style="p"><verse number="16" style="v"/>Davi procedeu exatamente como Deus havia orientado, e eles derrotaram todo o exército dos filisteus, desde Gibeão até Gezer.</para>
+  <para style="p"><verse number="17" style="v"/>Assim, a fama de Davi se espalhou por todas aquelas terras, e Yahweh fez com que todas aquelas nações pagãs tivessem medo do exército de Deus.</para>
+  <chapter number="15" style="c"/>
+  <para style="p"><verse number="1" style="v"/>O rei Davi construiu para si um palácio com edifícios e casas na Cidade de Davi, preparou um lugar especial para receber a Arca de Deus e ergueu para tenda para abrigá-la.</para>
+  <para style="p"><verse number="2" style="v"/>Então determinou Davi: “Ninguém deve conduzir a Arca de Deus, senão exclusivamente os levitas; porque Yahweh os escolheu para levarem a Arca de Deus e para o servirem para sempre.</para>
+  <para style="p"><verse number="3" style="v"/>Então Davi convocou todo o povo de Israel para se reunirem em Jerusalém e trazerem a Arca de Yahweh ao lugar que lhe havia especialmente preparado.</para>
+  <para style="p"><verse number="4" style="v"/>O rei também convocou os descendentes de Arão e os levitas:</para>
+  <para style="p"><verse number="5" style="v"/>Dos descendentes de Coate, Uriel, chefe de cento e vinte de seus irmãos.</para>
+  <para style="p"><verse number="6" style="v"/>Dos descendentes de Merari, Asaías, chefe de duzentos e vinte de seus irmãos.</para>
+  <para style="p"><verse number="7" style="v"/>Dos descendentes de Gérson, Joel, chefe de cento e trinta de seus irmãos.</para>
+  <para style="p"><verse number="8" style="v"/>Dos descendentes de Elisafã, Semaías, chefe de duzentos de seus irmãos.</para>
+  <para style="p"><verse number="9" style="v"/>Dos descendentes de Hebrom, Eliel, chefe de oitenta de seus irmãos.</para>
+  <para style="p"><verse number="10" style="v"/>Dos descendentes de Uziel, Amidanabe, chefe de cento e doze de seus irmãos.</para>
+  <para style="p"><verse number="11" style="v"/>Em seguida Davi convocou os sacerdotes Zadoque e Abiatar, os levitas Uriel, Asaías, Joel, Semaías, Eliel e Aminadabe, e</para>
+  <para style="p"><verse number="12" style="v"/>lhes exortou: “Vós sois os líderes e chefes das famílias levitas. Santificai-vos, portanto, vós e vossos irmãos, para que possais trazer a Arca de Yahweh, Deus de Israel, ao lugar que lhe preparei!</para>
+  <para style="p"><verse number="13" style="v"/>Devido ao fato de teres conduzido a Arca na primeira vez, a ira de Yahweh, o nosso Deus, causou grande destruição entre nós. Nós, infelizmente, não o tínhamos consultado sobre como proceder corretamente.”</para>
+  <para style="p"><verse number="14" style="v"/>Então os sacerdotes e os levitas se consagraram, santificando-se assim, para transportar a Arca de Yahweh, o SENHOR Deus de Israel.</para>
+  <para style="p"><verse number="15" style="v"/>E os levitas carregaram a Arca de Deus apoiando as varas da Arca sobre os ombros, tudo de acordo com o que Moisés havia determinado, em conformidade com a Palavra de Yahweh.</para>
+  <para style="p"><verse number="16" style="v"/>Davi também ordenou aos chefes dos levitas que encarregassem os músicos, que havia entre eles, de cantar melodias alegres, acompanhados por instrumentos musicais: liras, harpas e címbalos sonoros.</para>
+  <para style="p"><verse number="17" style="v"/>Sendo assim, os levitas escolheram Hemã, filho de Joel, e Asafe, filho de Berequias, parentes deles, e também a Etã, filho de Cuxaías, dentre os descendentes de Merari, seus parentes.</para>
+  <para style="p"><verse number="18" style="v"/>Com eles estavam também seus parentes pertencentes aos segundo escalão: Zehariáhu Ben, Zacarias Filho, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaseias, Matitias, Elifeleu, Micneias, Obede-Edom e Jeiel, os porteiros.</para>
+  <para style="p"><verse number="19" style="v"/>Assim, os músicos Hemã, Asafe e Etã tocavam címbalos de bronze;</para>
+  <para style="p"><verse number="20" style="v"/>e Zacarias Filho, Aziel, Semiramote, Jeiel, Uni, Eliabe, Maaseias e Benaia ficaram com a responsabilidade de tocar as liras, acompanhando o soprano,</para>
+  <para style="p"><verse number="21" style="v"/>e Matitias, Elifeleu, Micneias, Obede-Edom, Jeiel e Azazias deviam tocar as harpas em oitava, marcando o ritmo.</para>
+  <para style="p"><verse number="22" style="v"/>Quenanias, o chefe dos levitas, ficou encarregado dos cânticos; essa era sua obrigação, porquanto ele tinha talento e competência para bem executar essa tarefa.</para>
+  <para style="p"><verse number="23" style="v"/>Berequias e Elcana serviriam como porteiros e deveriam proteger a Arca.</para>
+  <para style="p"><verse number="24" style="v"/>Os sacerdotes Sebanias, Josafá, Natanael, Amasai, Zacarias, Benaia e Eliézer deviam tocar as trombetas diante da Arca de Deus. Obede-Edom e Jeías também exerceriam a função de porteiros e vigiar para que ninguém tocasse na Arca.</para>
+  <para style="p"><verse number="25" style="v"/>Assim, com grande celebração, Davi, todas as autoridades do povo de Israel e os líderes dos batalhões de mil homens partiram em busca da Arca da Aliança de Yahweh que permanecia na casa de Obede-Edom.</para>
+  <para style="p"><verse number="26" style="v"/>Em louvor a Deus, que havia poupado e ajudado os levitas que faziam o transporte da Arca da Aliança de Yahweh, eles sacrificaram sete novilhos e sete carneiros ao SENHOR.</para>
+  <para style="p"><verse number="27" style="v"/>Davi vestia um manto de linho fino, como também todos os levitas que carregavam a Arca, os músicos e Quenanias, líder dos músicos. Davi vestia também o efod, o colete sacerdotal de linho.</para>
+  <para style="p"><verse number="28" style="v"/>E toda a nação de Israel acompanhou a Arca da Aliança de Yahweh com grande júbilo e brados de alegria, ao som de trombetas, cornetas e címbalos, ao toque de liras e de harpas.</para>
+  <para style="p"><verse number="29" style="v"/>Quando a Arca da Aliança de Yahweh entrou na Cidade de Davi, Mical, filha de Saul, contemplava toda essa movimentação de uma janela. E, aconteceu que ao ver Davi dançando e celebrando, ela rejeitou a maneira extravagante do rei comemorar.</para>
+  <chapter number="16" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Trouxeram, pois, a Arca da Aliança de Yahweh e a depositaram na Tenda que Davi lhe havia especialmente preparado, e ofereceram holocaustos, sacrifícios de animais eram totalmente queimados, bem como ofertas de paz e comunhão diante de Deus.</para>
+  <para style="p"><verse number="2" style="v"/>Depois que terminaram de oferecer os holocaustos e sacrifícios pacíficos, o rei Davi abençoou todo o povo em o Nome do SENHOR, Yahweh.</para>
+  <para style="p"><verse number="3" style="v"/>Em seguida entregou um pedaço de pão com um pouco de vinho, um naco de carne assada, um bolo tâmaras e uvas passas a cada homem e a cada mulher ali reunidos.</para>
+  <para style="p"><verse number="4" style="v"/>Davi também designou alguns dos levitas para ministrar perante a Arca de Yahweh, fazendo petições e orações, dando graças e louvando Yahweh, o SENHOR Deus de Israel.</para>
+  <para style="p"><verse number="5" style="v"/>Estes homens escolhidos foram: Asafe, que foi nomeado o chefe desse grupo de ministros, Zacarias vinha em segundo lugar, e logo em seguida Jeiel, Semiramote, Jeiel, Matitias, Eliabe, Benata, Obede-Edom e Jeiel. Eles foram incumbidos de executar suas liras e harpas, enquanto Asafe tocava os címbalos.</para>
+  <para style="p"><verse number="6" style="v"/>Os sacerdotes Benaia e Jaaziel deviam tocar diariamente as trombetas diante da Arca da Aliança de Deus.</para>
+  <para style="p"><verse number="7" style="v"/>Então aconteceu naquele dia, pela primeira vez, que o rei Davi determinou que Asafe e seus parentes louvassem Yahweh, o SENHOR entoando salmos de gratidão e louvor:</para>
+  <para style="p"><verse number="8" style="v"/>“Louvai ao SENHOR, invocai o seu Nome, proclamai seus feitos entre todos os povos!</para>
+  <para style="p"><verse number="9" style="v"/>Cantai para Ele, entoai-lhe hinos, considerai todas as suas maravilhas!</para>
+  <para style="p"><verse number="10" style="v"/>Gloriai-vos em seu santo Nome! Exulte o coração dos que buscam o SENHOR!</para>
+  <para style="p"><verse number="11" style="v"/>Procurai o SENHOR e seu poder, buscai sempre a sua face!</para>
+  <para style="p"><verse number="12" style="v"/>Recordai as maravilhas e os julgamentos provenientes de sua boca,</para>
+  <para style="p"><verse number="13" style="v"/>vós, descendência de Abraão, seu servo, vós filhos de Jacó, seus eleitos!</para>
+  <para style="p"><verse number="14" style="v"/>Ele é o SENHOR, nosso Deus; seus julgamentos estão em toda a terra.</para>
+  <para style="p"><verse number="15" style="v"/>Ele sempre se lembra de sua Aliança, a Palavra que ordenou para mil gerações,</para>
+  <para style="p"><verse number="16" style="v"/>aquela que Ele firmou com Abraão e confirmou por juramento a Isaque.</para>
+  <para style="p"><verse number="17" style="v"/>Ele confirmou sua promessa como decreto a Jacó, aliança eterna para Israel, ao declarar:</para>
+  <para style="p"><verse number="18" style="v"/>‘Dar-te-ei a terra de Canaã como quinhão de tua herança’.</para>
+  <para style="p"><verse number="19" style="v"/>Quando eram ainda poucos em número, apenas um punhado de peregrinos na terra,</para>
+  <para style="p"><verse number="20" style="v"/>migrando de nação para nação, de um reino para outro povo,</para>
+  <para style="p"><verse number="21" style="v"/>não deixou ninguém oprimi-los; castigou reis por sua causa, proclamando:</para>
+  <para style="p"><verse number="22" style="v"/>‘Não toqueis em meus ungidos, não maltrateis meus profetas!’</para>
+  <para style="p"><verse number="23" style="v"/>Erguei ao Eterno um cântico novo! Cantai ao SENHOR a terra inteira! Cantai ao SENHOR, bendizei seu Nome; dia após dia, anunciai a sua salvação!</para>
+  <para style="p"><verse number="24" style="v"/>Proclamai sua glória entre as nações, entre todos os povos as suas realizações maravilhosas!</para>
+  <para style="p"><verse number="25" style="v"/>Pois o SENHOR é magnífico, digno de todo o louvor; Ele inspira mais temor que todos os deuses juntos!</para>
+  <para style="p"><verse number="26" style="v"/>Todos os deuses dos pagãos não passam de objetos feitos ídolos, mas o SENHOR criou os céus.</para>
+  <para style="p"><verse number="27" style="v"/>Majestade e magnificência estão diante dele, poder e dignidade no seu santuário.</para>
+  <para style="p"><verse number="28" style="v"/>Dedicai ao SENHOR a glória do seu Nome! Trazei sua devida oferta, entrai em seus átrios,</para>
+  <para style="p"><verse number="29" style="v"/>prostrai-vos diante do SENHOR no esplendor da sua santidade! Tremei diante dele, terra inteira!</para>
+  <para style="p"><verse number="30" style="v"/>Anunciai entre as nações: ‘O SENHOR é rei. Sim, o mundo está firme e não será abalado; Ele julgará os povos com retidão!’</para>
+  <para style="p"><verse number="31" style="v"/>Alegrem-se os céus e exulte a terra, estronde o mar e tudo o que ele contém!</para>
+  <para style="p"><verse number="32" style="v"/>Esteja em festa a campina, e tudo quanto nela existe! Regozijem-se todas as árvores da floresta,</para>
+  <para style="p"><verse number="33" style="v"/>cantem diante do SENHOR, porque Ele vem. Sim, Ele vem julgar a terra; Ele governará o mundo com justiça e os povos com fidelidade!’</para>
+  <para style="p"><verse number="34" style="v"/>Aleluia! Daí graças ao SENHOR, porquanto Ele é bom; o seu amor dura para sempre!</para>
+  <para style="p"><verse number="35" style="v"/>Salva-nos, SENHOR, nosso Deus, e recolhe-nos dentre as nações pagãs, a fim de que possamos dar graças ao teu santo Nome e fazer do teu louvor a nossa glória perene.</para>
+  <para style="p"><verse number="36" style="v"/>Bendito seja o SENHOR, Deus de Israel, desde sempre e para sempre! Que todo o povo declare: “Amém!” Aleluia!</para>
+  <para style="p"><verse number="37" style="v"/>Então Davi deixou Asafe e seus parentes perante a Arca da Aliança de Yahweh com o objetivo de ali ministrarem regularmente, em conformidade com as devidas prescrições para cada dia.</para>
+  <para style="p"><verse number="38" style="v"/>Também determinou que Obede-Edom e seus sessenta e oito parentes cooperassem na ministração. Obede-Edom, filho de Jedutum, e também Hosa, serviram como porteiros.</para>
+  <para style="p"><verse number="39" style="v"/>Davi ordenou que o sacerdote Zadoque e seus parentes, também sacerdotes, servissem diante do Tabernáculo do SENHOR, a Habitação de Yahweh nas colinas de Gibeon,</para>
+  <para style="p"><verse number="40" style="v"/>a fim de, regularmente, de manhã e à tarde, apresentarem holocaustos sobre o altar dos sacrifícios, de acordo com tudo o que está escrito na Torá, a Lei de Yahweh, o SENHOR, como Ele mesmo havia ordenado a Israel.</para>
+  <para style="p"><verse number="41" style="v"/>Com eles estavam Hemã e Jedutum e os demais que haviam sido nomeados para ministrarem louvores ao SENHOR, exclamando: “Ó Deus! Eterno é o teu amor!”</para>
+  <para style="p"><verse number="42" style="v"/>Hemã e Jedutum eram responsáveis pela execução das trombetas, dos címbalos e de todos os demais instrumentos musicais que acompanham os cânticos de adoração a Deus. Os filhos de Jedutum foram designados para servirem como porteiros.</para>
+  <para style="p"><verse number="43" style="v"/>Então todo o povo partiu, cada um para a sua residência, e Davi também foi para casa, a fim de abençoar e passar algum tempo com sua família.</para>
+  <chapter number="17" style="c"/>
+  <para style="p"><verse number="1" style="v"/>O rei Davi morava em seu palácio quando, certo dia, em conversa com o profeta Natã declarou: “Estou aqui residindo em um palácio de cedro puro, enquanto a Arca da Aliança de Yahweh permanece abrigada numa tenda!”</para>
+  <para style="p"><verse number="2" style="v"/>E Natã encorajou Davi dizendo: “Vai e faz tudo quanto está no teu coração, porque Deus está contigo!”</para>
+  <para style="p"><verse number="3" style="v"/>Entretanto, naquela mesma noite veio a seguinte palavra de Deus a Natã:</para>
+  <para style="p"><verse number="4" style="v"/>“Vai dizer a meu servo Davi que assim diz Yahweh, o SENHOR: ‘Não és tu que construirás uma Casa para Eu morar.</para>
+  <para style="p"><verse number="5" style="v"/>Não tenho habitado em nenhuma casa, desde o dia em que libertei Israel do Egito até o dia de hoje, contudo venho passando de uma tenda para outra, e de um tabernáculo para outro.</para>
+  <para style="p"><verse number="6" style="v"/>Por onde tenho acompanhado todo o meu povo de Israel, alguma vez indaguei a algum líder deles, que ordenei pastorear a minha gente: ‘Por que não me construís um templo de cedro puro?</para>
+  <para style="p"><verse number="7" style="v"/>Agora, portanto, vá e diga ao meu servo Davi: ‘Assim declara Yahweh, o SENHOR dos Exércitos: Eu o tirei as pastagens, onde cuidavas das ovelhas, para que fosses príncipe sobre a minha nação de Israel.</para>
+  <para style="p"><verse number="8" style="v"/>Caminhei contigo por todos os lugares por onde andaste e destruí todos os teus inimigos de diante de ti. Agora te tornarei tão conhecido e ilustre quanto os mais importantes da terra.</para>
+  <para style="p"><verse number="9" style="v"/>Também providenciarei um bom lugar para Israel, o meu povo, e os estabelecerei lá, para que tenham as suas terras e seu próprio lar, e jamais sejam incomodados. Povos ímpios e pagãos nunca mais os oprimirão, como fizeram em tempos passados,</para>
+  <para style="p"><verse number="10" style="v"/>durante a época em que constitui juízes sobre o meu povo Israel. Agora subjugarei todos os teus inimigos. Além de tudo isso, sabei que Eu, Yahweh, o SENHOR, é que lhe edificarei uma casa, uma dinastia.</para>
+  <para style="p"><verse number="11" style="v"/>Quando os teus dias se completarem na terra, sua vida chegar ao fim e fores descansar com teus pais, providenciarei um sucessor da tua descendência, escolherei um dos teus filhos, e Eu, pessoalmente, estabelecerei o Reino dele.</para>
+  <para style="p"><verse number="12" style="v"/>Assim, Ele edificará uma Casa para a minha pessoa, e Eu firmarei o trono dele para sempre.</para>
+  <para style="p"><verse number="13" style="v"/>Eu serei seu Abba, pai e mestre, e Ele será meu filho. Jamais desviarei dele o meu amor, como tive que fazer com Saul.</para>
+  <para style="p"><verse number="14" style="v"/>Eu o farei líder do meu povo e do meu Reino para sempre; seu trono e governo durarão eternamente!”</para>
+  <para style="p"><verse number="15" style="v"/>Então Natã se apressou em comunicar a Davi tudo o que o SENHOR lhe havia falado e revelado.</para>
+  <para style="p"><verse number="16" style="v"/>Em seguida o rei Davi entrou na Casa de Yahweh, o Tabernáculo, assentou-se diante do SENHOR, e declarou a seguinte oração: “Ó Yahweh, SENHOR Deus, quem sou eu, e quem é a minha família, para que me tenhas trazido até aqui?</para>
+  <para style="p"><verse number="17" style="v"/>Ó Deus, e como se isso não bastasse para ti, ainda deste uma palavra sobre a família deste teu servo, e me trataste como um homem ilustre, óYahweh Deus!</para>
+  <para style="p"><verse number="18" style="v"/>O que mais Davi poderá dizer-te sobre a honra com que tratas o teu servo? Tu bem conheces o coração do teu servo.</para>
+  <para style="p"><verse number="19" style="v"/>Ó Yahweh! Por amor de teu servo, e conforme a tua vontade realizaste este feito grandioso e tornaste conhecidas todas essas maravilhosas promessas.</para>
+  <para style="p"><verse number="20" style="v"/>Não existe nenhum ser como tu, ó SENHOR, tampouco há outro Deus além de ti, segundo tudo quanto temos testemunhado.</para>
+  <para style="p"><verse number="21" style="v"/>E quem é como Israel, o teu povo, a única nação da terra que tu, ó Deus, resgataste para ti mesmo, e assim tornaste o teu Nome conhecido em toda a terra, mediante realizações portentosas e impressionantes ao expulsar todas as nações e seus deuses de diante da tua gente que libertaste do Egito?</para>
+  <para style="p"><verse number="22" style="v"/>Tu fizeste de Israel o teu povo, tua nação especial para sempre, e tu, ó Yahweh, te tornaste o seu Deus!</para>
+  <para style="p"><verse number="23" style="v"/>Agora, pois, ó SENHOR, seja confirmada para sempre a tua promessa acerca do teu servo e sobre a família dele, e realiza tudo quanto prometeste.</para>
+  <para style="p"><verse number="24" style="v"/>Seja o teu Nome estabelecido e glorificado ao longo da eternidade, e que se proclame em todas as partes: ‘Yahweh, o SENHOR dos Exércitos é o Deus de Israel, sim, Ele é Deus para Israel!’ E a descendência de teu servo Davi se manterá firme diante de ti.</para>
+  <para style="p"><verse number="25" style="v"/>Meu Deus, tu revelaste ao teu servo que lhe edificarias uma casa, uma dinastia. Por esse motivo o teu servo encontrou liberdade e confiança para orar e suplicar a ti.</para>
+  <para style="p"><verse number="26" style="v"/>Ó Yahweh, meu SENHOR, tu és Deus! Tu fizeste essa boa promessa a teu servo.</para>
+  <para style="p"><verse number="27" style="v"/>Agora, por tua misericórdia e bondade, abençoa a família de teu servo, para que essa dinastia viva eternamente na tua presença; porquanto o que tu, Yahweh, abençoas, abençoado permanece para sempre, ó SENHOR!”</para>
+  <chapter number="18" style="c"/>
+  <para style="p"><verse number="1" style="v"/>E aconteceu, depois disso, que Davi venceu os filisteus e os subjugou. Tomou das mãos dos filisteus a cidade de Gate e seus povoados e vizinhanças.</para>
+  <para style="p"><verse number="2" style="v"/>Em seguida venceu os moabitas, que se tornaram súditos de Davi, pagando-lhe tributos.</para>
+  <para style="p"><verse number="3" style="v"/>Davi também derrotou Hadadezer, rei de Zobá, nos arredores de Hamate, quando Hadadezer tentava obter o controle na região do rio Eufrates.</para>
+  <para style="p"><verse number="4" style="v"/>Davi lhe tomou mil carros de guerra, sete mil cavaleiros e vinte mil soldados de infantaria. Ainda mandou aleijar todos os cavalos que conduziam os carros de guerra, exceto cem deles, que foram escolhidos e separados.</para>
+  <para style="p"><verse number="5" style="v"/>Quando os arameus, os sírios de Damasco, vieram socorrer Hadadezer, rei de Zobá, Davi e seu exército mataram vinte e dois mil de seus soldados.</para>
+  <para style="p"><verse number="6" style="v"/>Então Davi estabeleceu guarnições militares para governar em Aram de Damasco, e os arameus também se tornaram súditos de Davi e começaram a lhe pagar impostos. E Yahweh dava vitórias e mais vitórias a Davi em todos os lugares onde fazia suas incursões.</para>
+  <para style="p"><verse number="7" style="v"/>Davi ainda trouxe para a cidade de Jerusalém os escudos de ouro usados pelos oficiais de Hadadezer.</para>
+  <para style="p"><verse number="8" style="v"/>De Tivhat, Tibate, bem como da cidade de Cum, povoados que pertenciam a Hadadezer, o rei Davi trouxe grande quantidade de bronze que Salomão usou para fazer o tanque de bronze, as colunas e vários utensílios.</para>
+  <para style="p"><verse number="9" style="v"/>Quando Tóu, rei de Hamate, soube que Davi havia aniquilado todo o exército de Hadadezer, rei de Zobá,</para>
+  <para style="p"><verse number="10" style="v"/>mandou seu filho Hadorão saudar e parabenizar o rei Davi por ter lutado bravamente e vencido o temível Hadadezer, que sempre atacava o povo de Tóu. Assim, Hadorão também enviou a Davi todo o tipo de utensílios de ouro, de prata e de bronze,</para>
+  <para style="p"><verse number="11" style="v"/>os quais o rei Davi consagrou a Yahweh, juntamente com a prata e o ouro que trouxera de todas as demais nações: dos edomitas, moabitas, amonitas, filisteus e amalequitas.</para>
+  <para style="p"><verse number="12" style="v"/>Abisai, filho de Zeruta, também foi à guerra e derrotou mil edomitas no vale do Sal.</para>
+  <para style="p"><verse number="13" style="v"/>E, em seguida, estabeleceu guarnições militares em Edom, sujeitando todos os edomitas a Davi. E Yahweh, o SENHOR, seguia acrescentando vitórias a Davi, por onde quer que ia.</para>
+  <para style="p"><verse number="14" style="v"/>Davi reinou sobre toda a nação de Israel. Ele administrava a justiça e a equidade a todo o seu povo e seus súditos.</para>
+  <para style="p"><verse number="15" style="v"/>Joabe, filho de Zeruia, era comandante do exército; Josafá, filho de Ailude, era cronista, o arquivista real;</para>
+  <para style="p"><verse number="16" style="v"/>Tsadoc ben Ahituv, Zadoque filho de Aitube, e Aviméleh ben Eviatar, Abimeleque filho de Abiatar, eram sacerdotes; Sausa era escrivão e secretário;</para>
+  <para style="p"><verse number="17" style="v"/>Benaia, filho de Joiada, comandava os queretitas e os peletitas; e os filhos do rei Davi eram seus diletos e mais importantes conselheiros do rei.</para>
+  <chapter number="19" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Passado algum tempo, Naás, rei dos amonitas, morreu e seu filho o sucedeu e passou a reinar em seu lugar.</para>
+  <para style="p"><verse number="2" style="v"/>Então Davi ponderou: “Tratarei com bondade Hanum, filho de Naás, porquanto seu pai foi leal e generoso para comigo.” Então Davi enviou uma delegação com a missão de representá-lo e transmitir a Hanum sua mensagem pessoal de pesar pela morte do pai. Todavia, quando os mensageiros de Davi chegaram às terras dos amonitas a fim de comunicar as condolências de Davi a Hanum,</para>
+  <para style="p"><verse number="3" style="v"/>os príncipes e chefes amonitas advertiram a Hanum: “Pensas acaso que Davi pretende honrar teu pai ao enviar mensageiros para expressar condolências? Com certeza não é essa a verdadeira intenção de Davi! Ele os enviou como espiões para examinar nosso país e destruí-lo!”</para>
+  <para style="p"><verse number="4" style="v"/>Então Hanum mandou prender os mensageiros de Davi, rapou-lhes a barba, cortou metade de suas vestes até a altura das nádegas, e os despachou de volta.</para>
+  <para style="p"><verse number="5" style="v"/>Assim que Davi foi informado do que acontecera à sua delegação, enviou alguns mensageiros ao encontro dos seus representantes, porquanto haviam sido profundamente humilhados, e lhes mandou dizer: “Ficai em Jericó, até que vossa barba cresça, e então retornai para casa.”</para>
+  <para style="p"><verse number="6" style="v"/>Percebendo Hanum e os amonitas que haviam transformado seu perfume em mau cheiro ao olfato de Davi, isto é, tinham provocado a ira do rei, alugaram de Aram-Naharáim, Mesopotâmia, de Aram-Maahá, Arã Maaca, e Tsová, Zobá, carros de guerra e cavaleiros para conduzirem os carros, por trinta e cinco toneladas de prata.</para>
+  <para style="p"><verse number="7" style="v"/>Alugaram também trinta e dois mil carros e seus condutores, contrataram o rei de Maaca com seu exército, o qual veio e acampou próximo a Medeba, e os amonitas foram convocados de suas cidades e partiram para a frente de guerra.</para>
+  <para style="p"><verse number="8" style="v"/>Ao receber essas notícias, Davi ordenou a Joabe que marchasse com todo o exército.</para>
+  <para style="p"><verse number="9" style="v"/>Os amonitas saíram e se colocaram em posição de batalha na entrada da cidade, e os reis que haviam chegado para cooperar com eles tomaram posição em campo aberto.</para>
+  <para style="p"><verse number="10" style="v"/>Observando Joabe que estava cercado pelas linhas de combate, separou alguns dos mais corajosos e bem treinados soldados de elite de Israel e os perfilou diante dos arameus.</para>
+  <para style="p"><verse number="11" style="v"/>Confiou a seu irmão Abisai o comando do restante do exército e alinhou-o em face dos amonitas.</para>
+  <para style="p"><verse number="12" style="v"/>E Joabe deus a seguinte instrução: “Se os arameus prevalecerem sobre mim, virás em meu socorro; se os amonitas forem fortes demais para ti, eu partirei em teu auxílio.</para>
+  <para style="p"><verse number="13" style="v"/>Tende ânimo, sê forte e corajoso para com nosso povo e diante das cidades do nosso Deus. E que Yahweh, o SENHOR, faça o que lhe parecer bem!”</para>
+  <para style="p"><verse number="14" style="v"/>Então Joabe e seus soldados avançaram bravamente contra os arameus, que viram-se obrigados a fugir dele.</para>
+  <para style="p"><verse number="15" style="v"/>Quando os amonitas notaram que os arameus estavam recuando e batendo em retirada, perseguidos por Joabe, também fugiram de seu irmão Abisai e entraram na cidade. Assim, Joabe retornou para Jerusalém.</para>
+  <para style="p"><verse number="16" style="v"/>Ao compreenderem os arameus que haviam sido derrotados por Israel, enviaram mensageiros com a missão de trazer arameus que viviam do outro lado Eufrates, o Rio, e Sofaque, o comandante do exército de Hadadezer, veio à frente deles.</para>
+  <para style="p"><verse number="17" style="v"/>Informado sobre essa movimentação, Davi reuniu todo o exército israelita e atravessou o Jordão; avançou contra eles e formou linhas de combate em frente deles. Assim que a batalha teve início,</para>
+  <para style="p"><verse number="18" style="v"/>eles fugiram da presença de Israel, e o exército de Davi matou sete mil dos seus condutores de carros de guerra e quarenta mil dos seus soldados de infantaria. Também matou Sofaque, o comandante do exército deles.</para>
+  <para style="p"><verse number="19" style="v"/>Quando os servos de Hadadezer se deram conta de que já haviam sido derrotados por Israel, suplicaram paz a Davi e se submeteram a ele. Depois disso, os sírios nunca mais se dispuseram a socorrer os amonitas.</para>
+  <chapter number="20" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Quando chegou a primavera seguinte, no tempo em que os reis costumam partir para suas batalhas, Joabe conduziu o seu exército até a terra dos amonitas e a destruiu por completo. Enquanto Davi ainda estava em Jerusalém, Joabe sitiou Rabá, a capital, atacou a cidade e deixou-a em ruínas.</para>
+  <para style="p"><verse number="2" style="v"/>Davi tirou a coroa da cabeça de Moleque, o rei deles, uma coroa confeccionada em ouro puro, pesando trinta e cindo quilos, toda ornamentada com pedras preciosas. E, essa coroa foi colocada sobre a cabeça de Davi. Ele trouxe uma grande quantidade de bens da cidade,</para>
+  <para style="p"><verse number="3" style="v"/>e trouxe também os seus moradores, encarregando-lhes a execução de uma série de tarefas específicas e trabalhos com serras, picaretas de ferro e machados. Davi agiu dessa mesma maneira com todas as cidades amonitas. E, mais tarde, retornou com todo o seu exército para Jerusalém.</para>
+  <para style="p"><verse number="4" style="v"/>Logo depois desses acontecimentos, houve uma guerra contra os filisteus, em Gezer. Naquele tempo, Sibecai, de Husate, matou Sipai, um dos descendentes dos refains, os gigantes; e os filisteus foram subjugados.</para>
+  <para style="p"><verse number="5" style="v"/>Mais tarde ocorreu uma outra guerra contra os filisteus e Elanã, filho de Jair, matou Lami, irmão de Golias, o gigante de Gate, que possuía uma lança cuja haste parecia uma lançadeira de tecelão.</para>
+  <para style="p"><verse number="6" style="v"/>Ainda em outra batalha, na cidade de Gate, havia um homem de grande estatura e que possuía seis dedos em cada mão e seis dedos em cada pé; vinte e quatro dedos ao todo. Esse geteu também era descendente do gigante Rafa.</para>
+  <para style="p"><verse number="7" style="v"/>E foi Jônatas, filho de Simeia, irmão de Davi, que o matou porque ele havia desafiado e insultado o povo de Israel.</para>
+  <para style="p"><verse number="8" style="v"/>Esses homens enormes eram descendentes dos refains, os gigantes de Gate, e foram mortos por Davi e seus soldados.</para>
+  <chapter number="21" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Então Satan, o Inimigo, levantou-se contra Israel e induziu Davi a fazer um recenseamento de todo o povo debaixo do governo do rei.</para>
+  <para style="p"><verse number="2" style="v"/>E Davi ordenou a Joabe e aos demais comandantes do exército do rei: “Ide, contai todo o povo em Israel desde Berseba até Dã, e trazei-me o número para que eu saiba quantos são ao todo!”</para>
+  <para style="p"><verse number="3" style="v"/>Então Joabe acrescentou: “Que o SENHOR multiplique o seu povo cem vezes mais! Ó rei meu senhor, por acaso não são todos servos de meu senhor? Por que o meu senhor deseja isto? Por que traria culpa sobre Israel?”</para>
+  <para style="p"><verse number="4" style="v"/>Contudo, a palavra do rei prevaleceu, de modo que Joabe partiu em cumprimento à ordem do rei, percorreu todo a nação de Israel e só depois do trabalho feito retornou a Jerusalém.</para>
+  <para style="p"><verse number="5" style="v"/>Então Joabe apresentou a Davi o relatório final com o número dos homens prontos para combate, e em todo o Israel havia um milhão e cem mil homens habilitados para o serviço militar, sendo quatrocentos e setenta mil lotados em Judá.</para>
+  <para style="p"><verse number="6" style="v"/>Todavia, Joabe não incluiu no censo as tribos de Levi e Benjamim, pois a ordem do rei lhe parecera absurda.</para>
+  <para style="p"><verse number="7" style="v"/>O desejo e a ordem do rei Davi foram reprovados por Deus, e por isso todo o povo de Israel foi castigado.</para>
+  <para style="p"><verse number="8" style="v"/>Então Davi reconheceu seu erro e confessou a Deus: “Pequei gravemente com a minha atitude. Agora, pois, eu te imploro que perdoes o pecado do teu servo, porquanto cometi uma grande loucura!”</para>
+  <para style="p"><verse number="9" style="v"/>E o SENHOR enviou uma palavra a Gade, o vidente de Davi, ordenando:</para>
+  <para style="p"><verse number="10" style="v"/>“Vai e profetiza a Davi: Assim diz o SENHOR: Três opções te apresento; escolhe, pois, qual delas preferes que Eu te faça!”</para>
+  <para style="p"><verse number="11" style="v"/>Gade imediatamente foi a Davi e lhe revelou: “Assim ordenou Yahweh: ‘Escolhe entre estas três punições:</para>
+  <para style="p"><verse number="12" style="v"/>Três anos de fome, três meses fugindo de seus adversários, perseguido pela espada deles, ou três dias da espada de Yahweh, isto é, três dias de praga, com o Anjo do SENHOR assolando todas as regiões de Israel.’ Decide, portanto, agora como devo responder Àquele que me enviou a ti!”</para>
+  <para style="p"><verse number="13" style="v"/>Então Davi respondeu: “É terrível a minha aflição! Contudo, prefiro cair nas mãos de Yahweh, o SENHOR, porquanto é grande a sua misericórdia, a ser vingado pelos homens!”</para>
+  <para style="p"><verse number="14" style="v"/>Yahweh, enviou, portanto, uma peste sobre Israel e pereceram setenta mil homens de Israel.</para>
+  <para style="p"><verse number="15" style="v"/>Depois Deus enviou o Anjo a Jerusalém com o objetivo de exterminá-la; mas, no momento exato em que o Anjo ia destruí-la, o SENHOR olhou com compaixão para aquele povo e arrependeu-se de trazer aquela catástrofe total, e disse ao Anjo do Juízo, o destruidor: “Pára! Já é o bastante; retira, pois, a tua mão!” Naquele instante o Anjo de Yahweh estava perto da eira, o terreno onde se malhava os cereais, que pertencia a Ornan, Araúna, o jebuseu.</para>
+  <para style="p"><verse number="16" style="v"/>Então Davi olhou para cima e viu o Anjo de Yahweh entre o céu e a terra, tendo na mão sua espada desembainhada e voltada contra Jerusalém. Em seguida, vestidos de luto, com panos de saco, Davi e os anciãos de Israel, prostraram-se com o rosto em terra.</para>
+  <para style="p"><verse number="17" style="v"/>E Davi declarou a Deus: “Não fui eu quem mandou recensear o povo? Não fui eu quem pecou e fez o que era mal? Entretanto, estas pessoas não passam de ovelhas inocentes. Que erro cometeram? Ó Yahweh, meu Deus, que o teu castigo caia sobre mim e sobre a minha família, contudo poupa o teu povo!”</para>
+  <para style="p"><verse number="18" style="v"/>Então o Anjo do SENHOR comunicou a Gade que ordenasse a Davi que subisse e erguesse um altar a Yahweh na eira de Araúna, o jebuseu.</para>
+  <para style="p"><verse number="19" style="v"/>Davi foi para lá, sem demora, em obediência à Palavra que Gade lhe havia transmitido em Nome do SENHOR.</para>
+  <para style="p"><verse number="20" style="v"/>Entrementes, Araúna estava debulhando o trigo; ao virar-se, viu o Anjo, e ele e seus quatro filhos que estavam com ele procuraram se esconder.</para>
+  <para style="p"><verse number="21" style="v"/>Nesse mesmo instante chegou Davi e, quando Araúna o viu, saiu da eira e prostrou-se diante de Davi, rosto em terra.</para>
+  <para style="p"><verse number="22" style="v"/>E Davi lhe rogou: “Vende-me o terreno da eira pelo que vale, para que eu edifique nele um altar a Yahweh, o SENHOR, a fim de que cesse esta praga que assola nosso povo!”</para>
+  <para style="p"><verse number="23" style="v"/>Imediatamente Araúna respondeu a Davi: “Toma-o para ti, e faça o rei, meu senhor, o que bem lhe parecer. Eu ofereço ainda os bois para o sacrifício, o debulhador para servir de lenha, e o trigo para a oferta de cereal. Tudo isso, de bom grado, entrego a ti!”</para>
+  <para style="p"><verse number="24" style="v"/>Contudo o rei Davi respondeu a Araúna: “Não posso aceitar deste modo! Faço, pois, questão de pagar o preço justo. Não darei a Yahweh aquilo que pertence a ti, tampouco oferecerei um holocausto que não tenha me custado nada!”</para>
+  <para style="p"><verse number="25" style="v"/>E assim, Davi pagou a Araúna o valor de sete quilos e duzentos gramas de ouro pelo terreno.</para>
+  <para style="p"><verse number="26" style="v"/>Então Davi construiu ali um altar para Yahweh e ofereceu holocaustos e ofertas de paz e comunhão; e invocou o SENHOR, e o SENHOR lhe respondeu fazendo cair fogo do céu exatamente sobre o altar dos sacrifícios.</para>
+  <para style="p"><verse number="27" style="v"/>O SENHOR ordenou ao Anjo que guardasse sua espada na bainha.</para>
+  <para style="p"><verse number="28" style="v"/>E nessa ocasião compreendeu Davi que Yahweh lhe havia respondido com graça na eira de Araúna, o jebuseu, e passou a oferecer holocaustos ali.</para>
+  <para style="p"><verse number="29" style="v"/>Naquele tempo, a Habitação de Yahweh, o Tabernáculo do SENHOR, que Moisés edificara no deserto e o altar de holocaustos estavam estabelecidos no alto de Gibeom.</para>
+  <para style="p"><verse number="30" style="v"/>Contudo, Davi não se sentia à vontade para ir até lá adorar a Deus, pois tinha medo da espada do Anjo do SENHOR.</para>
+  <chapter number="22" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Então concluiu Davi: “Este é o lugar para edificação do templo de Deus, Yahweh, o SENHOR, e para o estabelecimento do altar de holocaustos para o povo de Israel!”</para>
+  <para style="p"><verse number="2" style="v"/>O rei Davi mandou reunir todos os estrangeiros que viviam em Israel, e dentre eles designou cortadores de pedras para preparem com arte pedras especiais para a construção do templo de Deus.</para>
+  <para style="p"><verse number="3" style="v"/>Também mandou juntar grande quantidade de ferro para a fabricação de pregos e dobradiças para as portas, e uma quantidade inimaginável de bronze.</para>
+  <para style="p"><verse number="4" style="v"/>Providenciou mais toras de cedro do que se podia contar, porquanto os sidônios e os tírios abasteciam o rei de cedro à vontade.</para>
+  <para style="p"><verse number="5" style="v"/>Davi planejava e dizia: “Meu filho Salomão ainda é muito jovem e sem experiência, e esta Casa que ele deve construir para Yahweh deve ser magnífica em excelência, conhecida em toda a terra, e repleta de esplendor à vista de todas as nações. Por esse motivo deixarei tudo preparado para a construção!” E assim, Davi deixou tudo planejado e preparado antes da sua morte.</para>
+  <para style="p"><verse number="6" style="v"/>Certo dia, Davi mandou chamar seu filho Salomão e ordenou-lhe que construísse uma Casa para Yahweh, um templo ao SENHOR, o Deus de Israel.</para>
+  <para style="p"><verse number="7" style="v"/>E Davi disse a seu filho: “Salomão, meu filho amado, planejei construir uma Casa em homenagem a Yahweh, o Nome do SENHOR, meu Deus.</para>
+  <para style="p"><verse number="8" style="v"/>Contudo, a Palavra do SENHOR veio a mim advertindo-me: ‘Derramaste muito sangue e fizeste grandes guerras; não construirás um templo ao meu Nome, porquanto fostes violento demais e derramastes muito sangue humano na terra diante da minha presença!</para>
+  <para style="p"><verse number="9" style="v"/>Entretanto, tu gerarás um filho que será homem pacífico, e Eu lhe darei paz diante de todos os seus inimigos ao redor. Portanto, o seu nome será derivado de Shalom, Shelomo, Salomão, e Eu darei paz, descanso e segurança a Israel durante o reinado dele.</para>
+  <para style="p"><verse number="10" style="v"/>É ele que vai edificar um templo em honra ao meu Nome. Eu serei seu Abba, Pai, e ele será Haben, o meu filho. E assim, estabelecerei para sempre o trono do reinado dele sobre todo o povo de Israel’</para>
+  <para style="p"><verse number="11" style="v"/>Agora, pois, ó meu filho amado, que Yahweh esteja contigo e te dê forças para concluir com êxito a construção da Casa de Yahweh, o SENHOR teu Deus, como Ele próprio prometeu a teu respeito.</para>
+  <para style="p"><verse number="12" style="v"/>Que o SENHOR te abençoe com sabedoria e prudência para governares sobre todo o Israel e para obedeceres à Torá de Yahweh, o SENHOR, teu Deus!</para>
+  <para style="p"><verse number="13" style="v"/>Se tiveres o zelo de guardar e praticar os estatutos e os decretos que Yahweh ordenou a Moisés acerca de Israel, serás muito próspero. Sê forte e corajoso; não temas, nem desanimes.</para>
+  <para style="p"><verse number="14" style="v"/>Com muita dedicação e perseverança, providenciei para a construção do templo do SENHOR três mil e quinhentas toneladas de ouro, trinta e cinco mil toneladas de prata, e mais tanto bronze e ferro que nem se pode calcular, além da melhor madeira e pedras lavradas. E tu ainda haverá de aumentar a quantidade desse material em muito mais.</para>
+  <para style="p"><verse number="15" style="v"/>Além disso tudo, tens um grande número de trabalhadores, cortadores de pedras, artesãos, pedreiros e carpinteiros, e inúmeros homens habilidosos em todo tipo de trabalho e arte,</para>
+  <para style="p"><verse number="16" style="v"/>em ouro, prata, bronze e ferro. Agora pois, levanta-te! Mãos a obra! E que Yahweh esteja contigo!”</para>
+  <para style="p"><verse number="17" style="v"/>Davi ordenou então a todos os oficiais de Israel que cooperassem com seu filho Salomão, encomendando:</para>
+  <para style="p"><verse number="18" style="v"/>“Yahweh, o SENHOR, vosso Deus certamente está convosco e vos concedeu descanso de todos os lados, porquanto entregou na minha mão os habitantes das nações; e a terra foi toda submetida ao SENHOR e ao seu povo!</para>
+  <para style="p"><verse number="19" style="v"/>Agora, portanto, consagrai todo o vosso coração e alma a fim de buscardes Yahweh, o SENHOR, vosso Deus. Erguei-vos e edificai o santuário do SENHOR Deus, para que a Arca da Aliança de Yahweh e os utensílios sagrados de Deus sejam trazidos para o templo que será construído em honra a Yahweh, o Nome do SENHOR.</para>
+  <chapter number="23" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Quando Davi se tornou idoso, com idade muito avançada, proclamou seu filho Salomão rei sobre Israel.</para>
+  <para style="p"><verse number="2" style="v"/>Reuniu todos os chefes e líderes de Israel, bem como os sacerdotes e os levitas.</para>
+  <para style="p"><verse number="3" style="v"/>Realizou-se um recenseamento dos levitas, de trinta anos para cima. E, contatos um por um, seu número total foi de trinta e oito mil homens;</para>
+  <para style="p"><verse number="4" style="v"/>Então o rei Davi escolheu vinte e quatro mil levitas para supervisionarem os trabalhos de construção e administração da Casa de Yahweh, o SENHOR, e seis mil para servirem como escribas e juízes,</para>
+  <para style="p"><verse number="5" style="v"/>quatro mil para serem guardas das portas e quatro mil para louvarem o SENHOR com instrumentos musicais que Davi tinha preparado com esse propósito.</para>
+  <para style="p"><verse number="6" style="v"/>Depois Davi distribuiu os levitas em grupos que descendiam de Gérson, Coate e Merari, filhos de Levi.</para>
+  <para style="p"><verse number="7" style="v"/>Dos filhos de Gérson: Ladã e Simei.</para>
+  <para style="p"><verse number="8" style="v"/>Estes foram os filhos de Ladã: Jeiel, o primogênito, Zetã e Joel, três ao todo.</para>
+  <para style="p"><verse number="9" style="v"/>Estes foram os filhos de Simei: Selomote, Haziel e Harã, três ao todo. Eles foram chefes das famílias de Ladã.</para>
+  <para style="p"><verse number="10" style="v"/>E os filhos de Simei foram: Jaate, Zina, Jeús e Berias. Esses foram os filhos de Simei, quatro ao todo.</para>
+  <para style="p"><verse number="11" style="v"/>Jaate foi o primogênito e Zina, o segundo, entretanto Jeús e Berias não tiveram muitos descendentes, por isso passaram a ser contados como uma única família.</para>
+  <para style="p"><verse number="12" style="v"/>Os filhos de Coate quatro: Anrão, Isar, Hebrom e Uziel.</para>
+  <para style="p"><verse number="13" style="v"/>Os filhos de Anrão foram: Arão e Moisés. Arão e seus descendentes foram escolhidos e encarregados perpetuamente para servirem no Santo dos Santos, para consagrar as coisas santíssimas, oferecer sacrifícios, queimar incenso diante de Yahweh e o servir, e pronunciar bênçãos em seu Nome para sempre.</para>
+  <para style="p"><verse number="14" style="v"/>No caso de Moisés, homem de Deus, seus filhos foram contados entre os da tribo de Levi.</para>
+  <para style="p"><verse number="15" style="v"/>Os filhos de Moisés foram Gérson e Eliézer.</para>
+  <para style="p"><verse number="16" style="v"/>O descendente de Gérson foi Sebuel, o chefe.</para>
+  <para style="p"><verse number="17" style="v"/>O descendente de Eliézer foi Reabias, o chefe; e Eliézer não teve outros filhos, porém os filhos de Reabias foram muitos.</para>
+  <para style="p"><verse number="18" style="v"/>O descendente de Izar foi Selomite, o chefe.</para>
+  <para style="p"><verse number="19" style="v"/>Os filhos de Hebrom foram Jerias, o chefe; Amarias, o segundo; Jaaziel, o terceiro; e Jecameão, o quarto.</para>
+  <para style="p"><verse number="20" style="v"/>Os filhos de Uziel foram Mica, o primeiro e o chefe, e Issias, o segundo.</para>
+  <para style="p"><verse number="21" style="v"/>Os filhos de Merari foram Mali e Musi. Os filhos de Mali foram Eleazar e Quis.</para>
+  <para style="p"><verse number="22" style="v"/>Eleazar morreu sem ter gerado filhos homens, teve apenas filhas. Assim, os primos delas, os filhos de Quis, casaram-se com elas.</para>
+  <para style="p"><verse number="23" style="v"/>Os filhos de Musi foram três: Mali, Eder e Jeremote.</para>
+  <para style="p"><verse number="24" style="v"/>Esses, portanto, foram os descendentes de Levi pelas famílias: os chefes de famílias conforme registrados por seus nomes e contados individualmente, ou seja, os de vinte anos para cima, que trabalhavam na Casa de Yahweh.</para>
+  <para style="p"><verse number="25" style="v"/>Pois Davi ordenara: “Eis que Yahweh, o SENHOR Deus de Israel deu paz e tranquilidade ao seu povo e veio habitar em Jerusalém para sempre,</para>
+  <para style="p"><verse number="26" style="v"/>os levitas não mais necessitam transportar o Tabernáculo nem os utensílios sagrados usados em seu serviço religioso!”</para>
+  <para style="p"><verse number="27" style="v"/>E, conforme as orientações finais de Davi, foram contados os levitas de vinte anos para cima.</para>
+  <para style="p"><verse number="28" style="v"/>O dever dos levitas era cooperar com os descendentes de Arão em todos os trabalhos no templo do SENHOR. Encarregavam-se dos pátios, das salas laterais, da purificação de todos os objetos sagrados e das demais tarefas necessárias à manutenção da Casa de Deus.</para>
+  <para style="p"><verse number="29" style="v"/>Estavam encarregados do pão consagrado, da farinha para as ofertas de cereal, dos bolos sem fermento, de assar o pão e misturar a massa, e de todos os pesos e medidas.</para>
+  <para style="p"><verse number="30" style="v"/>Também deveriam estar preparados para render graças e louvores a Yahweh, o SENHOR, todas as manhãs, ao raiar do dia, e em todas as tardes, ao pôr-do-sol;</para>
+  <para style="p"><verse number="31" style="v"/>e oferecer continuamente diante do SENHOR todos os holocaustos que eram queimados no Shabbath, sábado; nas festas da Lua Nova e nas festas com datas fixas. Deviam servir regularmente diante de Yahweh conforme as normas e as escalas determinadas para os turnos de serviço dos diversos grupos de trabalho.</para>
+  <para style="p"><verse number="32" style="v"/>Dessa maneira os levitas ficaram responsáveis pela administração da Tenda do Encontro, o Santuário e, pela assistência aos seus irmãos, os descendentes de Arão, bem como por toda a obra e serviço religioso realizados na Casa de Yahweh, o SENHOR.</para>
+  <chapter number="24" style="c"/>
+  <para style="p"><verse number="1" style="v"/>As classes ou grupos dos descendentes de Arão foram assim organizados: os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar.</para>
+  <para style="p"><verse number="2" style="v"/>Mas Nadabe e Abiú morreram antes de seu pai e não geraram filhos; apenas Eleazar e Itamar serviram como sacerdotes.</para>
+  <para style="p"><verse number="3" style="v"/>Com a cooperação de Zadoque, descendente de Eleazar, e de Aimeleque, descendente de Itamar, o rei Davi os dividiu em grupos para que pudessem cumprir as suas responsabilidades.</para>
+  <para style="p"><verse number="4" style="v"/>Encontraram-se entre os filhos de Eleazar mais chefes que entre os filhos de Itamar; formaram-se dezesseis classes com os chefes de família dos filhos de Eleazar e oito com os chefes de família dos filhos de Itamar.</para>
+  <para style="p"><verse number="5" style="v"/>Foram repartidos de maneira aleatória e imparcial, mediante sorteio, pois haviam oficiais do templo e líderes espirituais tanto entre os descendentes de Eleazar como entre os descendentes de Itamar.</para>
+  <para style="p"><verse number="6" style="v"/>O escriba Semaías, filho do levita Natanael, registrou os nomes deles na presença do rei, dos líderes e oficiais, dos sacerdotes Zadoque e Aimeleque, filho de Abiatar, e dos chefes de famílias dos sacerdotes e dos levitas; as famílias de Eleazar e de Itamar foram sorteadas de modo alternado, ora uma, ora outra.</para>
+  <para style="p"><verse number="7" style="v"/>O primeiro sorteio apontou Jeoiaribe, e o segundo indicou Jedaías,</para>
+  <para style="p"><verse number="8" style="v"/>a terceira sorte caiu para Harim, a quarta para Seorim,</para>
+  <para style="p"><verse number="9" style="v"/>a quinta para Malquias, a sexta para Miamim,</para>
+  <para style="p"><verse number="10" style="v"/>a sétima para Hacoz, a oitava para Abias,</para>
+  <para style="p"><verse number="11" style="v"/>a nona para Jesua, a décima para Secanias,</para>
+  <para style="p"><verse number="12" style="v"/>a décima primeira para Eliasibe, a décima segunda para Jaquim,</para>
+  <para style="p"><verse number="13" style="v"/>a décima terceira para Hupá, a décima quarta para Jesebeabe,</para>
+  <para style="p"><verse number="14" style="v"/>a décima quinta para Bilga, a décima sexta para Imer,</para>
+  <para style="p"><verse number="15" style="v"/>a décima sétima para Hezir, a décima oitava para Hapises,</para>
+  <para style="p"><verse number="16" style="v"/>a décima nona para Petaías, a vigésima para Jeezquel,</para>
+  <para style="p"><verse number="17" style="v"/>a vigésima primeira para Jaquim, a vigésima segunda para Gamul,</para>
+  <para style="p"><verse number="18" style="v"/>a vigésima terceira para Delaías, e a vigésima quarta para Maazias.</para>
+  <para style="p"><verse number="19" style="v"/>Assim foram designados os sacerdotes, segundo sua função, para entrar na Casa de Yahweh, em conformidade com o regulamento deixado por Arão, antepassado deles, de acordo com a vontade expressa de Yahweh, o SENHOR Deus de Israel.</para>
+  <para style="p"><verse number="20" style="v"/>Quanto aos outros filhos de Levi, dos descendentes de Anrão, os chefes foram: Subael; dos descendentes de Subael: Jedias.</para>
+  <para style="p"><verse number="21" style="v"/>Quanto a Reabias, Issias foi o chefe dos seus filhos.</para>
+  <para style="p"><verse number="22" style="v"/>Dos izaritas, Selomote; dos filhos de Selomote, Jaate;</para>
+  <para style="p"><verse number="23" style="v"/>dos descendentes de Hebrom: Jerias, o terceiro; Jecameão, o quarto;</para>
+  <para style="p"><verse number="24" style="v"/>dos filhos de Uziel, Mica; dos filhos de Mica, Samir;</para>
+  <para style="p"><verse number="25" style="v"/>do irmão de Mica, Issias; dos filhos de Issias, Zacarias.</para>
+  <para style="p"><verse number="26" style="v"/>Dos filhos de Merari, Mali e Musi; dos filhos de Jaazias, Beno;</para>
+  <para style="p"><verse number="27" style="v"/>dos descendentes de Merari, por parte de Jaazias: Beno, Soão, Zacur e Ibri.</para>
+  <para style="p"><verse number="28" style="v"/>De Mali, Eleazar, que não gerou filhos.</para>
+  <para style="p"><verse number="29" style="v"/>Dos filhos de Quis, Jerameel;</para>
+  <para style="p"><verse number="30" style="v"/>e dos filhos de Musi: Mali, Eder e Jerimote. Esses foram os descendentes dos levitas, segundo suas famílias.</para>
+  <para style="p"><verse number="31" style="v"/>Eles, de igual forma, tiraram sortes na presença do rei Davi, de Zadoque, de Aimeleque e dos levitas, assim como fizeram seus irmãos, os descendentes de Arão. As famílias dos irmãos mais velhos, os primogênitos e cabeças das famílias foram tratadas com a mesma dignidade que as famílias dos mais novos.</para>
+  <chapter number="25" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Davi com a cooperação dos comandantes do exército, separou alguns dos filhos de Asafe, de Hemã e de Jedutum para o serviço religioso de profetizar ao som de harpas, liras e címbalos. Eis, portanto, a lista dos escolhidos para esse ministério:</para>
+  <para style="p"><verse number="2" style="v"/>Dos filhos de Asafe: Zacur, José, Netanias e Asarela. Os filhos de Asafe estavam sob sua mentoria, e ele, por sua vez, profetizava sob a supervisão do rei.</para>
+  <para style="p"><verse number="3" style="v"/>Quanto à família de Jedutum, seus filhos foram: Gedalias, Zeri, Jesaías, Simei, Hasabias e Matitias, seis ao todo, sob a mentoria de seu pai, Jedutum, que profetizava ao som da harpa para adorar e dar graças a Yahweh.</para>
+  <para style="p"><verse number="4" style="v"/>Quanto à família de Hemã, seus filhos foram: Buquias, Matanias, Uziel, Sebuel, Jeremote, Romanti-Ézer, Josbecasa, Maloti, Hotir e Maaziote.</para>
+  <para style="p"><verse number="5" style="v"/>Todos estes foram filhos de Hemã, o vidente e profeta do rei, cuja foi exaltada diante de muitos conforme as promessas de que Deus haveria de torná-lo poderoso. E Deus concedeu a Hemã catorze filhos e três filhas.</para>
+  <para style="p"><verse number="6" style="v"/>Todos estes estavam sob a direção e mentoria de seus respectivos pais, quanto à ministração do louvor por meio da música no templo do SENHOR, com címbalos, liras e harpas, no serviço de adoração na Casa de Yahweh, estando Asafe, Jedutum e Hemã submissos às ordens do rei.</para>
+  <para style="p"><verse number="7" style="v"/>O número deles, juntamente com seus irmãos instruídos no canto de Yahweh, todos eles mestres, era de duzentos e oitenta e oito.</para>
+  <para style="p"><verse number="8" style="v"/>Então deitaram sortes para designar as responsabilidades, tanto dos mais velhos como dos jovens, tanto dos mestres como dos discípulos.</para>
+  <para style="p"><verse number="9" style="v"/>A primeira sorte tocou à família de Asafe, com seus filhos e parentes; eram ao todo doze; a segunda caiu para Gedalias, com seus filhos e parentes; eram ao todo doze;</para>
+  <para style="p"><verse number="10" style="v"/>a terceira para Zacur, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="11" style="v"/>a quarta para Izri, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="12" style="v"/>a quinta para Netanias, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="13" style="v"/>a sexta para Buquias, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="14" style="v"/>a sétima para Jesarela, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="15" style="v"/>a oitava para Jesaías, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="16" style="v"/>a nona para Matanias, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="17" style="v"/>a décima para Simei, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="18" style="v"/>a décima primeira para Azarel, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="19" style="v"/>a décima segunda para Hasabias, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="20" style="v"/>a décima terceira para Subael, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="21" style="v"/>a décima quarta para Matitias, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="22" style="v"/>a décima quinta para Jerimote, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="23" style="v"/>a décima sexta para Hananias, seusfilhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="24" style="v"/>a décima sétima para Josbecasa, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="25" style="v"/>a décima oitava para Hanani, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="26" style="v"/>a décima nona para Maloti, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="27" style="v"/>a vigésima para Eliata, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="28" style="v"/>a vigésima primeira para Hotir, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="29" style="v"/>a vigésima segunda para Gidálti, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="30" style="v"/>a vigésima terceira para Maaziote, seus filhos e parentes, doze ao todo;</para>
+  <para style="p"><verse number="31" style="v"/>a vigésima quarta para Romanti-Ézer, com seus filhos e parentes; eram ao todo doze.</para>
+  <chapter number="26" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Eis, a seguir, as classes dos porteiros: Dos coraítas: Meselemias, filho de Coré, da família de Asafe.</para>
+  <para style="p"><verse number="2" style="v"/>Foram estes os filhos de Meselemias: Zacarias, o primogênito, Jediael, o segundo, Zebadias, o terceiro, Jatniel, o quarto,</para>
+  <para style="p"><verse number="3" style="v"/>Elão, o quinto, Joanã, o sexto, e o Elioenai, o sétimo.</para>
+  <para style="p"><verse number="4" style="v"/>Foram estes os filhos de Obede-Edom: Semaías, o primogênito, Jeozabade, o segundo, Joá, o terceiro, Sacar, o quarto, Natanael, o quinto,</para>
+  <para style="p"><verse number="5" style="v"/>Amiel, o sexto, Issacar, o sétimo, e Peuletai, o oitavo, porquanto Deus havia derramado suas bênçãos sobre Obede-Edom.</para>
+  <para style="p"><verse number="6" style="v"/>Seu filho Semaías também gerou filhos, que se tornaram líderes na família de seu pai, pois eram homens capazes e corajosos.</para>
+  <para style="p"><verse number="7" style="v"/>Foram estes os filhos de Semaías: Otni, Rafael, Obede e Elzabade. Os parentes dele, Eliú e Semaquias, também foram homens notáveis.</para>
+  <para style="p"><verse number="8" style="v"/>Todos esses foram descendentes de Obede-Edom; eles e os seus filhos e parentes eram capazes, valentes e hábeis em suas funções. Somavam sessenta e dois descendentes da linhagem de Obede-Edom.</para>
+  <para style="p"><verse number="9" style="v"/>Meselemias gerou dezoito filhos e parentes próximos, todos eles homens ilustres e corajosos.</para>
+  <para style="p"><verse number="10" style="v"/>Foram estes os filhos de Hosa, o merarita: Sinri, que foi designado chefe por seu pai, mesmo não sendo o primogênito,</para>
+  <para style="p"><verse number="11" style="v"/>Hilquias, o segundo, Tebalias, o terceiro, e Zacarias, o quarto. Os filhos e parentes de Hosa foram treze ao todo.</para>
+  <para style="p"><verse number="12" style="v"/>Destes se formaram as classes dos porteiros, isto é, os grupos dos homens notáveis, que tinham cargos como seus parentes, para ministrarem na Casa de Yahweh, o templo do SENHOR.</para>
+  <para style="p"><verse number="13" style="v"/>Eles lançaram sortes, entre jovens e idosos, segundo as suas famílias, para cada porta.</para>
+  <para style="p"><verse number="14" style="v"/>E caiu a sorte da Porta Oriental para Selemias. Depois se lançou a sorte para seu filho Zacarias, conselheiro capaz, e saiu-lhe a Porta Norte.</para>
+  <para style="p"><verse number="15" style="v"/>A Obede-Edom, coube a Porta Saul; e a seus filhos a cada dos depósitos.</para>
+  <para style="p"><verse number="16" style="v"/>A Supim e Hosa, a Porta Ocidental e a Porta Salequete, junto ao caminho da subida, uma guarda em frente à outra.</para>
+  <para style="p"><verse number="17" style="v"/>Diariamente, faziam plantão seis levitas ao Oriente, quatro ao Norte, quatro ao Sul; mas na casa dos depósitos ficavam de dois em dois.</para>
+  <para style="p"><verse number="18" style="v"/>No pátio ocidental ficavam quatro guardas junto ao caminho, e dois junto ao pátio.</para>
+  <para style="p"><verse number="19" style="v"/>Portanto, foram essas as divisões dos porteiros em suas classes ou grupos de guardas, descendentes de Coré e Merari.</para>
+  <para style="p"><verse number="20" style="v"/>Dos outros irmãos levitas, Aías era responsável pelos tesouros do templo de Deus e pelos tesouros das ofertas dedicadas.</para>
+  <para style="p"><verse number="21" style="v"/>Os gersonitas, descendentes de Labã, que eram chefes de famílias pertencentes a Ladã, foram Jeieli,</para>
+  <para style="p"><verse number="22" style="v"/>os filhos de Jeieli, Zetão e Joel, seu irmão. Eram encarregados dos tesouros da Casa de Yahweh.</para>
+  <para style="p"><verse number="23" style="v"/>Dos anramitas, dos izaritas, dos hebronitas, dos uzielitas foram:</para>
+  <para style="p"><verse number="24" style="v"/>Sebuel, um descendente de Gérson, filho de Moisés, era o oficial responsável pelos depósitos dos tesouros.</para>
+  <para style="p"><verse number="25" style="v"/>Seus parentes por parte de Eliézer foram seu filho Reabias, que foi o pai de Jesaías, o avô de Jorão, o bisavô de Zicri, o trisavô de Selomote.</para>
+  <para style="p"><verse number="26" style="v"/>Selomote e seus parentes estavam encarregados de todos os tesouros consagrados pelo rei Davi, pelos chefes de famílias que eram os comandantes de mil e de cem saldados, e pelas demais autoridades do exército.</para>
+  <para style="p"><verse number="27" style="v"/>Eles haviam dedicado parte dos despojos tomados em combate para a manutenção da Casa do SENHOR.</para>
+  <para style="p"><verse number="28" style="v"/>E tudo quanto havia sido consagrado por Samuel, o vidente e profeta; Saul, filho de Quis, Abner, filho de Ner, e Joabe, filho de Zeruia, isto é, todas as dádivas sagradas estavam sob a guarda e responsabilidade de Selomote e seus parentes.</para>
+  <para style="p"><verse number="29" style="v"/>Dos filhos de Isar, os izaritas, Quenanias e seus filhos ficaram encarregados dos negócios públicos de Israel, atuando como oficiais e juízes.</para>
+  <para style="p"><verse number="30" style="v"/>Dos filhos de Hebrom, Hasabias e seus parentes, homens ilustres e corajosos, somavam mil e setecentos e ficaram responsáveis por todo o trabalho destinado a Yahweh e pelos serviços prestados ao rei em prol de Israel.</para>
+  <para style="p"><verse number="31" style="v"/>Segundo os registros genealógicos das famílias hebronitas, Jerias foi o chefe delas. No ano quarenta do reinado de Davi fez-se uma busca nos apontamentos históricos, e entre os descendentes de Hebrom acharam-se os nomes de homens nobres e valentes em Jazar de Gileade.</para>
+  <para style="p"><verse number="32" style="v"/>Quanto aos irmãos e parentes de Jerias, dois mil e setecentos guerreiros chefes de famílias, homens ilustres e valentes, o rei Davi os nomeou como conselheiros nos assuntos relativos a Deus e supervisores do rei junto às tribos de Rúben e Gade, e na metade da tribo de Manassés.</para>
+  <chapter number="27" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Esta é a relação dos filhos de Israel, chefes de famílias, comandantes de mil e comandantes de cem homens, oficiais que serviam na supervisão das divisões do exército que dedicavam-se ao serviço militar mês a mês, durante o ano. Cada divisão era formada por um contingente de 24. homens.</para>
+  <para style="p"><verse number="2" style="v"/>À frente da primeira divisão, designada para o primeiro mês, estava Iashovam ben Zavdiel, Jasobeão filho de Zabdiel.</para>
+  <para style="p"><verse number="3" style="v"/>Ele era um dos filhos de Perez e chefe de todos os oficiais do exército para servir durante o primeiro mês do ano.</para>
+  <para style="p"><verse number="4" style="v"/>À frente da divisão do segundo mês foi designado Dodai, descendente de Aoí; Miclote era o líder da sua divisão, que contava com 24. soldados.</para>
+  <para style="p"><verse number="5" style="v"/>O terceiro comandante do exército, destacado para servir durante o terceiro mês do ano, foi Benaia, filho do sacerdote Joiada. Ele era chefe da sua divisão de 24. soldados.</para>
+  <para style="p"><verse number="6" style="v"/>Este é aquele Benaia, homem ilustre e corajoso guerreiro, chefe do famoso batalhão dos Trinta. Seu filho Amizabade ficou com a responsabilidade de comandar sua divisão.</para>
+  <para style="p"><verse number="7" style="v"/>O quarto, designado para o quarto mês, foi Asael, irmão de Joabe; seu filho Zebadias foi o seu sucessor. Havia 24. soldados em sua divisão.</para>
+  <para style="p"><verse number="8" style="v"/>O quinto, para o quinto mês, foi o comandante Samute, o izraíta. Sua divisão contava também com 24. soldados.</para>
+  <para style="p"><verse number="9" style="v"/>O sexto, para o sexto mês, foi Ira, filho de Iques, de Tecoa. Era responsável por uma divisão de 24. soldados.</para>
+  <para style="p"><verse number="10" style="v"/>O sétimo, para o sétimo mês, foi Helez, de Pelom, descendente de Efraim. Era responsável por uma divisão de 24. soldados.</para>
+  <para style="p"><verse number="11" style="v"/>O oitavo, designado para o oitavo mês, era Sibecai, de Husate, da família de Zerá. Era responsável por uma divisão de 24. soldados.</para>
+  <para style="p"><verse number="12" style="v"/>O nono, designado para o novo mês, foi Abiezer, de Anatote, da tribo de Benjamim. Era responsável por uma divisão de 24. soldados.</para>
+  <para style="p"><verse number="13" style="v"/>O décimo, designado para o décimo mês, era Maarai, de Netofate, da família de Zerá. Era o responsável por uma divisão de 24. soldados.</para>
+  <para style="p"><verse number="14" style="v"/>O décimo primeiro, designado para o décimo primeiro mês, era Benaia, de Piratom, descendente de Efraim. Era responsável por uma divisão de 24. soldados.</para>
+  <para style="p"><verse number="15" style="v"/>O décimo segundo, designado para o décimo segundo mês, foi Heldai, de Netofate, da família de Otoniel. Havia igualmente 24. homens guerreiros em sua divisão.</para>
+  <para style="p"><verse number="16" style="v"/>Estes foram os líderes das tribos de Israel: De Rúben: Eliézer, filho de Zicri; de Simeão: Sefatias, filho de Maaca;</para>
+  <para style="p"><verse number="17" style="v"/>de Levi: Hasabias, filho de Quemuel; de Arão: Zadoque;</para>
+  <para style="p"><verse number="18" style="v"/>de Judá: Eliú, irmão de Davi; de Issacar: Onri, filho de Micael;</para>
+  <para style="p"><verse number="19" style="v"/>de Zebulom: Ismaías, filho de Obadias; de Naftali: Jeremote, filho de Azriel;</para>
+  <para style="p"><verse number="20" style="v"/>dos descendentes de Efraim: Oseias, filho de Azazias; da metade da tribo de Manassés: Joel, filho de Pedaías;</para>
+  <para style="p"><verse number="21" style="v"/>da outra metade da tribo de Manassés, em Gileade; Ido, filho de Zacarias; de Benjamim: Jaasiel, filho de Abner;</para>
+  <para style="p"><verse number="22" style="v"/>de Dã: Azareel, filho de Jeroão. Foram esses os líderes das tribos de Israel.</para>
+  <para style="p"><verse number="23" style="v"/>Davi não fez o recenseamento dos que tinham vinte anos para baixo, porquanto Yahweh dissera que multiplicaria o povo de Israel como as estrelas do céu.</para>
+  <para style="p"><verse number="24" style="v"/>Joabe, filho de Zeruia, começara a contar os homens, mas não conseguiu concluir o censo, porque a ira divina caiu sobre Israel, e o resultado não pode ser registrado nos apontamentos históricos do rei Davi.</para>
+  <para style="p"><verse number="25" style="v"/>Azmavete, filho de Adiel, era o responsável pelos tesouros do rei, e Jônatas, filho de Uzias, pelos tesouros dos campos, cidades, povoados, aldeias e torres de sentinela.</para>
+  <para style="p"><verse number="26" style="v"/>Ezri, filho de Quelube, era encarregado dos trabalhadores do campo que lavravam a terra.</para>
+  <para style="p"><verse number="27" style="v"/>Simei, da cidade de Ramá, estava responsável pelos vinicultores e suas vinhas. Zabdi, de Sifá, estava encarregado do vinho que era armazenado em tonéis nas adegas.</para>
+  <para style="p"><verse number="28" style="v"/>Baal-Hanã, da cidade de Gederá, era o responsável pelas oliveiras e pelas figueiras bravas cultivadas entre a planície costeira e as montanhas. E Joás estava encarregado do fornecimento de azeite.</para>
+  <para style="p"><verse number="29" style="v"/>Sitrai, de Sarom, estava encarregado do gado que pastava em Sarom. Safate, filho de Adlai, estava encarregado dos rebanhos nos vales.</para>
+  <para style="p"><verse number="30" style="v"/>Obil, o ismaelita, era encarregado dos camelos; e Jedias, da cidade de Meronote, estava encarregado dos jumentos.</para>
+  <para style="p"><verse number="31" style="v"/>Jaziz, o hagareno, era o responsável pelo manejo das ovelhas. Todos esses eram encarregados de administrar os bens do rei Davi.</para>
+  <para style="p"><verse number="32" style="v"/>Jônatas, tio de Davi, era conselheiro; homem sábio e também escriba. Ele e Jeiel, filho de Hacmoni, serviam aos filhos do rei.</para>
+  <para style="p"><verse number="33" style="v"/>Aitofel era conselheiro do rei. Husai, o arquita, era amigo do rei.</para>
+  <para style="p"><verse number="34" style="v"/>Aitofel foi sucedido por Joiada, filho de Benaia, e por Abiatar. Joabe era o general dos exércitos do rei.</para>
+  <chapter number="28" style="c"/>
+  <para style="p"><verse number="1" style="v"/>Davi congregou em Jerusalém todos os líderes do povo de Israel: os chefes das tribos, os chefes, os capitães das divisões a serviço do rei, os comandantes de cem e de mil soldados, e os administradores de todos os bens e propriedades do rei e de seus filhos, como também os oficiais, os homens ilustres e todos os guerreiros mais corajosos e valentes.</para>
+  <para style="p"><verse number="2" style="v"/>Então o rei Davi se colocou em pé diante de todos e proclamou em alta voz: “Ouvi-me, irmãos meus e povo meu! Eu tinha o propósito de construir um templo de repouso para a Arca da Aliança de Yahweh, nosso SENHOR, e para o estrado dos pés do nosso Deus, e fiz os preparativos para edificá-lo.</para>
+  <para style="p"><verse number="3" style="v"/>Entretanto, Deus me advertiu, dizendo: “Tu não construirás nenhum edifício em homenagem a Yahweh, meu Nome, porque és homem de guerra e em tua violência derramaste muito sangue humano!”</para>
+  <para style="p"><verse number="4" style="v"/>Contudo, Yahweh, o Deus de Israel, escolheu-me, dentre toda a casa de meu pai, para ser rei em Israel por toda a eternidade. Porquanto escolheu Judá por príncipe; e da tribo de Judá escolheu minha família, e entre os filhos de meu pai foi da sua vontade fazer-me rei sobre todo o povo de Israel.</para>
+  <para style="p"><verse number="5" style="v"/>E, dentre todos os muitos filhos que deu, o SENHOR escolheu Salomão para sentar-se no trono de Israel e os meus pátios, o reino de Yahweh.</para>
+  <para style="p"><verse number="6" style="v"/>Ele me declarou: ‘Teu filho Salomão construirá a minha Casa e os meu pátios, porque Eu o escolhi para ser meu filho, e Eu serei seu Abba, Pai e Mestre.</para>
+  <para style="p"><verse number="7" style="v"/>Estabelecerei o seu reino para sempre se ele perseverar em cumprir os meus mandamentos e as minhas orientações, como o faz no dia de hoje’.</para>
+  <para style="p"><verse number="8" style="v"/>Portanto, agora e à vista de todo o Israel, a comunidade de Yahweh, o SENHOR, e diante de nosso Deus, que nos ouve e contempla, observai e buscai todos os decretos do SENHOR vosso Deus, para que possuais esta boa terra, e a deixeis por herança a vossos descendentes, por toda a eternidade.</para>
+  <para style="p"><verse number="9" style="v"/>E tu, meu amado filho Salomão, reconhece o Deus de teu pai, e serve-o de coração íntegro e com toda a disposição da tua alma, porque Yahweh, o SENHOR, examina profundamente todos os corações, e conhece as mais intimas intenções da mente. Se o buscares, tu sempre o encontrarás; mas, se o desprezares, ele te rejeitará eternamente.</para>
+  <para style="p"><verse number="10" style="v"/>Agora, pois, toma cuidado, porque o SENHOR te escolheu para construíres uma Casa que lhe sirva como Santuário. Portanto, sê forte e realiza a obra com o melhor das tuas mãos!”</para>
+  <para style="p"><verse number="11" style="v"/>Em seguida Davi entregou a seu filho Salomão a planta do pórtico do templo, dos seus edifícios, dos seus depósitos, dos andares superiores e de todas as salas, e do lugar do propiciatório.</para>
+  <para style="p"><verse number="12" style="v"/>Da mesma forma, deu-lhe o modelo de tudo o que o Espírito de Deus havia falado em seu coração sobre os pátios do templo do SENHOR e de todas as salas ao redor, acerca dos depósitos dos tesouros da Casa de Deus e dos depósitos das ofertas sagradas.</para>
+  <para style="p"><verse number="13" style="v"/>Entregou-lhe também as instruções quanto às divisões dos sacerdotes e dos levitas e sobre a execução de todas as tarefas na Casa de Yahweh e os utensílios que seriam utilizados.</para>
+  <para style="p"><verse number="14" style="v"/>Especificou até o peso do ouro que deveria ser utilizado na fabricação dos utensílios de ouro do templo, bem como para todos os utensílios sagrados de cada espécie de uso e serviço; o peso da prata, para todos os utensílios de cada espécie de uso e serviço;</para>
+  <para style="p"><verse number="15" style="v"/>o peso para os castiçais de ouro e suas lâmpadas, e o peso da prata para os castiçais de prata, para cada castiçal e as suas lâmpadas, segundo o uso de cada castiçal;</para>
+  <para style="p"><verse number="16" style="v"/>o peso de ouro para as mesas dos consagrados, os pães da proposição, para cada mesa; como também da quantia de prata necessária para a fabricação das mesas de prata;</para>
+  <para style="p"><verse number="17" style="v"/>e o ouro puro para os garfos, as bacias e os jarros; para as taças de ouro, o peso para cada taça; como também para as taças de prata, o peso para cada taça,</para>
+  <para style="p"><verse number="18" style="v"/>e para o altar do incenso sagrado, o peso de ouro refinado; como também o ouro para o projeto do carro dos querubins que cobririam a Arca da Aliança de Yahweh com suas asas estendidas.</para>
+  <para style="p"><verse number="19" style="v"/>Então disse Davi a Salomão: “Tudo isso me foi revelado pela mão de Yahweh, o SENHOR, por escrito, e Deus me deu entendimento para executar todos os seus desígnios e projetos!”</para>
+  <para style="p"><verse number="20" style="v"/>E concluiu: “Sê forte e destemido, e realiza com disposição toda a obra que está diante de ti; nada temas, nem desanimes jamais, porquanto Yahweh, o SENHOR Deus, meu Deus, é contigo; nunca te abandonará, nem se afastará de ti, até que seja terminada toda a obra de construção da Casa de Yahweh, o templo do SENHOR.</para>
+  <para style="p"><verse number="21" style="v"/>Os grupos dos sacerdotes e dos levitas estão prontos para todo o trabalho que se fizer necessário no templo de Deus. Todo homem sadio, bem disposto e habilidoso em todos os ofícios e tipos de trabalho estará contigo para servi-lo em toda a obra. Eis que os chefes, os líderes e todo o povo de Israel obedecerão a todas as suas ordens!”</para>
+  <chapter number="29" style="c"/>
+  <para style="p"><verse number="1" style="v"/>O rei Davi disse mais a toda a assembleia: “Deus escolheu meu filho Salomão, e ninguém mais, para essa missão. Contudo, ele é jovem e inexperiente para realizar uma obra tão majestosa, pois esse palácio não é para homens, mas para servir como Casa de Yahweh, nosso SENHOR Deus.</para>
+  <para style="p"><verse number="2" style="v"/>Com todas as forças eu preparei para o templo do meu Deus todo o ouro para as obras de ouro, prata para as de prata, bronze para as de bronze, ferro para as de ferro e todo o suprimento da melhor madeira para as de madeira; assim como pedras de berilo, ônix, de engaste, de ornato, pedras de várias cores, turquesas, todo o tipo de pedras preciosas e muito mármore.</para>
+  <para style="p"><verse number="3" style="v"/>Além disso, pelo amor que dedico à Casa do meu Deus, quero neste momento doar do meu tesouro pessoal, ouro e prata para a edificação do templo do meu Deus, afora tudo quanto já destinei como oferta para o templo do santuário.</para>
+  <para style="p"><verse number="4" style="v"/>Eis, portanto, que ofereço: cento e cinco toneladas de ouro puro de Ofir e duzentos e quarenta e cinco toneladas de prata refinada, para o revestimento das paredes da Casa,</para>
+  <para style="p"><verse number="5" style="v"/>para os trabalhos em ouro e em prata, e para todos os objetos de arte produzidos pelos artesãos. Agora, quem hoje está igualmente disposto a ofertar suas dádivas a Yahweh, o SENHOR?</para>
+  <para style="p"><verse number="6" style="v"/>Então os chefes das famílias, os líderes das tribos de Israel, os comandantes de mil e de cem, e os oficiais encarregados da obra do rei deram do que possuíam com generosidade e alegria.</para>
+  <para style="p"><verse number="7" style="v"/>Para os trabalhos de construção do templo de Deus eles doaram cento e setenta e cinco toneladas de ouro e dez mil moedas de ouro, trezentos e cinquenta toneladas de bronze e três mil e quinhentas toneladas de ferro.</para>
+  <para style="p"><verse number="8" style="v"/>Todos quantos possuíam pedras preciosas, semelhantemente, ofertaram-na ao tesouro da Casa de Yahweh, cujo responsável era Jeiel, o gersonita.</para>
+  <para style="p"><verse number="9" style="v"/>Todo o povo muito se alegrou diante da atitude do rei e de seus líderes, porquanto entregaram essas ofertas com alegria, generosidade e pureza de coração a Yahweh, o SENHOR. E o rei Davi de igual modo ficou extremamente satisfeito.</para>
+  <para style="p"><verse number="10" style="v"/>Então, na presença de toda a comunidade, Davi bendisse a Yahweh, declarando: “Ó SENHOR, Deus de nosso pai Israel, bendito és tu, de eternidade em eternidade.</para>
+  <para style="p"><verse number="11" style="v"/>Ó SENHOR, tua é a grandeza, o poder, a glória, a vitória e a majestade, porque tudo quanto há no céu e na terra a ti pertence. Ó SENHOR, o reino é teu, e tu governas soberano sobre tudo e todos!</para>
+  <para style="p"><verse number="12" style="v"/>A riqueza e a honra vêm de ti; tu dominas sobre todas as coisas. Em tuas mãos residem toda a força e o poder; na tua destra a dignidade, consolo e encorajamento que todo ser humano carece.</para>
+  <para style="p"><verse number="13" style="v"/>Agora, portanto, nosso Deus, rendemos-te graças, e louvamos o teu glorioso Nome: Yahweh! Ó SENHOR.</para>
+  <para style="p"><verse number="14" style="v"/>Entretanto, quem sou eu, e quem é o meu povo para que pudéssemos contribuir tão generosamente e com tanta alegria como estamos fazendo? Ora, tudo vem de ti, e nós tão somente entregamos a ti do que é teu.</para>
+  <para style="p"><verse number="15" style="v"/>Diante da tua presença somos estrangeiros e forasteiros, como nossos antepassados. Os nossos dias na terra são como uma sombra, sem esperança alguma.</para>
+  <para style="p"><verse number="16" style="v"/>Ó Yahweh, nosso Deus, toda essa riqueza que doamos a fim de construirmos uma Casa em honra ao teu Santo Nome vem das tuas próprias mãos, e todo esse tesouro pertence a ti.</para>
+  <para style="p"><verse number="17" style="v"/>Deus meu, eu sei muito bem o quanto tu mergulhas em nossos corações, sonda-os e que te agradas da justiça e da integridade. Na sinceridade da minha alma ofereci voluntariamente todas estas riquezas; e agora vi com imensa satisfação que o teu povo, que se encontra aqui, igualmente ofereceu dos seus bens com generosidade e alegria.</para>
+  <para style="p"><verse number="18" style="v"/>Ó Yahweh, SENHOR Deus de nossos pais Abraão, Isaque e Israel, conserva por toda a eternidade no coração do teu povo esta generosidade e estes pensamentos justos, e encaminha o coração deles para ti.</para>
+  <para style="p"><verse number="19" style="v"/>Dá a meu filho Salomão um coração sincero e honesto a fim de obedecer aos teus mandamentos, aos teus decretos e aos teus princípios, para que possa edificar este templo para o qual reuni todos os recursos necessários.</para>
+  <para style="p"><verse number="20" style="v"/>Então Davi declarou a toda a comunidade: “Bendizei, pois, a Yahweh, o SENHOR, vosso Deus!” E toda a assembleia bendisse a Yahweh, Deus de seus antepassados, e ajoelharam-se em sinal de plena adoração e dedicação ao SENHOR Deus e perante o rei.</para>
+  <para style="p"><verse number="21" style="v"/>No dia seguinte, prepararam e ofereceram sacrifícios diante de Yahweh e lhe apresentaram em holocausto mil novilhos, mil carneiros e mil cordeiros, acompanhados de libações, as ofertas derramadas, e muito outros sacrifícios, em favor de todo o povo de Israel.</para>
+  <para style="p"><verse number="22" style="v"/>Naquele dia, todos comeram e beberam com grande alegria em seus corações na presença de Yahweh, o SENHOR. E, pela segunda vez, proclamaram Salomão, filho de Davi, rei, ungindo-o diante de Yahweh como governador soberano do povo, e Zadoque como sacerdote.</para>
+  <para style="p"><verse number="23" style="v"/>Assim Salomão foi assentado como rei no trono do SENHOR, sucedendo a seu pai, o rei Davi. E Salomão muito prosperou; e todo o Israel lhe foi submisso.</para>
+  <para style="p"><verse number="24" style="v"/>Todos os chefes, líderes e mais nobres guerreiros, bem como todos os filhos de Davi, prometeram absoluta lealdade e obediência ao rei Salomão.</para>
+  <para style="p"><verse number="25" style="v"/>À vista de todos os filhos de Israel, Yahweh engrandeceu sobremaneira a Salomão e concedeu-lhe um reino de um esplendor e um poder jamais conhecido por nenhum dos homens que reinaram antes dele sobre Israel.</para>
+  <para style="p"><verse number="26" style="v"/>Assim Davi, filho de Jessé, reinou sobre todo o Israel.</para>
+  <para style="p"><verse number="27" style="v"/>A duração do seu reinado sobre o povo de Israel foi de quarenta anos. Reinou sete anos em Hebrom e trinta e três em Jerusalém.</para>
+  <para style="p"><verse number="28" style="v"/>Ele faleceu feliz e realizado, em boa velhice e vida longa, cercado do respeito de todos, grande honra e muita riqueza; e Salomão, seu filho, assumiu o trono em seu lugar.</para>
+  <para style="p"><verse number="29" style="v"/>Os atos do rei Davi, desde os primeiros até os derradeiros, estão todos registrados por escrito nas crônicas do profeta Samuel, o vidente, nas crônicas do profeta Natã e nas crônicas de Gade, o vidente,</para>
+  <para style="p"><verse number="30" style="v"/>incluindo os todos os detalhes sobre o seu reinado e com todas as provações pelas quais teve de passar, assim como Israel e todos os reinos das terras.</para>
+</usx>

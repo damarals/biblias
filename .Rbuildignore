@@ -1,4 +1,7 @@
 ^biblias\.Rproj$
 ^\.Rproj\.user$
+^inst$
 ^README\.Rmd$
 ^LICENSE\.md$
+^data-raw$
+^\.github$
