@@ -2,20 +2,26 @@
 #'
 #' @export
 baixar_biblias <- function() {
-  u <- 'http://altamiro.comunidades.net/biblias'
+  u <- 'https://github.com/damarals/biblias'
   nodes <- rvest::read_html(u) %>%
-    rvest::html_elements(xpath = "//font//td//a")
+    rvest::html_elements(xpath = "//tbody//tr")
   sb <- cli::cli_status(paste0("{cli::symbol$arrow_right} Fazendo Download ",
                                "de {.pkg {length(nodes)}} B\u00edblias."))
   purrr::iwalk(nodes, function(node, ix) {
-      title <- rvest::html_attr(node, "title")
-      url <- rvest::html_attr(node, "href")
-      utils::download.file(url, "inst/sql/temp.zip",
+      title <- rvest::html_elements(node, xpath = "td") %>%
+        purrr::pluck(1) %>%
+        rvest::html_text2() %>%
+        stringr::str_remove_all("(\\s|)\\*+")
+      abbr <- rvest::html_elements(node, xpath = "td") %>%
+        purrr::pluck(2) %>%
+        rvest::html_text2()
+      url <- rvest::html_elements(node, xpath = "td//a") %>%
+        rvest::html_attr("href") %>%
+        purrr::keep(~stringr::str_detect(.x, ".sqlite"))
+      utils::download.file(url, paste0("inst/sql/", abbr, ".sqlite"),
                            quiet = TRUE, mode = "wb")
-      utils::unzip("inst/sql/temp.zip", exdir = "inst/sql")
-      unlink("inst/sql/temp.zip")
       msg <- paste0("{cli::symbol$arrow_right} Download da B\u00edblia ",
-                   "{.pkg {title}} conclu\u00eddo, ",
+                   "{.pkg {title} ({abbr})} conclu\u00eddo, ",
                    "restando {.pkg {length(nodes)-ix}}")
       cli::cli_status_update(sb, msg)
     })

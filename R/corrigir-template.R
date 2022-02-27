@@ -38,7 +38,8 @@ necessario_atualizar <- function(versao) {
     xml2::xml_attrs() %>% sapply(function(el) el[["role"]])
   livros_nome_aux <- purrr::set_names(1:length(livros_nome), livros_nome)
   stats_livros <- purrr::map_dfr(livros_nome, function(livro_nome) {
-    usx_list <- xml2::read_xml(paste0('inst/usx/template/', livro_nome, '.usx')) %>%
+    usx_list <- xml2::read_xml(paste0('inst/usx/template/release/USX_1/',
+                                      livro_nome, '.usx')) %>%
       xml2::as_list()
     dplyr::mutate(numero_versiculos(usx_list), liv = livro_nome, .before = cap)
   })
@@ -78,7 +79,7 @@ corrigir_capitulo_usx <- function(livro, capitulo, ver_atual, ver_novo) {
   livros_nome <- xml2::read_xml("inst/usx/template/metadata.xml") %>%
     xml2::xml_find_all(xpath = "//publications//structure//content") %>%
     xml2::xml_attrs() %>% sapply(function(el) el[["role"]])
-  biblia <- xml2::read_xml(paste0("inst/usx/template/",
+  biblia <- xml2::read_xml(paste0("inst/usx/template/release/USX_1/",
                                   livros_nome[livro], ".usx")) %>%
     xml2::as_list()
   styles <- sapply(biblia$usx, function(el) attr(el, "style"))
@@ -129,7 +130,7 @@ corrigir_usx <- function(versao) {
       att <- atualizar[ix,]
       usx <- corrigir_capitulo_usx(att$livn, att$cap, att$nver.livros, att$nver.biblia)
       xml2::write_xml(xml2::as_xml_document(usx),
-                      paste0("inst/usx/template/", att$liv, ".usx"))
+                      paste0("inst/usx/template/release/USX_1/", att$liv, ".usx"))
     })
   }
 }
