@@ -70,6 +70,8 @@ traduzir_biblias <- function() {
                                "formato {.emph JSON} para {.emph USX}, ",
                                "utilizando o template em '/inst/usx/template'."))
   purrr::iwalk(traducoes, function(trad, ix) {
+    invisible(dir.create(paste0("inst/usx/traducao/", trad, "/", nome_pastas[ix]),
+                         recursive = TRUE))
     path_template <- list.files("inst/usx/template/", full.names = TRUE) %>%
       stringr::str_subset("BibleData", negate = TRUE)
     file.copy(path_template, paste0("inst/usx/traducao/",
