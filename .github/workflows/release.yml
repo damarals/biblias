@@ -1,0 +1,56 @@
+name: release
+
+# Builds the distributable Bible files from the committed canonical store and
+# attaches them to a GitHub Release. Triggered by pushing a version tag (e.g. v1.0.0).
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up uv + Python
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: uv sync
+
+      - name: Validate canonical (writes worklists)
+        run: uv run biblias validate || true
+
+      - name: Build every version (zefania, sqlite, json)
+        run: |
+          mkdir -p dist
+          shopt -s nullglob
+          for dir in data/canonical/*/; do
+            code="$(basename "$dir")"
+            uv run biblias build "$code" --format zefania,sqlite,json --out dist
+          done
+
+      - name: Package
+        run: |
+          cd dist
+          shopt -s nullglob
+          # Per-version bundle: the three formats together.
+          for xml in *.xml; do
+            code="${xml%.xml}"
+            zip -q "${code}.zip" "${code}.xml" "${code}.sqlite" "${code}.json"
+          done
+          # Per-target bundles across all versions.
+          [ -n "$(echo *.sqlite)" ] && zip -q biblias-openlp.zip *.sqlite
+          [ -n "$(echo *.xml)" ] && zip -q biblias-quelea.zip *.xml
+
+      - name: Upload to Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*.zip
+          fail_on_unmatched_files: false
