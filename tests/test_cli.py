@@ -1,3 +1,4 @@
+import json as _json
 import sqlite3
 from pathlib import Path
 
@@ -40,9 +41,6 @@ def test_fetch_then_build(tmp_path: Path, monkeypatch):
     r2 = runner.invoke(cli.app, ["build", "KJA", "--out", str(dist_dir)])
     assert r2.exit_code == 0
     assert (dist_dir / "KJA.xml").exists()
-
-
-import json as _json
 
 
 def test_fetch_refuses_when_corrections_exist(tmp_path: Path, monkeypatch):

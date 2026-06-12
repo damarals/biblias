@@ -1,5 +1,5 @@
 from model import Bible, BibleMeta, Book, Chapter, Verse
-from validate import Report, Tier, validate_bible
+from validate import Tier, validate_bible
 
 
 def _bible(verses: list[tuple[int, str]]) -> Bible:
