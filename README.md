@@ -1,67 +1,79 @@
-# Bíblias
+<img alt="Bíblias banner" src=".github/banner.png" style="border-radius: 15px; max-width: 100%; height: auto; display: block; margin: 0 0 16px 0;"/>
+<div align="center">
+    <img src="https://img.shields.io/github/v/tag/damarals/biblias?color=success&label=" alt="Latest Tag" />
+    <img src="https://img.shields.io/github/last-commit/damarals/biblias/main?path=README.md&label=%C3%BAltima%20atualiza%C3%A7%C3%A3o&color=blue" alt="Última atualização" />
+    <img src="https://img.shields.io/github/license/damarals/biblias?color=blue" alt="Licença" />
+</div>
+<br />
+<div align="center"><strong>Bíblias em português, em formatos abertos</strong></div>
+<div align="center">Traduções da Bíblia em Zefania (XML), SQLite e JSON, geradas<br/> a partir de uma fonte canônica única e validada.</div>
+<br />
+<div align="center">
+  <sub>Desenvolvido por <a href="https://github.com/damarals">Daniel Amaral</a> 👨‍💻</sub>
+</div>
+<br />
 
-[![Última atualização](https://img.shields.io/github/last-commit/damarals/biblias?color=blue&label=atualizado&style=for-the-badge)](https://github.com/damarals/biblias/commits)
-[![Licença](https://img.shields.io/github/license/damarals/biblias?style=for-the-badge)](LICENSE)
+## Formatos
 
-Bíblias em português geradas a partir de uma fonte canônica única, em formatos abertos lidos por diversos softwares de projeção e leitura. O projeto disponibiliza três formatos:
-
-- **Zefania XML** — formato-padrão de Bíblia, importado por vários programas (Quelea, MyBible, And Bible, OpenLP, entre outros);
-- **SQLite** — banco de dados no esquema do OpenLP (cada programa usa o seu próprio esquema SQLite; este é o do [OpenLP](https://openlp.org/));
+- **Zefania XML** — formato-padrão de Bíblia, importado por vários programas (Quelea, MyBible, And Bible, OpenLP, entre outros).
+- **SQLite** — banco de dados no esquema do [OpenLP](https://openlp.org/) (cada programa usa o seu próprio esquema SQLite; este é o do OpenLP).
 - **JSON** — formato aberto, para qualquer outro uso.
-
-> **Onde baixar:** os arquivos prontos ficam em [**Releases**](https://github.com/damarals/biblias/releases). Baixe o formato/versão desejado e importe no seu programa.
 
 ## Traduções
 
-O catálogo cobre 20 traduções. As de **domínio público** (Bíblia Livre, Almeida 1911, Tradução Brasileira) podem ser redistribuídas livremente; as demais são de suas respectivas editoras.
+São **20 traduções**. Baixe o formato que quiser direto da última [release](https://github.com/damarals/biblias/releases/latest). As de domínio público (†) podem ser redistribuídas livremente; as demais pertencem a suas respectivas editoras.
 
-| Sigla | Versão | Sigla | Versão |
-|---|---|---|---|
-| ACF | Almeida Corrigida e Fiel | NTLH | Nova Tradução na Linguagem de Hoje |
-| ARA | Almeida Revista e Atualizada | NVI | Nova Versão Internacional |
-| ARC | Almeida Revista e Corrigida | NVT | Nova Versão Transformadora |
-| AS21 | Almeida Século 21 | TB | Tradução Brasileira |
-| JFAA | Almeida Atualizada | **BLIVRE** | **Bíblia Livre** (domínio público) |
-| KJA | King James Atualizada | **ALM1911** | **Almeida 1911** (domínio público) |
-| KJF | King James Fiel | OL | O Livro |
-| NAA | Nova Almeida Atualizada | MENS | A Mensagem |
-| NBV | Nova Bíblia Viva | NTJud | Novo Testamento Judaico |
-| | | VFL · CNBB | Versão Fácil de Ler · Bíblia CNBB |
+| Versão | Baixar |
+|---|---|
+| **ACF** · Almeida Corrigida e Fiel | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ACF.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ACF.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ACF.json) |
+| **ARA** · Almeida Revista e Atualizada | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARA.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARA.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARA.json) |
+| **ARC** · Almeida Revista e Corrigida | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARC.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARC.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARC.json) |
+| **AS21** · Almeida Século 21 | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/AS21.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/AS21.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/AS21.json) |
+| **JFAA** · Almeida Atualizada | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/JFAA.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/JFAA.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/JFAA.json) |
+| **KJA** · King James Atualizada | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/KJA.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/KJA.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/KJA.json) |
+| **KJF** · King James Fiel | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/KJF.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/KJF.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/KJF.json) |
+| **NAA** · Nova Almeida Atualizada | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NAA.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NAA.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NAA.json) |
+| **NBV** · Nova Bíblia Viva | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NBV.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NBV.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NBV.json) |
+| **NTLH** · Nova Tradução na Linguagem de Hoje | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NTLH.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NTLH.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NTLH.json) |
+| **NVI** · Nova Versão Internacional | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NVI.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NVI.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NVI.json) |
+| **NVT** · Nova Versão Transformadora | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NVT.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NVT.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NVT.json) |
+| **TB** · Tradução Brasileira † | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/TB.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/TB.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/TB.json) |
+| **BLIVRE** · Bíblia Livre † | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/BLIVRE.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/BLIVRE.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/BLIVRE.json) |
+| **ALM1911** · Almeida 1911 † | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ALM1911.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ALM1911.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ALM1911.json) |
+| **OL** · O Livro | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/OL.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/OL.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/OL.json) |
+| **MENS** · A Mensagem | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/MENS.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/MENS.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/MENS.json) |
+| **NTJud** · Novo Testamento Judaico | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NTJud.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NTJud.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/NTJud.json) |
+| **VFL** · Versão Fácil de Ler | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/VFL.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/VFL.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/VFL.json) |
+| **CNBB** · Bíblia CNBB | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/CNBB.xml) [![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/CNBB.sqlite) [![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/CNBB.json) |
+
+<sub>† domínio público · pacotes completos: [todas em Zefania](https://github.com/damarals/biblias/releases/latest/download/biblias-zefania.zip) · [todas em SQLite](https://github.com/damarals/biblias/releases/latest/download/biblias-sqlite.zip)</sub>
+
+> **Compatibilidade:** os arquivos da geração anterior (formatos antigos, incl. ProPresenter) seguem congelados em [`inst/`](https://github.com/damarals/biblias/tree/main/inst) — os links antigos continuam funcionando. Os downloads acima são da nova geração, publicados nas *Releases*.
 
 ## Qualidade dos dados
 
-As traduções de fontes comunitárias gratuitas contêm, em alguns versículos, **truncagens** herdadas de um mesmo *upstream* compartilhado (texto cortado no fim). O projeto não esconde isso:
+As traduções de fontes comunitárias gratuitas carregam, em alguns versículos, **truncagens** herdadas de um mesmo *upstream* compartilhado (texto cortado no fim). O projeto não esconde isso: um **validador** marca os versículos suspeitos por severidade — palavras perdidas, pontuação faltando, agrupamento de versos — e gera uma *worklist* por versão. Correções feitas à mão são **duráveis** (registradas em `data/corrections/` e protegidas contra sobrescrita).
 
-- um **validador** marca os versículos suspeitos por severidade (palavras perdidas, pontuação faltando, agrupamento de versos) e gera uma *worklist* por versão;
-- correções feitas à mão são **duráveis** (registradas em `data/corrections/` e protegidas contra sobrescrita).
+Para as versões com direito autoral não existe fonte gratuita e limpa de outra linhagem, então alguns versículos podem permanecer incompletos. Correções da comunidade são bem-vindas.
 
-Para as versões com direito autoral **não existe** fonte gratuita e limpa de outra linhagem, então alguns versículos podem permanecer incompletos — ver a *worklist* da versão. Correções da comunidade são bem-vindas (veja abaixo).
+## Para mantenedores
 
-## Para mantenedores e contribuidores
-
-O projeto é um *toolkit* em Python (gerenciado com [uv](https://docs.astral.sh/uv/)). Os arquivos de saída são gerados a partir do canônico em `data/canonical/` (JSON fatiado por livro, versionado).
+Toolkit em Python (com [uv](https://docs.astral.sh/uv/)). Os formatos são gerados a partir do canônico em `data/canonical/` (JSON fatiado por livro, versionado).
 
 ```bash
-uv sync                                   # instala o ambiente
-
-uv run biblias fetch KJA --source bolls   # busca uma versão de uma fonte → canônico
-uv run biblias validate                   # valida o canônico e grava as worklists
-uv run biblias diff-sources NTLH          # compara a versão entre fontes (a "caça")
-uv run biblias build KJA --format zefania,sqlite,json --out dist
+uv sync
+uv run biblias fetch KJA --source bolls                          # fonte → canônico
+uv run biblias validate                                          # valida + gera worklists
+uv run biblias diff-sources NTLH                                 # compara fontes (a "caça")
+uv run biblias build KJA --format zefania,sqlite,json --out dist # gera os arquivos
 ```
 
-Fontes disponíveis: `openlp` (SQLite local), `bolls`, `getbible`. O comando `diff-sources` ajuda a escolher, por versão, a fonte mais limpa.
+Fontes: `openlp` (SQLite local), `bolls`, `getbible`.
 
-### Como contribuir com uma correção
+## Contribuindo
 
-1. Edite o versículo no JSON canônico em `data/canonical/<VERSÃO>/<LIVRO>.json`.
-2. Registre o *ref* corrigido em `data/corrections/<VERSÃO>.json` para protegê-lo.
-3. Abra um *pull request*. (Correções como a do `@misaelbr` em Provérbios da KJA entram por aqui.)
+Para corrigir um versículo: edite o JSON canônico em `data/canonical/<VERSÃO>/<LIVRO>.json`, registre o *ref* em `data/corrections/<VERSÃO>.json` (para protegê-lo) e abra um *pull request*.
 
----
+## Licença
 
-### Ajude o Projeto com uma Doação
-
-Clique no botão abaixo e patrocine, com qualquer valor pelo *PayPal*, o empenho e a manutenção desse repositório.
-
-[![button-donate-paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?business=RSNGTLP66QMXU&no_recurring=0&currency_code=BRL)
+MIT. Veja [LICENSE](LICENSE).
