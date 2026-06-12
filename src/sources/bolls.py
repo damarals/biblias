@@ -13,8 +13,7 @@ from model import Bible, BibleMeta, Book, Chapter, Verse
 _SLUGS: dict[str, str] = {
     "ACF": "ACF11", "ARA": "ARA", "ARC": "ARC09", "AS21": "ALM21", "KJA": "KJA",
     "NAA": "NAA", "NBV": "NBV07", "NTLH": "NTLH", "NVI": "NVIPT", "NVT": "NVT",
-    "TB": "TB10", "OL": "OL", "MENS": "MENS", "NTJud": "NTJud", "VFL": "VFL",
-    "CNBB": "CNBB",
+    "TB": "TB10", "OL": "OL", "MENS": "MENS", "VFL": "VFL",
 }
 
 _TAG = re.compile(r"<[^>]+>")

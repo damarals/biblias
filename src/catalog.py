@@ -29,9 +29,7 @@ _ENTRIES: tuple[CatalogEntry, ...] = (
     CatalogEntry("ALM1911", "Almeida 1911", 1911, None, "public-domain", "full"),
     CatalogEntry("OL", "O Livro", 2000, "Biblica", "copyright", "full"),
     CatalogEntry("MENS", "A Mensagem", 2016, "Editora Vida", "copyright", "full"),
-    CatalogEntry("NTJud", "Novo Testamento Judaico", None, "Editora Vida", "copyright", "nt"),
     CatalogEntry("VFL", "Versão Fácil de Ler", 2017, "Bible League International", "copyright", "full"),
-    CatalogEntry("CNBB", "Bíblia CNBB", 2018, "Edições CNBB", "copyright", "full"),
 )
 
 CATALOG: dict[str, CatalogEntry] = {e.code: e for e in _ENTRIES}

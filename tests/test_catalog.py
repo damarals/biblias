@@ -3,8 +3,8 @@ import pytest
 from catalog import CATALOG, get
 
 
-def test_has_twenty_versions():
-    assert len(CATALOG) == 20
+def test_has_eighteen_versions():
+    assert len(CATALOG) == 18
     assert "KJA" in CATALOG
     assert "BLIVRE" in CATALOG
 
@@ -13,10 +13,6 @@ def test_biblia_livre_is_public_domain_full():
     entry = get("BLIVRE")
     assert entry.license == "public-domain"
     assert entry.scope == "full"
-
-
-def test_nt_judaico_is_nt_scope():
-    assert get("NTJud").scope == "nt"
 
 
 def test_get_returns_entry():
