@@ -2,7 +2,6 @@
 <div align="center">
     <img src="https://img.shields.io/github/v/tag/damarals/biblias?color=success&label=" alt="Latest Tag" />
     <img src="https://img.shields.io/github/last-commit/damarals/biblias/main?path=README.md&label=%C3%BAltima%20atualiza%C3%A7%C3%A3o&color=blue" alt="Última atualização" />
-    <img src="https://img.shields.io/github/license/damarals/biblias?color=blue" alt="Licença" />
 </div>
 <br />
 <div align="center"><strong>Uma coletânea de 20 Bíblias em português</strong></div>
