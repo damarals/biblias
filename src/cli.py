@@ -26,8 +26,8 @@ def fetch(code: str, source: str = "openlp") -> None:
 @app.command()
 def build(code: str, format: str = "zefania", out: Path = Path("dist")) -> None:
     """Gera um formato de saída a partir do canônico."""
-    bible = canon.load_bible(code, CANON_DIR)
     if format != "zefania":
         raise typer.BadParameter(f"Formato desconhecido: {format}")
+    bible = canon.load_bible(code, CANON_DIR)
     ZefaniaExporter().export(bible, out / f"{code}.xml")
     typer.echo(f"{code}: {format} gerado em {out}.")
