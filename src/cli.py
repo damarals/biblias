@@ -44,7 +44,7 @@ def build(code: str, format: str = "zefania", out: Path = Path("dist")) -> None:
 
 
 @app.command()
-def validate(code: str | None = None) -> None:
+def validate(code: str | None = typer.Argument(None)) -> None:
     """Valida o canônico e grava worklists por versão."""
     codes = [code] if code else sorted(
         p.name for p in CANON_DIR.iterdir() if (p / "meta.json").exists()
