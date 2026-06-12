@@ -1,17 +1,16 @@
 # Worklist — ARA
 
-## high (11)
-- EXO 38:17 — verse much shorter than other versions (91 vs median 190 chars)
-- 1KI 18:33 — verse much shorter than other versions (71 vs median 156 chars)
+## high (10)
+- EXO 38:17 — verse much shorter than other versions (91 vs median 188 chars)
 - 1KI 22:45 — verse much shorter than other versions (40 vs median 127 chars)
-- 1KI 22:48 — verse much shorter than other versions (58 vs median 126 chars)
+- 1KI 22:48 — verse much shorter than other versions (58 vs median 127 chars)
 - 1CH 4:38 — verse much shorter than other versions (59 vs median 119 chars)
-- 2CH 18:23 — verse much shorter than other versions (73 vs median 153 chars)
-- EZR 4:11 — verse much shorter than other versions (49 vs median 116 chars)
-- EZR 6:4 — verse much shorter than other versions (33 vs median 105 chars)
+- 2CH 18:23 — verse much shorter than other versions (73 vs median 158 chars)
+- EZR 4:11 — verse much shorter than other versions (49 vs median 115 chars)
+- EZR 6:4 — verse much shorter than other versions (33 vs median 107 chars)
 - EZK 8:8 — verse much shorter than other versions (43 vs median 100 chars)
 - HOS 6:11 — verse much shorter than other versions (33 vs median 96 chars)
-- 1CO 15:43 — verse much shorter than other versions (43 vs median 92 chars)
+- 1CO 15:43 — verse much shorter than other versions (43 vs median 94 chars)
 
 ## low (330)
 - GEN 22:21 — missing terminal punctuation

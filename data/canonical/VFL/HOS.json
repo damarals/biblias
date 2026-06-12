@@ -1,0 +1,866 @@
+{
+  "id": 28,
+  "code": "HOS",
+  "name": "Oséias",
+  "abbrev": "Os",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Este livro trata da mensagem que o SENHOR deu a Oseias, filho de Beeri. Isto aconteceu na época em que Uzias, Jotão, Acaz e Ezequias eram reis de Judá; e também na época em que Jeroboão, filho de Joás, era rei de Israel."
+        },
+        {
+          "number": 2,
+          "text": "Esta foi a primeira mensagem que o SENHOR deu a Oseias. O SENHOR lhe falou o seguinte: — Vá e case-se com uma prostituta e tenha filhos de prostituição, porque as pessoas deste país têm se comportado como uma prostituta. Elas não têm sido fiéis ao SENHOR."
+        },
+        {
+          "number": 3,
+          "text": "Então Oseias se casou com Gômer, filha de Diblaim. Gômer ficou grávida e teve um filho."
+        },
+        {
+          "number": 4,
+          "text": "O SENHOR falou a Oseias: — O nome do seu filho será Jezreel, porque daqui a pouco castigarei a família de Jeú pelo sangue que derramou no vale de Jezreel. Além disso, destruirei o reino da nação de Israel."
+        },
+        {
+          "number": 5,
+          "text": "Nesse dia quebrarei o arco de Israel no vale de Jezreel."
+        },
+        {
+          "number": 6,
+          "text": "Mais tarde, Gômer ficou grávida de novo e teve uma filha. O Senhor disse a Oseias: — O nome da sua filha será “Não-Mais-Piedade”, porque não terei mais piedade dos israelitas e não lhes perdoarei mais."
+        },
+        {
+          "number": 7,
+          "text": "Mas com Judá terei piedade. Não a salvarei com arco, nem com espada, nem com batalhas, nem com cavalos, nem com cavaleiros. Eu a salvarei com o poder do SENHOR, seu Deus."
+        },
+        {
+          "number": 8,
+          "text": "Quando terminou de amamentar a Não-Mais-Piedade, Gômer ficou grávida de novo e teve outro filho."
+        },
+        {
+          "number": 9,
+          "text": "Deus disse: — O nome do seu filho será “Não-É-Meu-Povo”, porque vocês já não são mais o meu povo e eu já não sou mais o seu Deus."
+        },
+        {
+          "number": 10,
+          "text": "No futuro, os israelitas serão como a areia do mar, que ninguém pode medir nem contar. E no mesmo lugar onde lhes foi dito: “Vocês já não são o meu povo”, também lhes será dito: “Vocês são filhos do Deus vivo”."
+        },
+        {
+          "number": 11,
+          "text": "Os povos de Judá e de Israel serão reunidos e escolherão para si um único chefe. Transbordarão no país, pois o dia de Jezreel será maravilhoso."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Logo, vocês chamarão aos seus irmãos de “Vocês-São-Meu-Povo”, e às suas irmãs de “Piedade”."
+        },
+        {
+          "number": 2,
+          "text": "“Enfrentem a sua mãe, porque já não é mais a minha esposa, e eu já não sou mais o seu esposo! Falem para ela que pare de se comportar como uma prostituta e que afaste do seu peito os seus amantes."
+        },
+        {
+          "number": 3,
+          "text": "Se não fizer isso, tirarei toda a roupa dela e ficará nua, como no dia em que nasceu. Levarei comigo todas as pessoas que moram ali e farei com que se torne um deserto, uma terra deserta e seca. Farei com que morra de sede."
+        },
+        {
+          "number": 4,
+          "text": "Não terei piedade dos seus filhos, porque são fruto da sua prostituição."
+        },
+        {
+          "number": 5,
+          "text": "A mãe desses filhos é uma prostituta, a que os concebeu não tinha vergonha. Ela dizia: ‘Irei atrás dos meus amantes, dos que me dão comida, água, a minha lã, o meu linho, o meu azeite de oliva e o meu vinho’."
+        },
+        {
+          "number": 6,
+          "text": "“Por isso colocarei espinhos no seu caminho como obstáculo. Construirei uma parede ao redor dela, para que não possa encontrar seus caminhos."
+        },
+        {
+          "number": 7,
+          "text": "Ela irá atrás dos seus amantes, porém não os alcançará. Procurará por eles, mas não os encontrará. Então dirá: ‘Retornarei ao meu primeiro esposo. Minha vida era melhor quando estava com ele’."
+        },
+        {
+          "number": 8,
+          "text": "Ela não sabia que era eu quem lhe dava o trigo, o vinho e o azeite. Era eu quem cada vez lhe dava mais prata e mais ouro, que logo usou para fazer as estátuas de Baal."
+        },
+        {
+          "number": 9,
+          "text": "“Por isso, retornarei quando for o tempo da colheita e tirarei dela o meu trigo e o meu vinho. Levarei comigo a minha lã e o meu linho que cobriam a sua nudez."
+        },
+        {
+          "number": 10,
+          "text": "Exibirei a sua vergonha diante de todos os seus amantes e ninguém poderá resgatá-la do meu poder."
+        },
+        {
+          "number": 11,
+          "text": "Farei com que terminem as suas comemorações, que não tenham mais as suas festividades, as festas de Lua Nova e os seus dias de descanso. Não existirão mais dias de festa."
+        },
+        {
+          "number": 12,
+          "text": "Destruirei as suas videiras e as suas figueiras. Ela dizia: ‘Estes são presentes que os meus amantes têm me dado’. Agora eu transformarei seus jardins numa floresta e os animais selvagens comerão seus frutos."
+        },
+        {
+          "number": 13,
+          "text": "Eu a castigarei por adorar aqueles deuses falsos, ao ter queimado incenso para eles. Ela se enfeitava com anéis e joias, para poder ir atrás dos seus amantes, esquecendo-se de mim."
+        },
+        {
+          "number": 14,
+          "text": "“Assim que a seduzirei, eu a levarei ao deserto e ali falarei ao seu coração."
+        },
+        {
+          "number": 15,
+          "text": "Eu lhe darei campos de uvas e transformarei o vale do Desastre numa porta de esperança. Então ela me responderá como ela me respondeu quando era jovem, quando saiu da terra do Egito."
+        },
+        {
+          "number": 16,
+          "text": "“Nesse momento deixará de me chamar ‘Senhor’ e me chamará de ‘Esposo meu’."
+        },
+        {
+          "number": 17,
+          "text": "Eu tirarei da sua boca os nomes desses deuses falsos, e ninguém mais se lembrará deles."
+        },
+        {
+          "number": 18,
+          "text": "“Nesse tempo, farei uma aliança a favor dos israelitas com os animais selvagens, as aves do céu e tudo o que se arrasta sobre a terra. Acabarei com os arcos, as espadas e a guerra, para que possam dormir tranquilos."
+        },
+        {
+          "number": 19,
+          "text": "Israel, eu me comprometo a ser seu esposo para sempre, farei o que é correto e terei amor fiel; eu prometo ser compassivo com você."
+        },
+        {
+          "number": 20,
+          "text": "Eu me casarei com você e lhe serei fiel, e conhecerá ao SENHOR de verdade."
+        },
+        {
+          "number": 21,
+          "text": "“Nesse tempo, eu responderei. Eu falarei com os céus, e eles falarão com a terra."
+        },
+        {
+          "number": 22,
+          "text": "A terra dará trigo, vinho e azeite, para satisfazer as necessidades de Jezreel."
+        },
+        {
+          "number": 23,
+          "text": "Eu plantarei muitas sementes na sua terra. Com Não-Mais-Piedade terei piedade. Direi para Não-É-Meu-Povo: ‘Você é o meu povo’, e ele me dirá: ‘O Senhor é o meu Deus’”."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Depois o SENHOR me disse de novo: — A sua esposa tem um amante e tem sido infiel com você. Mas você deve mostrar o seu amor para com ela de novo, porque isso serve como exemplo do amor do SENHOR para com os israelitas. Ele continua a amá-los mesmo que eles tenham se afastado de mim para adorar outros deuses e gostem de comer pastéis de uvas passas."
+        },
+        {
+          "number": 2,
+          "text": "Então comprei Gômer por cento e oitenta gramas de prata e uma carga e meia de cevada."
+        },
+        {
+          "number": 3,
+          "text": "Então eu lhe disse: — Deixe já de ser uma prostituta. Você viverá comigo por muito tempo. Não se entregue a nenhum outro; eu serei o seu esposo."
+        },
+        {
+          "number": 4,
+          "text": "Da mesma forma, o povo de Israel viverá por muito tempo sem rei e sem governante; sem sacrifícios e sem monumentos de pedra; sem vestidos sacerdotais e sem ídolos familiares."
+        },
+        {
+          "number": 5,
+          "text": "Depois disso, os israelitas retornarão e procurarão pelo SENHOR, seu Deus, e por Davi, seu rei. E, no futuro, darão honra ao SENHOR pela sua bondade."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Povo de Israel, escute a mensagem do SENHOR, porque o SENHOR tem algo para falar contra aqueles que vivem nesta terra: “Neste país não existe mais honestidade nem piedade. As pessoas não conhecem a Deus."
+        },
+        {
+          "number": 2,
+          "text": "Neste país há uma onda de maldições, enganos, assassinatos, roubos e adultérios. Um crime é cometido após o outro."
+        },
+        {
+          "number": 3,
+          "text": "Por isso a terra ficará seca e todos os que ali moram morrerão. Serão destruídos e morrerão junto com os animais selvagens, as aves do céu e até os peixes do mar."
+        },
+        {
+          "number": 4,
+          "text": "“Que ninguém discuta nem acuse os outros. Minha discussão é com você, sacerdote."
+        },
+        {
+          "number": 5,
+          "text": "Você tropeçará durante o dia, e de noite também tropeçará com você o profeta; e destruirei a sua mãe."
+        },
+        {
+          "number": 6,
+          "text": "“Meu povo está sendo destruído, porque não conhece a Deus. Já que você não quis conhecer a Deus, eu também não aceitarei você como o meu sacerdote. Já que você se esqueceu da lei do seu Deus, eu também me esquecerei dos seus filhos."
+        },
+        {
+          "number": 7,
+          "text": "Eles se tornaram orgulhosos e cada vez pecavam mais e mais contra mim. Por tanto, eu irei mudar sua glória em desgraça."
+        },
+        {
+          "number": 8,
+          "text": "“Os sacerdotes comem das ofertas para o pecado. Por isso eles gostam quando as pessoas pecam."
+        },
+        {
+          "number": 9,
+          "text": "Acontecerá com o sacerdote o mesmo que aconteceu com o povo: todos serão castigados pelos seus pecados. Darei a cada um o que merece pelo mal que fez."
+        },
+        {
+          "number": 10,
+          "text": "Eles comerão, mas não ficarão satisfeitos; se prostituirão, mas não terão filhos. Isso lhes acontecerá por terem abandonado o SENHOR."
+        },
+        {
+          "number": 11,
+          "text": "“A prostituição, o vinho e as bebidas fortes tiram o bom juízo."
+        },
+        {
+          "number": 12,
+          "text": "Meu povo pede conselhos a pedaços de madeira, esperando que eles respondam. Da mesma forma que as prostitutas, o meu povo tem sido infiel e abandonou ao seu Deus."
+        },
+        {
+          "number": 13,
+          "text": "Oferecem sacrifícios no alto dos montes e queimam incenso nas colinas, debaixo das árvores como o carvalho, o álamo e o olmeiro, porque lhes agrada a sombra que dão. Debaixo da sombra, suas filhas se deitam como prostitutas e suas noras cometem adultério."
+        },
+        {
+          "number": 14,
+          "text": "Mas não castigarei as suas filhas por se comportarem como prostitutas nem as suas noras por cometerem adultério, porque são os homens que procuram pelas prostitutas e contratam as prostitutas do templo para oferecerem seus sacrifícios. Esta é a forma como um povo que carece de entendimiento se destrói a si mesmo."
+        },
+        {
+          "number": 15,
+          "text": "“Israel, já que você se prostitui, que pelo menos Judá não peque. Não vão para Gilgal nem subam para Bete-Áven. Não jurem pelo nome do SENHOR."
+        },
+        {
+          "number": 16,
+          "text": "Israel ficou teimoso como uma novilha. Por isso agora o SENHOR não vai ser generoso com eles nem será como o pastor que alimenta suas ovelhas numa grande campina."
+        },
+        {
+          "number": 17,
+          "text": "Efraim se uniu aos seus ídolos e, por isso, ele tem que ser deixado só."
+        },
+        {
+          "number": 18,
+          "text": "A bebida é seu melhor amigo; cometem adultério, amam aos seus amantes. Ficam orgulhosos daquilo que deveria fazer com que eles ficassem com vergonha."
+        },
+        {
+          "number": 19,
+          "text": "Um vento fará com que fiquem envoltos nas suas asas, sejam arrastados e sofram desgraça pelos sacrifícios que ofereceram."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Sacerdotes e nação de Israel, escutem o seguinte! Família real, preste atenção! Escutem, porque este juízo é contra vocês: Vocês foram uma armadilha em Mispá e uma rede extendida no monte Tabor."
+        },
+        {
+          "number": 2,
+          "text": "Vocês têm cometido pecados muito grandes e eu castigarei todos vocês."
+        },
+        {
+          "number": 3,
+          "text": "Eu conheço Efraim e sei de tudo o que Israel tem feito. Efraim, agora você se comporta como uma prostituta, e Israel está impuro."
+        },
+        {
+          "number": 4,
+          "text": "“Já não podem voltar ao seu Deus, porque as suas práticas não lhes permitem isso. Seu forte impulso em se prostituir não os deixa conhecer o SENHOR."
+        },
+        {
+          "number": 5,
+          "text": "Será mostrado a Efraim o seu próprio orgulho. Tanto Israel como Efraim cairão pelos seus pecados e também Judá cairá junto com eles."
+        },
+        {
+          "number": 6,
+          "text": "Com as suas ovelhas e vacas irão procurar pelo SENHOR, mas não o encontrarão. Ele se afastará deles."
+        },
+        {
+          "number": 7,
+          "text": "Não foram fiéis ao SENHOR, pois tiveram filhos que não são dele, mas de deuses estrangeiros. Agora, o gafanhoto devorará as suas plantações."
+        },
+        {
+          "number": 8,
+          "text": "“Façam que se escute o berrante em Gibeá. Toquem a trombeta em Ramá. Gritem com força em Bete-Áven. Benjamim, o inimigo está atrás de você!"
+        },
+        {
+          "number": 9,
+          "text": "Efraim será destruído no dia do castigo. Advirto às tribos de Israel que tudo isso acontecerá."
+        },
+        {
+          "number": 10,
+          "text": "Os líderes de Judá são como os ladrões que roubam a terra dos demais. Derramarei como água a minha fúria sobre eles."
+        },
+        {
+          "number": 11,
+          "text": "Efraim está esmagado, o direito não é respeitado. Será castigado por ter ido atrás da sujeira."
+        },
+        {
+          "number": 12,
+          "text": "Eu destruirei Efraim como se destrói a traça que come o tecido. Destruirei Judá como é destruído o fungo que cobre a madeira."
+        },
+        {
+          "number": 13,
+          "text": "“Efraim percebeu que estava doente, e Judá viu a sua ferida. Efraim pediu a ajuda da Assíria; Judá foi procurar pelo grande rei. Mas ele não poderá sarar vocês nem poderá curar as suas feridas."
+        },
+        {
+          "number": 14,
+          "text": "Porque eu atacarei Efraim como um leão que ataca. Como um jovem leão atacarei a nação de Judá. Eu os destruirei. Eu os levarei para longe e ninguém os poderá resgatar."
+        },
+        {
+          "number": 15,
+          "text": "Voltarei ao meu lugar até que reconhecam o seu erro e venham me procurar. Quando estiverem sofrendo, procurarão por mim de verdade”."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Voltemos para o SENHOR. Ele nos destruiu, mas nos sarará. Feriu a gente, mas vendará as nossas feridas."
+        },
+        {
+          "number": 2,
+          "text": "Daqui a dois dias ele voltará a nos dar vida, e daqui a três dias ele irá nos colocar em pé. Então poderemos viver na sua presença."
+        },
+        {
+          "number": 3,
+          "text": "Façamos um esforço para conhecer o SENHOR, até estarmos seguros nele. Ele virá a nós! Podemos estar certos disso como a vinda do amanhecer. Virá a nós como a chuva, como a chuva fresca que cai sobre a terra."
+        },
+        {
+          "number": 4,
+          "text": "“Efraim, o que irei fazer com você? Judá, o que irei fazer com você? A fidelidade de vocês é como as nuvens da tarde ou como o orvalho da manhã, desaparece rapidamente."
+        },
+        {
+          "number": 5,
+          "text": "Por isso os destruí com as palavras da minha boca; eu os tenho cortado em pedaços por meio dos meus profetas."
+        },
+        {
+          "number": 6,
+          "text": "Eu quero de vocês um amor fiel em vez de sacrifícios de animais. Quero que vocês me conheçam, não que me façam ofertas."
+        },
+        {
+          "number": 7,
+          "text": "Mas Efraim e Judá quebraram a aliança em Adã. Ali me enganaram."
+        },
+        {
+          "number": 8,
+          "text": "Gileade é uma cidade cheia de criminosos; é um lugar cheio de sangue."
+        },
+        {
+          "number": 9,
+          "text": "Os sacerdotes, como os ladrões, atacam as pessoas no caminho para Siquém. Ali eles colocam em prática os seus planos malignos."
+        },
+        {
+          "number": 10,
+          "text": "Tenho visto algo horrível na nação de Israel: Efraim não é fiel a Deus. Israel está impuro."
+        },
+        {
+          "number": 11,
+          "text": "“Judá, para você também haverá tempo de colheita quando eu libertar o meu povo do cativeiro."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Quando eu curar o povo de Israel, as pessoas conhecerão os pecados de Efraim e todos saberão das maldades cometidas em Samaria. Todos ficarão sabendo que eles criaram deuses falsos e que as suas ruas estão cheias de ladrões."
+        },
+        {
+          "number": 2,
+          "text": "Não percebem que eu me lembro de todos os seus pecados. Suas más ações os cercaram. Vejo claramente todos os seus pecados."
+        },
+        {
+          "number": 3,
+          "text": "“Com suas maldades fazem feliz ao rei e com suas mentiras alegram os seus líderes."
+        },
+        {
+          "number": 4,
+          "text": "Todos eles estão prontos para cometer adultério. São como o forno de um padeiro que vai ficando quente. O padeiro só deixa de esquentar o forno para amassar e deixar crescer a massa."
+        },
+        {
+          "number": 5,
+          "text": "Na festa do nosso rei, os líderes ficam doentes com o calor do vinho e o líder de alguns traidores lhes dá o sinal que é hora de atacar o rei."
+        },
+        {
+          "number": 6,
+          "text": "Quando colocam uma armadilha, seus corações ardem de emoção, como um forno. Durante a noite suas emoções crescem e de manhã são como chama ardente."
+        },
+        {
+          "number": 7,
+          "text": "Todos eles são como um forno quente. Destruíram os seus juízes. Todos os seus reis caíram e nenhum deles pediu a minha ajuda."
+        },
+        {
+          "number": 8,
+          "text": "“Efraim está misturado com as demais nações. É como um bolo assado por um só lado."
+        },
+        {
+          "number": 9,
+          "text": "Os estrangeiros têm devorado a sua força, mas ele ainda não tem percebido isso. Tem se enchido de canas, mas ele não percebe isso."
+        },
+        {
+          "number": 10,
+          "text": "Israel é acusado pelo seu próprio orgulho, mas não volta para o SENHOR, seu Deus. Apesar de todos os problemas que ele teve, segue sem procurar por Deus."
+        },
+        {
+          "number": 11,
+          "text": "“Efraim é como um pássaro tonto que não tem inteligência: pede ajuda ao Egito e se dirige à Assíria."
+        },
+        {
+          "number": 12,
+          "text": "Onde quer que eles forem, eu extenderei a minha rede sobre eles. Eu os pegarei como se pega um pássaro do céu. Eu os castigarei por buscarem ajuda em outras nações ao invés de buscarem a minha ajuda."
+        },
+        {
+          "number": 13,
+          "text": "“Sofrerão por ter se afastado de mim. Serão destruídos por não terem me obedecido. Eu os salvei, mas eles dizem mentiras ao meu respeito."
+        },
+        {
+          "number": 14,
+          "text": "Não me chamam desde o fundo dos seus corações. Se lamentam e choram nas suas camas. Eles se cortam a si mesmos quando pedem por comida e vinho, mas eles têm se afastado de mim."
+        },
+        {
+          "number": 15,
+          "text": "Apesar de eu ter lhes ensinado e ter dado força aos seus braços, fizeram planos malvados contra mim."
+        },
+        {
+          "number": 16,
+          "text": "Mudaram de rumo como um bumerangue e foram adorar a um deus falso. Seus líderes fazem alarde da sua força, mas cairão pelo fio da espada. E todo o povo do Egito zombará deles."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Toque a trombeta para dar uma advertência. Seja como uma águia sobre a casa do SENHOR, porque os israelitas quebraram a minha aliança e desobedeceram às minhas leis."
+        },
+        {
+          "number": 2,
+          "text": "Eles gritam e me falam: ‘Ó, Deus de Israel, nós o conhecemos!’"
+        },
+        {
+          "number": 3,
+          "text": "Mas Israel tem rejeitado o bem e, por isso, o inimigo o persegue."
+        },
+        {
+          "number": 4,
+          "text": "Eles escolheram quem iria ser rei sem me consultarem. Eles escolheram a príncipes que eu não conhecia. Com o seu ouro e com a sua prata fizeram as estátuas dos seus ídolos. Por isso, Israel será destruído."
+        },
+        {
+          "number": 5,
+          "text": "Samaria, eu tenho rejeitado o seu bezerro. Estou muito chateado com o seu povo. Até quando seguirão pecando?"
+        },
+        {
+          "number": 6,
+          "text": "Esse bezerro foi feito por um artesão de Israel; esse bezerro não é Deus. Por isso o bezerro de Samaria será quebrado em mil pedaços."
+        },
+        {
+          "number": 7,
+          "text": "“Eles plantarão, quando o vento estiver soprando forte. Eles colherão, quando houver um vento forte e poderoso. O que eles plantaram irá crescer, mas não dará frutos. Não produzirá grão algum, e em caso de produzir algo, os estrangeiros o devorarão."
+        },
+        {
+          "number": 8,
+          "text": "Israel foi destruído. Seu povo está espalhado entre as nações como um pedaço de ferro-velho."
+        },
+        {
+          "number": 9,
+          "text": "Israel insiste em ir para a Assíria. São teimosos como mulas. O povo de Efraim tem contratado amantes."
+        },
+        {
+          "number": 10,
+          "text": "Buscaram amantes entre as nações. Por isso, eu farei com que eles se juntem aos seus amantes, e sofram a opressão do imperador."
+        },
+        {
+          "number": 11,
+          "text": "“Todos os altares que Efraim construiu para apagar os pecados se converteram em altares para cometer pecados."
+        },
+        {
+          "number": 12,
+          "text": "Ainda que eu lhes escrevesse dez mil leis, vocês as tratariam como algo estranho."
+        },
+        {
+          "number": 13,
+          "text": "Fazem sacrifícios com o que eu lhes dei. Fazem ofertas de carne e as comem. O SENHOR não gosta dessas pessoas; ele se lembra dos seus pecados e por isso os castigará. Serão levados como prisioneiros ao Egito."
+        },
+        {
+          "number": 14,
+          "text": "Israel construía palácios para os seus reis enquanto Judá fazia muitas fortalezas. Mas se esqueceram do seu Criador. Por isso eu enviarei fogo sobre essas cidades, um fogo que devorará as suas fortalezas”."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israel, não comemore nem festeje como fazem as outras nações, porque você tem sido infiel e tem se afastado do seu Deus. Você cometeu pecados sexuais onde se mói o grão."
+        },
+        {
+          "number": 2,
+          "text": "Mas nem nos lugares onde se mói o grão nem onde o vinho é produzido haverá alimento."
+        },
+        {
+          "number": 3,
+          "text": "Os israelitas não viverão mais na terra do SENHOR. Efraim retornará para o Egito e na Assíria comerão o que é considerado impuro."
+        },
+        {
+          "number": 4,
+          "text": "Não oferecerão vinho ao SENHOR nem lhe apresentarão os seus sacrifícios. Seus sacrifícios serão como pão oferecido num funeral, que torna impuro a todo aquele que o come. Seu pão só servirá para acalmar a fome, mas não entrará na casa do SENHOR."
+        },
+        {
+          "number": 5,
+          "text": "Que farão quando chegar a festividade, o dia da festa do SENHOR?"
+        },
+        {
+          "number": 6,
+          "text": "Os israelitas fugirão da ruína, o Egito reunirá todos vocês e Mênfis os enterrará. Seus tesouros de prata se encherão de urtigas e nas suas tendas crescerão espinhos."
+        },
+        {
+          "number": 7,
+          "text": "“Israel, chegou a sua hora de acertar contas pela sua grande culpa”. Mas os israelitas dizem: “O profeta é um tonto. Este homem cheio do Espírito está maluco”. O profeta diz: “Serão castigados pelos seus graves pecados e pelo seu grande ódio”."
+        },
+        {
+          "number": 8,
+          "text": "Deus e o profeta são como os guardas de Efraim. Mas todos os seus caminhos estão cheios de armadilhas e todos odeiam o profeta, mesmo na casa do seu Deus."
+        },
+        {
+          "number": 9,
+          "text": "Os israelitas estão completamente arruinados como no tempo de Gibeá. Deus se lembrará dos seus pecados e, por isso, os castigará."
+        },
+        {
+          "number": 10,
+          "text": "“Quando achei Israel, eles eram como uvas no meio do deserto. Seus pais eram como os primeiros figos da figueira no começo da estação. Mas depois, eles foram a Baal-Peor e se dedicaram a fazer coisas vergonhosas. Eles se tornaram pessoas detestáveis como também eram detestáveis os deuses que adoravam."
+        },
+        {
+          "number": 11,
+          "text": "“A glória de Efraim voará para longe como um pássaro. Já não existirá mais gravidez, nem mais nascimentos, nem mais bebês entre eles."
+        },
+        {
+          "number": 12,
+          "text": "E embora consigam criar filhos, eu os tirarei deles. Eu os abandonarei e só terão problemas."
+        },
+        {
+          "number": 13,
+          "text": "Vejo que Efraim está guiando os seus filhos para uma armadilha; ele os leva até a pessoa que os matará."
+        },
+        {
+          "number": 14,
+          "text": "SENHOR, que eles tenham o que merecem! Que as suas mulheres não possam ter filhos ou não possam amamentá-los!"
+        },
+        {
+          "number": 15,
+          "text": "“Comecei a ter ódio contra eles em Gilgal, por todas as maldades que fizeram ali. Por causa de todo o mal que fizeram, eu os tirarei da minha casa; deixarei de amá-los. Todos os seus líderes são rebeldes."
+        },
+        {
+          "number": 16,
+          "text": "Efraim está ferido, bateram nele. Sua raiz está seca. Não produz nenhum fruto. Embora ele tenha filhos, eu matarei os preciosos bebês que saírem do seu ventre”."
+        },
+        {
+          "number": 17,
+          "text": "Deus não os escutará, porque eles não o escutam. Por isso, sem um lar, vagarão sem rumo entre as nações."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israel era como uma parreira vigorosa que produzia muito fruto. Mas quanto mais frutos dava, mais altares construía para os deuses falsos. Quanto melhor a terra se tornava, melhores estátuas fazia para honrar os seus deuses."
+        },
+        {
+          "number": 2,
+          "text": "Seu coração era enganoso, por isso agora deve pagar pelas suas culpas. Deus destruirá seus altares, e fará em pedaços as suas colunas de pedra."
+        },
+        {
+          "number": 3,
+          "text": "Então, eles dirão: “Não temos rei e não honramos ao SENHOR, por isso o seu rei não poderá fazer nada contra nós”."
+        },
+        {
+          "number": 4,
+          "text": "Fazem promessas, falsos juramentos e alianças que não cumprem. Seus juízes são como a erva venenosa que cresce no campo."
+        },
+        {
+          "number": 5,
+          "text": "As pessoas de Samaria adoram os bezerros em Bete-Áven. Seu povo e seus sacerdotes chorarão amargamente e sofrerão com agonia, porque seu bezerro será levado a outras terras, longe deles."
+        },
+        {
+          "number": 6,
+          "text": "Será levado para Assíria como um presente para o grande rei. Efraim sentirá vergonha; Israel se envergonhará do seu ídolo."
+        },
+        {
+          "number": 7,
+          "text": "O deus falso de Samaria será destruído. Será como um galho pequeno boiando na superfície da água."
+        },
+        {
+          "number": 8,
+          "text": "Israel pecou ao construir santuários em Avém, os quais serão destruídos. Seus altares se encherão de espinhos e de erva daninha. Então eles dirão às montanhas: “Cubram a todos nós!” e aos montes: “Caiam sobre nós!”"
+        },
+        {
+          "number": 9,
+          "text": "“Israel, você tem pecado desde a época de Gibeá e as pessoas continuam pecando ali. A guerra fará com que fiquem presas em Gibeá essas pessoas perversas."
+        },
+        {
+          "number": 10,
+          "text": "Quando eu vier, eu os castigarei. Os exércitos se unirão contra eles, para que sejam castigados pelos seus dois pecados."
+        },
+        {
+          "number": 11,
+          "text": "Efraim é como uma vaca treinada que gosta de caminhar sobre o grão no lugar onde se trilha. Eu colocarei um jugo no seu pescoço, colocarei as rédeas em Efraim. Judá arará a terra e o próprio Jacó a abrirá."
+        },
+        {
+          "number": 12,
+          "text": "Semeiem bondade para vocês mesmos, colham amor fiel. Cultivem seu chão virgem, pois agora é o momento de procurar pelo SENHOR. Ele virá e fará que sobre você chova a bondade."
+        },
+        {
+          "number": 13,
+          "text": "Mas vocês têm semeado maldade e têm colhido o pecado. Vocês têm comido o fruto do seu engano porque confiam só no seu poder e no tamanho do seu exército."
+        },
+        {
+          "number": 14,
+          "text": "“Por isso se levantará uma multidão entre seu povo, e todas as suas fortalezas serão destruídas. Acontecerá a mesma coisa que aconteceu quando Salmã ganhou na batalha de Bete-Arbel. Ali as mães foram destruídas junto com seus filhos."
+        },
+        {
+          "number": 15,
+          "text": "A mesma coisa acontecerá com vocês em Betel, por todas suas grandes maldades. Ao amanhecer, o rei de Israel será destruído por completo”."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Quando Israel era jovem, eu o amava, e chamei o meu filho, e ele veio da terra do Egito."
+        },
+        {
+          "number": 2,
+          "text": "Mas quanto mais eu chamava os israelitas, mais eles se afastavam de mim. Ofereciam sacrifícios aos deuses falsos e queimavam incenso para os ídolos."
+        },
+        {
+          "number": 3,
+          "text": "Mas fui eu quem ensinou Efraim a caminhar! Eu o segurei nos meus braços. Eles não sabem que fui eu quem os curou quando estavam feridos."
+        },
+        {
+          "number": 4,
+          "text": "Eu os guiei como se guia um bezerro com uma corda de couro, com um colar de couro os tratei com carinho. Tirei seu jugo e lhes dei de comer pasto."
+        },
+        {
+          "number": 5,
+          "text": "“Israel não quis retornar para o SENHOR, por isso retornará ao Egito e o rei da Assíria será seu rei."
+        },
+        {
+          "number": 6,
+          "text": "Uma espada atacará as cidades de Israel e acabará com os mais fortes, destruirá os seus líderes."
+        },
+        {
+          "number": 7,
+          "text": "Meu povo espera pelo meu retorno. Eles chamarão por Deus, mas ele não responderá."
+        },
+        {
+          "number": 8,
+          "text": "“Efraim, não posso abandonar você. Israel, não posso colocar você nas mãos dos seus inimigos. Não posso abandonar você como a Admá. Não posso fazer com você o que fiz com Zeboim. Mudei de opinião, a minha compaixão é muito grande."
+        },
+        {
+          "number": 9,
+          "text": "Não ficarei irado, não destruirei Efraim de novo. Sou Deus, não homem; sou o Santo Deus que vive no meio de você. Não entrarei na cidade de Samaria."
+        },
+        {
+          "number": 10,
+          "text": "Rugirei como um leão. Rugirei, e meus filhos virão. Irão atrás de mim, o SENHOR. Virão do oeste tremendo de medo."
+        },
+        {
+          "number": 11,
+          "text": "Virão desde o Egito tremendo como pássaros. Virão da Assíria tremendo como pombos e eu lhes permitirei retornar para as suas casas. Podem ter certeza disto!"
+        },
+        {
+          "number": 12,
+          "text": "“Efraim me cercou com enganos; Israel se rebelou contra mim. Mas Judá ainda está com Deus, e ainda é fiel com os santos."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Efraim desperdiça o seu tempo: persegue o vento o dia inteiro. Cada vez mente mais e rouba mais. Tem feito alianças com a Assíria e envia do seu azeite ao Egito”."
+        },
+        {
+          "number": 2,
+          "text": "O SENHOR tem algo contra Judá; castigará Jacó como ele merece e lhe dará segundo as suas obras."
+        },
+        {
+          "number": 3,
+          "text": "Desde que estava no ventre da sua mãe, Jacó começou a enganar ao seu irmão. Sendo adulto, enfrentou a Deus."
+        },
+        {
+          "number": 4,
+          "text": "Lutou contra um anjo e ganhou dele, chorou e lhe pediu um favor. Ele achou a Deus em Betel e lhe falou."
+        },
+        {
+          "number": 5,
+          "text": "Era o SENHOR Deus Todo-Poderoso. O seu nome é YAVÉ."
+        },
+        {
+          "number": 6,
+          "text": "Quanto a você, retorne ao seu Deus, ame fielmente, seja justo e confie sempre nele."
+        },
+        {
+          "number": 7,
+          "text": "Canaã adora enganar às pessoas; usa balanças que foram alteradas."
+        },
+        {
+          "number": 8,
+          "text": "Efraim disse: “Sou rico! Tenho encontrado um tesouro! Ninguém ficará sabendo dos meus crimes; ninguém conhecerá os meus pecados”."
+        },
+        {
+          "number": 9,
+          "text": "“Mas eu tenho sido o SENHOR, seu Deus, desde que você vivia no Egito. Farei com que você viva em tendas no deserto, como na época da Tenda Sagrada."
+        },
+        {
+          "number": 10,
+          "text": "Falei aos profetas e muitas vezes lhes dei a conhecer a minha vontade por meio de visões. Por meio dos profetas contei histórias para ensinar as minhas lições às pessoas”."
+        },
+        {
+          "number": 11,
+          "text": "Mas as pessoas de Gileade pecaram e em Gilgal fazem coisas piores: sacrificam touros e constroem muitíssimos altares como fileiras de rochas perto dos campos próprios para o cultivo."
+        },
+        {
+          "number": 12,
+          "text": "Jacó fugiu para Arã. Ali Israel trabalhou para conseguir uma esposa e tomou conta de ovelhas para conseguir outra esposa."
+        },
+        {
+          "number": 13,
+          "text": "Por meio de um profeta, o SENHOR tirou Israel do Egito; e por meio de um profeta o protegeu."
+        },
+        {
+          "number": 14,
+          "text": "Mas Efraim fez com que ele ficasse irado. O Senhor o castigará e o fará pagar pela maldade que fez."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Efraim fez de si mesmo alguém muito importante em Israel. Quando falava, todos tremiam de medo. Mas Efraim pecou adorando a Baal, e por isso morreu."
+        },
+        {
+          "number": 2,
+          "text": "Agora continuam pecando e fazendo ídolos. Constroem ídolos com o seu melhor esforço. São trabalhos feitos pelos melhores artesãos. Eles falam com essas estátuas e beijam os bezerros."
+        },
+        {
+          "number": 3,
+          "text": "Por isso serão como as nuvens do amanhecer e como o orvalho que some rapidamente. Serão como a palha que é arrastada pelo vento nos lugares onde se mói o grão; como a fumaça que sai de uma chaminé e some."
+        },
+        {
+          "number": 4,
+          "text": "“Eu tenho sido o SENHOR, seu Deus, desde que você começou a morar no Egito. Você não conheceu outro Deus que não fosse eu. Eu era o único salvador que você tinha."
+        },
+        {
+          "number": 5,
+          "text": "Eu conheci você no deserto, nessa terra seca."
+        },
+        {
+          "number": 6,
+          "text": "Enquanto os guiava e os alimentava, tinham muito para comer. Mas se tornaram arrogantes e se esqueceram de mim."
+        },
+        {
+          "number": 7,
+          "text": "“Por isso serei como um leão para com eles. Serei como um leopardo indo em direção à Assíria."
+        },
+        {
+          "number": 8,
+          "text": "Eu os atacarei como um urso furioso ataca e farei o seu peito em pedaços. Eu os devorarei como um leão devora sua presa, Eu os destruirei como um animal selvagem destrói sua presa."
+        },
+        {
+          "number": 9,
+          "text": "“Israel, destruirei você, porque se colocou contra mim. Você se colocou contra aquele que o ajudou."
+        },
+        {
+          "number": 10,
+          "text": "Onde está o seu rei? Poderá salvar todas as suas cidades? Onde estão os juízes que você pediu ao dizer: ‘Dê para mim um rei e alguns líderes’?"
+        },
+        {
+          "number": 11,
+          "text": "Eu dei para você um rei quando estava com ira e o tirei de você quando ainda estava cheio de ira."
+        },
+        {
+          "number": 12,
+          "text": "“Efraim tratou de ocultar as suas culpas. Acreditou que os seus pecados estavam ocultos, mas receberá o seu castigo."
+        },
+        {
+          "number": 13,
+          "text": "Ele sentirá as dores como as que sente uma mulher que dá à luz. Ele não será um menino sábio. Quando chegar a sua hora de nascer, não sobreviverá."
+        },
+        {
+          "number": 14,
+          "text": "Eu os livrarei do sepulcro; eu os resgatarei da morte. Morte, onde está a sua praga? Sepulcro, onde está o seu poder de ferir? Não vejo razão para lamentação."
+        },
+        {
+          "number": 15,
+          "text": "Efraim é o mais rico de todos os seus irmãos, mas virá um vento do leste. O sopro do SENHOR soprará desde o deserto. Os mananciais e as fontes de Efraim se secarão. O vento levará os seus tesouros e objetos preciosos."
+        },
+        {
+          "number": 16,
+          "text": "Samaria é culpada por ter se rebelado contra o seu Deus. Serão mortos pela espada, seus filhos serão despedaçados contra o chão e suas mulheres grávidas terão os seus ventres rasgados”."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israel, retorne para o SENHOR, seu Deus. Seu pecado fez você cair."
+        },
+        {
+          "number": 2,
+          "text": "Pensem bem em como pedirão desculpa ao SENHOR. Digam a ele: “Perdoe todos os nossos pecados e não se esqueça do bem que temos feito. Se você fizer isso, nós ofereceremos palavras de louvor e agradecimento."
+        },
+        {
+          "number": 3,
+          "text": "A Assíria não nos salvará. Não montaremos nos nossos cavalos para ir buscar ajuda na Assíria. Não voltaremos a dizer àquilo que as nossas mãos fizeram: ‘Você é o nosso deus’, porque é o Senhor quem sente compaixão pelo órfão”."
+        },
+        {
+          "number": 4,
+          "text": "“Eu os perdoarei por terem me abandonado; eu lhes presentearei com o meu amor. Minha fúria contra eles sumiu."
+        },
+        {
+          "number": 5,
+          "text": "Serei para Israel como o orvalho. Ele florescerá como um lírio. Crescerá como os cedros do Líbano."
+        },
+        {
+          "number": 6,
+          "text": "Suas raízes se estenderão por todos os lados para obter alimento e retornará tão bela como uma oliveira. Terá o aroma das florestas do Líbano."
+        },
+        {
+          "number": 7,
+          "text": "As pessoas que viviam debaixo da sua sombra retornarão e crescerão como o grão. Darão fruto como a parreira. Israel será lembrado pelo mundo como o vinho do Líbano."
+        },
+        {
+          "number": 8,
+          "text": "Efraim, já não terei que me preocupar com os ídolos. Sou eu quem tem respondido a você; sou eu quem protegerá você. Sou como um pinheiro sempre verde. Seu fruto vem de mim”."
+        },
+        {
+          "number": 9,
+          "text": "Quem é sábio entenderá estas coisas. Quem tem capacidade para entender aprenderá isto: os caminhos do SENHOR são certos; os justos seguirão neles, mas os perversos tropeçarão neles."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2255 @@
+# Worklist — VFL
+
+## high (186)
+- GEN 5:5 — verse much shorter than other versions (25 vs median 70 chars)
+- GEN 5:8 — verse much shorter than other versions (25 vs median 61 chars)
+- GEN 5:11 — verse much shorter than other versions (25 vs median 62 chars)
+- GEN 5:14 — verse much shorter than other versions (26 vs median 61 chars)
+- GEN 5:17 — verse much shorter than other versions (29 vs median 76 chars)
+- GEN 5:20 — verse much shorter than other versions (27 vs median 74 chars)
+- GEN 5:23 — verse much shorter than other versions (22 vs median 64 chars)
+- GEN 5:27 — verse much shorter than other versions (30 vs median 77 chars)
+- GEN 5:31 — verse much shorter than other versions (28 vs median 74 chars)
+- GEN 9:29 — verse much shorter than other versions (24 vs median 65 chars)
+- GEN 36:41 — verse much shorter than other versions (21 vs median 43 chars)
+- GEN 36:42 — verse much shorter than other versions (21 vs median 43 chars)
+- EXO 25:33 — verse much shorter than other versions (84 vs median 188 chars)
+- EXO 32:9 — verse much shorter than other versions (24 vs median 82 chars)
+- EXO 37:19 — verse much shorter than other versions (80 vs median 202 chars)
+- EXO 37:21 — verse much shorter than other versions (83 vs median 192 chars)
+- EXO 39:25 — verse much shorter than other versions (42 vs median 93 chars)
+- LEV 5:5 — verse much shorter than other versions (39 vs median 82 chars)
+- LEV 11:21 — verse much shorter than other versions (71 vs median 143 chars)
+- LEV 11:22 — verse much shorter than other versions (58 vs median 145 chars)
+- LEV 22:5 — verse much shorter than other versions (62 vs median 135 chars)
+- NUM 2:32 — verse much shorter than other versions (70 vs median 193 chars)
+- NUM 3:18 — verse much shorter than other versions (37 vs median 77 chars)
+- NUM 3:30 — verse much shorter than other versions (38 vs median 79 chars)
+- NUM 4:40 — verse much shorter than other versions (43 vs median 112 chars)
+- NUM 26:42 — verse much shorter than other versions (44 vs median 133 chars)
+- NUM 31:35 — verse much shorter than other versions (46 vs median 98 chars)
+- NUM 31:43 — verse much shorter than other versions (16 vs median 91 chars)
+- NUM 31:45 — verse much shorter than other versions (15 vs median 34 chars)
+- NUM 33:50 — verse much shorter than other versions (44 vs median 90 chars)
+- DEU 4:17 — verse much shorter than other versions (41 vs median 83 chars)
+- DEU 4:18 — verse much shorter than other versions (45 vs median 111 chars)
+- JOS 21:14 — verse much shorter than other versions (15 vs median 52 chars)
+- JOS 21:15 — verse much shorter than other versions (13 vs median 48 chars)
+- JOS 21:35 — verse much shorter than other versions (14 vs median 69 chars)
+- JOS 21:37 — verse much shorter than other versions (18 vs median 72 chars)
+- JOS 21:39 — verse much shorter than other versions (15 vs median 78 chars)
+- JDG 11:30 — verse much shorter than other versions (42 vs median 86 chars)
+- JDG 18:17 — verse much shorter than other versions (56 vs median 235 chars)
+- JDG 19:27 — verse much shorter than other versions (80 vs median 179 chars)
+- 2SA 2:19 — verse much shorter than other versions (43 vs median 94 chars)
+- 2SA 12:14 — verse much shorter than other versions (57 vs median 125 chars)
+- 2SA 16:19 — verse much shorter than other versions (45 vs median 112 chars)
+- 1KI 21:11 — verse much shorter than other versions (62 vs median 165 chars)
+- 1KI 21:16 — verse much shorter than other versions (52 vs median 118 chars)
+- 1CH 1:52 — verse much shorter than other versions (21 vs median 45 chars)
+- 1CH 1:53 — verse much shorter than other versions (21 vs median 45 chars)
+- 1CH 3:11 — verse much shorter than other versions (21 vs median 75 chars)
+- 1CH 3:12 — verse much shorter than other versions (24 vs median 63 chars)
+- 1CH 3:13 — verse much shorter than other versions (25 vs median 79 chars)
+- 1CH 3:14 — verse much shorter than other versions (14 vs median 49 chars)
+- 1CH 5:5 — verse much shorter than other versions (21 vs median 56 chars)
+- 1CH 6:21 — verse much shorter than other versions (26 vs median 70 chars)
+- 1CH 6:23 — verse much shorter than other versions (24 vs median 57 chars)
+- 1CH 6:24 — verse much shorter than other versions (27 vs median 72 chars)
+- 1CH 6:30 — verse much shorter than other versions (24 vs median 54 chars)
+- 1CH 6:34 — verse much shorter than other versions (27 vs median 63 chars)
+- 1CH 6:35 — verse much shorter than other versions (28 vs median 64 chars)
+- 1CH 6:36 — verse much shorter than other versions (32 vs median 68 chars)
+- 1CH 6:37 — verse much shorter than other versions (29 vs median 65 chars)
+- 1CH 6:38 — verse much shorter than other versions (27 vs median 62 chars)
+- 1CH 6:41 — verse much shorter than other versions (19 vs median 46 chars)
+- 1CH 6:42 — verse much shorter than other versions (17 vs median 44 chars)
+- 1CH 6:43 — verse much shorter than other versions (21 vs median 47 chars)
+- 1CH 6:46 — verse much shorter than other versions (18 vs median 45 chars)
+- 1CH 6:47 — verse much shorter than other versions (26 vs median 61 chars)
+- 1CH 6:51 — verse much shorter than other versions (20 vs median 51 chars)
+- 1CH 6:52 — verse much shorter than other versions (26 vs median 58 chars)
+- 1CH 6:53 — verse much shorter than other versions (17 vs median 36 chars)
+- 1CH 6:58 — verse much shorter than other versions (13 vs median 45 chars)
+- 1CH 7:9 — verse much shorter than other versions (63 vs median 138 chars)
+- 1CH 7:26 — verse much shorter than other versions (22 vs median 54 chars)
+- 1CH 7:27 — verse much shorter than other versions (12 vs median 34 chars)
+- 1CH 23:10 — verse much shorter than other versions (26 vs median 92 chars)
+- 1CH 28:15 — verse much shorter than other versions (43 vs median 203 chars)
+- 1CH 28:16 — verse much shorter than other versions (51 vs median 114 chars)
+- 1CH 28:17 — verse much shorter than other versions (36 vs median 160 chars)
+- 2CH 26:12 — verse much shorter than other versions (40 vs median 87 chars)
+- EZR 2:4 — verse much shorter than other versions (17 vs median 50 chars)
+- EZR 2:5 — verse much shorter than other versions (12 vs median 47 chars)
+- EZR 2:7 — verse much shorter than other versions (15 vs median 53 chars)
+- EZR 2:8 — verse much shorter than other versions (13 vs median 49 chars)
+- EZR 2:9 — verse much shorter than other versions (14 vs median 42 chars)
+- EZR 2:10 — verse much shorter than other versions (13 vs median 48 chars)
+- EZR 2:11 — verse much shorter than other versions (14 vs median 46 chars)
+- EZR 2:12 — verse much shorter than other versions (17 vs median 49 chars)
+- EZR 2:13 — verse much shorter than other versions (16 vs median 52 chars)
+- EZR 2:14 — verse much shorter than other versions (17 vs median 49 chars)
+- EZR 2:15 — verse much shorter than other versions (13 vs median 53 chars)
+- EZR 2:17 — verse much shorter than other versions (14 vs median 45 chars)
+- EZR 2:18 — verse much shorter than other versions (13 vs median 32 chars)
+- EZR 2:19 — verse much shorter than other versions (14 vs median 44 chars)
+- EZR 2:20 — verse much shorter than other versions (13 vs median 36 chars)
+- EZR 2:35 — verse much shorter than other versions (24 vs median 49 chars)
+- EZR 2:37 — verse much shorter than other versions (15 vs median 42 chars)
+- EZR 2:38 — verse much shorter than other versions (16 vs median 51 chars)
+- EZR 2:39 — verse much shorter than other versions (16 vs median 36 chars)
+- EZR 2:42 — verse much shorter than other versions (78 vs median 176 chars)
+- EZR 2:44 — verse much shorter than other versions (19 vs median 58 chars)
+- EZR 2:45 — verse much shorter than other versions (22 vs median 61 chars)
+- EZR 2:46 — verse much shorter than other versions (21 vs median 52 chars)
+- EZR 2:47 — verse much shorter than other versions (20 vs median 59 chars)
+- EZR 2:48 — verse much shorter than other versions (21 vs median 60 chars)
+- EZR 2:49 — verse much shorter than other versions (19 vs median 58 chars)
+- EZR 2:50 — verse much shorter than other versions (22 vs median 62 chars)
+- EZR 2:51 — verse much shorter than other versions (26 vs median 63 chars)
+- EZR 2:52 — verse much shorter than other versions (22 vs median 61 chars)
+- EZR 2:53 — verse much shorter than other versions (21 vs median 60 chars)
+- EZR 2:54 — verse much shorter than other versions (16 vs median 41 chars)
+- EZR 2:56 — verse much shorter than other versions (21 vs median 60 chars)
+- EZR 2:57 — verse much shorter than other versions (42 vs median 93 chars)
+- EZR 2:66 — verse much shorter than other versions (35 vs median 87 chars)
+- EZR 2:67 — verse much shorter than other versions (29 vs median 83 chars)
+- NEH 7:9 — verse much shorter than other versions (17 vs median 50 chars)
+- NEH 7:10 — verse much shorter than other versions (12 vs median 48 chars)
+- NEH 7:12 — verse much shorter than other versions (15 vs median 53 chars)
+- NEH 7:13 — verse much shorter than other versions (13 vs median 49 chars)
+- NEH 7:14 — verse much shorter than other versions (14 vs median 42 chars)
+- NEH 7:15 — verse much shorter than other versions (14 vs median 49 chars)
+- NEH 7:16 — verse much shorter than other versions (14 vs median 46 chars)
+- NEH 7:17 — verse much shorter than other versions (17 vs median 55 chars)
+- NEH 7:18 — verse much shorter than other versions (16 vs median 52 chars)
+- NEH 7:19 — verse much shorter than other versions (17 vs median 48 chars)
+- NEH 7:20 — verse much shorter than other versions (13 vs median 50 chars)
+- NEH 7:22 — verse much shorter than other versions (14 vs median 45 chars)
+- NEH 7:23 — verse much shorter than other versions (14 vs median 47 chars)
+- NEH 7:24 — verse much shorter than other versions (15 vs median 34 chars)
+- NEH 7:25 — verse much shorter than other versions (14 vs median 37 chars)
+- NEH 7:27 — verse much shorter than other versions (16 vs median 43 chars)
+- NEH 7:28 — verse much shorter than other versions (21 vs median 44 chars)
+- NEH 7:30 — verse much shorter than other versions (20 vs median 50 chars)
+- NEH 7:31 — verse much shorter than other versions (15 vs median 42 chars)
+- NEH 7:34 — verse much shorter than other versions (29 vs median 59 chars)
+- NEH 7:35 — verse much shorter than other versions (14 vs median 38 chars)
+- NEH 7:36 — verse much shorter than other versions (15 vs median 50 chars)
+- NEH 7:38 — verse much shorter than other versions (16 vs median 49 chars)
+- NEH 7:40 — verse much shorter than other versions (15 vs median 42 chars)
+- NEH 7:41 — verse much shorter than other versions (16 vs median 51 chars)
+- NEH 7:42 — verse much shorter than other versions (16 vs median 36 chars)
+- NEH 7:45 — verse much shorter than other versions (78 vs median 157 chars)
+- NEH 7:47 — verse much shorter than other versions (19 vs median 58 chars)
+- NEH 7:48 — verse much shorter than other versions (23 vs median 62 chars)
+- NEH 7:49 — verse much shorter than other versions (18 vs median 57 chars)
+- NEH 7:50 — verse much shorter than other versions (22 vs median 61 chars)
+- NEH 7:51 — verse much shorter than other versions (19 vs median 57 chars)
+- NEH 7:52 — verse much shorter than other versions (23 vs median 63 chars)
+- NEH 7:53 — verse much shorter than other versions (26 vs median 63 chars)
+- NEH 7:54 — verse much shorter than other versions (22 vs median 61 chars)
+- NEH 7:55 — verse much shorter than other versions (21 vs median 60 chars)
+- NEH 7:56 — verse much shorter than other versions (16 vs median 41 chars)
+- NEH 7:58 — verse much shorter than other versions (21 vs median 60 chars)
+- NEH 7:59 — verse much shorter than other versions (44 vs median 94 chars)
+- NEH 7:68 — verse much shorter than other versions (37 vs median 87 chars)
+- NEH 7:69 — verse much shorter than other versions (29 vs median 78 chars)
+- NEH 12:11 — verse much shorter than other versions (16 vs median 49 chars)
+- EST 5:7 — verse much shorter than other versions (16 vs median 59 chars)
+- JOB 16:8 — verse much shorter than other versions (57 vs median 115 chars)
+- JOB 19:20 — verse much shorter than other versions (39 vs median 92 chars)
+- JOB 21:24 — verse much shorter than other versions (28 vs median 67 chars)
+- PSA 69:23 — verse much shorter than other versions (43 vs median 100 chars)
+- PRO 5:13 — verse much shorter than other versions (39 vs median 82 chars)
+- PRO 7:9 — verse much shorter than other versions (29 vs median 64 chars)
+- ISA 32:17 — verse much shorter than other versions (44 vs median 89 chars)
+- EZK 12:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 12:21 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 13:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 14:2 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 15:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 16:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 20:2 — verse much shorter than other versions (18 vs median 46 chars)
+- EZK 21:21 — verse much shorter than other versions (87 vs median 176 chars)
+- EZK 23:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 23:26 — verse much shorter than other versions (30 vs median 63 chars)
+- EZK 27:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 28:20 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 30:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 33:1 — verse much shorter than other versions (18 vs median 42 chars)
+- EZK 34:1 — verse much shorter than other versions (18 vs median 40 chars)
+- EZK 37:13 — verse much shorter than other versions (53 vs median 109 chars)
+- EZK 38:1 — verse much shorter than other versions (18 vs median 40 chars)
+- EZK 41:17 — verse much shorter than other versions (64 vs median 138 chars)
+- EZK 45:11 — verse much shorter than other versions (70 vs median 160 chars)
+- ZEC 8:7 — verse much shorter than other versions (45 vs median 111 chars)
+- LUK 9:55 — verse much shorter than other versions (36 vs median 79 chars)
+- ACT 8:1 — verse much shorter than other versions (46 vs median 209 chars)
+- 1CO 16:14 — verse much shorter than other versions (20 vs median 43 chars)
+
+## low (456)
+- GEN 10:26 — missing terminal punctuation
+- GEN 10:27 — missing terminal punctuation
+- GEN 10:28 — missing terminal punctuation
+- GEN 22:21 — missing terminal punctuation
+- GEN 25:13 — missing terminal punctuation
+- GEN 25:14 — missing terminal punctuation
+- GEN 35:28 — missing terminal punctuation
+- GEN 36:15 — missing terminal punctuation
+- GEN 36:20 — missing terminal punctuation
+- GEN 36:29 — missing terminal punctuation
+- GEN 36:40 — missing terminal punctuation
+- GEN 36:41 — missing terminal punctuation
+- GEN 36:42 — missing terminal punctuation
+- EXO 1:2 — missing terminal punctuation
+- EXO 1:3 — missing terminal punctuation
+- EXO 12:19 — missing terminal punctuation
+- NUM 10:14 — missing terminal punctuation
+- NUM 13:4 — missing terminal punctuation
+- NUM 13:5 — missing terminal punctuation
+- NUM 13:6 — missing terminal punctuation
+- NUM 13:7 — missing terminal punctuation
+- NUM 13:8 — missing terminal punctuation
+- NUM 13:9 — missing terminal punctuation
+- NUM 13:10 — missing terminal punctuation
+- NUM 13:11 — missing terminal punctuation
+- NUM 13:12 — missing terminal punctuation
+- NUM 13:13 — missing terminal punctuation
+- NUM 31:32 — missing terminal punctuation
+- NUM 31:33 — missing terminal punctuation
+- NUM 31:37 — missing terminal punctuation
+- NUM 31:38 — missing terminal punctuation
+- NUM 31:39 — missing terminal punctuation
+- NUM 31:43 — missing terminal punctuation
+- NUM 31:44 — missing terminal punctuation
+- NUM 32:34 — missing terminal punctuation
+- NUM 32:35 — missing terminal punctuation
+- NUM 32:37 — missing terminal punctuation
+- NUM 34:19 — missing terminal punctuation
+- NUM 34:20 — missing terminal punctuation
+- DEU 32:45 — missing terminal punctuation
+- JOS 13:17 — missing terminal punctuation
+- JOS 13:18 — missing terminal punctuation
+- JOS 13:19 — missing terminal punctuation
+- JOS 15:21 — missing terminal punctuation
+- JOS 15:22 — missing terminal punctuation
+- JOS 15:23 — missing terminal punctuation
+- JOS 15:24 — missing terminal punctuation
+- JOS 15:25 — missing terminal punctuation
+- JOS 15:26 — missing terminal punctuation
+- JOS 15:27 — missing terminal punctuation
+- JOS 15:28 — missing terminal punctuation
+- JOS 15:29 — missing terminal punctuation
+- JOS 15:30 — missing terminal punctuation
+- JOS 15:31 — missing terminal punctuation
+- JOS 15:33 — missing terminal punctuation
+- JOS 15:34 — missing terminal punctuation
+- JOS 15:35 — missing terminal punctuation
+- JOS 15:37 — missing terminal punctuation
+- JOS 15:38 — missing terminal punctuation
+- JOS 15:39 — missing terminal punctuation
+- JOS 15:40 — missing terminal punctuation
+- JOS 15:42 — missing terminal punctuation
+- JOS 15:43 — missing terminal punctuation
+- JOS 15:48 — missing terminal punctuation
+- JOS 15:49 — missing terminal punctuation
+- JOS 15:50 — missing terminal punctuation
+- JOS 15:52 — missing terminal punctuation
+- JOS 15:53 — missing terminal punctuation
+- JOS 15:55 — missing terminal punctuation
+- JOS 15:56 — missing terminal punctuation
+- JOS 15:58 — missing terminal punctuation
+- JOS 15:61 — missing terminal punctuation
+- JOS 18:21 — missing terminal punctuation
+- JOS 18:22 — missing terminal punctuation
+- JOS 18:23 — missing terminal punctuation
+- JOS 18:25 — missing terminal punctuation
+- JOS 18:26 — missing terminal punctuation
+- JOS 18:27 — missing terminal punctuation
+- JOS 19:2 — missing terminal punctuation
+- JOS 19:3 — missing terminal punctuation
+- JOS 19:4 — missing terminal punctuation
+- JOS 19:5 — missing terminal punctuation
+- JOS 19:18 — missing terminal punctuation
+- JOS 19:19 — missing terminal punctuation
+- JOS 19:20 — missing terminal punctuation
+- JOS 19:25 — missing terminal punctuation
+- JOS 19:29 — missing terminal punctuation
+- JOS 19:35 — missing terminal punctuation
+- JOS 19:36 — missing terminal punctuation
+- JOS 19:37 — missing terminal punctuation
+- JOS 19:41 — missing terminal punctuation
+- JOS 19:42 — missing terminal punctuation
+- JOS 19:43 — missing terminal punctuation
+- JOS 19:44 — missing terminal punctuation
+- JOS 19:45 — missing terminal punctuation
+- JOS 21:13 — missing terminal punctuation
+- JOS 21:14 — missing terminal punctuation
+- JOS 21:15 — missing terminal punctuation
+- JOS 21:17 — missing terminal punctuation
+- JOS 21:21 — missing terminal punctuation
+- JOS 21:23 — missing terminal punctuation
+- JOS 21:28 — missing terminal punctuation
+- JOS 21:30 — missing terminal punctuation
+- JOS 21:34 — missing terminal punctuation
+- JOS 21:36 — missing terminal punctuation
+- JOS 21:38 — missing terminal punctuation
+- RUT 1:4 — missing terminal punctuation
+- 1SA 20:11 — missing terminal punctuation
+- 1SA 22:11 — missing terminal punctuation
+- 2SA 5:14 — missing terminal punctuation
+- 2SA 5:15 — missing terminal punctuation
+- 2SA 23:24 — missing terminal punctuation
+- 2SA 23:25 — missing terminal punctuation
+- 2SA 23:26 — missing terminal punctuation
+- 2SA 23:27 — missing terminal punctuation
+- 2SA 23:28 — missing terminal punctuation
+- 2SA 23:29 — missing terminal punctuation
+- 2SA 23:30 — missing terminal punctuation
+- 2SA 23:31 — missing terminal punctuation
+- 2SA 23:33 — missing terminal punctuation
+- 2SA 23:34 — missing terminal punctuation
+- 2SA 23:35 — missing terminal punctuation
+- 2SA 23:36 — missing terminal punctuation
+- 2SA 23:37 — missing terminal punctuation
+- 1KI 4:22 — missing terminal punctuation
+- 1KI 22:10 — missing terminal punctuation
+- 1CH 1:1 — missing terminal punctuation
+- 1CH 1:2 — missing terminal punctuation
+- 1CH 1:3 — missing terminal punctuation
+- 1CH 1:20 — missing terminal punctuation
+- 1CH 1:21 — missing terminal punctuation
+- 1CH 1:22 — missing terminal punctuation
+- 1CH 1:24 — missing terminal punctuation
+- 1CH 1:25 — missing terminal punctuation
+- 1CH 1:29 — missing terminal punctuation
+- 1CH 1:30 — missing terminal punctuation
+- 1CH 1:51 — missing terminal punctuation
+- 1CH 1:52 — missing terminal punctuation
+- 1CH 1:53 — missing terminal punctuation
+- 1CH 2:1 — missing terminal punctuation
+- 1CH 2:50 — missing terminal punctuation
+- 1CH 3:6 — missing terminal punctuation
+- 1CH 3:7 — missing terminal punctuation
+- 1CH 3:10 — missing terminal punctuation
+- 1CH 3:11 — missing terminal punctuation
+- 1CH 3:12 — missing terminal punctuation
+- 1CH 3:13 — missing terminal punctuation
+- 1CH 3:17 — missing terminal punctuation
+- 1CH 4:21 — missing terminal punctuation
+- 1CH 4:28 — missing terminal punctuation
+- 1CH 4:29 — missing terminal punctuation
+- 1CH 4:30 — missing terminal punctuation
+- 1CH 4:34 — missing terminal punctuation
+- 1CH 4:35 — missing terminal punctuation
+- 1CH 4:36 — missing terminal punctuation
+- 1CH 5:4 — missing terminal punctuation
+- 1CH 6:4 — missing terminal punctuation
+- 1CH 6:5 — missing terminal punctuation
+- 1CH 6:6 — missing terminal punctuation
+- 1CH 6:7 — missing terminal punctuation
+- 1CH 6:8 — missing terminal punctuation
+- 1CH 6:9 — missing terminal punctuation
+- 1CH 6:11 — missing terminal punctuation
+- 1CH 6:12 — missing terminal punctuation
+- 1CH 6:13 — missing terminal punctuation
+- 1CH 6:20 — missing terminal punctuation
+- 1CH 6:22 — missing terminal punctuation
+- 1CH 6:23 — missing terminal punctuation
+- 1CH 6:26 — missing terminal punctuation
+- 1CH 6:29 — missing terminal punctuation
+- 1CH 6:33 — missing terminal punctuation
+- 1CH 6:34 — missing terminal punctuation
+- 1CH 6:35 — missing terminal punctuation
+- 1CH 6:36 — missing terminal punctuation
+- 1CH 6:37 — missing terminal punctuation
+- 1CH 6:39 — missing terminal punctuation
+- 1CH 6:40 — missing terminal punctuation
+- 1CH 6:41 — missing terminal punctuation
+- 1CH 6:42 — missing terminal punctuation
+- 1CH 6:44 — missing terminal punctuation
+- 1CH 6:45 — missing terminal punctuation
+- 1CH 6:46 — missing terminal punctuation
+- 1CH 6:50 — missing terminal punctuation
+- 1CH 6:51 — missing terminal punctuation
+- 1CH 6:52 — missing terminal punctuation
+- 1CH 6:54 — missing terminal punctuation
+- 1CH 6:57 — missing terminal punctuation
+- 1CH 6:58 — missing terminal punctuation
+- 1CH 6:67 — missing terminal punctuation
+- 1CH 6:72 — missing terminal punctuation
+- 1CH 6:74 — missing terminal punctuation
+- 1CH 6:78 — missing terminal punctuation
+- 1CH 6:80 — missing terminal punctuation
+- 1CH 7:20 — missing terminal punctuation
+- 1CH 7:25 — missing terminal punctuation
+- 1CH 7:26 — missing terminal punctuation
+- 1CH 7:36 — missing terminal punctuation
+- 1CH 8:3 — missing terminal punctuation
+- 1CH 8:4 — missing terminal punctuation
+- 1CH 8:9 — missing terminal punctuation
+- 1CH 8:15 — missing terminal punctuation
+- 1CH 8:17 — missing terminal punctuation
+- 1CH 8:19 — missing terminal punctuation
+- 1CH 8:20 — missing terminal punctuation
+- 1CH 8:22 — missing terminal punctuation
+- 1CH 8:23 — missing terminal punctuation
+- 1CH 8:24 — missing terminal punctuation
+- 1CH 8:26 — missing terminal punctuation
+- 1CH 8:30 — missing terminal punctuation
+- 1CH 8:36 — missing terminal punctuation
+- 1CH 9:36 — missing terminal punctuation
+- 1CH 9:42 — missing terminal punctuation
+- 1CH 11:13 — missing terminal punctuation
+- 1CH 11:26 — missing terminal punctuation
+- 1CH 11:27 — missing terminal punctuation
+- 1CH 11:28 — missing terminal punctuation
+- 1CH 11:29 — missing terminal punctuation
+- 1CH 11:30 — missing terminal punctuation
+- 1CH 11:31 — missing terminal punctuation
+- 1CH 11:32 — missing terminal punctuation
+- 1CH 11:33 — missing terminal punctuation
+- 1CH 11:34 — missing terminal punctuation
+- 1CH 11:35 — missing terminal punctuation
+- 1CH 11:36 — missing terminal punctuation
+- 1CH 11:37 — missing terminal punctuation
+- 1CH 11:38 — missing terminal punctuation
+- 1CH 11:39 — missing terminal punctuation
+- 1CH 11:40 — missing terminal punctuation
+- 1CH 11:41 — missing terminal punctuation
+- 1CH 11:42 — missing terminal punctuation
+- 1CH 11:43 — missing terminal punctuation
+- 1CH 11:44 — missing terminal punctuation
+- 1CH 11:45 — missing terminal punctuation
+- 1CH 11:46 — missing terminal punctuation
+- 1CH 12:3 — missing terminal punctuation
+- 1CH 12:6 — missing terminal punctuation
+- 1CH 12:9 — missing terminal punctuation
+- 1CH 12:10 — missing terminal punctuation
+- 1CH 12:11 — missing terminal punctuation
+- 1CH 12:12 — missing terminal punctuation
+- 1CH 14:4 — missing terminal punctuation
+- 1CH 14:5 — missing terminal punctuation
+- 1CH 14:6 — missing terminal punctuation
+- 1CH 16:20 — missing terminal punctuation
+- 1CH 23:4 — missing terminal punctuation
+- 1CH 24:24 — missing terminal punctuation
+- 1CH 24:25 — missing terminal punctuation
+- 1CH 26:2 — missing terminal punctuation
+- 1CH 26:4 — missing terminal punctuation
+- 1CH 26:10 — missing terminal punctuation
+- 1CH 27:16 — missing terminal punctuation
+- 1CH 27:17 — missing terminal punctuation
+- 1CH 27:18 — missing terminal punctuation
+- 1CH 27:19 — missing terminal punctuation
+- 1CH 27:20 — missing terminal punctuation
+- 2CH 11:6 — missing terminal punctuation
+- 2CH 11:7 — missing terminal punctuation
+- 2CH 11:8 — missing terminal punctuation
+- 2CH 11:9 — missing terminal punctuation
+- 2CH 18:9 — missing terminal punctuation
+- 2CH 30:18 — missing terminal punctuation
+- EZR 1:9 — missing terminal punctuation
+- EZR 2:43 — missing terminal punctuation
+- EZR 2:44 — missing terminal punctuation
+- EZR 2:45 — missing terminal punctuation
+- EZR 2:46 — missing terminal punctuation
+- EZR 2:47 — missing terminal punctuation
+- EZR 2:48 — missing terminal punctuation
+- EZR 2:49 — missing terminal punctuation
+- EZR 2:50 — missing terminal punctuation
+- EZR 2:51 — missing terminal punctuation
+- EZR 2:52 — missing terminal punctuation
+- EZR 2:53 — missing terminal punctuation
+- EZR 2:55 — missing terminal punctuation
+- EZR 2:56 — missing terminal punctuation
+- EZR 2:66 — missing terminal punctuation
+- EZR 10:31 — missing terminal punctuation
+- EZR 10:34 — missing terminal punctuation
+- EZR 10:35 — missing terminal punctuation
+- EZR 10:36 — missing terminal punctuation
+- EZR 10:38 — missing terminal punctuation
+- EZR 10:39 — missing terminal punctuation
+- EZR 10:40 — missing terminal punctuation
+- EZR 10:41 — missing terminal punctuation
+- NEH 7:46 — missing terminal punctuation
+- NEH 7:47 — missing terminal punctuation
+- NEH 7:48 — missing terminal punctuation
+- NEH 7:49 — missing terminal punctuation
+- NEH 7:51 — missing terminal punctuation
+- NEH 7:52 — missing terminal punctuation
+- NEH 7:53 — missing terminal punctuation
+- NEH 7:54 — missing terminal punctuation
+- NEH 7:55 — missing terminal punctuation
+- NEH 7:57 — missing terminal punctuation
+- NEH 7:58 — missing terminal punctuation
+- NEH 7:68 — missing terminal punctuation
+- NEH 10:1 — missing terminal punctuation
+- NEH 10:2 — missing terminal punctuation
+- NEH 10:3 — missing terminal punctuation
+- NEH 10:4 — missing terminal punctuation
+- NEH 10:5 — missing terminal punctuation
+- NEH 10:6 — missing terminal punctuation
+- NEH 10:7 — missing terminal punctuation
+- NEH 10:10 — missing terminal punctuation
+- NEH 10:11 — missing terminal punctuation
+- NEH 10:12 — missing terminal punctuation
+- NEH 10:14 — missing terminal punctuation
+- NEH 10:15 — missing terminal punctuation
+- NEH 10:16 — missing terminal punctuation
+- NEH 10:17 — missing terminal punctuation
+- NEH 10:18 — missing terminal punctuation
+- NEH 10:19 — missing terminal punctuation
+- NEH 10:20 — missing terminal punctuation
+- NEH 10:21 — missing terminal punctuation
+- NEH 10:22 — missing terminal punctuation
+- NEH 10:23 — missing terminal punctuation
+- NEH 10:24 — missing terminal punctuation
+- NEH 10:25 — missing terminal punctuation
+- NEH 10:26 — missing terminal punctuation
+- NEH 11:10 — missing terminal punctuation
+- NEH 11:15 — missing terminal punctuation
+- NEH 11:16 — missing terminal punctuation
+- NEH 12:1 — missing terminal punctuation
+- NEH 12:2 — missing terminal punctuation
+- NEH 12:3 — missing terminal punctuation
+- NEH 12:4 — missing terminal punctuation
+- NEH 12:5 — missing terminal punctuation
+- NEH 12:6 — missing terminal punctuation
+- NEH 12:10 — missing terminal punctuation
+- NEH 12:33 — missing terminal punctuation
+- EST 9:7 — missing terminal punctuation
+- EST 9:8 — missing terminal punctuation
+- JOB 36:8 — missing terminal punctuation
+- PSA 3:4 — missing terminal punctuation
+- PSA 3:8 — missing terminal punctuation
+- PSA 4:2 — missing terminal punctuation
+- PSA 4:4 — missing terminal punctuation
+- PSA 7:5 — missing terminal punctuation
+- PSA 9:16 — missing terminal punctuation
+- PSA 9:20 — missing terminal punctuation
+- PSA 20:3 — missing terminal punctuation
+- PSA 21:2 — missing terminal punctuation
+- PSA 24:6 — missing terminal punctuation
+- PSA 24:10 — missing terminal punctuation
+- PSA 32:4 — missing terminal punctuation
+- PSA 32:5 — missing terminal punctuation
+- PSA 32:7 — missing terminal punctuation
+- PSA 39:5 — missing terminal punctuation
+- PSA 39:11 — missing terminal punctuation
+- PSA 44:8 — missing terminal punctuation
+- PSA 46:3 — missing terminal punctuation
+- PSA 46:7 — missing terminal punctuation
+- PSA 46:11 — missing terminal punctuation
+- PSA 47:4 — missing terminal punctuation
+- PSA 48:8 — missing terminal punctuation
+- PSA 49:13 — missing terminal punctuation
+- PSA 49:15 — missing terminal punctuation
+- PSA 50:6 — missing terminal punctuation
+- PSA 52:3 — missing terminal punctuation
+- PSA 52:5 — missing terminal punctuation
+- PSA 54:3 — missing terminal punctuation
+- PSA 55:7 — missing terminal punctuation
+- PSA 55:19 — missing terminal punctuation
+- PSA 57:6 — missing terminal punctuation
+- PSA 59:5 — missing terminal punctuation
+- PSA 59:13 — missing terminal punctuation
+- PSA 60:4 — missing terminal punctuation
+- PSA 61:4 — missing terminal punctuation
+- PSA 62:4 — missing terminal punctuation
+- PSA 62:8 — missing terminal punctuation
+- PSA 66:4 — missing terminal punctuation
+- PSA 66:7 — missing terminal punctuation
+- PSA 66:15 — missing terminal punctuation
+- PSA 67:1 — missing terminal punctuation
+- PSA 67:4 — missing terminal punctuation
+- PSA 68:7 — missing terminal punctuation
+- PSA 68:19 — missing terminal punctuation
+- PSA 68:32 — missing terminal punctuation
+- PSA 75:3 — missing terminal punctuation
+- PSA 76:3 — missing terminal punctuation
+- PSA 76:9 — missing terminal punctuation
+- PSA 77:3 — missing terminal punctuation
+- PSA 77:9 — missing terminal punctuation
+- PSA 77:15 — missing terminal punctuation
+- PSA 78:30 — missing terminal punctuation
+- PSA 81:7 — missing terminal punctuation
+- PSA 82:2 — missing terminal punctuation
+- PSA 83:8 — missing terminal punctuation
+- PSA 84:4 — missing terminal punctuation
+- PSA 84:8 — missing terminal punctuation
+- PSA 85:2 — missing terminal punctuation
+- PSA 87:3 — missing terminal punctuation
+- PSA 87:6 — missing terminal punctuation
+- PSA 88:7 — missing terminal punctuation
+- PSA 88:10 — missing terminal punctuation
+- PSA 89:4 — missing terminal punctuation
+- PSA 89:37 — missing terminal punctuation
+- PSA 89:45 — missing terminal punctuation
+- PSA 89:48 — missing terminal punctuation
+- PSA 96:11 — missing terminal punctuation
+- PSA 105:13 — missing terminal punctuation
+- PSA 114:1 — missing terminal punctuation
+- PSA 140:3 — missing terminal punctuation
+- PSA 140:5 — missing terminal punctuation
+- PSA 140:8 — missing terminal punctuation
+- PSA 143:6 — missing terminal punctuation
+- JER 37:11 — missing terminal punctuation
+- JER 38:7 — missing terminal punctuation
+- JER 41:1 — missing terminal punctuation
+- JER 48:22 — missing terminal punctuation
+- JER 49:38 — missing terminal punctuation
+- HAB 3:2 — missing terminal punctuation
+- HAB 3:13 — missing terminal punctuation
+- MAT 1:2 — missing terminal punctuation
+- MAT 1:3 — missing terminal punctuation
+- MAT 1:4 — missing terminal punctuation
+- MAT 1:5 — missing terminal punctuation
+- MAT 1:7 — missing terminal punctuation
+- MAT 1:8 — missing terminal punctuation
+- MAT 1:9 — missing terminal punctuation
+- MAT 1:10 — missing terminal punctuation
+- MAT 1:12 — missing terminal punctuation
+- MAT 1:13 — missing terminal punctuation
+- MAT 1:14 — missing terminal punctuation
+- MAT 1:15 — missing terminal punctuation
+- MAT 10:2 — missing terminal punctuation
+- MAT 10:3 — missing terminal punctuation
+- MRK 3:16 — missing terminal punctuation
+- MRK 3:17 — missing terminal punctuation
+- MRK 3:18 — missing terminal punctuation
+- MRK 15:42 — missing terminal punctuation
+- LUK 2:27 — missing terminal punctuation
+- LUK 3:23 — missing terminal punctuation
+- LUK 3:24 — missing terminal punctuation
+- LUK 3:25 — missing terminal punctuation
+- LUK 3:26 — missing terminal punctuation
+- LUK 3:27 — missing terminal punctuation
+- LUK 3:28 — missing terminal punctuation
+- LUK 3:29 — missing terminal punctuation
+- LUK 3:30 — missing terminal punctuation
+- LUK 3:31 — missing terminal punctuation
+- LUK 3:32 — missing terminal punctuation
+- LUK 3:33 — missing terminal punctuation
+- LUK 3:34 — missing terminal punctuation
+- LUK 3:35 — missing terminal punctuation
+- LUK 3:36 — missing terminal punctuation
+- LUK 3:37 — missing terminal punctuation
+- LUK 6:14 — missing terminal punctuation
+- LUK 6:15 — missing terminal punctuation
+- LUK 8:2 — missing terminal punctuation
+- LUK 9:55 — missing terminal punctuation
+- JHN 17:22 — missing terminal punctuation
+- GAL 5:3 — missing terminal punctuation
+- EPH 1:4 — missing terminal punctuation
+- EPH 6:2 — missing terminal punctuation
+- HEB 9:27 — missing terminal punctuation
+
+## info (1606)
+- GEN 1:17 — verse continues in next (grouping/split)
+- GEN 2:4 — verse continues in next (grouping/split)
+- GEN 2:16 — verse continues in next (grouping/split)
+- GEN 3:2 — verse continues in next (grouping/split)
+- GEN 4:4 — verse continues in next (grouping/split)
+- GEN 6:12 — verse continues in next (grouping/split)
+- GEN 7:8 — verse continues in next (grouping/split)
+- GEN 8:3 — verse continues in next (grouping/split)
+- GEN 8:6 — verse continues in next (grouping/split)
+- GEN 9:14 — verse continues in next (grouping/split)
+- GEN 9:24 — verse continues in next (grouping/split)
+- GEN 10:11 — verse continues in next (grouping/split)
+- GEN 10:13 — verse continues in next (grouping/split)
+- GEN 10:16 — verse continues in next (grouping/split)
+- GEN 10:17 — verse continues in next (grouping/split)
+- GEN 11:2 — verse continues in next (grouping/split)
+- GEN 11:5 — verse continues in next (grouping/split)
+- GEN 13:3 — verse continues in next (grouping/split)
+- GEN 14:1 — verse continues in next (grouping/split)
+- GEN 14:5 — verse continues in next (grouping/split)
+- GEN 14:8 — verse continues in next (grouping/split)
+- GEN 14:18 — verse continues in next (grouping/split)
+- GEN 14:22 — verse continues in next (grouping/split)
+- GEN 15:18 — verse continues in next (grouping/split)
+- GEN 15:19 — verse continues in next (grouping/split)
+- GEN 15:20 — verse continues in next (grouping/split)
+- GEN 16:7 — verse continues in next (grouping/split)
+- GEN 18:2 — verse continues in next (grouping/split)
+- GEN 18:20 — verse continues in next (grouping/split)
+- GEN 18:27 — verse continues in next (grouping/split)
+- GEN 19:1 — verse continues in next (grouping/split)
+- GEN 19:6 — verse continues in next (grouping/split)
+- GEN 19:12 — verse continues in next (grouping/split)
+- GEN 19:18 — verse continues in next (grouping/split)
+- GEN 20:1 — verse continues in next (grouping/split)
+- GEN 22:15 — verse continues in next (grouping/split)
+- GEN 22:16 — verse continues in next (grouping/split)
+- GEN 23:7 — verse continues in next (grouping/split)
+- GEN 23:8 — verse continues in next (grouping/split)
+- GEN 23:12 — verse continues in next (grouping/split)
+- GEN 24:16 — verse continues in next (grouping/split)
+- GEN 24:26 — verse continues in next (grouping/split)
+- GEN 24:30 — verse continues in next (grouping/split)
+- GEN 24:64 — verse continues in next (grouping/split)
+- GEN 25:7 — verse continues in next (grouping/split)
+- GEN 25:29 — verse continues in next (grouping/split)
+- GEN 26:6 — verse continues in next (grouping/split)
+- GEN 26:12 — verse continues in next (grouping/split)
+- GEN 27:5 — verse continues in next (grouping/split)
+- GEN 28:20 — verse continues in next (grouping/split)
+- GEN 30:4 — verse continues in next (grouping/split)
+- GEN 30:31 — verse continues in next (grouping/split)
+- GEN 31:4 — verse continues in next (grouping/split)
+- GEN 31:20 — verse continues in next (grouping/split)
+- GEN 32:3 — verse continues in next (grouping/split)
+- GEN 32:13 — verse continues in next (grouping/split)
+- GEN 32:14 — verse continues in next (grouping/split)
+- GEN 32:17 — verse continues in next (grouping/split)
+- GEN 36:2 — verse continues in next (grouping/split)
+- GEN 39:2 — verse continues in next (grouping/split)
+- GEN 39:13 — verse continues in next (grouping/split)
+- GEN 42:20 — verse continues in next (grouping/split)
+- GEN 44:25 — verse continues in next (grouping/split)
+- GEN 46:33 — verse continues in next (grouping/split)
+- GEN 48:15 — verse continues in next (grouping/split)
+- GEN 49:24 — verse continues in next (grouping/split)
+- GEN 50:4 — verse continues in next (grouping/split)
+- EXO 1:12 — verse continues in next (grouping/split)
+- EXO 4:3 — verse continues in next (grouping/split)
+- EXO 6:28 — verse continues in next (grouping/split)
+- EXO 7:20 — verse continues in next (grouping/split)
+- EXO 9:2 — verse continues in next (grouping/split)
+- EXO 9:31 — verse continues in next (grouping/split)
+- EXO 11:4 — verse continues in next (grouping/split)
+- EXO 18:9 — verse continues in next (grouping/split)
+- EXO 19:10 — verse continues in next (grouping/split)
+- EXO 21:18 — verse continues in next (grouping/split)
+- EXO 21:23 — verse continues in next (grouping/split)
+- EXO 21:24 — verse continues in next (grouping/split)
+- EXO 21:33 — verse continues in next (grouping/split)
+- EXO 22:10 — verse continues in next (grouping/split)
+- EXO 22:26 — verse continues in next (grouping/split)
+- EXO 22:29 — verse continues in next (grouping/split)
+- EXO 25:3 — verse continues in next (grouping/split)
+- EXO 25:4 — verse continues in next (grouping/split)
+- EXO 25:5 — verse continues in next (grouping/split)
+- EXO 25:6 — verse continues in next (grouping/split)
+- EXO 26:20 — verse continues in next (grouping/split)
+- EXO 26:26 — verse continues in next (grouping/split)
+- EXO 28:13 — verse continues in next (grouping/split)
+- EXO 28:22 — verse continues in next (grouping/split)
+- EXO 30:18 — verse continues in next (grouping/split)
+- EXO 30:23 — verse continues in next (grouping/split)
+- EXO 30:26 — verse continues in next (grouping/split)
+- EXO 30:27 — verse continues in next (grouping/split)
+- EXO 31:2 — verse continues in next (grouping/split)
+- EXO 31:4 — verse continues in next (grouping/split)
+- EXO 31:7 — verse continues in next (grouping/split)
+- EXO 31:8 — verse continues in next (grouping/split)
+- EXO 31:9 — verse continues in next (grouping/split)
+- EXO 31:10 — verse continues in next (grouping/split)
+- EXO 34:8 — verse continues in next (grouping/split)
+- EXO 34:34 — verse continues in next (grouping/split)
+- EXO 35:1 — verse continues in next (grouping/split)
+- EXO 35:4 — verse continues in next (grouping/split)
+- EXO 35:5 — verse continues in next (grouping/split)
+- EXO 35:6 — verse continues in next (grouping/split)
+- EXO 35:7 — verse continues in next (grouping/split)
+- EXO 35:8 — verse continues in next (grouping/split)
+- EXO 35:11 — verse continues in next (grouping/split)
+- EXO 35:12 — verse continues in next (grouping/split)
+- EXO 35:13 — verse continues in next (grouping/split)
+- EXO 35:14 — verse continues in next (grouping/split)
+- EXO 35:15 — verse continues in next (grouping/split)
+- EXO 35:16 — verse continues in next (grouping/split)
+- EXO 35:17 — verse continues in next (grouping/split)
+- EXO 35:18 — verse continues in next (grouping/split)
+- EXO 35:30 — verse continues in next (grouping/split)
+- EXO 35:32 — verse continues in next (grouping/split)
+- EXO 36:6 — verse continues in next (grouping/split)
+- EXO 36:23 — verse continues in next (grouping/split)
+- EXO 36:25 — verse continues in next (grouping/split)
+- EXO 36:31 — verse continues in next (grouping/split)
+- EXO 39:36 — verse continues in next (grouping/split)
+- EXO 39:37 — verse continues in next (grouping/split)
+- EXO 39:38 — verse continues in next (grouping/split)
+- EXO 39:39 — verse continues in next (grouping/split)
+- EXO 40:12 — verse continues in next (grouping/split)
+- EXO 40:26 — verse continues in next (grouping/split)
+- LEV 3:3 — verse continues in next (grouping/split)
+- LEV 3:9 — verse continues in next (grouping/split)
+- LEV 4:5 — verse continues in next (grouping/split)
+- LEV 4:8 — verse continues in next (grouping/split)
+- LEV 4:11 — verse continues in next (grouping/split)
+- LEV 4:13 — verse continues in next (grouping/split)
+- LEV 4:16 — verse continues in next (grouping/split)
+- LEV 5:5 — verse continues in next (grouping/split)
+- LEV 6:2 — verse continues in next (grouping/split)
+- LEV 6:4 — verse continues in next (grouping/split)
+- LEV 7:3 — verse continues in next (grouping/split)
+- LEV 8:4 — verse continues in next (grouping/split)
+- LEV 8:6 — verse continues in next (grouping/split)
+- LEV 9:3 — verse continues in next (grouping/split)
+- LEV 9:19 — verse continues in next (grouping/split)
+- LEV 11:2 — verse continues in next (grouping/split)
+- LEV 11:13 — verse continues in next (grouping/split)
+- LEV 11:14 — verse continues in next (grouping/split)
+- LEV 11:15 — verse continues in next (grouping/split)
+- LEV 11:16 — verse continues in next (grouping/split)
+- LEV 11:17 — verse continues in next (grouping/split)
+- LEV 11:18 — verse continues in next (grouping/split)
+- LEV 11:20 — verse continues in next (grouping/split)
+- LEV 11:29 — verse continues in next (grouping/split)
+- LEV 11:43 — verse continues in next (grouping/split)
+- LEV 12:1 — verse continues in next (grouping/split)
+- LEV 13:10 — verse continues in next (grouping/split)
+- LEV 13:12 — verse continues in next (grouping/split)
+- LEV 13:18 — verse continues in next (grouping/split)
+- LEV 13:24 — verse continues in next (grouping/split)
+- LEV 13:29 — verse continues in next (grouping/split)
+- LEV 13:32 — verse continues in next (grouping/split)
+- LEV 13:35 — verse continues in next (grouping/split)
+- LEV 13:38 — verse continues in next (grouping/split)
+- LEV 13:43 — verse continues in next (grouping/split)
+- LEV 13:47 — verse continues in next (grouping/split)
+- LEV 13:53 — verse continues in next (grouping/split)
+- LEV 14:2 — verse continues in next (grouping/split)
+- LEV 14:3 — verse continues in next (grouping/split)
+- LEV 14:19 — verse continues in next (grouping/split)
+- LEV 14:21 — verse continues in next (grouping/split)
+- LEV 14:37 — verse continues in next (grouping/split)
+- LEV 14:39 — verse continues in next (grouping/split)
+- LEV 14:43 — verse continues in next (grouping/split)
+- LEV 14:54 — verse continues in next (grouping/split)
+- LEV 14:55 — verse continues in next (grouping/split)
+- LEV 15:32 — verse continues in next (grouping/split)
+- LEV 16:32 — verse continues in next (grouping/split)
+- LEV 17:2 — verse continues in next (grouping/split)
+- LEV 17:8 — verse continues in next (grouping/split)
+- LEV 17:10 — verse continues in next (grouping/split)
+- LEV 20:4 — verse continues in next (grouping/split)
+- LEV 21:2 — verse continues in next (grouping/split)
+- LEV 21:18 — verse continues in next (grouping/split)
+- LEV 21:19 — verse continues in next (grouping/split)
+- LEV 22:4 — verse continues in next (grouping/split)
+- LEV 22:18 — verse continues in next (grouping/split)
+- LEV 23:24 — verse continues in next (grouping/split)
+- LEV 24:6 — verse continues in next (grouping/split)
+- LEV 25:26 — verse continues in next (grouping/split)
+- LEV 25:47 — verse continues in next (grouping/split)
+- LEV 25:48 — verse continues in next (grouping/split)
+- LEV 26:3 — verse continues in next (grouping/split)
+- LEV 26:14 — verse continues in next (grouping/split)
+- LEV 26:15 — verse continues in next (grouping/split)
+- LEV 26:23 — verse continues in next (grouping/split)
+- LEV 26:27 — verse continues in next (grouping/split)
+- LEV 27:2 — verse continues in next (grouping/split)
+- LEV 27:3 — verse continues in next (grouping/split)
+- LEV 27:22 — verse continues in next (grouping/split)
+- NUM 1:5 — verse continues in next (grouping/split)
+- NUM 1:6 — verse continues in next (grouping/split)
+- NUM 1:7 — verse continues in next (grouping/split)
+- NUM 1:8 — verse continues in next (grouping/split)
+- NUM 1:9 — verse continues in next (grouping/split)
+- NUM 1:10 — verse continues in next (grouping/split)
+- NUM 1:11 — verse continues in next (grouping/split)
+- NUM 1:12 — verse continues in next (grouping/split)
+- NUM 1:13 — verse continues in next (grouping/split)
+- NUM 1:14 — verse continues in next (grouping/split)
+- NUM 1:17 — verse continues in next (grouping/split)
+- NUM 1:47 — verse continues in next (grouping/split)
+- NUM 3:3 — verse continues in next (grouping/split)
+- NUM 3:12 — verse continues in next (grouping/split)
+- NUM 3:25 — verse continues in next (grouping/split)
+- NUM 4:2 — verse continues in next (grouping/split)
+- NUM 4:5 — verse continues in next (grouping/split)
+- NUM 4:6 — verse continues in next (grouping/split)
+- NUM 5:21 — verse continues in next (grouping/split)
+- NUM 6:2 — verse continues in next (grouping/split)
+- NUM 6:6 — verse continues in next (grouping/split)
+- NUM 6:24 — verse continues in next (grouping/split)
+- NUM 7:2 — verse continues in next (grouping/split)
+- NUM 7:7 — verse continues in next (grouping/split)
+- NUM 8:16 — verse continues in next (grouping/split)
+- NUM 8:18 — verse continues in next (grouping/split)
+- NUM 8:24 — verse continues in next (grouping/split)
+- NUM 8:25 — verse continues in next (grouping/split)
+- NUM 9:2 — verse continues in next (grouping/split)
+- NUM 9:4 — verse continues in next (grouping/split)
+- NUM 9:6 — verse continues in next (grouping/split)
+- NUM 9:10 — verse continues in next (grouping/split)
+- NUM 10:15 — verse continues in next (grouping/split)
+- NUM 10:19 — verse continues in next (grouping/split)
+- NUM 10:23 — verse continues in next (grouping/split)
+- NUM 10:26 — verse continues in next (grouping/split)
+- NUM 11:10 — verse continues in next (grouping/split)
+- NUM 11:19 — verse continues in next (grouping/split)
+- NUM 12:4 — verse continues in next (grouping/split)
+- NUM 12:5 — verse continues in next (grouping/split)
+- NUM 12:10 — verse continues in next (grouping/split)
+- NUM 13:14 — verse continues in next (grouping/split)
+- NUM 13:18 — verse continues in next (grouping/split)
+- NUM 13:19 — verse continues in next (grouping/split)
+- NUM 13:25 — verse continues in next (grouping/split)
+- NUM 14:6 — verse continues in next (grouping/split)
+- NUM 14:13 — verse continues in next (grouping/split)
+- NUM 14:21 — verse continues in next (grouping/split)
+- NUM 14:22 — verse continues in next (grouping/split)
+- NUM 14:31 — verse continues in next (grouping/split)
+- NUM 14:36 — verse continues in next (grouping/split)
+- NUM 15:18 — verse continues in next (grouping/split)
+- NUM 15:22 — verse continues in next (grouping/split)
+- NUM 15:30 — verse continues in next (grouping/split)
+- NUM 16:1 — verse continues in next (grouping/split)
+- NUM 16:4 — verse continues in next (grouping/split)
+- NUM 16:6 — verse continues in next (grouping/split)
+- NUM 16:19 — verse continues in next (grouping/split)
+- NUM 16:29 — verse continues in next (grouping/split)
+- NUM 16:31 — verse continues in next (grouping/split)
+- NUM 16:39 — verse continues in next (grouping/split)
+- NUM 16:43 — verse continues in next (grouping/split)
+- NUM 16:45 — verse continues in next (grouping/split)
+- NUM 17:11 — verse continues in next (grouping/split)
+- NUM 18:4 — verse continues in next (grouping/split)
+- NUM 18:23 — verse continues in next (grouping/split)
+- NUM 18:30 — verse continues in next (grouping/split)
+- NUM 20:14 — verse continues in next (grouping/split)
+- NUM 20:15 — verse continues in next (grouping/split)
+- NUM 20:22 — verse continues in next (grouping/split)
+- NUM 20:25 — verse continues in next (grouping/split)
+- NUM 21:4 — verse continues in next (grouping/split)
+- NUM 21:7 — verse continues in next (grouping/split)
+- NUM 21:12 — verse continues in next (grouping/split)
+- NUM 21:14 — verse continues in next (grouping/split)
+- NUM 21:17 — verse continues in next (grouping/split)
+- NUM 21:23 — verse continues in next (grouping/split)
+- NUM 22:15 — verse continues in next (grouping/split)
+- NUM 22:39 — verse continues in next (grouping/split)
+- NUM 23:3 — verse continues in next (grouping/split)
+- NUM 23:28 — verse continues in next (grouping/split)
+- NUM 24:2 — verse continues in next (grouping/split)
+- NUM 24:3 — verse continues in next (grouping/split)
+- NUM 24:15 — verse continues in next (grouping/split)
+- NUM 25:7 — verse continues in next (grouping/split)
+- NUM 25:8 — verse continues in next (grouping/split)
+- NUM 25:17 — verse continues in next (grouping/split)
+- NUM 26:5 — verse continues in next (grouping/split)
+- NUM 26:12 — verse continues in next (grouping/split)
+- NUM 26:15 — verse continues in next (grouping/split)
+- NUM 26:16 — verse continues in next (grouping/split)
+- NUM 26:19 — verse continues in next (grouping/split)
+- NUM 26:23 — verse continues in next (grouping/split)
+- NUM 26:30 — verse continues in next (grouping/split)
+- NUM 26:31 — verse continues in next (grouping/split)
+- NUM 26:38 — verse continues in next (grouping/split)
+- NUM 26:48 — verse continues in next (grouping/split)
+- NUM 26:64 — verse continues in next (grouping/split)
+- NUM 27:5 — verse continues in next (grouping/split)
+- NUM 27:13 — verse continues in next (grouping/split)
+- NUM 27:16 — verse continues in next (grouping/split)
+- NUM 27:20 — verse continues in next (grouping/split)
+- NUM 28:12 — verse continues in next (grouping/split)
+- NUM 28:20 — verse continues in next (grouping/split)
+- NUM 28:28 — verse continues in next (grouping/split)
+- NUM 29:3 — verse continues in next (grouping/split)
+- NUM 29:9 — verse continues in next (grouping/split)
+- NUM 29:14 — verse continues in next (grouping/split)
+- NUM 30:1 — verse continues in next (grouping/split)
+- NUM 30:4 — verse continues in next (grouping/split)
+- NUM 30:6 — verse continues in next (grouping/split)
+- NUM 31:11 — verse continues in next (grouping/split)
+- NUM 31:17 — verse continues in next (grouping/split)
+- NUM 31:19 — verse continues in next (grouping/split)
+- NUM 31:22 — verse continues in next (grouping/split)
+- NUM 31:34 — verse continues in next (grouping/split)
+- NUM 31:36 — verse continues in next (grouping/split)
+- NUM 31:45 — verse continues in next (grouping/split)
+- NUM 31:48 — verse continues in next (grouping/split)
+- NUM 31:52 — verse continues in next (grouping/split)
+- NUM 32:3 — verse continues in next (grouping/split)
+- NUM 32:11 — verse continues in next (grouping/split)
+- NUM 32:29 — verse continues in next (grouping/split)
+- NUM 33:3 — verse continues in next (grouping/split)
+- NUM 33:40 — verse continues in next (grouping/split)
+- NUM 33:51 — verse continues in next (grouping/split)
+- NUM 34:3 — verse continues in next (grouping/split)
+- NUM 34:7 — verse continues in next (grouping/split)
+- NUM 34:8 — verse continues in next (grouping/split)
+- NUM 34:10 — verse continues in next (grouping/split)
+- NUM 34:17 — verse continues in next (grouping/split)
+- NUM 34:21 — verse continues in next (grouping/split)
+- NUM 34:22 — verse continues in next (grouping/split)
+- NUM 34:23 — verse continues in next (grouping/split)
+- NUM 34:24 — verse continues in next (grouping/split)
+- NUM 34:25 — verse continues in next (grouping/split)
+- NUM 34:26 — verse continues in next (grouping/split)
+- NUM 34:27 — verse continues in next (grouping/split)
+- NUM 35:6 — verse continues in next (grouping/split)
+- NUM 35:10 — verse continues in next (grouping/split)
+- NUM 35:20 — verse continues in next (grouping/split)
+- NUM 35:22 — verse continues in next (grouping/split)
+- NUM 35:23 — verse continues in next (grouping/split)
+- NUM 35:26 — verse continues in next (grouping/split)
+- NUM 36:1 — verse continues in next (grouping/split)
+- DEU 1:35 — verse continues in next (grouping/split)
+- DEU 2:16 — verse continues in next (grouping/split)
+- DEU 2:28 — verse continues in next (grouping/split)
+- DEU 4:15 — verse continues in next (grouping/split)
+- DEU 4:16 — verse continues in next (grouping/split)
+- DEU 4:17 — verse continues in next (grouping/split)
+- DEU 6:10 — verse continues in next (grouping/split)
+- DEU 9:25 — verse continues in next (grouping/split)
+- DEU 10:12 — verse continues in next (grouping/split)
+- DEU 11:13 — verse continues in next (grouping/split)
+- DEU 11:22 — verse continues in next (grouping/split)
+- DEU 11:31 — verse continues in next (grouping/split)
+- DEU 12:29 — verse continues in next (grouping/split)
+- DEU 13:2 — verse continues in next (grouping/split)
+- DEU 13:12 — verse continues in next (grouping/split)
+- DEU 13:14 — verse continues in next (grouping/split)
+- DEU 14:4 — verse continues in next (grouping/split)
+- DEU 14:12 — verse continues in next (grouping/split)
+- DEU 14:13 — verse continues in next (grouping/split)
+- DEU 14:14 — verse continues in next (grouping/split)
+- DEU 14:15 — verse continues in next (grouping/split)
+- DEU 14:16 — verse continues in next (grouping/split)
+- DEU 14:17 — verse continues in next (grouping/split)
+- DEU 14:24 — verse continues in next (grouping/split)
+- DEU 15:5 — verse continues in next (grouping/split)
+- DEU 17:4 — verse continues in next (grouping/split)
+- DEU 21:10 — verse continues in next (grouping/split)
+- DEU 21:12 — verse continues in next (grouping/split)
+- DEU 21:18 — verse continues in next (grouping/split)
+- DEU 21:22 — verse continues in next (grouping/split)
+- DEU 22:20 — verse continues in next (grouping/split)
+- DEU 22:23 — verse continues in next (grouping/split)
+- DEU 22:28 — verse continues in next (grouping/split)
+- DEU 25:8 — verse continues in next (grouping/split)
+- DEU 25:11 — verse continues in next (grouping/split)
+- DEU 26:1 — verse continues in next (grouping/split)
+- DEU 27:2 — verse continues in next (grouping/split)
+- DEU 30:2 — verse continues in next (grouping/split)
+- DEU 30:17 — verse continues in next (grouping/split)
+- DEU 31:24 — verse continues in next (grouping/split)
+- DEU 33:1 — verse continues in next (grouping/split)
+- DEU 34:1 — verse continues in next (grouping/split)
+- DEU 34:2 — verse continues in next (grouping/split)
+- JOS 2:8 — verse continues in next (grouping/split)
+- JOS 2:12 — verse continues in next (grouping/split)
+- JOS 2:17 — verse continues in next (grouping/split)
+- JOS 3:2 — verse continues in next (grouping/split)
+- JOS 3:15 — verse continues in next (grouping/split)
+- JOS 4:2 — verse continues in next (grouping/split)
+- JOS 4:4 — verse continues in next (grouping/split)
+- JOS 4:6 — verse continues in next (grouping/split)
+- JOS 4:21 — verse continues in next (grouping/split)
+- JOS 8:3 — verse continues in next (grouping/split)
+- JOS 8:30 — verse continues in next (grouping/split)
+- JOS 9:3 — verse continues in next (grouping/split)
+- JOS 10:16 — verse continues in next (grouping/split)
+- JOS 11:1 — verse continues in next (grouping/split)
+- JOS 11:16 — verse continues in next (grouping/split)
+- JOS 11:17 — verse continues in next (grouping/split)
+- JOS 12:9 — verse continues in next (grouping/split)
+- JOS 12:10 — verse continues in next (grouping/split)
+- JOS 12:11 — verse continues in next (grouping/split)
+- JOS 12:12 — verse continues in next (grouping/split)
+- JOS 12:13 — verse continues in next (grouping/split)
+- JOS 12:14 — verse continues in next (grouping/split)
+- JOS 12:15 — verse continues in next (grouping/split)
+- JOS 12:16 — verse continues in next (grouping/split)
+- JOS 12:17 — verse continues in next (grouping/split)
+- JOS 12:18 — verse continues in next (grouping/split)
+- JOS 12:19 — verse continues in next (grouping/split)
+- JOS 12:20 — verse continues in next (grouping/split)
+- JOS 12:21 — verse continues in next (grouping/split)
+- JOS 12:22 — verse continues in next (grouping/split)
+- JOS 12:23 — verse continues in next (grouping/split)
+- JOS 13:2 — verse continues in next (grouping/split)
+- JOS 13:16 — verse continues in next (grouping/split)
+- JOS 14:10 — verse continues in next (grouping/split)
+- JOS 15:2 — verse continues in next (grouping/split)
+- JOS 15:5 — verse continues in next (grouping/split)
+- JOS 15:10 — verse continues in next (grouping/split)
+- JOS 15:45 — verse continues in next (grouping/split)
+- JOS 17:5 — verse continues in next (grouping/split)
+- JOS 22:7 — verse continues in next (grouping/split)
+- JOS 22:26 — verse continues in next (grouping/split)
+- JOS 24:3 — verse continues in next (grouping/split)
+- JDG 3:18 — verse continues in next (grouping/split)
+- JDG 3:21 — verse continues in next (grouping/split)
+- JDG 4:14 — verse continues in next (grouping/split)
+- JDG 7:10 — verse continues in next (grouping/split)
+- JDG 9:22 — verse continues in next (grouping/split)
+- JDG 9:30 — verse continues in next (grouping/split)
+- JDG 9:47 — verse continues in next (grouping/split)
+- JDG 9:52 — verse continues in next (grouping/split)
+- JDG 11:20 — verse continues in next (grouping/split)
+- JDG 11:39 — verse continues in next (grouping/split)
+- JDG 12:5 — verse continues in next (grouping/split)
+- JDG 15:1 — verse continues in next (grouping/split)
+- JDG 16:8 — verse continues in next (grouping/split)
+- JDG 16:29 — verse continues in next (grouping/split)
+- JDG 19:3 — verse continues in next (grouping/split)
+- JDG 20:15 — verse continues in next (grouping/split)
+- JDG 20:39 — verse continues in next (grouping/split)
+- RUT 1:6 — verse continues in next (grouping/split)
+- RUT 1:9 — verse continues in next (grouping/split)
+- RUT 1:12 — verse continues in next (grouping/split)
+- RUT 4:18 — verse continues in next (grouping/split)
+- RUT 4:19 — verse continues in next (grouping/split)
+- RUT 4:20 — verse continues in next (grouping/split)
+- RUT 4:21 — verse continues in next (grouping/split)
+- 1SA 1:13 — verse continues in next (grouping/split)
+- 1SA 1:21 — verse continues in next (grouping/split)
+- 1SA 1:25 — verse continues in next (grouping/split)
+- 1SA 2:12 — verse continues in next (grouping/split)
+- 1SA 2:13 — verse continues in next (grouping/split)
+- 1SA 3:8 — verse continues in next (grouping/split)
+- 1SA 4:20 — verse continues in next (grouping/split)
+- 1SA 5:11 — verse continues in next (grouping/split)
+- 1SA 6:8 — verse continues in next (grouping/split)
+- 1SA 7:7 — verse continues in next (grouping/split)
+- 1SA 7:15 — verse continues in next (grouping/split)
+- 1SA 8:4 — verse continues in next (grouping/split)
+- 1SA 8:19 — verse continues in next (grouping/split)
+- 1SA 9:22 — verse continues in next (grouping/split)
+- 1SA 9:25 — verse continues in next (grouping/split)
+- 1SA 11:6 — verse continues in next (grouping/split)
+- 1SA 12:1 — verse continues in next (grouping/split)
+- 1SA 12:2 — verse continues in next (grouping/split)
+- 1SA 13:4 — verse continues in next (grouping/split)
+- 1SA 13:10 — verse continues in next (grouping/split)
+- 1SA 13:11 — verse continues in next (grouping/split)
+- 1SA 13:17 — verse continues in next (grouping/split)
+- 1SA 14:3 — verse continues in next (grouping/split)
+- 1SA 14:31 — verse continues in next (grouping/split)
+- 1SA 15:20 — verse continues in next (grouping/split)
+- 1SA 17:14 — verse continues in next (grouping/split)
+- 1SA 17:34 — verse continues in next (grouping/split)
+- 1SA 17:41 — verse continues in next (grouping/split)
+- 1SA 17:50 — verse continues in next (grouping/split)
+- 1SA 18:6 — verse continues in next (grouping/split)
+- 1SA 18:20 — verse continues in next (grouping/split)
+- 1SA 19:1 — verse continues in next (grouping/split)
+- 1SA 19:19 — verse continues in next (grouping/split)
+- 1SA 20:14 — verse continues in next (grouping/split)
+- 1SA 20:24 — verse continues in next (grouping/split)
+- 1SA 20:28 — verse continues in next (grouping/split)
+- 1SA 20:38 — verse continues in next (grouping/split)
+- 1SA 22:6 — verse continues in next (grouping/split)
+- 1SA 23:26 — verse continues in next (grouping/split)
+- 1SA 24:5 — verse continues in next (grouping/split)
+- 1SA 25:5 — verse continues in next (grouping/split)
+- 1SA 25:9 — verse continues in next (grouping/split)
+- 1SA 25:15 — verse continues in next (grouping/split)
+- 1SA 25:18 — verse continues in next (grouping/split)
+- 1SA 26:3 — verse continues in next (grouping/split)
+- 1SA 26:10 — verse continues in next (grouping/split)
+- 1SA 30:6 — verse continues in next (grouping/split)
+- 1SA 30:9 — verse continues in next (grouping/split)
+- 1SA 30:11 — verse continues in next (grouping/split)
+- 1SA 30:27 — verse continues in next (grouping/split)
+- 1SA 30:28 — verse continues in next (grouping/split)
+- 1SA 30:29 — verse continues in next (grouping/split)
+- 1SA 30:30 — verse continues in next (grouping/split)
+- 1SA 31:11 — verse continues in next (grouping/split)
+- 2SA 1:17 — verse continues in next (grouping/split)
+- 2SA 2:4 — verse continues in next (grouping/split)
+- 2SA 3:2 — verse continues in next (grouping/split)
+- 2SA 3:3 — verse continues in next (grouping/split)
+- 2SA 3:4 — verse continues in next (grouping/split)
+- 2SA 3:31 — verse continues in next (grouping/split)
+- 2SA 3:38 — verse continues in next (grouping/split)
+- 2SA 4:2 — verse continues in next (grouping/split)
+- 2SA 4:7 — verse continues in next (grouping/split)
+- 2SA 6:3 — verse continues in next (grouping/split)
+- 2SA 7:10 — verse continues in next (grouping/split)
+- 2SA 8:9 — verse continues in next (grouping/split)
+- 2SA 10:17 — verse continues in next (grouping/split)
+- 2SA 11:19 — verse continues in next (grouping/split)
+- 2SA 11:23 — verse continues in next (grouping/split)
+- 2SA 12:24 — verse continues in next (grouping/split)
+- 2SA 17:28 — verse continues in next (grouping/split)
+- 2SA 19:18 — verse continues in next (grouping/split)
+- 2SA 19:26 — verse continues in next (grouping/split)
+- 2SA 19:36 — verse continues in next (grouping/split)
+- 2SA 19:39 — verse continues in next (grouping/split)
+- 2SA 20:25 — verse continues in next (grouping/split)
+- 2SA 21:2 — verse continues in next (grouping/split)
+- 2SA 21:8 — verse continues in next (grouping/split)
+- 2SA 23:3 — verse continues in next (grouping/split)
+- 2SA 23:9 — verse continues in next (grouping/split)
+- 2SA 23:11 — verse continues in next (grouping/split)
+- 2SA 23:32 — verse continues in next (grouping/split)
+- 2SA 23:38 — verse continues in next (grouping/split)
+- 2SA 24:8 — verse continues in next (grouping/split)
+- 2SA 24:11 — verse continues in next (grouping/split)
+- 2SA 24:20 — verse continues in next (grouping/split)
+- 1KI 1:20 — verse continues in next (grouping/split)
+- 1KI 1:22 — verse continues in next (grouping/split)
+- 1KI 1:23 — verse continues in next (grouping/split)
+- 1KI 1:29 — verse continues in next (grouping/split)
+- 1KI 1:32 — verse continues in next (grouping/split)
+- 1KI 1:43 — verse continues in next (grouping/split)
+- 1KI 1:47 — verse continues in next (grouping/split)
+- 1KI 3:11 — verse continues in next (grouping/split)
+- 1KI 6:20 — verse continues in next (grouping/split)
+- 1KI 7:40 — verse continues in next (grouping/split)
+- 1KI 7:41 — verse continues in next (grouping/split)
+- 1KI 7:42 — verse continues in next (grouping/split)
+- 1KI 7:43 — verse continues in next (grouping/split)
+- 1KI 7:44 — verse continues in next (grouping/split)
+- 1KI 7:48 — verse continues in next (grouping/split)
+- 1KI 7:49 — verse continues in next (grouping/split)
+- 1KI 8:10 — verse continues in next (grouping/split)
+- 1KI 8:22 — verse continues in next (grouping/split)
+- 1KI 8:31 — verse continues in next (grouping/split)
+- 1KI 8:33 — verse continues in next (grouping/split)
+- 1KI 8:35 — verse continues in next (grouping/split)
+- 1KI 8:37 — verse continues in next (grouping/split)
+- 1KI 8:38 — verse continues in next (grouping/split)
+- 1KI 8:42 — verse continues in next (grouping/split)
+- 1KI 8:44 — verse continues in next (grouping/split)
+- 1KI 8:47 — verse continues in next (grouping/split)
+- 1KI 8:48 — verse continues in next (grouping/split)
+- 1KI 8:49 — verse continues in next (grouping/split)
+- 1KI 9:4 — verse continues in next (grouping/split)
+- 1KI 9:6 — verse continues in next (grouping/split)
+- 1KI 9:20 — verse continues in next (grouping/split)
+- 1KI 10:5 — verse continues in next (grouping/split)
+- 1KI 10:14 — verse continues in next (grouping/split)
+- 1KI 11:34 — verse continues in next (grouping/split)
+- 1KI 11:35 — verse continues in next (grouping/split)
+- 1KI 12:23 — verse continues in next (grouping/split)
+- 1KI 12:26 — verse continues in next (grouping/split)
+- 1KI 14:4 — verse continues in next (grouping/split)
+- 1KI 15:23 — verse continues in next (grouping/split)
+- 1KI 15:25 — verse continues in next (grouping/split)
+- 1KI 15:27 — verse continues in next (grouping/split)
+- 1KI 15:33 — verse continues in next (grouping/split)
+- 1KI 18:16 — verse continues in next (grouping/split)
+- 1KI 18:42 — verse continues in next (grouping/split)
+- 1KI 20:2 — verse continues in next (grouping/split)
+- 2KI 2:13 — verse continues in next (grouping/split)
+- 2KI 2:15 — verse continues in next (grouping/split)
+- 2KI 5:19 — verse continues in next (grouping/split)
+- 2KI 9:32 — verse continues in next (grouping/split)
+- 2KI 10:2 — verse continues in next (grouping/split)
+- 2KI 10:25 — verse continues in next (grouping/split)
+- 2KI 11:9 — verse continues in next (grouping/split)
+- 2KI 12:14 — verse continues in next (grouping/split)
+- 2KI 14:23 — verse continues in next (grouping/split)
+- 2KI 15:3 — verse continues in next (grouping/split)
+- 2KI 15:27 — verse continues in next (grouping/split)
+- 2KI 16:1 — verse continues in next (grouping/split)
+- 2KI 16:12 — verse continues in next (grouping/split)
+- 2KI 17:7 — verse continues in next (grouping/split)
+- 2KI 17:8 — verse continues in next (grouping/split)
+- 2KI 18:7 — verse continues in next (grouping/split)
+- 2KI 19:5 — verse continues in next (grouping/split)
+- 2KI 21:3 — verse continues in next (grouping/split)
+- 2KI 21:5 — verse continues in next (grouping/split)
+- 2KI 21:20 — verse continues in next (grouping/split)
+- 2KI 21:23 — verse continues in next (grouping/split)
+- 2KI 22:5 — verse continues in next (grouping/split)
+- 2KI 22:18 — verse continues in next (grouping/split)
+- 1CH 1:11 — verse continues in next (grouping/split)
+- 1CH 1:14 — verse continues in next (grouping/split)
+- 1CH 1:15 — verse continues in next (grouping/split)
+- 1CH 1:26 — verse continues in next (grouping/split)
+- 1CH 2:13 — verse continues in next (grouping/split)
+- 1CH 2:14 — verse continues in next (grouping/split)
+- 1CH 2:52 — verse continues in next (grouping/split)
+- 1CH 2:54 — verse continues in next (grouping/split)
+- 1CH 4:25 — verse continues in next (grouping/split)
+- 1CH 4:38 — verse continues in next (grouping/split)
+- 1CH 4:40 — verse continues in next (grouping/split)
+- 1CH 5:5 — verse continues in next (grouping/split)
+- 1CH 5:7 — verse continues in next (grouping/split)
+- 1CH 5:19 — verse continues in next (grouping/split)
+- 1CH 7:8 — verse continues in next (grouping/split)
+- 1CH 8:1 — verse continues in next (grouping/split)
+- 1CH 8:31 — verse continues in next (grouping/split)
+- 1CH 9:10 — verse continues in next (grouping/split)
+- 1CH 9:29 — verse continues in next (grouping/split)
+- 1CH 10:11 — verse continues in next (grouping/split)
+- 1CH 10:13 — verse continues in next (grouping/split)
+- 1CH 12:5 — verse continues in next (grouping/split)
+- 1CH 13:5 — verse continues in next (grouping/split)
+- 1CH 16:19 — verse continues in next (grouping/split)
+- 1CH 16:29 — verse continues in next (grouping/split)
+- 1CH 16:37 — verse continues in next (grouping/split)
+- 1CH 17:9 — verse continues in next (grouping/split)
+- 1CH 18:12 — verse continues in next (grouping/split)
+- 1CH 19:17 — verse continues in next (grouping/split)
+- 1CH 21:29 — verse continues in next (grouping/split)
+- 1CH 22:3 — verse continues in next (grouping/split)
+- 1CH 22:7 — verse continues in next (grouping/split)
+- 1CH 22:15 — verse continues in next (grouping/split)
+- 1CH 23:1 — verse continues in next (grouping/split)
+- 1CH 23:27 — verse continues in next (grouping/split)
+- 1CH 23:30 — verse continues in next (grouping/split)
+- 1CH 24:7 — verse continues in next (grouping/split)
+- 1CH 24:8 — verse continues in next (grouping/split)
+- 1CH 24:9 — verse continues in next (grouping/split)
+- 1CH 24:10 — verse continues in next (grouping/split)
+- 1CH 24:11 — verse continues in next (grouping/split)
+- 1CH 24:12 — verse continues in next (grouping/split)
+- 1CH 24:13 — verse continues in next (grouping/split)
+- 1CH 24:14 — verse continues in next (grouping/split)
+- 1CH 24:15 — verse continues in next (grouping/split)
+- 1CH 24:16 — verse continues in next (grouping/split)
+- 1CH 24:17 — verse continues in next (grouping/split)
+- 1CH 24:21 — verse continues in next (grouping/split)
+- 1CH 25:9 — verse continues in next (grouping/split)
+- 1CH 25:10 — verse continues in next (grouping/split)
+- 1CH 25:11 — verse continues in next (grouping/split)
+- 1CH 25:12 — verse continues in next (grouping/split)
+- 1CH 25:13 — verse continues in next (grouping/split)
+- 1CH 25:14 — verse continues in next (grouping/split)
+- 1CH 25:15 — verse continues in next (grouping/split)
+- 1CH 25:16 — verse continues in next (grouping/split)
+- 1CH 25:17 — verse continues in next (grouping/split)
+- 1CH 25:18 — verse continues in next (grouping/split)
+- 1CH 25:19 — verse continues in next (grouping/split)
+- 1CH 25:20 — verse continues in next (grouping/split)
+- 1CH 25:21 — verse continues in next (grouping/split)
+- 1CH 25:22 — verse continues in next (grouping/split)
+- 1CH 25:23 — verse continues in next (grouping/split)
+- 1CH 25:24 — verse continues in next (grouping/split)
+- 1CH 25:25 — verse continues in next (grouping/split)
+- 1CH 25:26 — verse continues in next (grouping/split)
+- 1CH 25:27 — verse continues in next (grouping/split)
+- 1CH 25:28 — verse continues in next (grouping/split)
+- 1CH 25:29 — verse continues in next (grouping/split)
+- 1CH 25:30 — verse continues in next (grouping/split)
+- 1CH 28:2 — verse continues in next (grouping/split)
+- 1CH 28:14 — verse continues in next (grouping/split)
+- 1CH 28:15 — verse continues in next (grouping/split)
+- 1CH 28:16 — verse continues in next (grouping/split)
+- 1CH 29:26 — verse continues in next (grouping/split)
+- 2CH 1:11 — verse continues in next (grouping/split)
+- 2CH 4:11 — verse continues in next (grouping/split)
+- 2CH 4:12 — verse continues in next (grouping/split)
+- 2CH 4:14 — verse continues in next (grouping/split)
+- 2CH 4:15 — verse continues in next (grouping/split)
+- 2CH 4:19 — verse continues in next (grouping/split)
+- 2CH 4:20 — verse continues in next (grouping/split)
+- 2CH 4:21 — verse continues in next (grouping/split)
+- 2CH 6:13 — verse continues in next (grouping/split)
+- 2CH 6:22 — verse continues in next (grouping/split)
+- 2CH 6:24 — verse continues in next (grouping/split)
+- 2CH 6:26 — verse continues in next (grouping/split)
+- 2CH 6:29 — verse continues in next (grouping/split)
+- 2CH 6:32 — verse continues in next (grouping/split)
+- 2CH 6:34 — verse continues in next (grouping/split)
+- 2CH 6:37 — verse continues in next (grouping/split)
+- 2CH 6:38 — verse continues in next (grouping/split)
+- 2CH 7:13 — verse continues in next (grouping/split)
+- 2CH 7:15 — verse continues in next (grouping/split)
+- 2CH 7:17 — verse continues in next (grouping/split)
+- 2CH 7:19 — verse continues in next (grouping/split)
+- 2CH 8:7 — verse continues in next (grouping/split)
+- 2CH 9:4 — verse continues in next (grouping/split)
+- 2CH 9:13 — verse continues in next (grouping/split)
+- 2CH 11:3 — verse continues in next (grouping/split)
+- 2CH 14:12 — verse continues in next (grouping/split)
+- 2CH 14:13 — verse continues in next (grouping/split)
+- 2CH 17:3 — verse continues in next (grouping/split)
+- 2CH 17:15 — verse continues in next (grouping/split)
+- 2CH 19:1 — verse continues in next (grouping/split)
+- 2CH 20:5 — verse continues in next (grouping/split)
+- 2CH 20:35 — verse continues in next (grouping/split)
+- 2CH 21:12 — verse continues in next (grouping/split)
+- 2CH 23:4 — verse continues in next (grouping/split)
+- 2CH 24:5 — verse continues in next (grouping/split)
+- 2CH 24:17 — verse continues in next (grouping/split)
+- 2CH 28:2 — verse continues in next (grouping/split)
+- 2CH 28:12 — verse continues in next (grouping/split)
+- 2CH 28:16 — verse continues in next (grouping/split)
+- 2CH 29:5 — verse continues in next (grouping/split)
+- 2CH 30:2 — verse continues in next (grouping/split)
+- 2CH 30:4 — verse continues in next (grouping/split)
+- 2CH 30:23 — verse continues in next (grouping/split)
+- 2CH 32:2 — verse continues in next (grouping/split)
+- 2CH 33:3 — verse continues in next (grouping/split)
+- 2CH 33:5 — verse continues in next (grouping/split)
+- 2CH 33:24 — verse continues in next (grouping/split)
+- 2CH 34:12 — verse continues in next (grouping/split)
+- 2CH 34:19 — verse continues in next (grouping/split)
+- 2CH 34:22 — verse continues in next (grouping/split)
+- 2CH 34:26 — verse continues in next (grouping/split)
+- 2CH 35:26 — verse continues in next (grouping/split)
+- 2CH 36:15 — verse continues in next (grouping/split)
+- 2CH 36:20 — verse continues in next (grouping/split)
+- EZR 2:3 — verse continues in next (grouping/split)
+- EZR 2:4 — verse continues in next (grouping/split)
+- EZR 2:5 — verse continues in next (grouping/split)
+- EZR 2:6 — verse continues in next (grouping/split)
+- EZR 2:7 — verse continues in next (grouping/split)
+- EZR 2:8 — verse continues in next (grouping/split)
+- EZR 2:9 — verse continues in next (grouping/split)
+- EZR 2:10 — verse continues in next (grouping/split)
+- EZR 2:11 — verse continues in next (grouping/split)
+- EZR 2:12 — verse continues in next (grouping/split)
+- EZR 2:13 — verse continues in next (grouping/split)
+- EZR 2:14 — verse continues in next (grouping/split)
+- EZR 2:15 — verse continues in next (grouping/split)
+- EZR 2:16 — verse continues in next (grouping/split)
+- EZR 2:17 — verse continues in next (grouping/split)
+- EZR 2:18 — verse continues in next (grouping/split)
+- EZR 2:19 — verse continues in next (grouping/split)
+- EZR 2:20 — verse continues in next (grouping/split)
+- EZR 2:22 — verse continues in next (grouping/split)
+- EZR 2:23 — verse continues in next (grouping/split)
+- EZR 2:24 — verse continues in next (grouping/split)
+- EZR 2:25 — verse continues in next (grouping/split)
+- EZR 2:26 — verse continues in next (grouping/split)
+- EZR 2:27 — verse continues in next (grouping/split)
+- EZR 2:28 — verse continues in next (grouping/split)
+- EZR 2:31 — verse continues in next (grouping/split)
+- EZR 2:32 — verse continues in next (grouping/split)
+- EZR 2:34 — verse continues in next (grouping/split)
+- EZR 2:36 — verse continues in next (grouping/split)
+- EZR 2:37 — verse continues in next (grouping/split)
+- EZR 2:38 — verse continues in next (grouping/split)
+- EZR 2:64 — verse continues in next (grouping/split)
+- EZR 4:1 — verse continues in next (grouping/split)
+- EZR 4:9 — verse continues in next (grouping/split)
+- EZR 6:9 — verse continues in next (grouping/split)
+- EZR 7:1 — verse continues in next (grouping/split)
+- EZR 7:2 — verse continues in next (grouping/split)
+- EZR 7:3 — verse continues in next (grouping/split)
+- EZR 7:4 — verse continues in next (grouping/split)
+- EZR 8:2 — verse continues in next (grouping/split)
+- EZR 9:5 — verse continues in next (grouping/split)
+- NEH 2:2 — verse continues in next (grouping/split)
+- NEH 2:11 — verse continues in next (grouping/split)
+- NEH 4:8 — verse continues in next (grouping/split)
+- NEH 5:7 — verse continues in next (grouping/split)
+- NEH 6:6 — verse continues in next (grouping/split)
+- NEH 6:17 — verse continues in next (grouping/split)
+- NEH 7:4 — verse continues in next (grouping/split)
+- NEH 7:8 — verse continues in next (grouping/split)
+- NEH 7:9 — verse continues in next (grouping/split)
+- NEH 7:10 — verse continues in next (grouping/split)
+- NEH 7:11 — verse continues in next (grouping/split)
+- NEH 7:12 — verse continues in next (grouping/split)
+- NEH 7:13 — verse continues in next (grouping/split)
+- NEH 7:14 — verse continues in next (grouping/split)
+- NEH 7:15 — verse continues in next (grouping/split)
+- NEH 7:16 — verse continues in next (grouping/split)
+- NEH 7:17 — verse continues in next (grouping/split)
+- NEH 7:18 — verse continues in next (grouping/split)
+- NEH 7:19 — verse continues in next (grouping/split)
+- NEH 7:20 — verse continues in next (grouping/split)
+- NEH 7:21 — verse continues in next (grouping/split)
+- NEH 7:22 — verse continues in next (grouping/split)
+- NEH 7:23 — verse continues in next (grouping/split)
+- NEH 7:24 — verse continues in next (grouping/split)
+- NEH 7:26 — verse continues in next (grouping/split)
+- NEH 7:27 — verse continues in next (grouping/split)
+- NEH 7:28 — verse continues in next (grouping/split)
+- NEH 7:29 — verse continues in next (grouping/split)
+- NEH 7:30 — verse continues in next (grouping/split)
+- NEH 7:31 — verse continues in next (grouping/split)
+- NEH 7:32 — verse continues in next (grouping/split)
+- NEH 7:33 — verse continues in next (grouping/split)
+- NEH 7:34 — verse continues in next (grouping/split)
+- NEH 7:35 — verse continues in next (grouping/split)
+- NEH 7:36 — verse continues in next (grouping/split)
+- NEH 7:37 — verse continues in next (grouping/split)
+- NEH 7:39 — verse continues in next (grouping/split)
+- NEH 7:40 — verse continues in next (grouping/split)
+- NEH 7:41 — verse continues in next (grouping/split)
+- NEH 7:66 — verse continues in next (grouping/split)
+- NEH 9:18 — verse continues in next (grouping/split)
+- NEH 10:9 — verse continues in next (grouping/split)
+- NEH 10:28 — verse continues in next (grouping/split)
+- NEH 11:4 — verse continues in next (grouping/split)
+- NEH 11:11 — verse continues in next (grouping/split)
+- NEH 11:25 — verse continues in next (grouping/split)
+- NEH 11:26 — verse continues in next (grouping/split)
+- NEH 11:27 — verse continues in next (grouping/split)
+- NEH 11:28 — verse continues in next (grouping/split)
+- NEH 11:29 — verse continues in next (grouping/split)
+- NEH 11:31 — verse continues in next (grouping/split)
+- NEH 11:32 — verse continues in next (grouping/split)
+- NEH 11:33 — verse continues in next (grouping/split)
+- NEH 11:34 — verse continues in next (grouping/split)
+- NEH 12:12 — verse continues in next (grouping/split)
+- NEH 12:13 — verse continues in next (grouping/split)
+- NEH 12:14 — verse continues in next (grouping/split)
+- NEH 12:15 — verse continues in next (grouping/split)
+- NEH 12:16 — verse continues in next (grouping/split)
+- NEH 12:17 — verse continues in next (grouping/split)
+- NEH 12:18 — verse continues in next (grouping/split)
+- NEH 12:19 — verse continues in next (grouping/split)
+- NEH 12:20 — verse continues in next (grouping/split)
+- NEH 12:28 — verse continues in next (grouping/split)
+- NEH 12:40 — verse continues in next (grouping/split)
+- NEH 13:4 — verse continues in next (grouping/split)
+- EST 4:12 — verse continues in next (grouping/split)
+- EST 5:10 — verse continues in next (grouping/split)
+- EST 7:3 — verse continues in next (grouping/split)
+- EST 8:4 — verse continues in next (grouping/split)
+- EST 9:9 — verse continues in next (grouping/split)
+- EST 9:11 — verse continues in next (grouping/split)
+- EST 9:26 — verse continues in next (grouping/split)
+- JOB 1:13 — verse continues in next (grouping/split)
+- JOB 1:14 — verse continues in next (grouping/split)
+- JOB 1:18 — verse continues in next (grouping/split)
+- JOB 1:20 — verse continues in next (grouping/split)
+- JOB 4:18 — verse continues in next (grouping/split)
+- JOB 6:2 — verse continues in next (grouping/split)
+- JOB 7:9 — verse continues in next (grouping/split)
+- JOB 7:13 — verse continues in next (grouping/split)
+- JOB 8:5 — verse continues in next (grouping/split)
+- JOB 8:8 — verse continues in next (grouping/split)
+- JOB 8:16 — verse continues in next (grouping/split)
+- JOB 8:17 — verse continues in next (grouping/split)
+- JOB 8:21 — verse continues in next (grouping/split)
+- JOB 9:27 — verse continues in next (grouping/split)
+- JOB 9:30 — verse continues in next (grouping/split)
+- JOB 9:34 — verse continues in next (grouping/split)
+- JOB 10:20 — verse continues in next (grouping/split)
+- JOB 10:21 — verse continues in next (grouping/split)
+- JOB 11:13 — verse continues in next (grouping/split)
+- JOB 11:14 — verse continues in next (grouping/split)
+- JOB 14:8 — verse continues in next (grouping/split)
+- JOB 14:11 — verse continues in next (grouping/split)
+- JOB 14:18 — verse continues in next (grouping/split)
+- JOB 15:15 — verse continues in next (grouping/split)
+- JOB 15:18 — verse continues in next (grouping/split)
+- JOB 15:25 — verse continues in next (grouping/split)
+- JOB 15:27 — verse continues in next (grouping/split)
+- JOB 16:16 — verse continues in next (grouping/split)
+- JOB 20:6 — verse continues in next (grouping/split)
+- JOB 20:20 — verse continues in next (grouping/split)
+- JOB 21:23 — verse continues in next (grouping/split)
+- JOB 21:29 — verse continues in next (grouping/split)
+- JOB 22:8 — verse continues in next (grouping/split)
+- JOB 22:17 — verse continues in next (grouping/split)
+- JOB 25:5 — verse continues in next (grouping/split)
+- JOB 27:3 — verse continues in next (grouping/split)
+- JOB 27:16 — verse continues in next (grouping/split)
+- JOB 28:25 — verse continues in next (grouping/split)
+- JOB 28:26 — verse continues in next (grouping/split)
+- JOB 29:15 — verse continues in next (grouping/split)
+- JOB 30:18 — verse continues in next (grouping/split)
+- JOB 31:7 — verse continues in next (grouping/split)
+- JOB 31:9 — verse continues in next (grouping/split)
+- JOB 31:17 — verse continues in next (grouping/split)
+- JOB 31:19 — verse continues in next (grouping/split)
+- JOB 31:26 — verse continues in next (grouping/split)
+- JOB 31:38 — verse continues in next (grouping/split)
+- JOB 33:19 — verse continues in next (grouping/split)
+- JOB 33:32 — verse continues in next (grouping/split)
+- JOB 34:8 — verse continues in next (grouping/split)
+- JOB 34:14 — verse continues in next (grouping/split)
+- JOB 34:22 — verse continues in next (grouping/split)
+- JOB 34:26 — verse continues in next (grouping/split)
+- JOB 35:10 — verse continues in next (grouping/split)
+- JOB 37:21 — verse continues in next (grouping/split)
+- JOB 38:6 — verse continues in next (grouping/split)
+- JOB 38:9 — verse continues in next (grouping/split)
+- JOB 38:10 — verse continues in next (grouping/split)
+- JOB 38:12 — verse continues in next (grouping/split)
+- JOB 38:22 — verse continues in next (grouping/split)
+- JOB 38:25 — verse continues in next (grouping/split)
+- JOB 38:37 — verse continues in next (grouping/split)
+- JOB 38:39 — verse continues in next (grouping/split)
+- JOB 40:16 — verse continues in next (grouping/split)
+- JOB 41:15 — verse continues in next (grouping/split)
+- PSA 5:5 — verse continues in next (grouping/split)
+- PSA 8:3 — verse continues in next (grouping/split)
+- PSA 8:7 — verse continues in next (grouping/split)
+- PSA 18:36 — verse continues in next (grouping/split)
+- PSA 19:3 — verse continues in next (grouping/split)
+- PSA 29:7 — verse continues in next (grouping/split)
+- PSA 34:12 — verse continues in next (grouping/split)
+- PSA 35:13 — verse continues in next (grouping/split)
+- PSA 38:21 — verse continues in next (grouping/split)
+- PSA 44:15 — verse continues in next (grouping/split)
+- PSA 44:20 — verse continues in next (grouping/split)
+- PSA 46:2 — verse continues in next (grouping/split)
+- PSA 48:4 — verse continues in next (grouping/split)
+- PSA 48:12 — verse continues in next (grouping/split)
+- PSA 48:13 — verse continues in next (grouping/split)
+- PSA 49:1 — verse continues in next (grouping/split)
+- PSA 49:8 — verse continues in next (grouping/split)
+- PSA 49:18 — verse continues in next (grouping/split)
+- PSA 55:2 — verse continues in next (grouping/split)
+- PSA 58:4 — verse continues in next (grouping/split)
+- PSA 59:12 — verse continues in next (grouping/split)
+- PSA 63:6 — verse continues in next (grouping/split)
+- PSA 66:13 — verse continues in next (grouping/split)
+- PSA 68:22 — verse continues in next (grouping/split)
+- PSA 69:22 — verse continues in next (grouping/split)
+- PSA 75:6 — verse continues in next (grouping/split)
+- PSA 76:8 — verse continues in next (grouping/split)
+- PSA 78:21 — verse continues in next (grouping/split)
+- PSA 78:23 — verse continues in next (grouping/split)
+- PSA 78:44 — verse continues in next (grouping/split)
+- PSA 78:45 — verse continues in next (grouping/split)
+- PSA 78:46 — verse continues in next (grouping/split)
+- PSA 78:47 — verse continues in next (grouping/split)
+- PSA 78:48 — verse continues in next (grouping/split)
+- PSA 78:54 — verse continues in next (grouping/split)
+- PSA 80:1 — verse continues in next (grouping/split)
+- PSA 83:6 — verse continues in next (grouping/split)
+- PSA 83:11 — verse continues in next (grouping/split)
+- PSA 83:14 — verse continues in next (grouping/split)
+- PSA 89:11 — verse continues in next (grouping/split)
+- PSA 89:30 — verse continues in next (grouping/split)
+- PSA 89:31 — verse continues in next (grouping/split)
+- PSA 89:32 — verse continues in next (grouping/split)
+- PSA 89:50 — verse continues in next (grouping/split)
+- PSA 90:5 — verse continues in next (grouping/split)
+- PSA 91:9 — verse continues in next (grouping/split)
+- PSA 92:2 — verse continues in next (grouping/split)
+- PSA 92:14 — verse continues in next (grouping/split)
+- PSA 102:9 — verse continues in next (grouping/split)
+- PSA 102:19 — verse continues in next (grouping/split)
+- PSA 102:21 — verse continues in next (grouping/split)
+- PSA 103:15 — verse continues in next (grouping/split)
+- PSA 104:1 — verse continues in next (grouping/split)
+- PSA 104:2 — verse continues in next (grouping/split)
+- PSA 104:3 — verse continues in next (grouping/split)
+- PSA 104:22 — verse continues in next (grouping/split)
+- PSA 105:12 — verse continues in next (grouping/split)
+- PSA 105:20 — verse continues in next (grouping/split)
+- PSA 105:34 — verse continues in next (grouping/split)
+- PSA 106:21 — verse continues in next (grouping/split)
+- PSA 106:32 — verse continues in next (grouping/split)
+- PSA 107:23 — verse continues in next (grouping/split)
+- PSA 107:26 — verse continues in next (grouping/split)
+- PSA 107:33 — verse continues in next (grouping/split)
+- PSA 113:5 — verse continues in next (grouping/split)
+- PSA 116:18 — verse continues in next (grouping/split)
+- PSA 119:127 — verse continues in next (grouping/split)
+- PSA 124:2 — verse continues in next (grouping/split)
+- PSA 132:3 — verse continues in next (grouping/split)
+- PSA 132:4 — verse continues in next (grouping/split)
+- PSA 135:1 — verse continues in next (grouping/split)
+- PSA 135:16 — verse continues in next (grouping/split)
+- PSA 139:9 — verse continues in next (grouping/split)
+- PSA 140:1 — verse continues in next (grouping/split)
+- PSA 143:5 — verse continues in next (grouping/split)
+- PSA 148:7 — verse continues in next (grouping/split)
+- PSA 148:9 — verse continues in next (grouping/split)
+- PSA 148:11 — verse continues in next (grouping/split)
+- PSA 149:6 — verse continues in next (grouping/split)
+- PSA 149:7 — verse continues in next (grouping/split)
+- PRO 1:15 — verse continues in next (grouping/split)
+- PRO 1:20 — verse continues in next (grouping/split)
+- PRO 1:26 — verse continues in next (grouping/split)
+- PRO 1:32 — verse continues in next (grouping/split)
+- PRO 2:12 — verse continues in next (grouping/split)
+- PRO 2:13 — verse continues in next (grouping/split)
+- PRO 2:14 — verse continues in next (grouping/split)
+- PRO 2:16 — verse continues in next (grouping/split)
+- PRO 3:9 — verse continues in next (grouping/split)
+- PRO 3:11 — verse continues in next (grouping/split)
+- PRO 3:19 — verse continues in next (grouping/split)
+- PRO 3:25 — verse continues in next (grouping/split)
+- PRO 5:8 — verse continues in next (grouping/split)
+- PRO 5:9 — verse continues in next (grouping/split)
+- PRO 6:1 — verse continues in next (grouping/split)
+- PRO 6:7 — verse continues in next (grouping/split)
+- PRO 6:17 — verse continues in next (grouping/split)
+- PRO 6:18 — verse continues in next (grouping/split)
+- PRO 6:30 — verse continues in next (grouping/split)
+- PRO 6:34 — verse continues in next (grouping/split)
+- PRO 7:6 — verse continues in next (grouping/split)
+- PRO 7:22 — verse continues in next (grouping/split)
+- PRO 8:27 — verse continues in next (grouping/split)
+- PRO 8:28 — verse continues in next (grouping/split)
+- PRO 8:29 — verse continues in next (grouping/split)
+- PRO 9:14 — verse continues in next (grouping/split)
+- PRO 23:2 — verse continues in next (grouping/split)
+- PRO 23:6 — verse continues in next (grouping/split)
+- PRO 23:10 — verse continues in next (grouping/split)
+- PRO 23:26 — verse continues in next (grouping/split)
+- PRO 24:33 — verse continues in next (grouping/split)
+- PRO 26:18 — verse continues in next (grouping/split)
+- PRO 27:23 — verse continues in next (grouping/split)
+- PRO 30:22 — verse continues in next (grouping/split)
+- PRO 30:25 — verse continues in next (grouping/split)
+- PRO 30:26 — verse continues in next (grouping/split)
+- PRO 30:27 — verse continues in next (grouping/split)
+- PRO 30:30 — verse continues in next (grouping/split)
+- ECC 1:17 — verse continues in next (grouping/split)
+- ECC 2:4 — verse continues in next (grouping/split)
+- ECC 3:12 — verse continues in next (grouping/split)
+- ECC 4:2 — verse continues in next (grouping/split)
+- ECC 4:14 — verse continues in next (grouping/split)
+- ECC 5:13 — verse continues in next (grouping/split)
+- ECC 7:21 — verse continues in next (grouping/split)
+- ECC 8:6 — verse continues in next (grouping/split)
+- SNG 4:13 — verse continues in next (grouping/split)
+- SNG 6:8 — verse continues in next (grouping/split)
+- ISA 1:16 — verse continues in next (grouping/split)
+- ISA 3:1 — verse continues in next (grouping/split)
+- ISA 3:2 — verse continues in next (grouping/split)
+- ISA 3:18 — verse continues in next (grouping/split)
+- ISA 3:19 — verse continues in next (grouping/split)
+- ISA 3:20 — verse continues in next (grouping/split)
+- ISA 3:21 — verse continues in next (grouping/split)
+- ISA 3:22 — verse continues in next (grouping/split)
+- ISA 4:5 — verse continues in next (grouping/split)
+- ISA 7:21 — verse continues in next (grouping/split)
+- ISA 10:27 — verse continues in next (grouping/split)
+- ISA 13:7 — verse continues in next (grouping/split)
+- ISA 14:3 — verse continues in next (grouping/split)
+- ISA 16:4 — verse continues in next (grouping/split)
+- ISA 18:1 — verse continues in next (grouping/split)
+- ISA 19:6 — verse continues in next (grouping/split)
+- ISA 25:4 — verse continues in next (grouping/split)
+- ISA 28:2 — verse continues in next (grouping/split)
+- ISA 32:19 — verse continues in next (grouping/split)
+- ISA 37:5 — verse continues in next (grouping/split)
+- ISA 42:6 — verse continues in next (grouping/split)
+- ISA 51:1 — verse continues in next (grouping/split)
+- ISA 52:2 — verse continues in next (grouping/split)
+- ISA 53:4 — verse continues in next (grouping/split)
+- ISA 57:3 — verse continues in next (grouping/split)
+- ISA 61:2 — verse continues in next (grouping/split)
+- ISA 65:11 — verse continues in next (grouping/split)
+- JER 2:1 — verse continues in next (grouping/split)
+- JER 2:10 — verse continues in next (grouping/split)
+- JER 2:34 — verse continues in next (grouping/split)
+- JER 3:7 — verse continues in next (grouping/split)
+- JER 3:12 — verse continues in next (grouping/split)
+- JER 3:19 — verse continues in next (grouping/split)
+- JER 4:11 — verse continues in next (grouping/split)
+- JER 7:1 — verse continues in next (grouping/split)
+- JER 7:5 — verse continues in next (grouping/split)
+- JER 7:6 — verse continues in next (grouping/split)
+- JER 17:22 — verse continues in next (grouping/split)
+- JER 19:10 — verse continues in next (grouping/split)
+- JER 20:3 — verse continues in next (grouping/split)
+- JER 21:3 — verse continues in next (grouping/split)
+- JER 25:19 — verse continues in next (grouping/split)
+- JER 25:21 — verse continues in next (grouping/split)
+- JER 25:24 — verse continues in next (grouping/split)
+- JER 27:9 — verse continues in next (grouping/split)
+- JER 29:15 — verse continues in next (grouping/split)
+- JER 29:24 — verse continues in next (grouping/split)
+- JER 30:1 — verse continues in next (grouping/split)
+- JER 32:8 — verse continues in next (grouping/split)
+- JER 32:13 — verse continues in next (grouping/split)
+- JER 33:4 — verse continues in next (grouping/split)
+- JER 33:10 — verse continues in next (grouping/split)
+- JER 33:20 — verse continues in next (grouping/split)
+- JER 34:13 — verse continues in next (grouping/split)
+- JER 35:3 — verse continues in next (grouping/split)
+- JER 36:5 — verse continues in next (grouping/split)
+- JER 37:7 — verse continues in next (grouping/split)
+- JER 38:25 — verse continues in next (grouping/split)
+- JER 39:13 — verse continues in next (grouping/split)
+- JER 40:13 — verse continues in next (grouping/split)
+- JER 41:4 — verse continues in next (grouping/split)
+- JER 42:13 — verse continues in next (grouping/split)
+- JER 42:14 — verse continues in next (grouping/split)
+- JER 42:15 — verse continues in next (grouping/split)
+- JER 44:1 — verse continues in next (grouping/split)
+- JER 44:12 — verse continues in next (grouping/split)
+- JER 47:3 — verse continues in next (grouping/split)
+- JER 48:21 — verse continues in next (grouping/split)
+- JER 48:23 — verse continues in next (grouping/split)
+- JER 52:28 — verse continues in next (grouping/split)
+- JER 52:29 — verse continues in next (grouping/split)
+- LAM 3:22 — verse continues in next (grouping/split)
+- LAM 3:34 — verse continues in next (grouping/split)
+- LAM 3:35 — verse continues in next (grouping/split)
+- LAM 3:49 — verse continues in next (grouping/split)
+- EZK 3:10 — verse continues in next (grouping/split)
+- EZK 3:23 — verse continues in next (grouping/split)
+- EZK 8:7 — verse continues in next (grouping/split)
+- EZK 11:19 — verse continues in next (grouping/split)
+- EZK 12:4 — verse continues in next (grouping/split)
+- EZK 12:5 — verse continues in next (grouping/split)
+- EZK 14:7 — verse continues in next (grouping/split)
+- EZK 16:11 — verse continues in next (grouping/split)
+- EZK 16:24 — verse continues in next (grouping/split)
+- EZK 16:31 — verse continues in next (grouping/split)
+- EZK 16:56 — verse continues in next (grouping/split)
+- EZK 17:2 — verse continues in next (grouping/split)
+- EZK 17:3 — verse continues in next (grouping/split)
+- EZK 18:5 — verse continues in next (grouping/split)
+- EZK 18:11 — verse continues in next (grouping/split)
+- EZK 18:16 — verse continues in next (grouping/split)
+- EZK 20:17 — verse continues in next (grouping/split)
+- EZK 20:19 — verse continues in next (grouping/split)
+- EZK 23:14 — verse continues in next (grouping/split)
+- EZK 23:22 — verse continues in next (grouping/split)
+- EZK 23:36 — verse continues in next (grouping/split)
+- EZK 24:20 — verse continues in next (grouping/split)
+- EZK 27:2 — verse continues in next (grouping/split)
+- EZK 27:3 — verse continues in next (grouping/split)
+- EZK 27:20 — verse continues in next (grouping/split)
+- EZK 28:6 — verse continues in next (grouping/split)
+- EZK 32:9 — verse continues in next (grouping/split)
+- EZK 36:14 — verse continues in next (grouping/split)
+- EZK 37:18 — verse continues in next (grouping/split)
+- EZK 37:20 — verse continues in next (grouping/split)
+- EZK 38:21 — verse continues in next (grouping/split)
+- EZK 40:8 — verse continues in next (grouping/split)
+- EZK 41:9 — verse continues in next (grouping/split)
+- EZK 41:15 — verse continues in next (grouping/split)
+- EZK 41:17 — verse continues in next (grouping/split)
+- EZK 41:18 — verse continues in next (grouping/split)
+- EZK 41:19 — verse continues in next (grouping/split)
+- EZK 41:21 — verse continues in next (grouping/split)
+- EZK 41:23 — verse continues in next (grouping/split)
+- EZK 43:23 — verse continues in next (grouping/split)
+- EZK 45:13 — verse continues in next (grouping/split)
+- EZK 47:6 — verse continues in next (grouping/split)
+- DAN 1:11 — verse continues in next (grouping/split)
+- DAN 2:2 — verse continues in next (grouping/split)
+- DAN 2:14 — verse continues in next (grouping/split)
+- DAN 2:19 — verse continues in next (grouping/split)
+- DAN 2:27 — verse continues in next (grouping/split)
+- DAN 3:4 — verse continues in next (grouping/split)
+- DAN 3:10 — verse continues in next (grouping/split)
+- DAN 4:4 — verse continues in next (grouping/split)
+- DAN 4:13 — verse continues in next (grouping/split)
+- DAN 5:24 — verse continues in next (grouping/split)
+- DAN 8:20 — verse continues in next (grouping/split)
+- DAN 11:43 — verse continues in next (grouping/split)
+- AMO 2:6 — verse continues in next (grouping/split)
+- AMO 2:7 — verse continues in next (grouping/split)
+- AMO 3:13 — verse continues in next (grouping/split)
+- AMO 5:26 — verse continues in next (grouping/split)
+- AMO 6:9 — verse continues in next (grouping/split)
+- AMO 7:10 — verse continues in next (grouping/split)
+- AMO 7:14 — verse continues in next (grouping/split)
+- AMO 8:1 — verse continues in next (grouping/split)
+- AMO 9:11 — verse continues in next (grouping/split)
+- JON 2:8 — verse continues in next (grouping/split)
+- HAB 1:6 — verse continues in next (grouping/split)
+- HAB 3:17 — verse continues in next (grouping/split)
+- ZEP 1:4 — verse continues in next (grouping/split)
+- ZEP 1:5 — verse continues in next (grouping/split)
+- ZEP 1:15 — verse continues in next (grouping/split)
+- ZEP 2:1 — verse continues in next (grouping/split)
+- ZEP 3:17 — verse continues in next (grouping/split)
+- HAG 2:5 — verse continues in next (grouping/split)
+- HAG 2:6 — verse continues in next (grouping/split)
+- HAG 2:15 — verse continues in next (grouping/split)
+- HAG 2:21 — verse continues in next (grouping/split)
+- ZEC 1:2 — verse continues in next (grouping/split)
+- ZEC 1:14 — verse continues in next (grouping/split)
+- ZEC 2:3 — verse continues in next (grouping/split)
+- ZEC 4:11 — verse continues in next (grouping/split)
+- ZEC 6:2 — verse continues in next (grouping/split)
+- ZEC 9:1 — verse continues in next (grouping/split)
+- ZEC 9:6 — verse continues in next (grouping/split)
+- MAL 1:2 — verse continues in next (grouping/split)
+- MAT 1:24 — verse continues in next (grouping/split)
+- MAT 2:19 — verse continues in next (grouping/split)
+- MAT 3:1 — verse continues in next (grouping/split)
+- MAT 4:5 — verse continues in next (grouping/split)
+- MAT 4:12 — verse continues in next (grouping/split)
+- MAT 4:18 — verse continues in next (grouping/split)
+- MAT 4:21 — verse continues in next (grouping/split)
+- MAT 5:1 — verse continues in next (grouping/split)
+- MAT 5:23 — verse continues in next (grouping/split)
+- MAT 5:34 — verse continues in next (grouping/split)
+- MAT 6:17 — verse continues in next (grouping/split)
+- MAT 7:28 — verse continues in next (grouping/split)
+- MAT 10:9 — verse continues in next (grouping/split)
+- MAT 10:35 — verse continues in next (grouping/split)
+- MAT 11:13 — verse continues in next (grouping/split)
+- MAT 12:15 — verse continues in next (grouping/split)
+- MAT 12:36 — verse continues in next (grouping/split)
+- MAT 12:43 — verse continues in next (grouping/split)
+- MAT 13:5 — verse continues in next (grouping/split)
+- MAT 13:49 — verse continues in next (grouping/split)
+- MAT 13:53 — verse continues in next (grouping/split)
+- MAT 14:9 — verse continues in next (grouping/split)
+- MAT 14:35 — verse continues in next (grouping/split)
+- MAT 15:5 — verse continues in next (grouping/split)
+- MAT 17:14 — verse continues in next (grouping/split)
+- MAT 17:15 — verse continues in next (grouping/split)
+- MAT 17:22 — verse continues in next (grouping/split)
+- MAT 18:2 — verse continues in next (grouping/split)
+- MAT 19:18 — verse continues in next (grouping/split)
+- MAT 20:26 — verse continues in next (grouping/split)
+- MAT 21:1 — verse continues in next (grouping/split)
+- MAT 21:6 — verse continues in next (grouping/split)
+- MAT 21:15 — verse continues in next (grouping/split)
+- MAT 21:21 — verse continues in next (grouping/split)
+- MAT 22:5 — verse continues in next (grouping/split)
+- MAT 22:11 — verse continues in next (grouping/split)
+- MAT 22:19 — verse continues in next (grouping/split)
+- MAT 22:26 — verse continues in next (grouping/split)
+- MAT 22:34 — verse continues in next (grouping/split)
+- MAT 23:29 — verse continues in next (grouping/split)
+- MAT 24:7 — verse continues in next (grouping/split)
+- MAT 24:11 — verse continues in next (grouping/split)
+- MAT 24:17 — verse continues in next (grouping/split)
+- MAT 24:48 — verse continues in next (grouping/split)
+- MAT 25:3 — verse continues in next (grouping/split)
+- MAT 25:7 — verse continues in next (grouping/split)
+- MAT 25:34 — verse continues in next (grouping/split)
+- MAT 25:35 — verse continues in next (grouping/split)
+- MAT 25:38 — verse continues in next (grouping/split)
+- MAT 25:42 — verse continues in next (grouping/split)
+- MAT 26:6 — verse continues in next (grouping/split)
+- MAT 26:15 — verse continues in next (grouping/split)
+- MAT 26:60 — verse continues in next (grouping/split)
+- MAT 27:3 — verse continues in next (grouping/split)
+- MAT 27:9 — verse continues in next (grouping/split)
+- MAT 27:18 — verse continues in next (grouping/split)
+- MAT 27:33 — verse continues in next (grouping/split)
+- MAT 27:52 — verse continues in next (grouping/split)
+- MAT 27:59 — verse continues in next (grouping/split)
+- MAT 28:5 — verse continues in next (grouping/split)
+- MAT 28:12 — verse continues in next (grouping/split)
+- MAT 28:19 — verse continues in next (grouping/split)
+- MRK 1:1 — verse continues in next (grouping/split)
+- MRK 1:12 — verse continues in next (grouping/split)
+- MRK 1:36 — verse continues in next (grouping/split)
+- MRK 1:43 — verse continues in next (grouping/split)
+- MRK 2:2 — verse continues in next (grouping/split)
+- MRK 3:7 — verse continues in next (grouping/split)
+- MRK 3:13 — verse continues in next (grouping/split)
+- MRK 3:14 — verse continues in next (grouping/split)
+- MRK 4:16 — verse continues in next (grouping/split)
+- MRK 4:18 — verse continues in next (grouping/split)
+- MRK 5:2 — verse continues in next (grouping/split)
+- MRK 5:6 — verse continues in next (grouping/split)
+- MRK 5:22 — verse continues in next (grouping/split)
+- MRK 6:1 — verse continues in next (grouping/split)
+- MRK 6:27 — verse continues in next (grouping/split)
+- MRK 6:35 — verse continues in next (grouping/split)
+- MRK 6:42 — verse continues in next (grouping/split)
+- MRK 6:48 — verse continues in next (grouping/split)
+- MRK 6:51 — verse continues in next (grouping/split)
+- MRK 7:1 — verse continues in next (grouping/split)
+- MRK 7:11 — verse continues in next (grouping/split)
+- MRK 7:18 — verse continues in next (grouping/split)
+- MRK 7:20 — verse continues in next (grouping/split)
+- MRK 9:30 — verse continues in next (grouping/split)
+- MRK 9:47 — verse continues in next (grouping/split)
+- MRK 10:7 — verse continues in next (grouping/split)
+- MRK 10:29 — verse continues in next (grouping/split)
+- MRK 10:39 — verse continues in next (grouping/split)
+- MRK 10:43 — verse continues in next (grouping/split)
+- MRK 11:1 — verse continues in next (grouping/split)
+- MRK 11:27 — verse continues in next (grouping/split)
+- MRK 12:21 — verse continues in next (grouping/split)
+- MRK 13:14 — verse continues in next (grouping/split)
+- MRK 13:15 — verse continues in next (grouping/split)
+- MRK 14:13 — verse continues in next (grouping/split)
+- MRK 14:17 — verse continues in next (grouping/split)
+- MRK 14:33 — verse continues in next (grouping/split)
+- MRK 14:51 — verse continues in next (grouping/split)
+- MRK 15:17 — verse continues in next (grouping/split)
+- MRK 15:22 — verse continues in next (grouping/split)
+- MRK 16:2 — verse continues in next (grouping/split)
+- MRK 16:17 — verse continues in next (grouping/split)
+- LUK 1:3 — verse continues in next (grouping/split)
+- LUK 1:46 — verse continues in next (grouping/split)
+- LUK 2:6 — verse continues in next (grouping/split)
+- LUK 2:30 — verse continues in next (grouping/split)
+- LUK 2:34 — verse continues in next (grouping/split)
+- LUK 3:21 — verse continues in next (grouping/split)
+- LUK 4:16 — verse continues in next (grouping/split)
+- LUK 4:18 — verse continues in next (grouping/split)
+- LUK 7:4 — verse continues in next (grouping/split)
+- LUK 7:18 — verse continues in next (grouping/split)
+- LUK 7:37 — verse continues in next (grouping/split)
+- LUK 8:1 — verse continues in next (grouping/split)
+- LUK 9:7 — verse continues in next (grouping/split)
+- LUK 9:47 — verse continues in next (grouping/split)
+- LUK 10:39 — verse continues in next (grouping/split)
+- LUK 11:5 — verse continues in next (grouping/split)
+- LUK 11:50 — verse continues in next (grouping/split)
+- LUK 11:53 — verse continues in next (grouping/split)
+- LUK 13:10 — verse continues in next (grouping/split)
+- LUK 15:5 — verse continues in next (grouping/split)
+- LUK 15:18 — verse continues in next (grouping/split)
+- LUK 16:27 — verse continues in next (grouping/split)
+- LUK 17:12 — verse continues in next (grouping/split)
+- LUK 18:29 — verse continues in next (grouping/split)
+- LUK 18:35 — verse continues in next (grouping/split)
+- LUK 19:22 — verse continues in next (grouping/split)
+- LUK 19:41 — verse continues in next (grouping/split)
+- LUK 19:45 — verse continues in next (grouping/split)
+- LUK 20:1 — verse continues in next (grouping/split)
+- LUK 20:42 — verse continues in next (grouping/split)
+- LUK 21:14 — verse continues in next (grouping/split)
+- LUK 21:34 — verse continues in next (grouping/split)
+- LUK 22:3 — verse continues in next (grouping/split)
+- LUK 22:14 — verse continues in next (grouping/split)
+- LUK 22:17 — verse continues in next (grouping/split)
+- LUK 22:29 — verse continues in next (grouping/split)
+- LUK 22:47 — verse continues in next (grouping/split)
+- LUK 23:1 — verse continues in next (grouping/split)
+- LUK 23:13 — verse continues in next (grouping/split)
+- LUK 23:20 — verse continues in next (grouping/split)
+- LUK 23:23 — verse continues in next (grouping/split)
+- LUK 23:28 — verse continues in next (grouping/split)
+- LUK 23:44 — verse continues in next (grouping/split)
+- LUK 23:45 — verse continues in next (grouping/split)
+- LUK 23:50 — verse continues in next (grouping/split)
+- LUK 24:2 — verse continues in next (grouping/split)
+- LUK 24:21 — verse continues in next (grouping/split)
+- LUK 24:22 — verse continues in next (grouping/split)
+- LUK 24:43 — verse continues in next (grouping/split)
+- LUK 24:46 — verse continues in next (grouping/split)
+- LUK 24:48 — verse continues in next (grouping/split)
+- JHN 1:19 — verse continues in next (grouping/split)
+- JHN 1:26 — verse continues in next (grouping/split)
+- JHN 2:9 — verse continues in next (grouping/split)
+- JHN 5:28 — verse continues in next (grouping/split)
+- JHN 8:54 — verse continues in next (grouping/split)
+- JHN 9:6 — verse continues in next (grouping/split)
+- JHN 9:18 — verse continues in next (grouping/split)
+- JHN 10:14 — verse continues in next (grouping/split)
+- JHN 11:14 — verse continues in next (grouping/split)
+- JHN 11:18 — verse continues in next (grouping/split)
+- JHN 11:25 — verse continues in next (grouping/split)
+- JHN 12:10 — verse continues in next (grouping/split)
+- JHN 12:12 — verse continues in next (grouping/split)
+- JHN 12:20 — verse continues in next (grouping/split)
+- JHN 17:20 — verse continues in next (grouping/split)
+- JHN 20:6 — verse continues in next (grouping/split)
+- ACT 1:1 — verse continues in next (grouping/split)
+- ACT 1:10 — verse continues in next (grouping/split)
+- ACT 1:21 — verse continues in next (grouping/split)
+- ACT 1:24 — verse continues in next (grouping/split)
+- ACT 2:9 — verse continues in next (grouping/split)
+- ACT 2:10 — verse continues in next (grouping/split)
+- ACT 2:34 — verse continues in next (grouping/split)
+- ACT 3:7 — verse continues in next (grouping/split)
+- ACT 3:9 — verse continues in next (grouping/split)
+- ACT 3:19 — verse continues in next (grouping/split)
+- ACT 4:34 — verse continues in next (grouping/split)
+- ACT 4:36 — verse continues in next (grouping/split)
+- ACT 5:1 — verse continues in next (grouping/split)
+- ACT 5:34 — verse continues in next (grouping/split)
+- ACT 7:2 — verse continues in next (grouping/split)
+- ACT 7:55 — verse continues in next (grouping/split)
+- ACT 8:7 — verse continues in next (grouping/split)
+- ACT 8:9 — verse continues in next (grouping/split)
+- ACT 9:1 — verse continues in next (grouping/split)
+- ACT 9:11 — verse continues in next (grouping/split)
+- ACT 9:18 — verse continues in next (grouping/split)
+- ACT 9:19 — verse continues in next (grouping/split)
+- ACT 9:23 — verse continues in next (grouping/split)
+- ACT 10:9 — verse continues in next (grouping/split)
+- ACT 10:19 — verse continues in next (grouping/split)
+- ACT 10:30 — verse continues in next (grouping/split)
+- ACT 10:45 — verse continues in next (grouping/split)
+- ACT 11:2 — verse continues in next (grouping/split)
+- ACT 11:25 — verse continues in next (grouping/split)
+- ACT 12:1 — verse continues in next (grouping/split)
+- ACT 13:9 — verse continues in next (grouping/split)
+- ACT 13:17 — verse continues in next (grouping/split)
+- ACT 13:19 — verse continues in next (grouping/split)
+- ACT 13:20 — verse continues in next (grouping/split)
+- ACT 13:30 — verse continues in next (grouping/split)
+- ACT 13:36 — verse continues in next (grouping/split)
+- ACT 13:38 — verse continues in next (grouping/split)
+- ACT 13:48 — verse continues in next (grouping/split)
+- ACT 14:14 — verse continues in next (grouping/split)
+- ACT 14:21 — verse continues in next (grouping/split)
+- ACT 15:6 — verse continues in next (grouping/split)
+- ACT 15:16 — verse continues in next (grouping/split)
+- ACT 15:17 — verse continues in next (grouping/split)
+- ACT 15:25 — verse continues in next (grouping/split)
+- ACT 16:27 — verse continues in next (grouping/split)
+- ACT 17:2 — verse continues in next (grouping/split)
+- ACT 17:22 — verse continues in next (grouping/split)
+- ACT 17:30 — verse continues in next (grouping/split)
+- ACT 18:2 — verse continues in next (grouping/split)
+- ACT 18:9 — verse continues in next (grouping/split)
+- ACT 18:12 — verse continues in next (grouping/split)
+- ACT 18:20 — verse continues in next (grouping/split)
+- ACT 18:27 — verse continues in next (grouping/split)
+- ACT 19:1 — verse continues in next (grouping/split)
+- ACT 19:11 — verse continues in next (grouping/split)
+- ACT 20:2 — verse continues in next (grouping/split)
+- ACT 20:26 — verse continues in next (grouping/split)
+- ACT 20:33 — verse continues in next (grouping/split)
+- ACT 20:37 — verse continues in next (grouping/split)
+- ACT 21:27 — verse continues in next (grouping/split)
+- ACT 21:35 — verse continues in next (grouping/split)
+- ACT 22:4 — verse continues in next (grouping/split)
+- ACT 23:34 — verse continues in next (grouping/split)
+- ACT 24:20 — verse continues in next (grouping/split)
+- ACT 25:2 — verse continues in next (grouping/split)
+- ACT 25:23 — verse continues in next (grouping/split)
+- ACT 26:2 — verse continues in next (grouping/split)
+- ACT 26:9 — verse continues in next (grouping/split)
+- ACT 26:22 — verse continues in next (grouping/split)
+- ACT 26:30 — verse continues in next (grouping/split)
+- ACT 27:9 — verse continues in next (grouping/split)
+- ACT 27:14 — verse continues in next (grouping/split)
+- ACT 27:23 — verse continues in next (grouping/split)
+- ROM 1:11 — verse continues in next (grouping/split)
+- ROM 1:30 — verse continues in next (grouping/split)
+- ROM 3:15 — verse continues in next (grouping/split)
+- ROM 3:22 — verse continues in next (grouping/split)
+- ROM 4:14 — verse continues in next (grouping/split)
+- ROM 4:23 — verse continues in next (grouping/split)
+- ROM 5:3 — verse continues in next (grouping/split)
+- ROM 7:9 — verse continues in next (grouping/split)
+- ROM 9:1 — verse continues in next (grouping/split)
+- ROM 9:3 — verse continues in next (grouping/split)
+- ROM 9:32 — verse continues in next (grouping/split)
+- ROM 11:13 — verse continues in next (grouping/split)
+- ROM 15:23 — verse continues in next (grouping/split)
+- ROM 16:17 — verse continues in next (grouping/split)
+- 1CO 3:2 — verse continues in next (grouping/split)
+- 1CO 3:12 — verse continues in next (grouping/split)
+- 1CO 4:11 — verse continues in next (grouping/split)
+- 1CO 5:4 — verse continues in next (grouping/split)
+- 1CO 7:33 — verse continues in next (grouping/split)
+- 1CO 9:17 — verse continues in next (grouping/split)
+- 1CO 10:3 — verse continues in next (grouping/split)
+- 1CO 10:25 — verse continues in next (grouping/split)
+- 1CO 11:23 — verse continues in next (grouping/split)
+- 1CO 14:24 — verse continues in next (grouping/split)
+- 1CO 14:33 — verse continues in next (grouping/split)
+- 1CO 16:8 — verse continues in next (grouping/split)
+- 1CO 16:15 — verse continues in next (grouping/split)
+- 2CO 1:10 — verse continues in next (grouping/split)
+- 2CO 1:13 — verse continues in next (grouping/split)
+- 2CO 2:12 — verse continues in next (grouping/split)
+- 2CO 5:2 — verse continues in next (grouping/split)
+- 2CO 6:6 — verse continues in next (grouping/split)
+- 2CO 9:1 — verse continues in next (grouping/split)
+- 2CO 9:10 — verse continues in next (grouping/split)
+- 2CO 10:1 — verse continues in next (grouping/split)
+- 2CO 10:4 — verse continues in next (grouping/split)
+- GAL 1:11 — verse continues in next (grouping/split)
+- GAL 1:16 — verse continues in next (grouping/split)
+- GAL 2:19 — verse continues in next (grouping/split)
+- GAL 3:26 — verse continues in next (grouping/split)
+- GAL 4:4 — verse continues in next (grouping/split)
+- GAL 4:12 — verse continues in next (grouping/split)
+- GAL 5:19 — verse continues in next (grouping/split)
+- GAL 5:20 — verse continues in next (grouping/split)
+- GAL 5:22 — verse continues in next (grouping/split)
+- EPH 1:11 — verse continues in next (grouping/split)
+- EPH 1:15 — verse continues in next (grouping/split)
+- EPH 1:18 — verse continues in next (grouping/split)
+- EPH 1:19 — verse continues in next (grouping/split)
+- EPH 2:8 — verse continues in next (grouping/split)
+- EPH 3:14 — verse continues in next (grouping/split)
+- EPH 4:5 — verse continues in next (grouping/split)
+- EPH 4:15 — verse continues in next (grouping/split)
+- EPH 4:17 — verse continues in next (grouping/split)
+- EPH 4:23 — verse continues in next (grouping/split)
+- EPH 5:10 — verse continues in next (grouping/split)
+- EPH 5:15 — verse continues in next (grouping/split)
+- EPH 5:18 — verse continues in next (grouping/split)
+- EPH 5:19 — verse continues in next (grouping/split)
+- EPH 5:29 — verse continues in next (grouping/split)
+- PHP 1:3 — verse continues in next (grouping/split)
+- PHP 1:9 — verse continues in next (grouping/split)
+- PHP 2:1 — verse continues in next (grouping/split)
+- PHP 2:7 — verse continues in next (grouping/split)
+- PHP 2:10 — verse continues in next (grouping/split)
+- PHP 2:14 — verse continues in next (grouping/split)
+- PHP 2:15 — verse continues in next (grouping/split)
+- PHP 3:8 — verse continues in next (grouping/split)
+- PHP 3:10 — verse continues in next (grouping/split)
+- COL 1:1 — verse continues in next (grouping/split)
+- COL 1:3 — verse continues in next (grouping/split)
+- COL 1:13 — verse continues in next (grouping/split)
+- COL 1:19 — verse continues in next (grouping/split)
+- COL 3:9 — verse continues in next (grouping/split)
+- 1TH 1:9 — verse continues in next (grouping/split)
+- 1TH 3:1 — verse continues in next (grouping/split)
+- 1TH 3:2 — verse continues in next (grouping/split)
+- 1TH 5:19 — verse continues in next (grouping/split)
+- 1TH 5:20 — verse continues in next (grouping/split)
+- 1TH 5:21 — verse continues in next (grouping/split)
+- 2TH 1:6 — verse continues in next (grouping/split)
+- 2TH 1:7 — verse continues in next (grouping/split)
+- 1TI 1:1 — verse continues in next (grouping/split)
+- 1TI 1:15 — verse continues in next (grouping/split)
+- 1TI 2:3 — verse continues in next (grouping/split)
+- 1TI 2:12 — verse continues in next (grouping/split)
+- 1TI 3:14 — verse continues in next (grouping/split)
+- 1TI 4:4 — verse continues in next (grouping/split)
+- 1TI 5:1 — verse continues in next (grouping/split)
+- 1TI 5:9 — verse continues in next (grouping/split)
+- 1TI 6:3 — verse continues in next (grouping/split)
+- 1TI 6:4 — verse continues in next (grouping/split)
+- 2TI 1:1 — verse continues in next (grouping/split)
+- 2TI 2:11 — verse continues in next (grouping/split)
+- 2TI 2:12 — verse continues in next (grouping/split)
+- 2TI 2:17 — verse continues in next (grouping/split)
+- 2TI 2:25 — verse continues in next (grouping/split)
+- 2TI 3:10 — verse continues in next (grouping/split)
+- TIT 1:13 — verse continues in next (grouping/split)
+- TIT 2:3 — verse continues in next (grouping/split)
+- TIT 2:7 — verse continues in next (grouping/split)
+- TIT 2:9 — verse continues in next (grouping/split)
+- TIT 3:6 — verse continues in next (grouping/split)
+- TIT 3:10 — verse continues in next (grouping/split)
+- PHM 1:1 — verse continues in next (grouping/split)
+- PHM 1:4 — verse continues in next (grouping/split)
+- PHM 1:8 — verse continues in next (grouping/split)
+- PHM 1:9 — verse continues in next (grouping/split)
+- HEB 1:11 — verse continues in next (grouping/split)
+- HEB 2:7 — verse continues in next (grouping/split)
+- HEB 2:11 — verse continues in next (grouping/split)
+- HEB 3:7 — verse continues in next (grouping/split)
+- HEB 4:3 — verse continues in next (grouping/split)
+- HEB 6:1 — verse continues in next (grouping/split)
+- HEB 7:15 — verse continues in next (grouping/split)
+- HEB 7:20 — verse continues in next (grouping/split)
+- HEB 9:25 — verse continues in next (grouping/split)
+- HEB 10:3 — verse continues in next (grouping/split)
+- HEB 12:5 — verse continues in next (grouping/split)
+- HEB 12:12 — verse continues in next (grouping/split)
+- HEB 12:22 — verse continues in next (grouping/split)
+- HEB 12:23 — verse continues in next (grouping/split)
+- HEB 12:28 — verse continues in next (grouping/split)
+- JAS 1:7 — verse continues in next (grouping/split)
+- JAS 2:15 — verse continues in next (grouping/split)
+- JAS 5:19 — verse continues in next (grouping/split)
+- 1PE 1:24 — verse continues in next (grouping/split)
+- 1PE 2:2 — verse continues in next (grouping/split)
+- 1PE 2:13 — verse continues in next (grouping/split)
+- 1PE 3:5 — verse continues in next (grouping/split)
+- 1PE 3:10 — verse continues in next (grouping/split)
+- 1PE 3:21 — verse continues in next (grouping/split)
+- 1PE 4:1 — verse continues in next (grouping/split)
+- 2PE 1:5 — verse continues in next (grouping/split)
+- 2PE 1:6 — verse continues in next (grouping/split)
+- 2PE 1:20 — verse continues in next (grouping/split)
+- 2PE 2:12 — verse continues in next (grouping/split)
+- 2PE 3:15 — verse continues in next (grouping/split)
+- 1JN 3:19 — verse continues in next (grouping/split)
+- 1JN 5:3 — verse continues in next (grouping/split)
+- REV 1:4 — verse continues in next (grouping/split)
+- REV 1:5 — verse continues in next (grouping/split)
+- REV 1:17 — verse continues in next (grouping/split)
+- REV 2:24 — verse continues in next (grouping/split)
+- REV 4:9 — verse continues in next (grouping/split)
+- REV 5:11 — verse continues in next (grouping/split)
+- REV 7:11 — verse continues in next (grouping/split)
+- REV 8:8 — verse continues in next (grouping/split)
+- REV 10:2 — verse continues in next (grouping/split)
+- REV 10:5 — verse continues in next (grouping/split)
+- REV 11:16 — verse continues in next (grouping/split)
+- REV 12:7 — verse continues in next (grouping/split)
+- REV 14:9 — verse continues in next (grouping/split)
+- REV 18:15 — verse continues in next (grouping/split)
+- REV 19:7 — verse continues in next (grouping/split)
+- REV 19:17 — verse continues in next (grouping/split)
+- REV 21:19 — verse continues in next (grouping/split)
+- REV 21:26 — verse continues in next (grouping/split)
+- REV 22:1 — verse continues in next (grouping/split)
+- REV 22:3 — verse continues in next (grouping/split)
+- REV 22:8 — verse continues in next (grouping/split)

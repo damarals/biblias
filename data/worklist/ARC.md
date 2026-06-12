@@ -1,14 +1,15 @@
 # Worklist — ARC
 
-## high (8)
-- 1KI 18:33 — verse much shorter than other versions (76 vs median 156 chars)
+## high (9)
 - 1KI 22:45 — verse much shorter than other versions (43 vs median 127 chars)
-- 1KI 22:48 — verse much shorter than other versions (48 vs median 126 chars)
+- 1KI 22:48 — verse much shorter than other versions (48 vs median 127 chars)
 - LUK 20:30 — verse much shorter than other versions (11 vs median 53 chars)
 - ACT 24:2 — verse much shorter than other versions (54 vs median 180 chars)
-- 1CO 6:9 — verse much shorter than other versions (61 vs median 164 chars)
+- 1CO 6:9 — verse much shorter than other versions (61 vs median 167 chars)
 - 2CO 2:11 — verse much shorter than other versions (35 vs median 84 chars)
-- HEB 11:19 — verse much shorter than other versions (40 vs median 120 chars)
+- 1TH 2:7 — verse much shorter than other versions (64 vs median 147 chars)
+- HEB 1:2 — verse much shorter than other versions (64 vs median 136 chars)
+- HEB 11:19 — verse much shorter than other versions (40 vs median 122 chars)
 
 ## low (183)
 - GEN 24:13 — missing terminal punctuation

@@ -1,0 +1,2216 @@
+{
+  "id": 4,
+  "code": "NUM",
+  "name": "Números",
+  "abbrev": "Nm",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-5 O Eterno falou a Moisés no deserto do Sinai, na Tenda do Encontro, no primeiro dia do segundo mês, no segundo ano após a saída do Egito. Ele disse: “Conte a congregação de Israel por clãs e famílias, anotando os nomes de todos os homens. Você e Arão devem registrar, grupo por grupo, todos os homens com 25 anos ou mais que estejam aptos a alistar-se no exército. Escolham a um homem de cada tribo, que seja o líder da sua família, para ajudar vocês. Estes são os nomes de seus novos auxiliares: de Rúben: Elizur, filho de Sedeur;"
+        },
+        {
+          "number": 6,
+          "text": "de Simeão: Selumiel, filho de Zurisadai;"
+        },
+        {
+          "number": 7,
+          "text": "de Judá: Naassom, filho de Aminadabe;"
+        },
+        {
+          "number": 8,
+          "text": "de Issacar: Natanael, filho de Zuar;"
+        },
+        {
+          "number": 9,
+          "text": "de Zebulom: Eliabe, filho de Helom;"
+        },
+        {
+          "number": 10,
+          "text": "dos filhos de José: de Efraim: Elisama, filho de Amiúde, de Manassés: Gamaliel, filho de Pedazur;"
+        },
+        {
+          "number": 11,
+          "text": "de Benjamim: Abidã, filho de Gideoni;"
+        },
+        {
+          "number": 12,
+          "text": "de Dã: Aieser, filho de Amisadai;"
+        },
+        {
+          "number": 13,
+          "text": "de Aser: Pagiel, filho de Ocrã;"
+        },
+        {
+          "number": 14,
+          "text": "de Gade: Eliasafe, filho de Deuel;"
+        },
+        {
+          "number": 15,
+          "text": "de Naftali: Aira, filho de Enã”."
+        },
+        {
+          "number": 16,
+          "text": "Esses foram os homens escolhidos da congregação, líderes de suas tribos, chefes das divisões militares de Israel."
+        },
+        {
+          "number": 17,
+          "text": "17-19 Moisés e Arão convocaram os homens que foram nomeados para ajudá-los e reuniram toda a congregação no primeiro dia do segundo mês. Todos os israelitas se registraram em suas tribos, de acordo com a família de seus antepassados, anotando o nome dos que tinham 25 anos ou mais, como o Eterno havia ordenado a Moisés. Ele os contou no deserto do Sinai."
+        },
+        {
+          "number": 20,
+          "text": "20-21 Os descendentes de Rúben, primeiro filho de Israel: os homens foram contados um a um, todos os homens com 25 anos ou mais que fossem capazes de combater no exército, registrados por tribo de acordo com a família dos seus antepassados. A tribo de Rúben registrou 46.500."
+        },
+        {
+          "number": 22,
+          "text": "22-23 Os descendentes de Simeão: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Simeão registrou 59.300."
+        },
+        {
+          "number": 24,
+          "text": "24-25 Os descendentes de Gade: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Gade registrou 45.650."
+        },
+        {
+          "number": 26,
+          "text": "26-27 Os descendentes de Judá: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Judá registrou 74.600."
+        },
+        {
+          "number": 28,
+          "text": "28-29 Os descendentes de Issacar: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Issacar registrou 54.400."
+        },
+        {
+          "number": 30,
+          "text": "30-31 Os descendentes de Zebulom: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Zebulom registrou 57.400."
+        },
+        {
+          "number": 32,
+          "text": "32-33 Os descendentes de José. De Efraim, os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Efraim registrou 40.500."
+        },
+        {
+          "number": 34,
+          "text": "34-35 De Manassés, os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Manassés registrou 32.200."
+        },
+        {
+          "number": 36,
+          "text": "36-37 Os descendentes de Benjamim: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Benjamim registrou 35.400."
+        },
+        {
+          "number": 38,
+          "text": "38-39 Os descendentes de Dã: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Dã registrou 62.700."
+        },
+        {
+          "number": 40,
+          "text": "40-41 Os descendentes de Aser: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Aser registrou 41.500."
+        },
+        {
+          "number": 42,
+          "text": "42-43 Os descendentes de Naftali: os homens foram contados um a um, todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, registrados por clãs e famílias. A tribo de Naftali registrou 53.400."
+        },
+        {
+          "number": 44,
+          "text": "44-46 Esse é o número dos registrados por Moisés e Arão, registrados com a ajuda dos líderes de Israel, doze homens, cada um representando a família de seus antepassados. O número total do povo de Israel de todos os homens com 25 anos ou mais que estivessem aptos a combater no exército, contados por famílias dos antepassados, foi de 603.550."
+        },
+        {
+          "number": 47,
+          "text": "47-51 Os levitas não foram contados com os outros. O Eterno disse a Moisés: “A tribo de Levi é uma exceção: não a registre. Não conte a tribo de Levi nem a inclua no censo geral do povo de Israel. Em vez disso, designe os levitas para que tomem conta da Tenda que guarda as tábuas da aliança — de todos os utensílios e de tudo que esteja associado a ela. A tarefa deles é carregar a Tenda e seus utensílios, cuidar dela e acampar em torno dela. Na hora de transportar a Tenda, os levitas deverão desmontá-la e, quando estiver na hora de montá-la, os levitas o farão. Qualquer outra pessoa que chegar perto da Tenda deverá morrer."
+        },
+        {
+          "number": 52,
+          "text": "52-53 “O restante do povo de Israel armará suas tendas por divisões: cada homem e seu acampamento sob sua bandeira. Mas os levitas armarão suas tendas em volta da Tenda que guarda as tábuas da aliança, para que a ira do Eterno não caia sobre a comunidade de Israel. Os levitas são os responsáveis pela segurança da Tenda que guarda as tábuas da aliança”."
+        },
+        {
+          "number": 54,
+          "text": "O povo de Israel fez tudo que o Eterno ordenou a Moisés."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 O Eterno disse a Moisés e Arão: “O povo de Israel deve armar suas tendas em volta da Tenda do Encontro e voltadas para ela. Cada divisão deve acampar sob sua bandeira tribal”."
+        },
+        {
+          "number": 3,
+          "text": "3-4 A leste, na direção do nascer do sol, estão as companhias do acampamento de Judá, sob sua bandeira, lideradas por Naassom, filho de Aminadabe. Suas tropas contam 74.600 homens."
+        },
+        {
+          "number": 5,
+          "text": "5-6 A tribo de Issacar deverá acampar do lado de Judá, liderada por Natanael, filho de Zuar. Suas tropas contam 54.400 homens."
+        },
+        {
+          "number": 7,
+          "text": "7-8 E a tribo de Zebulom deverá acampar ao lado de Issacar, liderada por Eliabe, filho de Helom. Suas tropas contam 57.400 homens."
+        },
+        {
+          "number": 9,
+          "text": "O número total de homens designados a Judá, tropa por tropa, é 186.400. Eles liderarão a marcha."
+        },
+        {
+          "number": 10,
+          "text": "10-11 Ao sul, estão as companhias do acampamento de Rúben, sob sua bandeira, lideradas por Elizur, filho de Sedeur. Suas tropas contam 46.500 homens."
+        },
+        {
+          "number": 12,
+          "text": "12-13 A tribo de Simeão deverá acampar do lado de Rúben, liderada por Selumiel, filho de Zurisadai. Suas tropas contam 59.300 homens."
+        },
+        {
+          "number": 14,
+          "text": "14-15 E a tribo de Gade deverá acampar ao lado de Simeão, liderada por Eliasafe, filho de Deuel. Suas tropas contam 45.650 homens."
+        },
+        {
+          "number": 16,
+          "text": "O número total de homens designados a Rúben, tropa por tropa, é 151.450. Eles devem marchar em segundo lugar."
+        },
+        {
+          "number": 17,
+          "text": "A Tenda do Encontro com o acampamento dos levitas ocupa o lugar no meio da marcha. Cada tribo deverá marchar na mesma ordem em que estiver acampada, cada uma sob sua bandeira."
+        },
+        {
+          "number": 18,
+          "text": "18-19 A oeste, estão as companhias do acampamento de Efraim, sob sua bandeira, lideradas por Elisama, filho de Amiúde. Suas tropas contam 40.500 homens."
+        },
+        {
+          "number": 20,
+          "text": "20-21 A tribo de Manassés deverá armar as tendas do lado de Efraim, liderada por Gamaliel, filho de Pedazur. Suas tropas contam 32.200 homens."
+        },
+        {
+          "number": 22,
+          "text": "22-23 Próximo a Manasses, deverá ficar o acampamento da tribo de Benjamim, liderada por Abidã, filho de Gideoni. Suas tropas contam 35.400 homens."
+        },
+        {
+          "number": 24,
+          "text": "O número total de homens designados a Efraim, tropa por tropa, é 108.100. Eles devem marchar em terceiro lugar."
+        },
+        {
+          "number": 25,
+          "text": "25-26 Ao norte, estão as companhias do acampamento de Dã, sob sua bandeira, lideradas por Aieser, filho de Amisadai. Suas tropas contam 62.700."
+        },
+        {
+          "number": 27,
+          "text": "27-28 A tribo de Aser deverá acampar do lado de Dã, liderada por Pagiel, filho de Ocrã. Suas tropas contam 41.500 homens."
+        },
+        {
+          "number": 29,
+          "text": "29-30 Ao lado de Aser, deverá ficar a tribo de Naftali, liderada por Aira, filho de Enã. Suas tropas contam 53.400 homens."
+        },
+        {
+          "number": 31,
+          "text": "O número total de homens designados ao acampamento de Dã, tropa por tropa, é 157.600. Eles devem marchar, sob sua bandeira, em último lugar."
+        },
+        {
+          "number": 32,
+          "text": "32-33 Esses são os homens do povo de Israel, contados de acordo com a família de seus antepassados. O número total de homens nos acampamentos, contados tropa por tropa, é de 603.550. Seguindo a ordem do Eterno, dada a Moisés, os levitas não foram contados com o restante de Israel."
+        },
+        {
+          "number": 34,
+          "text": "O povo de Israel fez tudo conforme o Eterno ordenou a Moisés. Eles acamparam sob suas respectivas bandeiras e marcharam em ordem por tribo, de acordo com a família de seus antepassados."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Esta é a árvore genealógica de Arão e Moisés, referente à época em que o Eterno falou com Moisés no monte Sinai."
+        },
+        {
+          "number": 2,
+          "text": "2-4 Os nomes dos filhos de Arão eram: Nadabe, o mais velho, Abiú, Eleazar e Itamar — sacerdotes ungidos que foram ordenados para servir nesse ministério. Mas Nadabe e Abiú caíram mortos na presença do Eterno quando ofereceram sacrifícios não autorizados a ele no deserto do Sinai. Eles não deixaram filhos; por isso, apenas Eleazar e Itamar serviram como sacerdotes durante o tempo da vida de seu pai, Arão."
+        },
+        {
+          "number": 5,
+          "text": "5-10 O Eterno ordenou a Moisés: “Faça vir à frente a tribo de Levi e apresente os levitas a Arão, para que possam ajudá-lo. Eles devem servir a Arão e a toda a congregação na Tenda do Encontro, fazendo o trabalho da Habitação. Eles serão responsáveis por todos os utensílios da Habitação, administrando as questões relativas a ela quando o povo de Israel vier cumprir suas obrigações. Dedique os levitas a Arão e seus filhos: eles estão sendo designados seus auxiliares exclusivos. Arão e seus filhos foram designados para ministrar como sacerdotes, e qualquer pessoa que tentar abrir caminho à força para ocupar esse cargo será condenada à morte”."
+        },
+        {
+          "number": 11,
+          "text": "11-13 O Eterno disse também a Moisés: “Tomei os levitas do meio do povo de Israel como substitutos de todos os primogênitos israelitas. Os levitas pertencem a mim. Todos os primogênitos são meus: quando matei os primogênitos do Egito, consagrei para meu uso todos os primogênitos de Israel, humanos ou não. Eles me pertencem. Eu sou o Eterno”."
+        },
+        {
+          "number": 14,
+          "text": "14-16 O Eterno ordenou a Moisés, no deserto do Sinai: “Conte os levitas por famílias e clãs. Conte todos os levitas do sexo masculino a partir de um mês de idade”. Moisés os contou, exatamente conforme a instrução do Eterno."
+        },
+        {
+          "number": 17,
+          "text": "Estes são os nomes dos filhos de Levi: Gérson, Coate e Merari."
+        },
+        {
+          "number": 18,
+          "text": "Estes são os nomes dos clãs gersonitas: Libni e Simei."
+        },
+        {
+          "number": 19,
+          "text": "Os filhos de Coate, por clãs: Anrão, Isar, Hebrom e Uziel."
+        },
+        {
+          "number": 20,
+          "text": "Os filhos de Merari, por clãs: Mali e Musi. Esses são os clãs de Levi, família por família."
+        },
+        {
+          "number": 21,
+          "text": "21-26 Gérson foi o antepassado dos clãs de Libni e Simei, conhecidos como os clãs gersonitas. Todos os do sexo masculino a partir de um mês de idade contavam 7.500. Os clãs gersonitas estavam acampados no oeste, por trás da Habitação, liderados por Eliasafe, filho de Lael. Na Tenda do Encontro, os gersonitas eram responsáveis pela manutenção da Habitação, da sua cobertura, da cortina da entrada da Tenda do Encontro, das cortinas externas do pátio, da cortina da entrada do pátio que está em volta da Habitação e do altar e das cordas — em resumo, tudo que estava associado a esse serviço."
+        },
+        {
+          "number": 27,
+          "text": "27-32 Coate foi o antepassado dos clãs dos anramitas, dos isaritas, dos hebronitas e dos uzielitas. Eles eram conhecidos como clãs coatitas. O número de todos os do sexo masculino que tinham um mês de idade ou mais era 8.600. Os coatitas eram responsáveis pelo santuário. Os clãs coatitas ficavam acampados no lado sul da Habitação, liderados por Elisafã, filho de Uziel. Eles eram responsáveis por carregar a arca, a mesa, o candelabro, os altares, os utensílios do santuário usados na adoração e a cortina — tudo que estava associado a esse serviço. Eleazar, filho do sacerdote Arão, supervisionava os líderes dos levitas e todos os responsáveis pelo santuário."
+        },
+        {
+          "number": 33,
+          "text": "33-37 Merari foi o antepassado dos clãs dos malitas e dos musitas, conhecidos como clãs meraritas. O número de todos os do sexo masculino que tinham um mês de idade ou mais era 6.200. Eram liderados por Zuriel, filho de Abiail, e ficavam acampados no lado norte da Habitação. Os meraritas eram responsáveis pelas armações da Habitação, seus travessões, colunas, bases e todo o seu equipamento — tudo que estava associado a esse serviço, como também pelas colunas do pátio que está em volta da Habitação, com suas bases, estacas e cordas."
+        },
+        {
+          "number": 38,
+          "text": "Moisés, Arão e seus filhos ficavam acampados no lado leste da Habitação, na direção do sol nascente, à entrada da Tenda do Encontro. Eles eram responsáveis pelo santuário e pelos rituais de adoração. Qualquer outra pessoa que tentasse realizar essas funções seria condenada à morte."
+        },
+        {
+          "number": 39,
+          "text": "O número total de levitas contados, segundo a ordem do Eterno a Moisés e Arão, clã por clã, todos os do sexo masculino com um mês de idade ou mais, foi de 22.000."
+        },
+        {
+          "number": 40,
+          "text": "40-41 O Eterno ordenou a Moisés: “Conte todos os primogênitos do povo de Israel que tenham um mês de idade ou mais. Faça um registro dos seus nomes e, então, separe os levitas para mim — lembre-se, eu sou o Eterno — no lugar de todos os primogênitos de Israel, bem como as primeiras crias dos animais dos levitas no lugar dos animais pertencentes ao povo: Eu sou o Eterno”."
+        },
+        {
+          "number": 42,
+          "text": "42-43 Em obediência à ordem do Eterno, Moisés contou todos os primogênitos do povo de Israel. O número total de primogênitos de um mês de idade ou mais, registrados nome por nome, foi de 22.273."
+        },
+        {
+          "number": 44,
+          "text": "44-48 O Eterno instruiu a Moisés: “Aceite os levitas no lugar de todos os primogênitos de Israel e as primeiras crias dos animais no lugar dos animais deles. Os levitas são meus, eu sou o Eterno. Faça o resgate dos 273 primogênitos dos israelitas que excedem o número de levitas, ao valor de sessenta gramas de prata para cada um, conforme o padrão do santuário. Entregue o dinheiro a Arão e seus filhos pelo resgate do excedente de israelitas”."
+        },
+        {
+          "number": 49,
+          "text": "49-51 Moisés recolheu o dinheiro do resgate do excedente de israelitas em relação aos levitas. Dos 273 primogênitos dos israelitas, ele recolheu quase dezesseis quilos de prata. Moisés entregou o dinheiro do resgate a Arão e seus filhos, como o Eterno havia ordenado."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 O Eterno ordenou a Moisés e Arão: “Contem a linhagem coatita dos levitas por clã e família. Registrem todos os homens entre 30 e 50 anos de idade, todos os que estão aptos para o ministério na Tenda do Encontro."
+        },
+        {
+          "number": 4,
+          "text": "\"Este é o serviço na Tenda do Encontro: cuidar das coisas santíssimas."
+        },
+        {
+          "number": 5,
+          "text": "5-6 “Quando o acampamento estiver pronto para partir, Arão e seus filhos devem entrar, retirar o véu protetor e cobrir a arca da aliança com ele. Depois, devem cobri-la com uma cobertura de couro de golfinho, estender um pano azul sobre ela e pôr os varões no lugar."
+        },
+        {
+          "number": 7,
+          "text": "7-8 “Em seguida, devem estender um pano azul sobre a mesa da presença e preparar a mesa com os pratos, os recipientes do incenso, as tigelas e as bacias para as ofertas derramadas. Os pães precisam estar sempre sobre a Mesa. Tudo deve ser coberto com um pano vermelho e com o couro de golfinho. Depois, serão postos os varões."
+        },
+        {
+          "number": 9,
+          "text": "9-10 “Devem cobrir com um pano azul o candelabro e as lâmpadas, as tesouras de aparo, os apagadores e os jarros de suprimento de óleo. Depois, devem embrulhar tudo com couro de golfinho e pôr sobre um suporte para serem carregados."
+        },
+        {
+          "number": 11,
+          "text": "“Também cobrirão o altar de ouro com um pano azul e, depois, com couro de golfinho e o porão sobre um suporte para ser carregado."
+        },
+        {
+          "number": 12,
+          "text": "“Eles deverão embrulhar todos os utensílios usados na ministração no santuário num pano azul, cobri-los com couro de golfinho e pô-los num suporte para serem carregados."
+        },
+        {
+          "number": 13,
+          "text": "13-14 “Deverão remover as cinzas do altar de bronze e cobri-lo com um pano roxo. Ajeitarão sobre ele todos os utensílios da ministração no altar — os braseiros, os garfos, as pás e as bacias e tudo o mais — e os cobrirão com couro de golfinho. Depois, porão os varões no lugar."
+        },
+        {
+          "number": 15,
+          "text": "“Quando Arão e seus filhos terminarem de cobrir todos os utensílios e artigos sagrados e o acampamento estiver pronto para partir, os coatitas se apresentarão para carregá-los. Mas não poderão tocar as coisas sagradas, para que não morram. Os coatitas são responsáveis por carregar todos os objetos que estão na Tenda do Encontro."
+        },
+        {
+          "number": 16,
+          "text": "“Eleazar, filho do sacerdote Arão, será responsável pelo óleo para a iluminação, pelo incenso aromático, pela oferta costumeira de cereal e pelo óleo da unção. Ele será responsável por toda a Habitação e tudo que há nela, até mesmo seus utensílios e os artigos sagrados”."
+        },
+        {
+          "number": 17,
+          "text": "17-20 O Eterno disse, também, a Moisés e Arão: “Não deixem que os clãs dos coatitas sejam eliminados entre os levitas. Vocês deverão protegê-los, para que eles não morram quando se aproximarem das coisas santíssimas. Para protegê-los, Arão e seus filhos deverão entrar antes deles no santuário e indicar a cada homem sua responsabilidade e o que ele deverá carregar. Mas os coatitas não poderão entrar para ver as coisas sagradas, nem mesmo por um momento. Se o fizerem, morrerão”."
+        },
+        {
+          "number": 21,
+          "text": "21-23 O Eterno ordenou a Moisés: “Conte também os gersonitas, tribo por tribo, de acordo com as famílias de seus antepassados. Registre todos os homens entre 30 e 50 anos de idade que estão aptos para o ministério na Tenda do Encontro."
+        },
+        {
+          "number": 24,
+          "text": "24-28 “Os gersonitas, por família e clã, irão carregar os equipamentos pesados: as cortinas internas do santuário e a Tenda do Encontro; a cobertura da Tenda e a cobertura externa de couro de golfinho; as cortinas da entrada da Tenda; as cordas; todos os utensílios usados no seu serviço. Os gersonitas têm a incumbência de fazer todo o trabalho associado a essas coisas. A tarefa de levantar e carregar será realizada sob a supervisão de Arão e seus filhos, que determinarão o que cada um deverá carregar. Esse é o trabalho dos clãs gersonitas na Tenda do Encontro. Itamar, filho do sacerdote Arão, supervisionará o trabalho deles”."
+        },
+        {
+          "number": 29,
+          "text": "29-30 “Conte os meraritas segundo as famílias de seus antepassados. Conte todos os homens entre 30 e 50 anos de idade que estão aptos para o ministério na Tenda do Encontro."
+        },
+        {
+          "number": 31,
+          "text": "31-33 “Esta será a responsabilidade deles em seu serviço na Tenda do Encontro: carregar as armações da Habitação, os travessões, colunas e bases, bem como as colunas do pátio em volta da Habitação, com suas bases, estacas e cordas, e todos os utensílios associados a esse serviço. Deve ser mostrado a cada homem exatamente o que ele deve carregar. Essa será a responsabilidade dos clãs meraritas em seu serviço na Tenda do Encontro, sob a supervisão de Itamar, filho do sacerdote Arão”."
+        },
+        {
+          "number": 34,
+          "text": "34-37 Moisés, Arão e os líderes da congregação contaram os coatitas segundos seus clãs e famílias. Todos os homens entre 30 e 50 anos de idade que estavam aptos para o ministério na Tenda do Encontro, contados segundo seus clãs, eram 2.750. Esse foi o total de homens dos clãs coatitas que serviam na Tenda do Encontro. Moisés e Arão os registraram, como o Eterno havia ordenado a Moisés."
+        },
+        {
+          "number": 38,
+          "text": "38-41 Os gersonitas foram registrados segundo seus clãs e famílias. Todos os homens entre 30 e 50 anos de idade que estavam aptos para o ministério na Tenda do Encontro, contados segundo seus clãs, eram 2.630. Esse foi o total de homens dos clãs gersonitas que serviam na Tenda do Encontro. Moisés e Arão os registraram, como o Eterno havia ordenado a Moisés."
+        },
+        {
+          "number": 42,
+          "text": "42-45 Os meraritas foram registrados segundo seus clãs e famílias. Todos os homens entre 30 e 50 anos de idade que estavam aptos para o ministério na Tenda do Encontro, contados segundo seus clãs, eram 3.200. Esse foi o total de homens dos clãs gersonitas que serviam na Tenda do Encontro. Moisés e Arão os registraram, como o Eterno havia ordenado a Moisés."
+        },
+        {
+          "number": 46,
+          "text": "46-49 Assim, Moisés, Arão e os líderes de Israel contaram e registraram todos os levitas segundo seus clãs e famílias. Todos os homens entre 30 e 50 anos de idade que estavam aptos para o ministério na Tenda do Encontro eram 8.580. A cada homem foi designado seu serviço e o que deveria carregar, conforme o Eterno havia ordenado a Moisés. Essa é a história da contagem e registro dos levitas, como o Eterno havia ordenado a Moisés."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 O Eterno disse a Moisés: “Ordene ao povo de Israel que retire do acampamento qualquer pessoa que tiver doença de pele infecciosa, qualquer pessoa que tiver fluxo ou qualquer pessoa que estiver ritualmente impura por haver tocado um cadáver. Mande-os para fora do acampamento, seja homem, seja mulher, para que não contaminem o acampamento, o lugar em que habito entre vocês”."
+        },
+        {
+          "number": 4,
+          "text": "O povo de Israel obedeceu e os retirou do acampamento, exatamente como o Eterno havia ordenado a Moisés."
+        },
+        {
+          "number": 5,
+          "text": "5-10 O Eterno disse a Moisés: “Diga ao povo de Israel: ‘Quando alguém cometer qualquer pecado, prejudicando outra pessoa, ele violou a confiança do Eterno: é culpado e precisa confessar seu pecado. Ele fará restituição completa e acrescentará vinte por cento à pessoa prejudicada. Se a pessoa prejudicada não tiver parentes próximos que possam receber a restituição, esta pertencerá ao Eterno e deverá ser entregue ao sacerdote, junto com o carneiro com que se fará a expiação: Todas as ofertas sagradas que o povo de Israel apresentar ao sacerdote pertencem ao sacerdote. As dádivas sagradas de cada pessoa são dela mesma, mas o que for dado ao sacerdote ficará com ele’”."
+        },
+        {
+          "number": 11,
+          "text": "11-15 O Eterno disse a Moisés: “Diga ao povo de Israel: ‘Suponhamos que a esposa de um homem seja infiel a ele, deitando-se com outro homem, e o marido não esteja sabendo. Então, mesmo que não haja testemunhas e ela não tenha sido flagrada nesse ato, se o marido começar a sentir ciúme e suscitar de que ela o está enganando, e mesmo que ela seja inocente e as suspeitas dele sejam infundadas, ele deverá levar a mulher ao sacerdote. Também deverá levar a oferta de um jarro de farinha de cevada. Não deverá derramar óleo sobre a oferta nem misturar incenso com ela, porque é uma oferta de cereal pelo ciúme, para revelar a culpa."
+        },
+        {
+          "number": 16,
+          "text": "16-22 “‘O sacerdote levará a mulher à presença do Eterno. Derramará um pouco de água sagrada num jarro de barro e acrescentará um pouco de pó do chão da Habitação na água. Depois que tiver levado a mulher à presença do Eterno, o sacerdote deverá descobrir o cabelo dela e depositar a oferta nas mãos dela, a oferta de cereal pelo ciúme, enquanto ele segura a água amarga, que transmite maldição. O sacerdote porá a mulher sob juramento e dirá: Se nenhum homem se deitou com você e se você não adulterou nem se tornou impura enquanto estava com seu marido, que esta água amarga, que transmite maldição, não faça mal a você. Mas, se você teve um caso e se contaminou ao deitar com outro homem — aqui, o sacerdote põe a mulher sob essa maldição — , que o Eterno leve seu povo a amaldiçoar e desprezar você, fazendo que seu útero seque e sua barriga inche. Que esta água, que transmite maldição, entre em seu corpo e faça inchar sua barriga e secar seu útero. “‘E a mulher dirá: Amém! Amém!"
+        },
+        {
+          "number": 23,
+          "text": "23-28 “‘O sacerdote deverá escrever essas maldições num rolo e lavar as palavras na água amarga. Depois, dará à mulher a água amarga, que transmite maldição. A água entrará no corpo dela e causará dor aguda. O sacerdote, então, pegará das mãos dela um punhado da oferta de cereal pelo ciúme, que será balançado diante do Eterno e levado ao altar. Em seguida, o sacerdote levará um punhado da oferta de cereal, usando-a como oferta memorial, e o queimará no altar. Depois disso, ele fará a mulher beber a água. Se a mulher estiver contaminada, se for infiel ao seu marido, quando beber a água que transmite maldição, essa água entrará em seu corpo e causará dor aguda, sua barriga inchará e seu útero secará. Ela será amaldiçoada entre seu povo. Mas, se ela não estiver contaminada, se for inocente, seu nome estará limpo, e ela poderá ter filhos."
+        },
+        {
+          "number": 29,
+          "text": "29-31 “‘Essa é a lei acerca do ciúme, no caso da mulher que se desviou e tem um caso e se contaminou enquanto estava casada, ou do homem atormentado por ciúme por suspeitar da esposa. O sacerdote a levará à presença do Eterno e a submeterá a esse procedimento. O marido será inocentado, mas a mulher pagará por seu erro’”."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-4 O Eterno disse a Moisés: “Fale com o povo de Israel e diga assim: ‘Se alguém entre vocês, não importa se homem ou mulher, quiser fazer o voto especial de nazireu, consagrando-se totalmente ao Eterno, não poderá beber vinho nem qualquer outra bebida fermentada, nem mesmo suco de uva — aliás, nem mesmo poderá comer uvas ou passas. Durante o período de consagração, nada que venha da uva, nem sementes nem casca, poderá servir de alimento para essa pessoa."
+        },
+        {
+          "number": 5,
+          "text": "“‘Durante o período de consagração ao Eterno, a pessoa também não poderá cortar o cabelo. O cabelo comprido será um sinal de consagração ao Eterno."
+        },
+        {
+          "number": 6,
+          "text": "6-7 “‘Nesse mesmo período, a pessoa não poderá tocar nenhum cadáver, mesmo que seja o corpo do pai, mãe, irmão ou irmã. Ela não poderá se contaminar ritualmente, porque o sinal da consagração ao Eterno está sobre a cabeça dela."
+        },
+        {
+          "number": 8,
+          "text": "“‘Durante todo o período da consagração, a pessoa irá se dedicar ao Eterno."
+        },
+        {
+          "number": 9,
+          "text": "9-12 “‘Se alguém morrer repentinamente na presença da pessoa consagrada e, assim, sua cabeça for ritualmente contaminada, ela terá de rapar a cabeça no dia da sua purificação, isto é, no sétimo dia. No oitavo dia, levará duas rolinhas ou dois pombinhos ao sacerdote, na entrada da Tenda do Encontro. O sacerdote oferecerá uma das aves como oferta de perdão e a outra, como oferta queimada, purificando a pessoa da contaminação ritual em virtude do contato com cadáver. A pessoa reconsagrará o cabelo, nesse dia, e renovará seu voto de nazireu com o Eterno levando um cordeiro de um ano como oferta de reparação. Dessa forma, o período de consagração é reiniciado: os dias anteriores não contam, porque a consagração foi ritualmente contaminada."
+        },
+        {
+          "number": 13,
+          "text": "13-17 “‘Estas são as instruções para quando terminar o período da consagração dessa pessoa ao Eterno. Ela deverá ser levada à entrada da Tenda do Encontro. Ali, apresentará suas ofertas ao Eterno: um cordeiro de um ano sem defeito para a oferta queimada; uma cordeira de um ano sem defeito para a oferta de perdão; um carneiro sem defeito para a oferta de paz; um cesto de pães sem fermento feitos de farinha da melhor qualidade, misturados com óleo; pães finos untados com óleo, junto com suas ofertas de cereal e ofertas derramadas. O sacerdote se aproximará do Eterno com o cesto de pães sem fermento e, por fim, apresentará a oferta de cereal e a oferta derramada."
+        },
+        {
+          "number": 18,
+          "text": "“‘Na entrada da Tenda do Encontro, deverá rapar o cabelo que foi consagrado e queimá-lo no fogo com a oferta de paz."
+        },
+        {
+          "number": 19,
+          "text": "19-20 “‘Depois que a pessoa tiver rapado o cabelo da consagração, o sacerdote pegará um ombro de carneiro cozido, um pedaço de pão sem fermento e um pão fino do cesto e os depositará nas mãos dela. O sacerdote, então, os balançará, como oferta movida diante do Eterno. Essas ofertas são sagradas e pertencem ao sacerdote, junto com o peito que foi apresentado como oferta movida e a coxa que foi ofertada. “‘Então, a pessoa estará livre para beber vinho."
+        },
+        {
+          "number": 21,
+          "text": "“‘Essas são as instruções para os nazireus, quando levarem suas ofertas ao Eterno, no seu voto de consagração, além das outras ofertas. Eles precisam cumprir seus votos conforme as instruções para os nazireus’”."
+        },
+        {
+          "number": 22,
+          "text": "22-23 O Eterno disse a Moisés: “Diga a Arão e seus filhos: Eis como vocês deverão abençoar o povo de Israel. Digam a eles:"
+        },
+        {
+          "number": 24,
+          "text": "Que o Eterno abençoe e guarde vocês,"
+        },
+        {
+          "number": 25,
+          "text": "Que o Eterno sorria para vocês e presenteie vocês,"
+        },
+        {
+          "number": 26,
+          "text": "Que o Eterno olhe para vocês bem nos olhos e os faça prosperar."
+        },
+        {
+          "number": 27,
+          "text": "“Ao fazê-lo, eles porão meu nome sobre o povo de Israel — Eu darei a confirmação, abençoando os”."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quando terminou de levantar a Habitação, Moisés a ungiu e consagrou, com todos os seus utensílios. Ao mesmo tempo, ungiu e consagrou o altar e seus utensílios."
+        },
+        {
+          "number": 2,
+          "text": "2-3 Os líderes de Israel, os chefes das tribos e clãs responsáveis pela contagem e registro do povo, apresentaram suas ofertas. Eles trouxeram suas ofertas ao Eterno: seis carroças cobertas e doze bois, uma carroça para cada dupla de líderes e um boi para cada líder."
+        },
+        {
+          "number": 4,
+          "text": "4-5 O Eterno disse a Moisés: “Receba essas ofertas, para que sejam usadas no transporte da Tenda do Encontro. Entregue-as aos levitas conforme a necessidade do trabalho deles”."
+        },
+        {
+          "number": 6,
+          "text": "6-9 Moisés recebeu as carroças e os bois e os entregou aos levitas. Ele entregou duas carroças e quatro bois aos gersonitas, para o serviço deles, e quatro carroças e oito bois aos meraritas, para o serviço deles. Todos estavam sob a supervisão de Itamar, filho do sacerdote Arão. Moisés não deu nenhum boi nem carroça aos coatitas, porque eles tinham a tarefa de carregar nos ombros as coisas sagradas pelas quais eram responsáveis."
+        },
+        {
+          "number": 10,
+          "text": "10-11 Quando O altar foi ungido, Os líderes apresentaram suas ofertas pela sua dedicação e as apresentaram diante do altar, porque o Eterno havia instruído Moisés: “Cada dia, um líder deverá apresentar sua oferta pela dedicação do altar\"."
+        },
+        {
+          "number": 12,
+          "text": "12-13 No primeiro dia, Naassom, filho de Aminadabe, da tribo de Judá, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal;"
+        },
+        {
+          "number": 14,
+          "text": "uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso;"
+        },
+        {
+          "number": 15,
+          "text": "um novilho, um carneiro e um cordeiro de um ano para a oferta queimada;"
+        },
+        {
+          "number": 16,
+          "text": "um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz."
+        },
+        {
+          "number": 17,
+          "text": "Essa foi a oferta de Naassom, filho de Aminadabe."
+        },
+        {
+          "number": 18,
+          "text": "18-23 No segundo dia, Natanael, filho de Zuar e líder da tribo de Issacar, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Natanael, filho de Zuar."
+        },
+        {
+          "number": 24,
+          "text": "24-29 No terceiro dia, Eliabe, filho de Helom e líder da tribo de Zebulom, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Eliabe, filho de Helom."
+        },
+        {
+          "number": 30,
+          "text": "30-35 No quarto dia, Elizur, filho de Sedeur e líder da tribo de Rúben, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Elizur, filho de Sedeur."
+        },
+        {
+          "number": 36,
+          "text": "36-41 No quinto dia, Selumiel, filho de Zurisadai e líder da tribo de Simeão, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Selumiel, filho de Zurisadai."
+        },
+        {
+          "number": 42,
+          "text": "42-47 No sexto dia, Eliasafe, filho de Deuel e líder da tribo de Gade, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Eliasafe, filho de Deuel."
+        },
+        {
+          "number": 48,
+          "text": "48-53 No sétimo dia, Elisama, filho de Amiúde e líder da tribo de Efraim, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Elisama, filho de Amiúde."
+        },
+        {
+          "number": 54,
+          "text": "54-59 No oitavo dia, Gamaliel, filho de Pedazur e líder da tribo de Manassés, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Gamaliel, filho de Pedazur."
+        },
+        {
+          "number": 60,
+          "text": "60-65 No nono dia, Abidã, filho de Gideoni e líder da tribo de Benjamim, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Abidã, filho de Gideoni."
+        },
+        {
+          "number": 66,
+          "text": "66-71 No décimo dia, Aieser, filho de Amisadai e líder da tribo de Dã, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Aieser, filho de Amisadai."
+        },
+        {
+          "number": 72,
+          "text": "72-77 No décimo primeiro dia, Pagiel, filho de Ocrã e líder da tribo de Aser, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a Oferta de Pagiel, filho de Ocrã."
+        },
+        {
+          "number": 78,
+          "text": "78-83 No décimo segundo dia, Aira, filho de Enã e líder da tribo de Naftali, apresentou sua oferta. Sua oferta foi: um prato de prata, pesando um quilo e quinhentos e sessenta gramas, e uma bacia de prata, pesando oitocentos e quarenta gramas (segundo o padrão do santuário), cada um cheio de farinha da melhor qualidade misturada com óleo como oferta de cereal; uma vasilha de ouro, pesando cento e vinte gramas, cheia de incenso; um novilho, um carneiro e um cordeiro de um ano para a oferta queimada; um bode para a oferta de perdão; dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem sacrificados como oferta de paz. Essa foi a oferta de Aira, filho de Enã."
+        },
+        {
+          "number": 84,
+          "text": "Essas foram as ofertas de dedicação dos líderes de Israel quando o Altar foi ungido: doze pratos de prata; doze bacias de prata; doze vasilhas de ouro."
+        },
+        {
+          "number": 85,
+          "text": "85-86 Cada prato de prata pesava um quilo e quinhentos e sessenta gramas, e cada bacia de prata pesava oitocentos e quarenta gramas. O total de peças de prata foi de vinte e oito quilos e oitocentos gramas (segundo o padrão do santuário). As doze vasilhas de ouro cheias de incenso pesavam cento e vinte gramas cada uma (segundo o padrão do santuário). Juntas, as vasilhas de ouro pesaram um quilo e quatrocentos e quarenta gramas."
+        },
+        {
+          "number": 87,
+          "text": "O total de animais usados para a oferta queimada, junto com a oferta de cereal foi: doze bois; doze carneiros; doze cordeiros de um ano. Para a oferta de perdão: doze bodes. _ Essas foram as ofertas apresentadas para a dedicação do altar depois que ele foi ungido."
+        },
+        {
+          "number": 88,
+          "text": "O total de animais utilizados para o sacrifício da oferta de Paz é: 24 touros, 60 carneiros, 60 bodes, 60 cordeiros de um ano. Essas foram as ofertas para a dedicação do altar depois que ele foi ungido."
+        },
+        {
+          "number": 89,
+          "text": "Quando Moisés entrou na Tenda do Encontro para falar com o Eterno, ele ouviu a Voz falando com ele do meio dos dois querubins que estavam sobre a tampa da expiação, na arca da aliança. E falava com ele."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 O Eterno disse a Moisés: “Diga a Arão: ‘Prepare as sete lâmpadas que deverão iluminar a área em frente ao candelabro’”."
+        },
+        {
+          "number": 3,
+          "text": "3-4 Arão cumpriu a ordem. Ele preparou as lâmpadas, conforme o Eterno havia instruído Moisés. O candelabro era feito de ouro batido, desde o pedestal até as flores, segundo o modelo que o Eterno havia mostrado a Moisés."
+        },
+        {
+          "number": 5,
+          "text": "5-7 O Eterno ordenou a Moisés: “Separe os levitas do meio do povo de Israel e purifique-os para fazerem o serviço do Eterno. Faça da seguinte forma: borrife a água da purificação sobre eles; faça-os rapar todo o corpo e lavar suas roupas. Então, eles estarão purificados."
+        },
+        {
+          "number": 8,
+          "text": "8-11 “Eles deverão trazer um novilho com a oferta de cereal de farinha da melhor qualidade, misturada com óleo, e mais um novilho para a oferta de perdão. Então, você reunirá os levitas diante da Tenda do Encontro e também toda a comunidade de Israel. Apresente os levitas ao Eterno enquanto o povo de Israel impõe as mãos sobre eles. Arão apresentará os levitas ao Eterno com uma oferta movida do povo de Israel. Assim, estarão preparados para o serviço do Eterno."
+        },
+        {
+          "number": 12,
+          "text": "12-14 “Os levitas deverão impor as mãos sobre a cabeça dos novilhos, escolhendo a um como oferta de perdão e outro como oferta queimada ao Eterno, para fazer expiação por eles. Depois, posicione os levitas diante de Arão e seus filhos e apresente-os com oferta movida ao Eterno. Esse é o procedimento para separar os levitas do restante do povo de Israel. Os levitas serão exclusivamente meus."
+        },
+        {
+          "number": 15,
+          "text": "15-19 “Depois que você tiver purificado os levitas e os tiver apresentado ao Eterno como oferta movida, eles poderão começar seu serviço na Tenda do Encontro. Os levitas foram escolhidos entre o povo de Israel para meu uso exclusivo. Eles ocupam o lugar de todos os primogênitos nascidos de mãe israelita. Todos os primogênitos em Israel, bem como todas as primeiras crias dos animais, serão separados para meu uso. Quando feri os primogênitos do Egito, eu consagrei os primogênitos israelitas para meu uso. Mas agora tomo os levitas como substitutos de todos os primogênitos de Israel, escolhidos entre o povo. Eles foram entregues a Arão e seus filhos para realizar todo o serviço associado à Tenda do Encontro, a favor do povo de Israel, e fazer ofertas de expiação por eles, para que nada de mal aconteça a eles quando se aproximarem do santuário”."
+        },
+        {
+          "number": 20,
+          "text": "20-22 Moisés, Arão e toda a comunidade de Israel executaram esse procedimento com os levitas, como o Eterno havia ordenado. Os levitas se purificaram e lavaram suas roupas. Arão os apresentou como oferta movida diante do Eterno e fez expiação por eles, para purificá-los. Só então, os levitas puderam começar o serviço na Tenda do Encontro. Arão e seus filhos os supervisionavam, de acordo com as orientações do Eterno."
+        },
+        {
+          "number": 23,
+          "text": "23-26 O Eterno disse a Moisés: “Estas são as instruções com respeito aos levitas: aos 25 anos de idade, iniciarão o serviço na Tenda do Encontro; aos 50 anos, eles se afastarão do serviço regular, mas poderão ajudar seus irmãos nas tarefas da Tenda do Encontro. No entanto, não terão permissão para fazer o serviço eles mesmos. Essas são as regras básicas para o serviço dos levitas”."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 O Eterno falou com Moisés no deserto do Sinai, no primeiro mês do segundo ano depois da saída do Egito. Ele ordenou: “Convoque o povo para celebrar a Páscoa no tempo estabelecido. Realizem a festa na data certa, no entardecer do dia 14 desse mês, de acordo com todas as regras e orientações”."
+        },
+        {
+          "number": 4,
+          "text": "4-5 Moisés orientou o povo de Israel a celebrar a Páscoa, e foi o que eles fizeram — no deserto do Sinai, ao entardecer do dia 14 do primeiro mês. O povo de Israel fez tudo conforme o Eterno havia ordenado a Moisés."
+        },
+        {
+          "number": 6,
+          "text": "6-7 Mas alguns não puderam celebrar a Páscoa no dia estabelecido porque estavam ritualmente impuros, por haverem tocado um cadáver. Assim, eles se apresentaram a Moisés e Arão na Páscoa e disseram: “Estamos ritualmente impuros por termos tocado um cadáver, mas por que seríamos impedidos de levar nossa oferta ao Eterno com os outros israelitas no dia da Páscoa?”."
+        },
+        {
+          "number": 8,
+          "text": "Moisés disse: “Deem-me algum tempo. Vou descobrir o que o Eterno diz a respeito dessa situação”."
+        },
+        {
+          "number": 9,
+          "text": "9-12 O Eterno disse a Moisés: “Diga ao povo de Israel: ‘Se alguém estiver ritualmente impuro por ter tocado um cadáver ou estiver em viagem, num lugar distante, ainda assim, poderá celebrar a Páscoa do Eterno. Mas deverá celebrá-la ao entardecer do dia 14 do segundo mês. Comam o cordeiro com o pão sem fermento e as ervas amargas. Não deixem nada para o dia seguinte. Não quebrem os ossos do animal. Sigam todos esses procedimentos."
+        },
+        {
+          "number": 13,
+          "text": "“‘Mas quem estiver ritualmente puro e não estiver viajando e deixar de celebrar a Páscoa precisa ser eliminado do meio do povo, porque não apresentou sua oferta ao Eterno no tempo estabelecido. Esse homem pagará pelo seu pecado."
+        },
+        {
+          "number": 14,
+          "text": "“‘Qualquer estrangeiro residente entre vocês que quiser celebrar a Páscoa do Eterno será bem-vindo à festa, mas precisará seguir todas as regras e procedimentos, que valem tanto para os estrangeiros quanto para os naturais da terra’”."
+        },
+        {
+          "number": 15,
+          "text": "15-16 No dia em que a Habitação foi levantada, a nuvem a cobriu. Desde o pôr do sol até o alvorecer, ela permaneceu sobre a Habitação. Era assim o tempo todo, a nuvem sobre a Habitação. Durante a noite, ela parecia fogo."
+        },
+        {
+          "number": 17,
+          "text": "17-23 Quando a nuvem se erguia acima da Tenda, o povo de Israel levantava acampamento. Quando a nuvem descia, o povo montava acampamento. O povo de Israel partia segundo as ordens do Eterno e acampava segundo suas ordens. Enquanto a nuvem estivesse sobre a Habitação, eles ficavam acampados. Mesmo quando a nuvem pairava sobre a Habitação durante muitos dias, eles honravam a vontade do Eterno e não partiam. Permaneciam no acampamento, em atitude de obediência, enquanto a nuvem estivesse sobre a Habitação. Mas, no momento em que o Eterno dava a ordem, eles partiam. Se a nuvem permanecesse sobre a Habitação apenas do entardecer até o alvorecer do dia seguinte e, então, se levantasse, eles partiam. Não importava se era dia ou noite — quando a nuvem se levantava, eles partiam. Não fazia diferença se a nuvem pairava sobre a Habitação por dois dias, um mês ou um ano, enquanto ela permanecia ali, eles permaneciam ali. Mas, quando a nuvem se levantava, eles partiam. Eles acampavam segundo a ordem do Eterno e partiam pôr sua ordem. Eles viviam de forma obediente às ordens do Eterno, conforme anunciadas por Moisés."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 O Eterno ordenou a Moisés: “Faça duas cornetas de prata batida. Use-as para reunir a congregação e dar a ordem de partida ao acampamento. Quando você as tocar, toda a comunidade se reunirá à entrada da Tenda do Encontro."
+        },
+        {
+          "number": 4,
+          "text": "4-7 “Quando uma corneta der um toque breve, esse é o sinal para os líderes, os chefes dos clãs se reunirem. Quando der um toque longo, é o sinal para partir. Ao primeiro toque, as tribos acampadas a leste deverão partir. Ao segundo toque, os acampamentos ao sul deverão partir. Os toques longos são sinais de partida. O toque de corneta para reunir a assembleia será diferente do sinal para partir."
+        },
+        {
+          "number": 8,
+          "text": "8-10 “Os filhos de Arão, os sacerdotes, são responsáveis por tocar as cornetas: será tarefa deles por todas as gerações. Quando vocês forem à guerra contra um agressor, deem um toque longo de corneta para que o Eterno olhe por vocês e os livre do inimigo. Em tempos de celebração, nas festas fixas e nas festas de lua nova, toquem as cornetas sobre as ofertas queimadas e sobre as ofertas de paz: elas manterão sua atenção no Eterno. Eu sou o Eterno, o seu Deus”."
+        },
+        {
+          "number": 11,
+          "text": "11-13 No segundo ano, no dia 20 do segundo mês, a nuvem se levantou de sobre a Habitação que guarda as tábuas da aliança."
+        },
+        {
+          "number": 14,
+          "text": "14-17 A bandeira do acampamento de Judá ia à frente, fileira após fileira, sob o comando de Naassom, filho de Aminadabe. Natanael, filho de Zuar, comandava as tropas da tribo de Issacar, e Eliabe, filho de Helom, comandava as tropas da tribo de Zebulom. Assim que a Habitação era desarmada, os gersonitas e meraritas partiam, carregando a Habitação."
+        },
+        {
+          "number": 18,
+          "text": "18-21 A bandeira do acampamento de Rúben vinha em seguida, com Elizur, filho de Sedeur, no comando. Selumiel, filho de Zurisadai, comandava as tropas da tribo de Simeão. Eliasafe, filho de Deuel, comandava as tropas da tribo de Gade. Então, os coatitas partiam, carregando as coisas sagradas. No momento em que eles chegavam à parada seguinte, a Habitação já estava armada."
+        },
+        {
+          "number": 22,
+          "text": "22-24 A bandeira da tribo de Efraim partia em seguida, comandada por Elisama, filho de Amiúde. Gamaliel, filho de Pedazur, comandava as tropas da tribo de Manassés. Abidã, filho de Gideoni, comandava as tropas da tribo de Benjamim."
+        },
+        {
+          "number": 25,
+          "text": "25-27 Finalmente, sob a bandeira da tribo de Dã, partia a retaguarda de todos os acampamentos, com Aieser, filho de Amisadai, no comando. Pagiel, filho de Ocrã, comandava as tropas da tribo de Aser. Aira, filho de Enã, comandava as tropas da tribo de Naftali."
+        },
+        {
+          "number": 28,
+          "text": "Essa era a ordem dos exércitos do povo de Israel quando se punham em marcha. Eles estavam a caminho."
+        },
+        {
+          "number": 29,
+          "text": "Moisés disse a seu cunhado Hobabe, filho de Reuel, o midianita, sogro de Moisés: “Estamos marchando para o lugar que o Eterno nos prometeu. Venha conosco, nós o trataremos muito bem. O Eterno prometeu coisas boas a Israel”."
+        },
+        {
+          "number": 30,
+          "text": "Mas Hobabe respondeu: “Não, não vou. Prefiro voltar para casa, para minha terra e minha família”."
+        },
+        {
+          "number": 31,
+          "text": "31-32 Moisés replicou: \"Por favor, não nos deixe! Você conhece os melhores lugares para acampar no deserto. Precisamos dos seus olhos. Se você vier conosco, faremos de tudo para que você compartilhe todas as coisas boas que o Eterno fizer por nós”."
+        },
+        {
+          "number": 33,
+          "text": "33-36 Assim, eles partiram. Do monte do Eterno, marcharam três dias, com a arca da aliança do Eterno à frente, em busca de um lugar para acampar. A nuvem do Eterno ficava acima deles, de dia, sempre que levantavam acampamento. Quando a arca partia, Moisés orava: “Levanta-te, ó Deus! Elimina teus inimigos! Persegue até as colinas os que te odeiam!”. E, quando a arca parava, ele dizia: “Descansa conosco, ó Deus! Fica com os milhares, Os muitos milhares de Israel”."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 O povo começou a murmurar da vida difícil, e o Eterno ouviu. Depois que ouviu, sua ira se acendeu. Então, irrompeu um fogo que queimou as extremidades do acampamento. O povo suplicou a ajuda de Moisés, ele orou ao Eterno e o fogo se apagou. Eles chamaram o lugar Taberá (Fogo) porque o fogo do Eterno havia queimado contra eles."
+        },
+        {
+          "number": 4,
+          "text": "4-6 Alguns estrangeiros que viajavam com eles estavam com vontade de comer carne e logo induziram todo o povo de Israel a reclamar e murmurar: “Por que não temos carne? No Egito, comíamos peixe — e era de graça! — , sem falar dos pepinos, das melancias, dos alhos-porós, das cebolas e dos alhos. Mas aqui, nada tem gosto. Tudo que comemos é maná, maná, maná”."
+        },
+        {
+          "number": 7,
+          "text": "7-9 O maná era uma substância parecida com sementes e brilhante como resina. O povo o ajuntava e usava pedras para moê-lo ou o socava no pilão. Ele era cozido na panela, e também faziam bolos com ele. O gosto era de bolo amassado com azeite de oliva. Quando o orvalho caía sobre o acampamento à noite, o maná caía com o orvalho."
+        },
+        {
+          "number": 10,
+          "text": "Moisés ouviu a queixa, todas aquelas famílias reclamando à porta das tendas, e a ira do Eterno se acendeu. Moisés percebeu que as coisas iam muito mal."
+        },
+        {
+          "number": 11,
+          "text": "11-15 Moisés perguntou ao Eterno: “Por que me tratas dessa maneira? O que eu fiz para merecer isso? Acaso fui eu que os concebi? Fui eu a mãe deles? Portanto, por que lanças a responsabilidade por esse povo sobre mim? Por que tenho de carregar esse povo por aí, como uma mãe carrega um bebê, até a terra que prometeste aos antepassados deles? Onde vou achar carne para todo esse povo que está se queixando a mim: ‘Queremos carne! Você tem de nos dar carne? Não posso fazer isso sozinho. Conduzir esse povo é pesado demais para mim. Se é assim que vais me tratar, por favor, me mata! Já vivi o suficiente. Para mim, chega! Tira-me daqui!”."
+        },
+        {
+          "number": 16,
+          "text": "16-17 O Eterno disse a Moisés: “Escolha e reúna setenta homens entre os líderes de Israel que sejam respeitados e responsáveis. Leve-os à Tenda do Encontro. Eu os encontrarei lá. Descerei ali e falarei com você. Tirarei um pouco do Espírito que está sobre você e porei sobre eles. Dessa forma, receberão capacidade para assumir parte do fardo desse povo. Você não terá de carregar tudo sozinho."
+        },
+        {
+          "number": 18,
+          "text": "18-20 “Diga ao povo: ‘Consagrem-se. Preparem-se, pois amanhã vocês comerão carne. Vocês têm choramingado ao Eterno: Queremos carne! Você tem de nos dar carne! Nossa vida no Egito era muito melhor! Pois o Eterno ouviu suas queixas e dará carne a vocês. Vocês comerão carne, com certeza. E não apenas um dia, nem mesmo dois, cinco, dez ou vinte, mas um mês inteiro. Vocês comerão carne até que ela saia pelas suas narinas. Ficarão tão cheios e enojados de carne que vomitarão diante da simples menção dela. E sabem por quê? Porque vocês rejeitaram o Eterno, que está aqui entre vocês e se queixaram a ele dizendo: Por que tivemos de sair do Egito?’”."
+        },
+        {
+          "number": 21,
+          "text": "21-22 Moisés retrucou: “Estou aqui, cercado por seiscentos mil homens, e dizes: ‘Eu darei carne para eles, carne todos os dias durante um mês’. De onde sairá toda essa carne? Mesmo que todo o gado e todos os rebanhos sejam abatidos, será o suficiente? Mesmo que todos os peixes do mar fossem pegos, seria o bastante?”."
+        },
+        {
+          "number": 23,
+          "text": "O Eterno respondeu a Moisés: “Então, você acha que não consigo tomar conta de vocês? Você logo verá se o que digo acontecerá ou não!”."
+        },
+        {
+          "number": 24,
+          "text": "24-25 Moisés saiu e contou ao povo o que o Eterno tinha dito. Ele convocou setenta líderes e os posicionou em volta da Tenda. O Eterno desceu numa nuvem e falou a Moisés. Depois, tomou do Espírito que estava nele e o distribuiu entre os setenta líderes. Quando o Espírito desceu sobre eles, eles profetizaram, mas não continuaram a profetizar. Isso aconteceu apenas uma vez."
+        },
+        {
+          "number": 26,
+          "text": "Enquanto isso, dois homens, Eldade e Medade, estavam no acampamento. Eles eram líderes, mas não tinham deixado o acampamento para ir à Tenda. Mesmo assim, o Espírito veio sobre eles, e eles começaram a profetizar no acampamento."
+        },
+        {
+          "number": 27,
+          "text": "Um jovem correu e contou a Moisés: “Eldade e Medade estão profetizando no acampamento!”."
+        },
+        {
+          "number": 28,
+          "text": "Josué, filhos de Num, que era auxiliar de Moisés desde a juventude, disse: “Moisés, senhor, mande-os parar!”."
+        },
+        {
+          "number": 29,
+          "text": "Mas Moisés disse: “Você está com ciúme por mim? Eu queria que todo o povo do Eterno fosse profeta. Eu queria que o Eterno pusesse seu Espírito em todos eles!”."
+        },
+        {
+          "number": 30,
+          "text": "30-34 Então, Moisés e os líderes de Israel voltaram ao acampamento. Um vento enviado pelo Eterno trouxe codornizes do mar, e elas caíram sobre o acampamento a Uma altura de noventa centímetros, num raio de um dia de caminhada, em todas as direções. Todo aquele dia, aquela noite e o dia seguinte o povo ajuntou codornizes — montes enormes de codornizes. O israelita menos esperto ajuntou dez barris. Eles as espalharam por todo o acampamento, para que secassem. Mas enquanto ainda estavam mastigando as codornizes, mal tendo engolido o primeiro bocado, a ira do Eterno se acendeu contra o povo. Ele os feriu com uma praga terrível. Eles chamaram o lugar Quibrote-Hataavá (Túmulos do Desejo). Ali eles enterraram as pessoas que queriam muito comer carne."
+        },
+        {
+          "number": 35,
+          "text": "De Quibrote-Hataavá, eles partiram para Hazerote e lá ficaram."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 Miriã e Arão começaram a se queixar de Moisés. Falaram mal dele porque ele tinha se casado com uma etíope. Diziam: “Será que o Eterno fala apenas por meio de Moisés? Ele não poderia falar por meio de nós também?”. Mas o Eterno ouviu a conversa."
+        },
+        {
+          "number": 3,
+          "text": "3-8 Ora, Moisés era um homem comedido e humilde, mais que qualquer pessoa que havia na terra. O Eterno imediatamente ordenou a Moisés, Arão e Miriã: “Saiam, vocês três, e vão à Tenda do Encontro!”. Os três foram. O Eterno desceu numa coluna de nuvem e se pôs à entrada da Tenda. Ele chamou Arão e Miriã para perto de si. Quando eles se aproximaram, ele disse: “Ouçam com muita atenção o que estou dizendo a vocês. Se há um profeta do Eterno entre vocês, Eu me revelo a ele em visões, eu falo com ele em sonhos. Mas não é assim que faço com meu servo Moisés; ele é responsável por toda a minha casa; Falo com ele na intimidade, em pessoa, com palavras diretas, sem rodeios nem enigmas. Ele vê a própria forma do Eterno. Portanto, por que vocês não mostraram reverência e respeito quando falaram contra meu servo, contra Moisés?”."
+        },
+        {
+          "number": 9,
+          "text": "A ira do Eterno ardeu contra eles, e ele se retirou."
+        },
+        {
+          "number": 10,
+          "text": "Quando a nuvem se afastou da Tenda, aconteceu a desgraça! Miriã estava leprosa, sua pele parecia neve. Arão olhou para Miriã e concluiu: “É lepra!”."
+        },
+        {
+          "number": 11,
+          "text": "11-12 Ele disse a Moisés: “Por favor, meu senhor, não seja tão duro contra nós por causa desse pecado tolo e impensado. Por favor, não permita que Miriã pareça um bebê abortado do ventre da mãe com metade do corpo em decomposição!”."
+        },
+        {
+          "number": 13,
+          "text": "E Moisés suplicou ao Eterno: “Por favor, Deus, eu te peço que a cures, eu te peço que a cures.”"
+        },
+        {
+          "number": 14,
+          "text": "14-15 O Eterno respondeu a Moisés: “Se o pai de Miriã tivesse cuspido no rosto dela, não ficaria ela envergonhada por sete dias? Isole-a fora do acampamento por sete dias. Depois, ela poderá ser recebida outra vez na comunidade. Assim, Miriã ficou isolada fora do acampamento durante sete dias. O povo não partiu dali enquanto ela não foi reintegrada ao povo. Só então, o povo partiu de Hazerote e armou seu acampamento no deserto de Parã."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 O Eterno disse a Moisés: “Envie homens para uma missão de reconhecimento da terra de Canaã, que estou dando ao povo de Israel. Envie um homem de cada tribo dos seus antepassados, homens experientes e fiéis às suas tribos”."
+        },
+        {
+          "number": 3,
+          "text": "3-15 Assim, Moisés os enviou do deserto de Parã, como o Eterno havia ordenado. Eram todos líderes em Israel, um de cada tribo. Estes eram seus nomes: de Rúben: Samua, filho de Zacur; de Simeão: Safate, filho de Hori; de Judá: Calebe, filho de Jefoné; de Issacar: Igal, filho de José; de Efraim: Oseias, filho de Num; de Benjamim: Palti, filho de Rafu; de Zebulom: Gadiel, filho de Sodi; de Manassés (uma tribo de José): Gadi, filho de Susi; de Dã: Amiel, filho de Gemali; de Aser: Setur, filho de Micael; de Naftali: Nabi, filho de Vofsi; de Gade: Geuel, filho de Maqui."
+        },
+        {
+          "number": 16,
+          "text": "Esses são os nomes dos homens que Moisés enviou em missão de reconhecimento da terra. Moisés deu a Oseias (Salvação), filho de Num, um novo nome: Josué (Deus Salva)."
+        },
+        {
+          "number": 17,
+          "text": "17-20 Antes que partissem para a missão de reconhecimento de Canaã, Moisés os advertiu: “Subam através do Neguebe e, então, entrem na região montanhosa. Observem toda a terra e vejam como ela é. Analisem o povo que vive lá. É forte ou fraco? É numeroso ou pequeno? Observem a terra: é agradável ou ruim? Descrevam as cidades em que eles moram: elas têm muros ou não são fortificadas? E analisem o solo: é fértil ou inaproveitável? Há florestas na terra? E tentem trazer umas amostras dos produtos da terra — estamos na estação das primeiras uvas”."
+        },
+        {
+          "number": 21,
+          "text": "21-25 Depois disso, puseram-se a caminho. Eles observaram a terra desde o deserto de Zim até Reobe, perto de Lebo-Hamate. Sua rota atravessava o deserto do Neguebe e conduzia a Hebrom. Ainã, Sesai e Talmai, descendentes do gigante Enaque, viviam ali. Hebrom havia sido construída sete anos antes de Zoã, no Egito. Quando chegaram ao vale de Escol, cortaram um ramo com um único cacho de uvas, e foram necessários dois homens para carregá-lo pendurado numa vara. Também colheram"
+        },
+        {
+          "number": 26,
+          "text": "26-27 romãs e figos. Chamaram o lugar vale de Escol (vale do Cacho de Uvas) por causa do enorme cacho de uvas que cortaram ali. Depois de quarenta dias de reconhecimento da terra, eles voltaram para seu povo. Eles se apresentaram a Moisés e Arão e a toda a congregação de Israel no deserto de Parã, em Cades, e fizeram um relato a todo o povo e mostraram os frutos da terra. Então, contaram a história da viagem:"
+        },
+        {
+          "number": 27,
+          "text": "27-29 “Fomos ver a terra, como vocês mandaram. Que maravilha! De fato, manam leite e mel ali! Vejam só estes frutos! O único problema é que o povo que vive lá é cruel, e suas cidades são enormes e bem fortificadas. Pior ainda, vimos lá os descendentes de Enaque. Os amalequitas estão espalhados pelo Neguebe; os hititas, os jebuseus e os amorreus ocupam a região montanhosa; os cananeus estão estabelecidos à margem do mar Mediterrâneo e ao longo do Jordão”."
+        },
+        {
+          "number": 30,
+          "text": "Calebe pediu um aparte e disse: “Vamos subir e conquistar a terra — agora! Nós vamos conseguir”."
+        },
+        {
+          "number": 31,
+          "text": "31-33 Mas os outros disseram: “Não podemos atacar aquele povo. Eles são mais fortes que nós”. E os boatos começaram a circular entre o povo de Israel. Diziam: “Observamos a terra de uma extremidade a outra — é uma terra que devora seus habitantes. Todas as pessoas que vimos lá eram enormes. Imaginem que vimos até os nefilins (os gigantes de Enaque são descendentes dos nefilins)! Diante deles, nos sentimos como gafanhotos”."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 A Toda a comunidade se alvoroçou e chorou a noite toda. E todo o povo de Israel murmurou contra Moisés e Arão. Os israelitas começaram a se queixar: “Por que não morremos no Egito? Ou, então, no deserto? Por que o Eterno nos trouxe para cá: foi para nos matar aqui? Nossas esposas e filhos serão tomados como reféns. Por que não voltamos para o Egito agora mesmo?”."
+        },
+        {
+          "number": 4,
+          "text": "E, logo, estavam todos dizendo uns aos outros: “Vamos escolher a um novo líder! Vamos voltar para o Egito!”."
+        },
+        {
+          "number": 5,
+          "text": "Então, Moisés e Arão se prostraram com o rosto em terra diante de toda a comunidade, reunida numa assembleia de emergência."
+        },
+        {
+          "number": 6,
+          "text": "6-9 Josué, filho de Num, e Calebe, filho de Jefoné, integrantes do grupo de reconhecimento da terra, rasgaram suas roupas e fizeram o seguinte pronunciamento ao povo reunido ali: “A terra que atravessamos e observamos é muito boa — boa mesmo. Se o Eterno se agrada de nós, ele nos fará entrar nessa terra, uma terra em que manam leite e mel, como eles dizem. E ele nos dará essa terra. Só não se rebelem contra o Eterno! E não tenham medo daquele povo. Eles serão café pequeno para nós! Eles não têm proteção alguma, e o Eterno está do nosso lado. Não tenham medo deles!”."
+        },
+        {
+          "number": 10,
+          "text": "10-12 Mas a comunidade, já se armando, começou a falar em apedrejá-los. Foi exatamente nesse momento que a glória do Eterno apareceu na Tenda do Encontro, e todos os israelitas a viram. O Eterno disse a Moisés: “Quanto tempo esse povo ainda vai me tratar como lixo? Quanto tempo ainda vão se negar a confiar em mim? E depois de todos os sinais que fiz no meio deles! Para mim, chega! Vou feri-los com uma praga e matá-los! Mas de você farei um povo maior e mais forte que qualquer povo que já existiu na terra”."
+        },
+        {
+          "number": 13,
+          "text": "13-16 Mas Moisés disse ao Eterno: “Essa notícia chegará aos ouvidos dos egípcios! Dirão que libertaste esse povo do Egito com grande demonstração de poder para fazer isso com eles! Os egípcios vão espalhar isso pelo mundo inteiro. Eles já sabem que és o Eterno, que estás do lado desse povo, que estás presente entre eles e que eles te veem com os próprios olhos na nuvem que paira sobre eles, na coluna de nuvem que os conduz de dia e na coluna de fogo, de noite. Se exterminares esse povo com um só golpe, todas as nações que souberem desse fato dirão: ‘O Eterno não conseguiu levar aquele povo para a terra que havia prometido a eles; por isso, os matou no deserto’."
+        },
+        {
+          "number": 17,
+          "text": "“Em vez disso, que a força do Senhor se manifeste e seja engrandecida, segundo o que prometeste:"
+        },
+        {
+          "number": 18,
+          "text": "O Eterno, que demora em se irar e que é grande em amor leal, que perdoa a iniquidade, a rebeldia e o pecado; Se bem que não faça vista grossa ao pecado, mas estende as consequências dos pecados dos pais Aos filhos até a terceira geração, e mesmo até a quarta’."
+        },
+        {
+          "number": 19,
+          "text": "“Por favor, perdoa as maldades desse povo com base na imensidão do teu amor leal, como sempre os tens perdoado, desde a saída do Egito!”."
+        },
+        {
+          "number": 20,
+          "text": "20-23 O Eterno disse: “Eu os perdoarei, em consideração às suas palavras, Moisés. Mas, tão certo como vivo e como a glória do Eterno enche toda a terra, nem mesmo um desses que viram a minha glória e os sinais e milagres que fiz no Egito e no deserto e me provocaram o tempo todo, fechando os ouvidos para mim — nenhum deles porá os olhos na terra que prometi solenemente aos seus antepassados. Nenhum dos que me trataram com desprezo verá a terra."
+        },
+        {
+          "number": 24,
+          "text": "“Mas, com meu servo Calebe, a história é outra. Ele tem um espírito diferente e me segue com convicção. Eu o levarei para a terra que ele observou, e seus filhos a herdarão."
+        },
+        {
+          "number": 25,
+          "text": "“Já que os amalequitas e cananeus estão tão bem estabelecidos nos vales neste momento, mudem a rota e voltem para o deserto pelo caminho que vai para o mar Vermelho”."
+        },
+        {
+          "number": 26,
+          "text": "26-30 O Eterno disse a Moisés e Arão: “Quanto tempo ainda vai durar essa murmuração contra mim por essa comunidade infestada pelo mal? Eu estou cheio de queixas desses israelitas murmuradores. Diga-lhes: ‘Tão certo como eu vivo — decreto do Eterno — , eis o que vou fazer: os cadáveres de vocês serão espalhados pelo deserto. De todos os que foram contados no recenseamento e estão com 20 anos de idade ou mais, de toda essa congregação de murmuradores e resmungões, nenhum entrará na terra para fazer sua habitação ali, na terra prometida solenemente, exceto Calebe, filho de Jefoné, e Josué, filho de Num."
+        },
+        {
+          "number": 31,
+          "text": "31-34 “‘Os filhos de vocês, exatamente os que vocês disseram que seriam tomados como reféns, são esses os que desfrutarão a terra que vocês rejeitaram, enquanto os cadáveres de vocês apodrecerão no deserto. Os filhos de vocês viverão como pastores no deserto durante quarenta anos, vivendo com as consequências da infidelidade de vocês, até que o último homem desta geração caia morto no deserto. Vocês observaram a terra durante quarenta dias, pois o castigo será um ano de deserto para cada dia, uma sentença de quarenta anos a cumprir pelos seus pecados — um longo aprendizado a respeito do meu desgosto."
+        },
+        {
+          "number": 35,
+          "text": "“‘Eu, o Eterno, falei, e executarei minha sentença contra toda essa comunidade, infestada pelo mal, que se amotinou contra mim. Vocês encontrarão seu fim neste deserto, Todos morrerão aqui’”."
+        },
+        {
+          "number": 36,
+          "text": "36-38 Os homens que Moisés havia enviado para fazer o reconhecimento da terra e que fizeram circular os boatos, levando a comunidade a se queixar contra Moisés, morreram em seguida. Depois de espalhar informações falsas a respeito da terra, eles morreram vítimas de uma praga, num confronto com o Eterno. Apenas Josué, filho de Num, e Calebe, filho de Jefoné, sobreviveram dos homens que foram enviados na missão de reconhecimento."
+        },
+        {
+          "number": 39,
+          "text": "39-40 Moisés comunicou a decisão do Eterno ao povo de Israel, e eles se entristeceram e choraram muito. Mas no dia seguinte, bem cedo, partiram na direção das montanhas, dizendo: “Aqui estamos. Estamos prontos: vamos atacar a terra que o Eterno nos prometeu. Nós pecamos, mas agora estamos prontos”."
+        },
+        {
+          "number": 41,
+          "text": "41-43 Mas eles foram repreendidos por Moisés: “Por que estão desobedecendo ao Eterno outra vez? Isso não vai dar certo. Não ataquem ninguém. O Eterno não está com vocês nessa empreitada. Vocês serão derrotados pelos seus inimigos. Os amalequitas e os cananeus estão de sobreaviso e matarão vocês. Vocês deixaram de seguir o Eterno e de obedecer a ele; por isso, ele não irá com vocês agora”."
+        },
+        {
+          "number": 44,
+          "text": "44-45 Mas eles foram mesmo assim. Transpirando arrogância, rumaram afoitos para a região montanhosa. Mas nem a arca da aliança nem Moisés saíram do acampamento. Os amalequitas e cananeus que viviam nas montanhas saíram das cidades e os atacaram. Os israelitas foram derrotados e perseguidos por todo o caminho até Hormá."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-5 O Eterno disse a Moisés: “Fale com o povo de Israel e diga a eles: ‘Quando entrarem na terra que estou dando a vocês e apresentarem uma oferta preparada no fogo, dedicada ao Eterno, uma oferta queimada ou qualquer sacrifício de bois ou de ovelhas como oferta prometida em voto ou oferta voluntária numa das festas marcadas, como aroma agradável ao Eterno, a pessoa que trouxer a oferta deverá apresentar também uma oferta de cereal: um jarro de farinha da melhor qualidade misturada com um litro de óleo. Para caída cordeiro da oferta queimada ou para outro sacrifício, preparem um litro de óleo e um litro de vinho como oferta derramada."
+        },
+        {
+          "number": 6,
+          "text": "6-7 “‘Para um carneiro, preparem uma oferta de cereal de dois jarros de farinha da melhor qualidade com um litro de óleo e um litro de vinho como oferta derramada. Ofereçam-na como aroma agradável ao Eterno."
+        },
+        {
+          "number": 8,
+          "text": "8-10 “‘Quando vocês prepararem um novilho como oferta queimada ou um sacrifício em cumprimento de um voto ou uma oferta de paz ao Eterno, tragam, com o novilho, uma oferta de cereal de três jarros de farinha da melhor qualidade e meio galão de óleo. Também tragam meio galão de vinho como oferta derramada: é oferta preparada no fogo, um aroma agradável ao Eterno."
+        },
+        {
+          "number": 11,
+          "text": "11-12 “‘Cada novilho ou carneiro, cada cordeiro ou cabrito deve ser preparado da mesma forma. Sigam esse procedimento para cada um deles, não importa quantos tiverem de preparar."
+        },
+        {
+          "number": 13,
+          "text": "13-16 “‘Cada israelita natural da terra deverá seguir esse procedimento quando trouxer uma oferta preparada no fogo como aroma agradável ao Eterno. Nas gerações futuras, quando um estrangeiro ou visitante que vive entre vocês apresentar uma oferta preparada no fogo como aroma agradável ao Eterno, deverá seguir os mesmos procedimentos. A comunidade tem as mesmas regras para vocês e para os estrangeiros residentes entre vocês. Essa é a regra geral para as futuras gerações. Vocês e os estrangeiros são iguais perante o Eterno. As mesmas leis e regulamentações se aplicam a vocês e aos estrangeiros que vivem entre vocês’”."
+        },
+        {
+          "number": 17,
+          "text": "17-21 O Eterno disse a Moisés: “Fale com o povo de Israel e diga a eles: ‘Quando entrarem na terra que prometi a vocês e comerem do alimento da terra, separem uma porção como oferta ao Eterno. Da primeira porção de massa de farinha, façam um bolo como oferta — uma oferta da farinha da sua colheita. Nas futuras gerações, a oferta da primeira massa da farinha de toda colheita deverá ser apresentada ao Eterno’”."
+        },
+        {
+          "number": 22,
+          "text": "22-26 “‘Mas, se vocês se desviarem do caminho e não obedecerem às ordens que o Eterno transmitiu a Moisés; se desobedecerem a qualquer uma das ordens que o Eterno deu a vocês sob a autoridade de Moisés, desde o tempo em que o Eterno começou a dar ordens a vocês até o dia de hoje; se isso acontecer sem intenção e sem conhecimento da comunidade, então, toda a congregação deverá sacrificar um novilho como oferta queimada, aroma agradável ao Eterno, acompanhado por sua oferta de cereal e sua oferta derramada, conforme estipulado nas regras, e um bode como oferta de perdão. O sacerdote deverá fazer expiação por toda a comunidade do povo de Israel, e serão perdoados. O pecado não foi intencional, e eles apresentaram ao Eterno a oferta preparada no fogo e a oferta de perdão por seu descuido. Toda a comunidade de Israel, incluindo até mesmo os estrangeiros que vivem entre eles, será absolvida, porque todos se envolveram no erro."
+        },
+        {
+          "number": 27,
+          "text": "27-28 “‘Mas, se apenas uma pessoa pecar por descuido, sem perceber o que está fazendo, ela deverá trazer uma cabra de um ano como oferta de perdão. O sacerdote, então, fará expiação pela pessoa que pecou involuntariamente. Será feita expiação diante do Eterno, para que ela seja perdoada."
+        },
+        {
+          "number": 29,
+          "text": "“‘O mesmo padrão vale para todos os que pecarem por descuido — os israelitas de nascimento e os estrangeiros devem seguir as mesmas regras."
+        },
+        {
+          "number": 30,
+          "text": "30-31 “‘Mas a pessoa que pecar de forma desafiadora, não importa se natural da terra ou estrangeiro, blasfemando intencionalmente contra o Eterno, precisa ser eliminada do meio do povo. Ela desprezou a palavra do Eterno, transgrediu sua ordem, e precisa ser eliminada da comunidade. A culpa recai sobre ela”."
+        },
+        {
+          "number": 32,
+          "text": "32-35 Certo dia, durante os anos de peregrinação do povo de Israel no deserto, um homem foi flagrado recolhendo lenha no sábado. Os que o surpreenderam nesse ato levaram-no a Moisés, a Arão e a toda a congregação. Eles o mantiveram detido, porque não sabiam o que fazer com ele. Então, o Eterno disse a Moisés: “Sentenciem o homem à morte. É isto mesmo: toda a comunidade deverá apedrejá-lo fora do acampamento”."
+        },
+        {
+          "number": 36,
+          "text": "Assim, toda a comunidade levou o homem para fora do acampamento e o apedrejou, uma execução ordenada pelo Eterno e anunciada por Moisés."
+        },
+        {
+          "number": 37,
+          "text": "37-41 O Eterno disse a Moisés: “Fale com o povo de Israel e diga a eles que, a partir de agora, deverão fazer borlas nas extremidades das roupas e marcar cada borla com um cordão azul. Quando vocês olharem para essas borlas, irão lembrar e obedecer aos mandamentos de Deus e não serão distraídos por algo que possam sentir ou ver e que os induza à infidelidade. As borlas despertarão lembranças e estimularão a observância de todos os meus mandamentos, para que vivam uma vida santa para o Eterno. Eu sou o Eterno, que os salvou do Egito para ser seu Deus pessoal. Sim, eu sou o Eterno, o seu Deus”."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 “Certo dia, Corá, filho de Isar, neto de Coate, bisneto de Levi, na companhia de alguns rubenitas — Datã e Abirão, filhos de Eliabe, e Om, filho de Pelete — , rebelaram-se contra Moisés. Corá tinha, do seu lado, duzentos e cinquenta líderes da congregação de Israel, homens proeminentes, com posições no Conselho. Eles formaram um partido e vieram questionar a gestão de Moisés e Arão: “Vocês passaram dos limites! Toda a comunidade é santa, e o Eterno está no meio dela. A pergunta é: Por que vocês agem como se fossem os donos do pedaço?”."
+        },
+        {
+          "number": 4,
+          "text": "Ao ouvir isso, Moisés se prostrou com o rosto em terra."
+        },
+        {
+          "number": 5,
+          "text": "Ele respondeu a Corá e seus asseclas: “Amanhã de manhã, o Eterno deixará claro quem está do lado dele, quem é santo. O Eterno tomará sua posição com quem ele escolher."
+        },
+        {
+          "number": 6,
+          "text": "6-7 “Agora, Corá, ouça o que quero que você e seus partidários façam: amanhã, peguem os incensários. Na presença do Eterno, coloquem fogo neles e, depois, o incenso. Então, veremos quem é santo, veremos quem o Eterno escolhe. Filhos de Levi, vocês é que passaram dos limites!”."
+        },
+        {
+          "number": 8,
+          "text": "8-11 Moisés continuou: “Agora, ouçam bem, filhos de Levi. Não é suficiente que o Deus de Israel os tenha escolhido, de toda a congregação de Israel, e trazido para perto dele, para servir nesse ministério especial na habitação do Eterno, para estar diante da congregação e ministrar ao povo? Ele trouxe todos vocês e seus irmãos levitas para seu círculo íntimo, e agora vocês querem também o sacerdócio! Vocês se rebelaram contra o Eterno, não contra nós. O que vocês têm contra Arão, que estão falando mal dele?”."
+        },
+        {
+          "number": 12,
+          "text": "12-14 Em seguida, Moisés mandou chamar Datã e Abirão, filhos de Eliabe, mas eles disseram: “Não vamos falar com você. Já não basta você nos ter arrancado de uma terra em que manam leite e mel para nos matar no deserto? Quer ainda continuar mandando em nós? Encare os fatos: você não cumpriu o que prometeu. Não nos levou a nenhuma terra de leite e mel nem nos deu a herança prometida de campos e vinhas. Você teria que nos arrancar os olhos para que não víssemos o que está acontecendo. Esqueça! Não queremos conversa com você!”."
+        },
+        {
+          "number": 15,
+          "text": "A resposta deles deixou Moisés enfurecido. Ele disse ao Eterno: “Não aceite a oferta de cereal deles. Eu não tomei sequer um jumento deles e nunca toquei num fio de cabelo deles”."
+        },
+        {
+          "number": 16,
+          "text": "16-17 Moisés disse a Corá: “Traga seus partidários e apresentem-se ao Eterno amanhã. Apareça lá com eles e com Arão. Cada homem deve trazer seu incensário cheio de incenso e apresentá-lo ao Eterno, todos os duzentos e cinquenta incensários. E você e Arão façam o mesmo: tragam seus incensários”."
+        },
+        {
+          "number": 18,
+          "text": "E foi o que todos fizeram. Eles levaram seus incensários e se puseram à entrada da Tenda do Encontro. Moisés e Arão fizeram o mesmo."
+        },
+        {
+          "number": 19,
+          "text": "Corá e seus partidários faziam oposição a Moisés e Arão à entrada da Tenda do Encontro. Toda a comunidade conseguia ver a glória do Eterno."
+        },
+        {
+          "number": 20,
+          "text": "20-21 O Eterno disse a Moisés e Arão: “Afastem-se da congregação, para que eu possa acabar com eles agora mesmo!”."
+        },
+        {
+          "number": 22,
+          "text": "Mas os dois se prostraram com o rosto no chão e imploraram: “Ó Deus, Deus de todos os seres vivos, quer dizer que um homem peca, e ficas irado contra toda a comunidade?”22-24 O Eterno disse a Moisés: “Fale com a comunidade. Diga a eles: Afastem-se das tendas de Corá, Datã e Abirão’”."
+        },
+        {
+          "number": 25,
+          "text": "25-26 Moisés se levantou e aproximou-se de Datã e Abirão. Os líderes de Israel o seguiram. Ele, então, falou à comunidade: “Afastem-se das tendas destes homens maus. Não toquem em nada que pertença a eles, para que vocês não sejam arrastados pela torrente do pecado deles”."
+        },
+        {
+          "number": 27,
+          "text": "Assim, todos se afastaram das tendas de Corá, Datã e Abirão. Datã e Abirão, a essa altura, haviam se afastado e estavam de pé à entrada das suas tendas com suas esposas, seus filhos e as crianças pequenas."
+        },
+        {
+          "number": 28,
+          "text": "28-30 Moisés continuou a falar à comunidade: “Agora vocês saberão que foi o Eterno quem me enviou para fazer este trabalho, que não foi algo planejado por mim. Se estes homens morrerem de morte natural como os restantes de nós, vocês saberão que não foi o Eterno que me enviou. Mas, se o Eterno fizer algo sem precedentes, se a terra se abrir e engolir todos eles e eles forem lançados vivos no abismo, vocês saberão que eles insultaram o Eterno”."
+        },
+        {
+          "number": 31,
+          "text": "31-33 Mal as palavras saíram da sua boca, e o solo se fendeu. A terra abriu sua boca e, de uma só vez, engoliu todos; os homens, suas famílias e todos os seres humanos associados à Corá, além de tudo que eles possuíam. Este foi o fim deles: foram jogados vivos no abismo. A terra se fechou sobre eles, e essa foi a última vez que a comunidade os viu."
+        },
+        {
+          "number": 34,
+          "text": "Diante dos gritos deles, os israelitas saíram correndo para salvar apele, gritando: “Nós também seremos engolidos vivos!”."
+        },
+        {
+          "number": 35,
+          "text": "Então, o Eterno enviou raios, e o fogo cremou os duzentos e cinquenta homens que estavam oferecendo incenso."
+        },
+        {
+          "number": 36,
+          "text": "36-38 O Eterno disse a Moisés: “Diga a Eleazar, filho do sacerdote Arão: ‘Recolha os incensários dos restos do incêndio e espalhe as brasas, porque os incensários se tornaram santos. Pegue os incensários dos homens que pecaram e agora estão mortos e transforme-os em lâminas para servirem de revestimento para o altar. Eles foram consagrados ao Eterno e são santos para o Eterno. Que sirvam de sinal a Israel, de evidência do que aconteceu neste diá”."
+        },
+        {
+          "number": 39,
+          "text": "39-40 Assim, Eleazar ajuntou todo o bronze que havia pertencido aos que morreram no incêndio e providenciou sua transformação em lâminas, que foram usadas para revestir o altar, como o Eterno o havia instruído, por meio de Moisés. Seria um sinal para Israel de que apenas os descendentes de Arão estavam autorizados a queimar incenso diante do Eterno. Qualquer outra pessoa que tentasse fazer isso acabaria como Corá e seus partidários."
+        },
+        {
+          "number": 41,
+          "text": "No dia seguinte, surgiu uma murmuração na comunidade de Israel contra Moisés e Arão: “Vocês mataram o povo de Deus!”."
+        },
+        {
+          "number": 42,
+          "text": "Mas, quando a comunidade se reuniu para o confronto com Moisés e Arão, todos olharam para a Tenda do Encontro, e lá estava a nuvem — a glória do Eterno visível a todos."
+        },
+        {
+          "number": 43,
+          "text": "43-45 Moisés e Arão estavam diante da Tenda do Encontro, e Deus falou a Moisés: “Afaste-se da congregação para que eu acabe com ela agora mesmo!”. Mas eles se prostraram com o rosto no chão."
+        },
+        {
+          "number": 46,
+          "text": "Moisés disse a Arão: “Pegue seu incensário e encha-o com incenso e com fogo do altar. Vá para o meio da congregação o mais rápido que puder e faça expiação por eles, pois a ira do Eterno já se acendeu, e a praga já começou”."
+        },
+        {
+          "number": 47,
+          "text": "47-48 Arão pegou seu incensário, como Moisés havia pedido, e correu para o meio da congregação. A praga já havia começado, e ele ofereceu incenso e fez expiação pelo povo. Ele se pôs entre os vivos e os mortos e interrompeu a praga."
+        },
+        {
+          "number": 49,
+          "text": "49-50 Em consequência da praga, morreram catorze mil pessoas, sem contar os que morreram na revolta de Corá. Arão voltou para se juntar a Moisés, à entrada da Tenda do Encontro. A praga havia cessado."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-5 O Eterno disse a Moisés: “Fale com o povo de Israel. Peça a eles que tragam algumas varas, doze no total, uma para cada líder de cada uma das tribos dos seus antepassados. Escreva o nome de cada homem na vara que corresponde à sua tribo, a começar por Arão. Escreva o nome de Arão na vara de Levi e faça o mesmo com as outras varas, uma vara para o líder de cada uma das tribos. Depois, coloque-as na Tenda do Encontro, diante da arca das tábuas da aliança, na qual me encontro com você. Eis o que acontecerá: a vara do homem que eu escolhi florescerá. Assim, porei um basta nessa murmuração interminável do povo de Israel contra você”."
+        },
+        {
+          "number": 6,
+          "text": "6-7 Moisés falou ao povo de Israel. Seus líderes entregaram as doze varas, uma para o líder de cada tribo, e a vara de Arão estava entre elas. Moisés pôs as varas diante do Eterno, na Tenda que guarda as tábuas da aliança."
+        },
+        {
+          "number": 8,
+          "text": "8-9 Moisés entrou na Tenda do Encontro no dia seguinte e viu que a vara de Arão, a vara da tribo de Levi, de fato havia florescido — botões, flores e até amêndoas maduras! Moisés retirou todas as varas da presença do Eterno e as apresentou ao povo de Israel. Eles olharam com atenção o que havia acontecido. Cada líder pegou a vara com seu nome."
+        },
+        {
+          "number": 10,
+          "text": "O Eterno disse a Moisés: “Leve a vara de Arão de volta ao seu lugar, diante da arca com as tábuas da aliança. Ela deve ficar ali como sinal para os rebeldes. Isso porá um basta à murmuração contra mim e salvará a vida deles!”."
+        },
+        {
+          "number": 11,
+          "text": "Moisés fez exatamente como o Eterno havia ordenado."
+        },
+        {
+          "number": 12,
+          "text": "12-13 O povo de Israel disse a Moisés: “Estamos perdidos! É nossa sentença de morte. Qualquer um que se aproximar da habitação do Eterno cairá morto. Estamos todos perdidos!”."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-4 O Eterno disse a Arão: “Você, seus filhos e a família de seu pai são responsáveis pelos pecados cometidos contra o santuário; você e seus filhos também são responsáveis pelos pecados envolvendo o sacerdócio. Portanto, recrute seus irmãos levitas para ajudarem você e seus filhos com suas responsabilidades na Tenda que guarda as tábuas da aliança. Eles se dirigirão a você na execução das tarefas associadas à Tenda, mas não poderão fazer nada relacionado às coisas sagradas do altar, sob pena de morte — tanto eles quanto você morrerão! Eles ajudarão você a cuidar da Tenda do Encontro, o que inclui todos os trabalhos necessários. Ninguém além deles poderá ajudar você."
+        },
+        {
+          "number": 5,
+          "text": "5-7 “Sua responsabilidade é cuidar do santuário e do altar, para que não haja mais erupções de ira contra o povo de Israel. Eu mesmo escolhi a seus irmãos, os levitas, de todo o povo de Israel. Eu os entrego a você como um presente, um presente do Eterno, para ajudar com o serviço na Tenda do Encontro. Mas apenas você e seus filhos podem servir como sacerdotes e trabalhar em volta do altar e além do véu. O serviço do sacerdócio é meu presente exclusivo para você: não pode ser delegado. Quem invadir o santuário será executado”."
+        },
+        {
+          "number": 8,
+          "text": "8-10 O Eterno disse também a Arão: “Eu, pessoalmente, estou designando você responsável pelas minhas contribuições, todas as coisas sagradas que recebo do povo de Israel. Estou entregando tudo a você e seus filhos para seu uso pessoal. Essa é a regra fixa. Você e seus filhos recebem o que sobrar das ofertas, tudo que não for queimado no Altar, seja das ofertas de cereal, das ofertas de perdão ou das ofertas de reparação. Comam tudo em atitude reverente: são coisas santíssimas. Quem for do sexo masculino em sua família poderá comê-las. Tratem-nas como coisas santas."
+        },
+        {
+          "number": 11,
+          "text": "11-13 “Vocês também receberão as ofertas movidas do povo de Israel. Eu as entrego a você e seus filhos como um presente. Essa é a regra fixa. Qualquer pessoa na sua família que estiver ritualmente pura poderá comer delas. Também dou a vocês o melhor azeite, o melhor vinho novo e o melhor trigo que for oferecido ao Eterno como primeiros frutos da colheita — todos os primeiros frutos que eles oferecem ao Eterno serão seus. Qualquer pessoa na sua família que estiver ritualmente pura poderá comer deles."
+        },
+        {
+          "number": 14,
+          "text": "14-16 “Vocês recebem tudo que, em Israel, for consagrado ao Eterno. Todo primogênito, toda primeira cria oferecida ao Eterno será de vocês. A exceção é que vocês não receberão o primogênito em si, e, sim, o valor do seu resgate. Quando o primogênito tiver um mês de idade, ele deverá ser resgatado pelo preço de sessenta gramas de prata, segundo o padrão do santuário, que pesa doze gramas."
+        },
+        {
+          "number": 17,
+          "text": "17-19 “Mas vocês não poderão aceitar o resgate da primeira cria de uma vaca, ovelha ou cabra — elas são santas. Em vez disso, borrife o sangue no altar e queime a gordura deles como oferta preparada no fogo, um aroma agradável ao Eterno. Mas vocês receberão a carne, assim como recebem o peito da oferta movida e a coxa direita. Todas as ofertas sagradas que o povo de Israel separar para o Eterno, eu estou entregando a você e seus filhos. Essa é a regra fixa, que inclui tanto vocês quanto seus filhos — uma aliança de sal, eterna e imutável diante do Eterno."
+        },
+        {
+          "number": 20,
+          "text": "O Eterno disse ainda a Arão: “Você não receberá herança na terra, nem mesmo uma porção de terra. Eu sou sua porção, sua herança entre o povo de Israel."
+        },
+        {
+          "number": 21,
+          "text": "21-24 “Estou dando aos levitas todos os dízimos de Israel como pagamento pelo trabalho que fazem na Tenda do Encontro. A começar de agora, o restante do povo de Israel não poderá ficar entrando e saindo da Tenda do Encontro. Se o fizerem, serão penalizados por seu pecado, e a pena é a morte. Apenas os levitas poderão trabalhar na Tenda do Encontro, e eles serão responsáveis por qualquer coisa que der errado. Essa é a regra fixa, para todos os tempos. Eles não receberão herança entre o povo de Israel. Em vez disso, entrego a eles os dízimos que o povo de Israel apresentar como oferta ao Eterno. Por isso, criei esta regra: eles não receberão herança de terra entre o povo de Israel”."
+        },
+        {
+          "number": 25,
+          "text": "25-29 O Eterno disse a Moisés: “Fale com os levitas e diga a eles: ‘Quando receberem os dízimos do povo de Israel, a herança que foi designada a vocês, terão de dar o dízimo desses dízimos e apresentá-lo como oferta ao Eterno. Suas ofertas serão tratadas da mesma forma que as ofertas de cereal da eira e de vinho da prensa dos demais israelitas. Este é o procedimento para fazer as ofertas ao Eterno dos dízimos que vocês receberem do povo de Israel: deem a porção desses dízimos, que pertence ao Eterno, ao sacerdote Arão. Garantam que a porção do Eterno seja a melhor e mais santa de tudo que vocês receberem’."
+        },
+        {
+          "number": 30,
+          "text": "30-32 “Diga aos levitas: ‘Quando vocês oferecerem a melhor parte, o restante será tratado como o cereal da eira ou o vinho da prensa ofertados pelos demais. Vocês e suas famílias poderão comer o restante a qualquer hora e em qualquer lugar — é o salário de vocês pelo trabalho na Tenda do Encontro. Ao oferecer a melhor parte, vocês evitarão a culpa de profanar as ofertas sagradas do povo de Israel e, assim, não morrerão’”. A NOVILHA VERMELHA"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-4 O Eterno disse a Moisés e Arão: “Esta é a regra da revelação, que o Eterno ordenou: digam ao povo de Israel que tragam uma novilha vermelha, sem defeito, ritualmente pura, que nunca carregou uma canga. Vocês a apresentarão ao sacerdote Eleazar e, depois, a levarão para fora do acampamento, para ser sacrificada na presença dele. Eleazar pegará parte do sangue com o dedo e o borrifará sete vezes na direção da Tenda do Encontro."
+        },
+        {
+          "number": 5,
+          "text": "5-8 “Então, sob a supervisão de Eleazar, queimem totalmente a novilha — o couro, a carne, o sangue e até os excrementos. Em seguida, o sacerdote pegará um pedaço de madeira de cedro, alguns ramos de hissopo e um pedaço de lã vermelha e os jogará no fogo em que a novilha estiver queimando. Depois disso, o sacerdote terá de lavar suas roupas e tomar banho. Só depois disso, poderá voltar ao acampamento, mas permanecerá ritualmente impuro até o entardecer. O homem que queimar a novilha também precisará lavar sua roupa e tomar banho. Ele também estará impuro até o entardecer."
+        },
+        {
+          "number": 9,
+          "text": "“Um homem ritualmente puro recolherá as cinzas da novilha e as depositará num lugar ritualmente puro, fora do acampamento. A congregação de Israel as guardará para uso na água da purificação, para a purificação de pecados."
+        },
+        {
+          "number": 10,
+          "text": "“O homem que tiver recolhido as cinzas terá de lavar suas roupas e estará ritualmente impuro até o entardecer. Essa será uma regra fixa, tanto para os israelitas de nascimento quanto para os estrangeiros residentes."
+        },
+        {
+          "number": 11,
+          "text": "11-13 “Qualquer pessoa que tocar um cadáver humano ficará ritualmente impura por sete dias. Terá de purificar-se com a água da purificação no terceiro dia e, no sétimo dia, estará pura. Mas, se ela não seguir os procedimentos para o terceiro e o sétimo dias, não ficará pura. Qualquer pessoa que tocar um cadáver humano e não se purificar estará contaminando a habitação do Eterno e deve ser eliminada. Porque, enquanto não receber a água da purificação, ela continuará ritualmente impura."
+        },
+        {
+          "number": 14,
+          "text": "14-15 “Esta é a regra para alguém que morrer em sua tenda: qualquer pessoa que entrar na tenda ou já estiver na tenda ficará ritualmente impura durante sete dias, e qualquer recipiente aberto sem tampa estará impuro."
+        },
+        {
+          "number": 16,
+          "text": "16-21 “Qualquer pessoa que tocar um cadáver em campo aberto, não importa se morreu de causas violentas ou naturais, ou tocar um osso humano, ficará impura por sete dias. Para a purificação dessa pessoa, misture um pouco das cinzas da oferta de perdão com água fresca numa tigela. Encontre um homem ritualmente puro para molhar um ramo de hissopo na água e borrifar a tenda e toda a sua mobília, as pessoas que estavam na tenda, aquele que tocou nos ossos da pessoa que morreu assassinada ou de causas naturais e a pessoa que tiver tocado um túmulo. A pessoa impura deverá ser borrifada no terceiro e no sétimo dias. No sétimo dia, será considerada pura. A pessoa purificada deverá lavar suas roupas e tomar banho. Ao entardecer, estará pura. Mas a pessoa impura que não passar por esses procedimentos de purificação terá de ser eliminada da comunidade: ela contaminou o santuário de Deus. Não foi aspergida sobre ela a água da purificação; por isso, está ritualmente impura. Essa é a regra fixa para esses casos. “O homem que aspergir a água da purificação terá de lavar suas roupas, e qualquer outra pessoa que tocar a água da purificação também estará ritualmente impura até o entardecer”."
+        },
+        {
+          "number": 22,
+          "text": "“Qualquer coisa que a pessoa ritualmente impura tocar torna-se impura, e aquele que tocar no que ele tocou entrará impuro até o entardecer”."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "No primeiro mês, toda a comunidade de Israel chegou ao deserto de /II Zim. O povo acampou em Cades. Ali morreu Miriã, e foi enterrada."
+        },
+        {
+          "number": 2,
+          "text": "2-5 Não havia água ali para a comunidade, de modo que o povo queria agredir Moisés e Arão, dizendo: “Deveríamos ter morrido quando os outros nossos irmãos morreram diante do Eterno! Por que vocês trouxeram a congregação do Eterno para este deserto: para que morressem o povo e os animais? E por que vocês nos tiraram do Egito, arrastando-nos para esta região miserável? Aqui não tem cereal, nem figos, nem uvas, nem romãs e, agora, nem mesmo água!”."
+        },
+        {
+          "number": 6,
+          "text": "Moisés e Arão saíram da presença do povo, foram para a Tenda do Encontro e se prostraram com o rosto no chão. Ali viram a glória do Eterno."
+        },
+        {
+          "number": 7,
+          "text": "7-8 O Eterno disse a Moisés: “Pegue sua vara. Você e seu irmão Arão reúnam a comunidade. Fale com aquela rocha que esta bem em frente deles, e ela produzirá água. Vocês tirarão água da rocha para eles, tanto para o povo quanto para os rebanhos”."
+        },
+        {
+          "number": 9,
+          "text": "9-10 Moisés tirou avara da presença do Eterno, como foi ordenado. Ele e Arão reuniram a congregação diante da rocha, e Moisés disse: “Ouçam, rebeldes! Será que teremos de tirar água desta rocha para vocês?”."
+        },
+        {
+          "number": 11,
+          "text": "Depois de dizer isso, Moisés ergueu o braço e bateu com a vara na rocha — uma vez, duas vezes. E jorrou água. A comunidade e os rebanhos beberam."
+        },
+        {
+          "number": 12,
+          "text": "O Eterno disse a Moisés e Arão: “Já que vocês não confiaram em mim, não me trataram com reverência diante do povo de Israel, os dois estarão impedidos de conduzir a comunidade para a terra que estou dando a eles”."
+        },
+        {
+          "number": 13,
+          "text": "Aquelas eram as água de Meribá (Discussão), onde o povo de Israel discutiu com o Eterno, e ele se revelou santo."
+        },
+        {
+          "number": 14,
+          "text": "14-16 Moisés enviou emissários de Cades ao rei de Edom com esta mensagem: “Uma mensagem do seu irmão Israel. Você está ciente de todas as dificuldades que temos passado. Nossos antepassados foram para o Egito e viveram lá por muito tempo. Os egípcios foram cruéis conosco e com nossos antepassados. Mas, quando clamamos por ajuda ao Eterno, ele nos ouviu. Ele enviou um anjo e nos tirou do Egito. Agora, estamos aqui em Cades, na fronteira do seu território."
+        },
+        {
+          "number": 17,
+          "text": "Você nos daria permissão para cruzar seu território? Não cruzaremos suas plantações nem suas vinhas, nem beberemos água dos seus poços. Não sairemos na estrada principal, a estrada do rei. Não nos desviaremos nem para a esquerda nem para a direita, até que tenhamos atravessado todo o seu território”."
+        },
+        {
+          "number": 18,
+          "text": "O rei de Edom respondeu: “De jeito nenhum! Se vocês puserem um pé em meu território, eu os atacarei”."
+        },
+        {
+          "number": 19,
+          "text": "O povo de Israel insistiu: “Veja, ficaremos o tempo todo na estrada principal. Se alguém de nós ou algum dos nossos animais beber água, pagaremos por ela. Somos inofensivos, um grupo de andarilhos com os pés feridos”."
+        },
+        {
+          "number": 20,
+          "text": "20-21 Mas o rei ficou irredutível: “Não! Vocês não poderão passar”. E Edom bloqueou o caminho com um exército grande e muito bem armado. Assim, Edom negou a passagem, e Israel teve de fazer um desvio."
+        },
+        {
+          "number": 22,
+          "text": "O povo de Israel — a comunidade toda — partiu de Cades e chegou ao monte Hor."
+        },
+        {
+          "number": 23,
+          "text": "23-26 O Eterno disse a Moisés e Arão no monte Hor, na fronteira de Edom: “Chegou a hora de Arão ser reunido aos seus antepassados. Ele não entrará na terra que estou dando ao povo de Israel porque vocês dois se rebelaram contra as minhas ordens nas águas de Meribá. Portanto, leve Arão e seu filho Eleazar até o cume do monte Hor. Tire as roupas de Arão e vista Eleazar com elas. Arão se reunirá a seus antepassados: ele morrerá ali”."
+        },
+        {
+          "number": 27,
+          "text": "27-29 Moisés obedeceu ã ordem do Eterno. Eles subiram ao monte Hor diante dos olhos de toda a congregação. Moisés tirou as roupas de Arão e vestiu Eleazar com elas. Arão morreu no cume do monte. Então, Moisés e Eleazar desceram, A congregação, ao receber a notícia da morte de Arão, guardou luto de trinta dia por ele."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O rei cananeu de Arade, que governava no Neguebe, soube que Israel estava avançando pela estrada de Atarim. Ele atacou Israel e fez alguns prisioneiros."
+        },
+        {
+          "number": 2,
+          "text": "Israel fez um voto ao Eterno: “Se entregares esse povo em nossas mãos, destruiremos suas cidades e apresentaremos as ruínas a ti como santa destruição”."
+        },
+        {
+          "number": 3,
+          "text": "O Eterno ouviu a oração de Israel e entregou os cananeus nas mãos deles. Eles destruíram os inimigos e suas cidades, uma santa destruição. Deram ao lugar o nome de Hormá (Santa Destruição)."
+        },
+        {
+          "number": 4,
+          "text": "4-5 Eles partiram do monte Hor pela estrada do mar Vermelho, fazendo um desvio ao redor do território de Edom. Mas o povo ficou impaciente e irritadiço durante a jornada e começou a reclamar contra Deus e contra Moisés: “Por que vocês nos arrastaram do Egito para morrer neste lugar abandonado? Não há comida decente nem água. Não temos mais estômago para suportar essa situação!”."
+        },
+        {
+          "number": 6,
+          "text": "6-7 Por causa da reclamação, o Eterno enviou serpentes venenosas. Elas morderam o povo, e muitos morreram. Os israelitas disseram a Moisés: “Pecamos ao murmurar contra o Eterno e contra você. Ore ao Eterno e peça que ele tire estas serpentes daqui!”. Moisés orou pelo povo."
+        },
+        {
+          "number": 8,
+          "text": "E o Eterno disse a Moisés: “Faça uma serpente e coloque-a no alto de um poste. Aquele que for mordido e olhar para essa serpente viverá”."
+        },
+        {
+          "number": 9,
+          "text": "Assim, Moisés fez uma serpente de bronze flamejante e a prendeu no topo de um poste. Qualquer pessoa que fosse mordida por uma serpente e, em seguida, olhasse para a serpente de bronze sobrevivia à mordida."
+        },
+        {
+          "number": 10,
+          "text": "10-15 O povo de Israel partiu e acampou em Obote. Eles deixaram Obote e acamparam em Ijé-Abarim, no deserto defronte de Moabe, a leste. Eles partiram dali e armaram suas tendas no vale de Zerede. O acampamento seguinte foi à margem do rio Amom, que marca a fronteira entre o território dos amorreus e Moabe. O Livro das Guerras do Eterno faz referência a esse lugar: Vaebe em Sufá, os vales de Arnom; Pelas ravinas dos vales que levam à vila de Ar E que chegam até a fronteira de Moabe."
+        },
+        {
+          "number": 16,
+          "text": "16-18 Dali, prosseguiram para Beer (O Poço), onde o Eterno disse a Moisés: “Reúna o povo, que vou dar água a eles”. Foi ali que Israel cantou este cântico: Faça brotar água, ó poço! Cantem o cântico do poço, o poço cavado pelos príncipes, Cavado pelos líderes do povo cavado com seus cetros e cajados."
+        },
+        {
+          "number": 19,
+          "text": "19-20 Do deserto, sua rota foi desde Mataná até Naaliel, dali para Bamote (Os Altos) e de lá para o vale diante dos campos de Moabe, do qual se levanta o Pisga (O Cume) e defronta com Jesimom (Deserto)."
+        },
+        {
+          "number": 21,
+          "text": "21-22 Israel enviou emissários a Seom, rei dos amorreus, dizendo: “Deixe-nos atravessar seu território. Não entraremos em suas plantações nem nas vinhas, nem beberemos água dos seus poços. Não sairemos da estrada principal, a estrada do rei, até que atravessemos todo o seu território”."
+        },
+        {
+          "number": 23,
+          "text": "23-27 Mas Seom não permitiu a passagem de Israel. Em vez disso, reuniu seu exército e marchou até o deserto para atacar Israel. O confronto ocorreu em Jaza. Mas Israel reagiu, derrotou Seom e tomou posse do seu território desde o Arnom até o Jaboque e até o território dos amonitas. Eles ficaram ali, porque a fronteira dos amonitas era fortificada. Israel tomou e ocupou as cidades dos amorreus, até mesmo Hesbom e todas as cidades ao redor. Hesbom era a capital de Seom, rei dos amorreus. Ele havia atacado o antigo rei de Moabe e capturado todo o seu território até o norte, à altura do rio Arnom; por isso, os cantores populares cantam: Venham a Hesbom reconstruir a cidade, restaurem a cidade de Seom."
+        },
+        {
+          "number": 28,
+          "text": "28-29 Certa vez, saiu fogo de Hesbom, chamas da cidade de Seom; Queimando Ar de Moabe, os nativos dos altos do Arnom. Ai de você, Moabe! O povo de Camos está destruído! Filhos se tornaram fugitivos, filhas foram abandonadas, cativas do rei dos amorreus, Seom."
+        },
+        {
+          "number": 30,
+          "text": "Mas nós acabamos com eles: nada sobrou de Hesbom a Dibom; A devastação chegou até Nofá, terra ressecada até Medeba."
+        },
+        {
+          "number": 31,
+          "text": "31-32 Israel avançou e se estabeleceu nas terras dos amorreus. Moisés enviou homens para uma missão de reconhecimento em Jazar. Eles tomaram os povoados e expulsaram os amorreus que viviam ali."
+        },
+        {
+          "number": 33,
+          "text": "Em seguida, rumaram para o norte, pela estrada para Basã. Ogue, rei de Basã, marchou com todo o seu exército contra Moisés, e se posicionou em Edrei."
+        },
+        {
+          "number": 34,
+          "text": "O Eterno disse a Moisés: “Não tenha medo dele, pois ele será um presente para você, ele e todo o seu povo e sua terra. Trate-o como tratou a Seom, rei dos amorreus, que governava em Hesbom”."
+        },
+        {
+          "number": 35,
+          "text": "Assim, Israel o atacou, matando seus filhos e todo O povo, e não houve um único sobrevivente. Israel tomou posse da terra."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O povo de Israel continuou sua jornada e acampou nas campinas de Moabe, perto de Jericó, junto ao Jordão."
+        },
+        {
+          "number": 2,
+          "text": "2-3 Balaque, filho de Zipor, soube do que Israel havia feito aos amorreus. O povo de Moabe estava em pânico por causa de Israel, porque era muita gente. O terror tomou conta deles."
+        },
+        {
+          "number": 4,
+          "text": "4-5 Moabe falou aos líderes de Midiã: “Vejam! Essa multidão vai devorar tudo que encontrar pela frente, como o boi devora o capim do pasto”. Balaque, filho de Zipor, que era o rei de Moabe, enviou emissários a Balaão, filho de Beor, que vivia em Petor, às margens do rio Eufrates, sua terra natal."
+        },
+        {
+          "number": 5,
+          "text": "5-6 Os emissários de Balaque disseram: “Veja. Um povo saiu do Egito, e eles estão por todo lado, quase à minha porta. Venha e amaldiçoe esse povo por mim, porque eu não posso com eles. Talvez assim, eu consiga derrotá-los. Temos de atacá-los e expulsá-los da terra. Você tem uma reputação: os que você abençoa são abençoados, e os que você amaldiçoa são amaldiçoados”."
+        },
+        {
+          "number": 7,
+          "text": "7-8 Os líderes de Moabe e Midiã se puseram a caminho, transportando de forma muito segura o dinheiro para pagar os encantamentos. Quando chegaram à casa de Balaão, transmitiram a mensagem de Balaque. “Passem a noite aqui”, disse Balaão. “De manhã, darei a vocês a resposta que o Eterno me der.” Os líderes moabitas passaram a noite ali."
+        },
+        {
+          "number": 9,
+          "text": "Então, o Eterno apareceu a Balaão e perguntou: “Quem são os homens que estão aí com você?”."
+        },
+        {
+          "number": 10,
+          "text": "10-11 Balaão respondeu: “Balaque, filho de Zipor, rei de Moabe, enviou-os com uma mensagem: ‘Um povo que saiu do Egito está por todos os lugares! Venha e amaldiçoe-os por mim. Talvez assim, eu consiga atacá-los e expulsá-los da região’”."
+        },
+        {
+          "number": 12,
+          "text": "Deus disse a Balaão: “Não vá com eles nem amaldiçoe aquele povo — eles são um povo abençoado”."
+        },
+        {
+          "number": 13,
+          "text": "Na manhã seguinte, Balaão se levantou e disse aos líderes de Balaque: “Vão para casa. O Eterno não me deu permissão para ir com vocês”."
+        },
+        {
+          "number": 14,
+          "text": "Os líderes moabitas partiram, voltaram a Balaque e disseram: “Balaão se recusou a vir conosco”."
+        },
+        {
+          "number": 15,
+          "text": "15-17 Balaque enviou outro grupo de líderes, mais distintos e de patentes mais elevadas. Eles disseram a Balaão: “Balaque, filho de Zipor, diz: ‘Por favor, não se recuse a vir a mim. Eu honrarei e recompensarei você generosamente — qualquer coisa que você me disser, eu farei. Pago qualquer valor, mas venha e amaldiçoe esse povo”."
+        },
+        {
+          "number": 18,
+          "text": "18-19 Balaão respondeu aos servos de Balaque: “Mesmo que Balaque me desse sua casa repleta de prata e ouro, eu não seria capaz de desafiar as ordens do Eterno e fazer qualquer coisa, grande ou pequena. Mas passem comigo a noite, como fizeram os outros. Verei o que o Eterno me diz desta vez”."
+        },
+        {
+          "number": 20,
+          "text": "Deus apareceu a Balaão naquela noite e disse: “Já que esses homens fizeram todo esse caminho para ver você, vá com eles. Mas não faça absolutamente nada além do que eu disser”."
+        },
+        {
+          "number": 21,
+          "text": "21-23 Balaão levantou-se de manhã, selou sua jumenta e partiu com os líderes de Moabe. Mas, enquanto estavam a caminho, a ira de Deus se acendeu, e o anjo do Eterno se pôs no caminho para impedir a passagem. Balaão estava montado em sua jumenta, acompanhado de dois escravos. Quando a jumenta viu o anjo bloqueando o caminho e brandindo sua espada, ela saiu da estrada e foi pelo campo. Balaão surrou a jumenta e a obrigou a retornar à estrada."
+        },
+        {
+          "number": 24,
+          "text": "24-25 Mas, quando estavam passando por uma vinha, com muros de ambos os lados, a jumenta viu outra vez o anjo do Eterno bloqueando a passagem e se apertou contra o muro, prendendo o pé de Balaão, que bateu nela de novo."
+        },
+        {
+          "number": 26,
+          "text": "26-27 O anjo do Eterno bloqueou o caminho mais uma vez, agora numa passagem bem estreita. Não havia como passar, nem pela esquerda nem pela direita. Ao ver o anjo, a jumenta de Balaão deitou-se debaixo dele. Balaão perdeu a paciência e surrou a jumenta com uma vara."
+        },
+        {
+          "number": 28,
+          "text": "Então, o Eterno deu a capacidade de fala à jumenta. Ela disse a Balaão: “O que foi que eu fiz a você, para que me batesse três vezes?”."
+        },
+        {
+          "number": 29,
+          "text": "Balaão disse: “Você está brincando comigo e me fazendo de bobo! Se eu tivesse uma espada, a esta altura eu já teria matado você”."
+        },
+        {
+          "number": 30,
+          "text": "A jumenta disse a Balaão: “Não sou eu sua jumenta de confiança, que você cavalgou todos esses anos, até hoje? Alguma vez fiz algo parecido? Fiz?”. Ele disse: “Não”."
+        },
+        {
+          "number": 31,
+          "text": "Então, o Eterno fez Balaão enxergar o que estava acontecendo: ele viu o anjo do Eterno impedindo o caminho e brandindo uma espada. Balaão caiu ao chão, com o rosto em terra."
+        },
+        {
+          "number": 32,
+          "text": "32-33 O anjo do Eterno disse: “Por que você bateu na pobre jumenta três vezes? Vim aqui para bloquear seu caminho, porque você está se adiantando demais! A jumenta me viu e desviou de mim nas três ocasiões. Se ela não tivesse agido assim, a esta altura, eu já teria matado você, mas poupado a jumenta”."
+        },
+        {
+          "number": 34,
+          "text": "Balaão disse ao anjo do Eterno: “Eu pequei. Não imaginava que você estava parado no caminho, impedindo minha passagem. Se você não se agrada do que estou fazendo, voltarei para casa”."
+        },
+        {
+          "number": 35,
+          "text": "Mas o anjo do Eterno disse a Balaão: “Não, pode ir com eles. Mas diga apenas o que eu ordenar — absolutamente nada além disso”. Assim, Balaão continuou seu caminho com os líderes de Balaque."
+        },
+        {
+          "number": 36,
+          "text": "Quando Balaque foi informado de que Balaão estava vindo, foi ao encontro dele na cidade moabita que fica à margem do Arnom, no limite do seu território."
+        },
+        {
+          "number": 37,
+          "text": "Balaque disse a Balaão: “Não mandei um pedido de ajuda urgente para você? Por que não veio quando chamei? Você acha que não tenho dinheiro suficiente para recompensá-lo?”."
+        },
+        {
+          "number": 38,
+          "text": "Balaão disse a Balaque: “Bem, agora estou aqui. Mas não posso dizer qualquer coisa, apenas as palavras que Deus me der — e de ninguém mais”."
+        },
+        {
+          "number": 39,
+          "text": "39-40 Então, Balaão acompanhou Balaque a Quiriate-Huzote (Cidade das Ruas). Balaque abateu bois e ovelhas para oferecê-los a Balaão e aos líderes que estavam com ele."
+        },
+        {
+          "number": 41,
+          "text": "Ao alvorecer, Balaque levou Balaão a Bamote-Baal (Os Altos de Baal), para que tivesse uma boa visão de parte do povo."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Balaão disse: “Faça para mim um altar aqui e prepare sete novilhos e sete carneiros”."
+        },
+        {
+          "number": 2,
+          "text": "Foi o que Balaque fez. Então, Balaão e Balaque sacrificaram um novilho e um carneiro em cada um dos altares."
+        },
+        {
+          "number": 3,
+          "text": "Balaão instruiu Balaque: “Fique esperando aqui, do lado da sua oferta queimada, enquanto me afasto um pouco. Talvez o Eterno venha ao meu encontro. Tudo que ele me disser, contarei a você”. Então, afastou-se para ficar sozinho."
+        },
+        {
+          "number": 4,
+          "text": "Deus, de fato, veio ao encontro de Balaão, que disse: “Fiz sete altares e ofereci um novilho e um carneiro em cada altar”."
+        },
+        {
+          "number": 5,
+          "text": "Então, o Eterno deu a Balaão uma mensagem: “Volte a Balaque e transmita a ele esta mensagem”."
+        },
+        {
+          "number": 6,
+          "text": "6-10 Ele voltou e encontrou Balaque esperando do lado da oferta queimada. Com ele, estavam os líderes de Moabe. E Balaão pronunciou esta mensagem: “Balaque me trouxe de Arã para cá, o rei de Moabe desde as montanhas orientais. ‘Vá, amaldiçoe Jacó por mim; vá, condene Israel.’ Como poderia eu amaldiçoar a quem Deus não amaldiçoou? Como poderia eu condenar a quem o Eterno não condenou? Dos cumes rochosos, eu os vejo; do topo dos montes, eu os avisto. Vejam! Um povo que acampa separado e se considera marginalizado entre as nações. Mas quem poderia contar o pó de Jacó ou fazer um censo da nuvem de pó que é Israel? Quero morrer como esses justos! Quero um fim igual ao deles!”."
+        },
+        {
+          "number": 11,
+          "text": "Balaque disse a Balaão: “O que é isso? Chamei você aqui para amaldiçoar os meus inimigos, e tudo que você fez foi abençoá-los!”."
+        },
+        {
+          "number": 12,
+          "text": "Balaão respondeu: “Não devo ser cuidadoso em dizer o que o Eterno me instruiu a dizer?”."
+        },
+        {
+          "number": 13,
+          "text": "Balaque disse: “Venha comigo a outro lugar, de onde você verá apenas uma parte do acampamento deles — não verá o acampamento inteiro. Amaldiçoe-os dali por mim”."
+        },
+        {
+          "number": 14,
+          "text": "Assim, ele o levou ao plano do Atalaia, no topo do Pisga. Ali construiu sete altares e sacrificou um novilho e um carneiro em cada altar."
+        },
+        {
+          "number": 15,
+          "text": "Balaão disse a Balaque: “Assuma Seu posto aqui, do lado de sua oferta queimada, enquanto me encontro com o Eterno ali adiante”."
+        },
+        {
+          "number": 16,
+          "text": "O Eterno veio ao encontro de Balaão com outra mensagem. Ele disse: “Volte e transmita a mensagem a Balaque”."
+        },
+        {
+          "number": 17,
+          "text": "17-24 Balaão voltou e encontrou Balaque esperando do lado da oferta queimada. Os líderes de Moabe estavam com ele. Balaque perguntou: “O que foi que o Eterno disse?”. Então, Balaão pronunciou esta mensagem: “Levante-se, Balaque, e escute. Escute atentamente, filho de Zipor: Deus não é homem para que minta, E não é filho de homem para que mude de opinião. Acaso ele fala e não age conforme sua palavra? Acaso ele promete e não cumpre o que prometeu? Fui trazido aqui para abençoar, e agora ele está abençoado — como posso mudar isso? Ele não vê desgraça em Jacó nem enxerga nada de errado em Israel. O Eterno está com eles, e eles estão com ele, proclamando louvores ao seu Rei. Deus os trouxe do Egito, suas forças são como as de um boi selvagem. Não há magia que possa prender Jacó, nem encantamentos que possam amarrar Israel. As pessoas olharão para Jacó e lsrael e dirão: Que grandes coisas Deus tem feito!’. Vejam, um povo está se pondo em pé, como um leão, o rei das feras, atiçado, Incansável, infatigável até que sua caçada acabe e coma e beba até ficar saciado”."
+        },
+        {
+          "number": 25,
+          "text": "Balaque disse a Balaão: “Bem, se você não consegue amaldiçoá-los, pelo menos não os abençoe”."
+        },
+        {
+          "number": 26,
+          "text": "Balaão respondeu a Balaque: “Já não falei antes: ‘Tudo que Deus falar, apenas o que ele falar, eu falo’?”."
+        },
+        {
+          "number": 27,
+          "text": "27-28 Balaque disse a Balaão: “Por favor, deixe-me levá-lo a outro lugar! Talvez consigamos achar o lugar ideal aos olhos de Deus, do qual você possa amaldiçoá-los por mim”. Assim, Balaque levou Balaão ao topo do monte Peor, com vista para o Jesimom (Deserto)."
+        },
+        {
+          "number": 29,
+          "text": "Balaão disse a Balaque: “Faça sete altares para mim e prepare sete novilhos e sete carneiros para o sacrifício”."
+        },
+        {
+          "number": 30,
+          "text": "Balaque fez os altares e apresentou ofertas de um novilho e um carneiro em cada um deles."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 A essa altura, Balaão já percebia que o Eterno queria abençoar Israel. [24] Assim, não trabalhou com nenhuma magia, como havia feito anteriormente. Apenas se virou e olhou para o deserto. Ao olhar, Balaão viu Israel acampado, tribo por tribo. O Espírito de Deus veio sobre ele, e ele pronunciou esta mensagem:"
+        },
+        {
+          "number": 3,
+          "text": "3-9 “Decreto de Balaão, filho de Beor, sim, decreto de um homem com visão clara. Decreto de um homem que ouve Deus falar, que vê o que o Deus Forte lhe mostra. Que cai sobre seu rosto em adoração, que vê o que realmente acontece. Como são belas as suas tendas, Jacó, e as suas casas, ó Israel! Como vales que se estendem na imensidão, como jardins plantados junto aos rios, Como aloés plantados pelo Eterno, o jardineiro, como cedros junto às águas, Seus reservatórios de água transbordarão, sua semente espalhará vida por todos os lados. Seu rei suplantará Agague e sua laia, seu reino será soberano e majestoso. Deus os trouxe do Egito, esbravejando como um boi selvagem, Devorando os inimigos como pedaços de carne, esmagando seus ossos, arrancando suas flechas. Israel rasteja como um leão e dormita: o rei das feras — quem ousa perturbá-lo? Todo aquele que abençoa você é abençoado, todo aquele que amaldiçoa você é amaldiçoado”."
+        },
+        {
+          "number": 10,
+          "text": "10-11 Balaque perdeu a paciência com Balaão. Ele cerrou os punhos e esbravejou: “Eu trouxe você aqui para amaldiçoar meus inimigos, e o que você fez? Você os abençoou! Você os abençoou três vezes! Saia daqui! Vá para casa! Eu disse que pagaria bem, mas você não vai receber nada. Culpe o Eterno por isso”."
+        },
+        {
+          "number": 12,
+          "text": "12-15 Balaão disse a Balaque: “Eu não disse francamente, desde o início, quando você me mandou seus emissários: ‘Mesmo que Balaque me de seu palácio repleto de ouro e prata, eu não poderei fazer coisa alguma por mim mesmo, nem bem nem mal, contra a ordem do Eterno’? Estou voltando para casa e para meu povo, mas quero advertir você acerca do que esse povo fará ao seu nos dias vindouros”. E pronunciou esta mensagem:"
+        },
+        {
+          "number": 15,
+          "text": "15-19 “Decreto de Balaão, filho de Beor, sim, decreto de um homem com visão clara. Decreto de um homem que ouve a fala divina, que sabe o que acontece com o Deus Altíssimo, Que vê o que o Deus Forte revela, que se curva em adoração e enxerga o que é real. Eu o vejo, mas não agora, eu o avisto, mas não aqui. Uma estrela surge de Jacó, um cetro de Israel, Esmagando as cabeças de Moabe, e o crânio de todos esses arrogantes. Vejo Edom sendo vendido no mercado, e o inimigo Seir menosprezado na praça, enquanto Israel sai triunfante, com todos os troféus. Um governante virá de Jacó e destruirá tudo que sobrar na cidade”."
+        },
+        {
+          "number": 20,
+          "text": "Então, Balaão reconheceu Amaleque e pronunciou a seguinte mensagem: “Amaleque, você é o primeiro entre as nações agora, mas ficará em último lugar, arruinado”."
+        },
+        {
+          "number": 21,
+          "text": "21-22 Ele viu os queneus e pronunciou a seguinte mensagem: “Sua habitação está num lugar belo e seguro, como um ninho no alto de um penhasco. Mesmo assim, vocês serão humilhados quando Assur levar vocês como prisioneiros”."
+        },
+        {
+          "number": 23,
+          "text": "23-24 Balaão pronunciou sua última mensagem: “Ai! Quem poderá sobreviver quando Deus intervier? Os povos do mar, invasores de além-mar, atormentarão Assur e Héber, Mas eles também serão destruídos, como todos os outros”."
+        },
+        {
+          "number": 25,
+          "text": "Depois disso, Balaão voltou para casa, e Balaque também seguiu seu caminho."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 Enquanto Israel estava acampado em Sitim (Bosque das Acácias), os homens começaram a cometer imoralidade sexual com as mulheres moabitas. Tudo começou quando as mulheres convidaram os homens para sua orgia religiosa. Eles comiam juntos e, então, adoravam os seus deuses. Israel acabou participando do culto a Baal-Peor. O Eterno enfureceu-se, e sua ira se acendeu contra Israel."
+        },
+        {
+          "number": 4,
+          "text": "O Eterno disse a Moisés: “Reúna todos os líderes de Israel e execute-os por enforcamento, deixando-os expostos publicamente, a fim de afastar a ira do Eterno para longe de Israel”."
+        },
+        {
+          "number": 5,
+          "text": "Moisés deu ordens aos juizes de Israel: “Cada um de vocês terá de executar os homens que, sob a jurisdição de vocês, participaram da adoração a Baal-Peor”."
+        },
+        {
+          "number": 6,
+          "text": "6-9 Naquele exato momento, quando todos choravam de arrependimento à entrada da Tenda do Encontro, um israelita, alardeando seu comportamento diante de Moisés e de toda a comunidade reunida, passou por eles, desfilando com uma mulher midianita, e entrou em sua tenda. Fineias, filho de Eleazar, filho do sacerdote Arão, viu o que o homem estava fazendo, pegou sua lança e os seguiu até dentro da tenda. Com um único golpe, atravessou os dois com a lança, o homem de Israel e a mulher, ambos pelas partes íntimas. Assim, cessou a praga entre o povo de Israel. Mas vinte e quatro mil pessoas morreram."
+        },
+        {
+          "number": 10,
+          "text": "10-13 O Eterno disse a Moisés: “Fineias, filho de Eleazar, filho do sacerdote Arão, fez cessar minha ira contra o povo de Israel. Visto que ele se preocupou com minha honra, com o zelo que eu mesmo tenho, não matei todo o povo de Israel. Portanto, diga a ele que estou fazendo uma aliança de paz com ele. Seus descendentes também participarão da aliança de sacerdócio eterno, porque ele foi zeloso por seu Deus e fez expiação pelo povo de Israel”."
+        },
+        {
+          "number": 14,
+          "text": "14-15 O nome do homem de Israel que foi morto com a mulher midianita era Zinri, filho de Saiu, líder de uma família simeonita. E o nome da mulher midianita que foi morta era Cosbi, filha de Zur, chefe tribal de uma família midianita."
+        },
+        {
+          "number": 16,
+          "text": "16-18 O Eterno disse a Moisés: “A partir de agora, tratem os midianitas como seus inimigos e acabem com eles, pois provaram que são seus inimigos quando seduziram vocês a cultuar seu deus Peor, e por causa de Cosbi, filha do líder midianita, a mulher que foi morta durante a praga”."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 Depois da praga, o Eterno disse a Moisés e Eleazar, filho do sacerdote Arão: “Contem toda a comunidade de Israel por famílias, todos os homens com 20 anos de idade ou mais que estejam aptos a servir no exército de Israel”."
+        },
+        {
+          "number": 3,
+          "text": "3-4 Moisés e Eleazar obedeceram à ordem do Eterno e anunciaram ao povo nas campinas de Moabe: “Façam a contagem de todos os homens com 20 anos de idade ou mais”."
+        },
+        {
+          "number": 4,
+          "text": "4-7 O povo de Israel que saiu da terra do Egito: Rúben, o filho mais velho de Israel. Os filhos de Rúben: Enoque e o clã enoquita; Palu e o clã paluíta; Hezrom e clã hezronita; Carmi e o clã carmita. Esses eram os clãs de Rúben. Totalizavam 43.730 homens."
+        },
+        {
+          "number": 8,
+          "text": "O filho de Palu: Eliabe."
+        },
+        {
+          "number": 9,
+          "text": "9-11 Os filhos de Eliabe: Nemuel, Datã e Abirão. (Esses foram os mesmos Datã e Abirão que se rebelaram contra Moisés e Arão na rebelião de Corá contra o Eterno. A terra abriu a boca e os engoliu junto com todos os partidários de Corá, que morreu quando o fogo os consumiu, todos os duzentos e cinquenta. Depois de todos esses anos, eles ainda são um sinal de advertência. Mas a linhagem de Corá não desapareceu)."
+        },
+        {
+          "number": 12,
+          "text": "12-14 Os filhos de Simeão, por clãs: Nemuel e o clã nemuelita; Jamim e o clã jaminita; Jaquim e o clã jaquinita; Zerá e o clã zeraíta; Saul e o clã saulita. Esses foram os clãs de Simeão. Totalizavam 22.200 homens."
+        },
+        {
+          "number": 15,
+          "text": "15-18 Os filhos de Gade, por clãs: Zefom e o clã zefonita; Hagi e o clã hagita; Suni e o clã sunita; Ozni e o clã oznita; Eri e o clã erita; Arodi e o clã arodita; Areli e o clã arelita. Esses foram os clãs de Gade. Totalizavam 40.500 homens."
+        },
+        {
+          "number": 19,
+          "text": "19-22 Er e Onã eram filhos de Judá, mas morreram em Canaã. Os filhos de Judá, por clãs: Selá e o clã selanita; Perez e o clã perezita; Zerá e o clã zeraíta. Os filhos de Perez: Hezrom e o clã hezronita; Hamul e o clã hamulita. Esses foram os clãs de Judá. Totalizavam 76.500 homens."
+        },
+        {
+          "number": 23,
+          "text": "23-25 Os filho de Issacar, por clãs: Tola e o clã tolaíta; Puá e o clã punita; Jasube e o clã jasubita; Sinrom e o clã sinronita. Esses foram os clãs de Issacar. Totalizavam 64.300 homens."
+        },
+        {
+          "number": 26,
+          "text": "26-27 Os filhos de Zebulom, por clãs: Serede e o clã seredita; EIom e o clã elonita; Jaleel e o clã jaleelita. Esses foram os clãs de Zebulom. Totalizavam 60.500 homens:"
+        },
+        {
+          "number": 28,
+          "text": "28-34 Os filhos de José, por clãs, por meio de seus filhos Manassés e Efraim. Por meio de Manassés: Maquir e o clã maquirita (Maquir era o pai de Gileade); Gileade e o clã gileadita. Os filhos de Gileade: Jezer e o clã jezerita; Heleque e o clã helequita; Asriel e o clã asrielita; Siquém e o clã siquemita; Semida e o clã semidaíta; Héfer e o clã heferita. Zelofeade, filho de Héfer, não teve filhos, somente filhas. Os nomes delas eram Maalá, Noa, Hogla, Milca e Tirza. Esses foram os clãs de Manassés. Totalizavam 52.700 homens."
+        },
+        {
+          "number": 35,
+          "text": "35-37 Os filhos de Efraim, por clãs: Sutela e o clã sutelaíta; Bequer e o clã bequerita; Taã e o clã taanita. Os filhos de Sutela: Era e o clã eranita. Esses foram os clãs de Efraim. Totalizavam 32.500 homens. Esses todos foram os filhos de José, por clãs."
+        },
+        {
+          "number": 38,
+          "text": "38-41 Os filhos de Benjamim, por clãs: Belá e o clã belaíta; Asbel e o clã asbelita; Airã e o clã airamita; Sufã e o clã sufamita; Hufã e o clã hufamita. Os filhos de Belá por meio de Arde e Naamã: Arde e o clã aredita; Naamã e o clã naamanita. Esses foram os clãs de Benjamim. Totalizavam 45.600 homens."
+        },
+        {
+          "number": 42,
+          "text": "42-43 Os filhos de Dã, por clã: Sua e o clã suamita. Esses foram os clãs de Dã, todos clãs suamitas. Totalizavam 64.400 homens."
+        },
+        {
+          "number": 44,
+          "text": "44-47 Os filhos de Aser, por clãs: Imna e o clã imnaíta; Isvi e o clã isvita; Berias e o clã beriaíta. Os filhos de Berias: Héber e o clã heberita; Malquiel e o clã malquielita. Aser também tinha uma filha: Sera. Esses foram os clãs de Aser. Totalizavam 53.400 homens."
+        },
+        {
+          "number": 48,
+          "text": "48-50 Os filhos de Naftali, por clãs: Jazeel e o clã jazeelita; Guni e o clã gunita; Jezer e o clã jezerita; Silém e o clã silemita. Esses foram os clãs de Naftali. Totalizavam 45.400 homens."
+        },
+        {
+          "number": 51,
+          "text": "O número total do povo de Israel: 601.730."
+        },
+        {
+          "number": 52,
+          "text": "52-54 O Eterno disse a Moisés: “Distribua a herança da terra segundo a população. Um clã maior receberá uma herança maior; um clã menor receberá uma herança menor. Cada um receberá sua herança segundo o número dos nomes alistados."
+        },
+        {
+          "number": 55,
+          "text": "55-56 “Providenciem para que a terra seja distribuída por sorteio. “A herança de cada clã está baseada na população, o número de nomes alistados em cada tribo de antepassados, dividida por sorteio entre os clãs maiores e os menores”."
+        },
+        {
+          "number": 57,
+          "text": "57-58 Estes são os números dos levitas, por clã: Gérson e o clã dos gersonitas; Coate e o clã dos coatitas; Merari e o clã dos meraritas. Os clãs levitas também incluíam: o clã libnita; o clã hebronita o clã malita; o clã musita; o clã coreíta."
+        },
+        {
+          "number": 58,
+          "text": "58-61 Coate foi o pai de Anrão. A mulher de Anrão era Joquebede, descendente de Levi, nascida numa família de levitas durante os anos no Egito. Joquebede deu à luz Arão, Moisés e a irmã deles, Miriã. Arão foi pai de Nadabe e Abiú, Eleazar e Itamar. No entanto, Nadabe e Abiú morreram quando ofereceram sacrifícios não autorizados na presença do Eterno."
+        },
+        {
+          "number": 62,
+          "text": "O número de levitas do sexo masculino de um mês de idade ou mais chegou a 23.000. Eles não foram contados com o restante do povo de Israel, porque não receberam herança da terra."
+        },
+        {
+          "number": 63,
+          "text": "63-65 Esses são os que foram alistados por Moisés e o sacerdote Eleazar no recenseamento do povo de Israel, feito nas campinas de Moabe, às margens do Jordão e diante de Jericó. Nenhum deles havia sido alistado por Moisés nem pelo sacerdote Arão no recenseamento do povo de Israel feito no deserto do Sinai. Pois Deus tinha dito: “Eles morrerão, morrerão no deserto. Nenhum deles sobreviverá, exceto Calebe, filho de Jefoné, e Josué, filho de Num”."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "As filhas de Zelofeade tinham uma petição. Seu pai era filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, e pertencia aos clãs de Manassés, filho de José. As filhas se chamavam Maalá, Noa, Hogla, Milca e Tirza."
+        },
+        {
+          "number": 2,
+          "text": "2-4 Elas vieram à entrada da Tenda do Encontro. Puseram-se diante de Moisés e do sacerdote Eleazar e diante dos líderes da congregação e disseram: “Nosso pai morreu no deserto. Ele não fez parte daquele bando rebelde de Corá. Ele morreu pelos próprios pecados e não deixou filhos homens. Mas por que o nome de nosso pai deveria desaparecer do clã só porque não tinha filhos homens? Portanto, queremos uma herança entre os parentes de nosso pai”."
+        },
+        {
+          "number": 5,
+          "text": "Moisés levou a questão ao Eterno."
+        },
+        {
+          "number": 6,
+          "text": "6-7 O Eterno julgou e determinou: “As filhas de Zelofeade estão certas. Dê a elas uma terra como herança entre os parentes do pai delas. Dê a elas a herança do pai delas."
+        },
+        {
+          "number": 8,
+          "text": "8-11 “Depois, diga ao povo de Israel: ‘Se um homem morrer e não deixar filho homem, passem a herança dele à sua filha. Se ele não deixar filha, deem a herança aos irmãos dele. Se ele não tiver irmãos, deem sua herança aos irmãos do pai dele. Se seu pai não teve irmãos, ela deve ser dada ao parente mais próximo, para que a propriedade permaneça na família. Esse é o procedimento padrão a ser adotado pelo povo de Israel, conforme o Eterno ordenou”."
+        },
+        {
+          "number": 12,
+          "text": "12-14 O Eterno disse a Moisés: “Suba ao monte da serra de Abarim e observe a terra que estou dando ao povo de Israel. Depois que a tiver contemplado, você se reunirá aos seus antepassados. Sim, você se reunirá a eles, como aconteceu com seu irmão Arão. Isso se deve aos dias em que a congregação se queixou no deserto de Zim, e vocês não me honraram diante deles na questão da água em Meribá (Discussão), em Cades, no deserto de Zim”."
+        },
+        {
+          "number": 15,
+          "text": "15-17 Moisés respondeu ao Eterno: “Que o Eterno, o Deus dos espíritos de toda a humanidade, aponte um homem sobre esta comunidade, para que a conduza e mostre o caminho a eles, levando-a de volta para casa, e para que a comunidade do Eterno não seja como ovelhas sem pastor”."
+        },
+        {
+          "number": 18,
+          "text": "18-21 O Eterno disse a Moisés: “Convoque Josué, filho de Num, em quem está o Espírito, e imponha as mãos sobre ele. Ponha-o diante do sacerdote Eleazar e de toda a congregação e comissione-o diante dos olhos de todos. Transmita a ele sua autoridade, para que toda a congregação de Israel preste atenção ao que ele disser e obedeça a ele. Ele deverá consultar o sacerdote Eleazar, que, depois de consultar o oráculo de Urim, passará a ele as orientações do Eterno. Ele comandará o povo de Israel, toda a comunidade, em tudo que fizer”."
+        },
+        {
+          "number": 22,
+          "text": "22-23 Moisés seguiu as ordens do Eterno. Ele levou Josué e o pôs diante do sacerdote Eleazar, aos olhos de toda a comunidade. Impôs as mãos sobre ele e o comissionou, conforme as orientações do Eterno."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-8 O Eterno disse a Moisés: “Dê esta ordem ao povo de Israel. Vocês são responsáveis por apresentar, nos dias determinados, minha comida, minhas ofertas de aroma agradável preparadas no fogo. Diga a eles: ‘Esta é a oferta preparada no fogo que vocês deverão apresentar e dedicar ao Eterno: uma oferta regular de dois cordeiros de um ano, sem defeito, todos os dias, como oferta queimada. Sacrifiquem um cordeiro de manhã e outro ao entardecer, junto com uma oferta de cereal de um jarro de farinha da melhor qualidade misturada com um litro de azeite. Essa é a oferta queimada regular instituída no monte Sinai como aroma agradável, oferta preparada no fogo e dedicada ao Eterno. A oferta derramada que acompanha cada cordeiro será um litro de bebida fermentada. Derramem a oferta derramada na presença do Eterno, no santuário. Sacrifiquem o segundo cordeiro ao entardecer com uma oferta de cereal e uma oferta derramada, como foi feito de manhã, uma oferta preparada no fogo de aroma agradável ao Eterno’"
+        },
+        {
+          "number": 9,
+          "text": "9-10 “‘No sábado, sacrifiquem dois cordeiros de um ano sem defeito, junto com uma oferta derramada e uma oferta de cereal de dois jarros de farinha da melhor qualidade misturada com óleo. Essa é a oferta queimada regular para todos os sábados, além da oferta queimada diária e da oferta derramada’”."
+        },
+        {
+          "number": 11,
+          "text": "“‘No primeiro dia do mês, ofereçam uma oferta queimada ao Eterno: dois novilhos, um carneiro e sete cordeiros de um ano, todos sem defeito. “‘Cada novilho será acompanhado de uma oferta de cereal de três jarros de farinha da melhor qualidade misturada com óleo; cada carneiro, de uma oferta de cereal de dois jarros de farinha da melhor qualidade; cada cordeiro, de uma oferta de cereal de um jarro de farinha da melhor qualidade. Isso é para a oferta queimada, como aroma agradável, uma oferta preparada no fogo e dedicada ao Eterno. Cada novilho será acompanhado, também, de uma oferta derramada de meio galão de vinho; o carneiro, de um litro e meio; o cordeiro, de um litro."
+        },
+        {
+          "number": 12,
+          "text": "12-14 “‘Essa é a oferta queimada a ser apresentada no primeiro dia de todos os meses do ano. Além da oferta queimada regular com a oferta derramada que a acompanha, um bode será oferecido ao Eterno como oferta de perdão”."
+        },
+        {
+          "number": 15,
+          "text": "15-16 “‘A Páscoa do Eterno será celebrada no dia 14 do primeiro mês. No dia 15 do mesmo mês, façam uma festa."
+        },
+        {
+          "number": 17,
+          "text": "17-22 “‘Durante sete dias, comam apenas pão sem fermento. Comecem o primeiro dia com uma reunião sagrada: não façam nenhum trabalho regular nesse dia. Apresentem ao Eterno uma oferta preparada no fogo, uma oferta queimada, de dois novilhos, um carneiro e sete cordeiros de um ano, todos sem defeito. Preparem uma oferta de cereal de três jarros de farinha da melhor qualidade misturada com óleo para cada novilho, dois jarros para cada carneiro e um jarro para cada cordeiro. Sacrifiquem também um bode como oferta de perdão para fazer expiação por vocês."
+        },
+        {
+          "number": 23,
+          "text": "23-24 “‘Apresentem essas ofertas além das ofertas queimadas de todas as manhãs. Preparem a comida dessa forma para a oferta preparada no fogo, um aroma agradável ao Eterno, todos os dias, durante sete dias. Façam isso além da oferta queimada e da oferta derramada apresentadas todos os dias."
+        },
+        {
+          "number": 25,
+          "text": "“‘No sétimo dia, convoquem uma reunião sagrada: não façam nenhum trabalho regular nesse dia’”,"
+        },
+        {
+          "number": 26,
+          "text": "26-30 “‘No dia da festa da Colheita dos primeiros frutos, quando vocês apresentarem uma oferta de cereal novo ao Eterno, na festa das Semanas, convoquem uma reunião sagrada e não façam nenhum trabalho regular. Apresentem ofertas queimadas de dois novilhos, um carneiro e sete cordeiros de um ano como aroma agradável ao Eterno. Preparem ofertas de cereal de três jarros de farinha da melhor qualidade misturada com óleo para cada novilho, dois jarros para o carneiro e um jarro para cada um dos cordeiros. Sacrifiquem, também, um bode como oferta de perdão, para fazer expiação por vocês’”."
+        },
+        {
+          "number": 31,
+          "text": "“Apresentem essas ofertas além das ofertas queimadas, ofertas de cereal e ofertas derramadas, diárias. Lembrem-se, os animais devem ser puros”."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-5 “‘No primeiro dia do sétimo mês, convoquem uma reunião sagrada e não façam nenhum trabalho regular. Esse é o dia do toque das trombetas. Apresentem ofertas queimadas: um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito, como aroma agradável ao Eterno. Preparem uma oferta de cereal de três jarros de farinha da melhor qualidade misturada com óleo para o novilho, outra oferta de dois jarros de farinha para o carneiro e outra oferta de um jarro para cada um dos sete cordeiros. Além disso, sacrifiquem um bode como oferta de perdão, para fazer expiação por vocês."
+        },
+        {
+          "number": 6,
+          "text": "“‘Tudo isso deve ser oferecido além das ofertas queimadas e das ofertas de cereal e das ofertas derramadas mensais e diárias, conforme prescritas, como aroma agradável ao Eterno, ofertas preparadas no fogo e dedicadas ao Eterno’”."
+        },
+        {
+          "number": 7,
+          "text": "“‘No dia 10 do sétimo mês, convoquem uma reunião sagrada, humilhem-se e não façam nenhum trabalho."
+        },
+        {
+          "number": 8,
+          "text": "8-11 “‘Tragam ao Eterno ofertas queimadas como aroma agradável: um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito. Preparem uma oferta de cereal de três jarros de farinha da melhor qualidade misturada com óleo para o novilho, de dois jarros para o carneiro e de um jarro para cada um dos sete cordeiros. Também sacrifiquem um bode como oferta de perdão, para fazer expiação por vocês, além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares”’."
+        },
+        {
+          "number": 12,
+          "text": "12-16 “‘Convoquem uma reunião sagrada no dia 15 do sétimo mês: não façam nenhum trabalho regular. Celebrem uma festa ao Eterno durante sete dias. Apresentem ofertas queimadas de treze novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem uma oferta de cereal de três jarros de farinha da melhor qualidade misturada com óleo para cada um dos treze novilhos, de dois jarros para cada um dos dois carneiros e de um jarro para cada um dos catorze cordeiros. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        },
+        {
+          "number": 17,
+          "text": "17-19 “‘No segundo dia, apresentem ofertas queimadas de doze novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        },
+        {
+          "number": 20,
+          "text": "20-22 “‘No terceiro dia, apresentem ofertas queimadas de onze novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        },
+        {
+          "number": 23,
+          "text": "23-25 “‘No quarto dia, apresentem ofertas queimadas de dez novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        },
+        {
+          "number": 26,
+          "text": "26-28 “‘No quinto dia, apresentem ofertas queimadas de nove novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal, e das ofertas derramadas regulares."
+        },
+        {
+          "number": 29,
+          "text": "29-31 “‘No sexto dia, apresentem ofertas queimadas de oito novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        },
+        {
+          "number": 30,
+          "text": "“‘Apresentem essas ofertas ao Eterno como congregação nos dias das festas fixas: suas ofertas queimadas, suas ofertas de cereal, suas ofertas derramadas e suas ofertas de paz, além das suas ofertas voluntárias e dos votos que fizeram ao Eterno”’Moisés instruiu o povo de Israel em tudo que o Eterno havia ordenado."
+        },
+        {
+          "number": 32,
+          "text": "32-34 “‘No sétimo dia, apresentem ofertas queimadas de sete novilhos, dois carneiros e catorze cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        },
+        {
+          "number": 35,
+          "text": "35-38 “‘No oitavo dia, convoquem uma reunião solene, e não façam nenhum trabalho regular. Apresentem uma oferta preparada no fogo e dedicada como aroma agradável ao Eterno, e ofertas queimadas: um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito. Preparem ofertas de cereal e ofertas derramadas para os novilhos, carneiros e cordeiros de acordo com o número determinado. Também sacrifiquem um bode como oferta de perdão além das ofertas queimadas, das ofertas de cereal e das ofertas derramadas regulares."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 Moisés disse aos chefes das tribos do povo de Israel: “É isto que o Eterno ordena: ‘Quando um homem faz um voto ao Eterno ou se compromete, sob juramento, a fazer alguma coisa, não pode quebrar sua palavra: tem de fazer exatamente o que prometeu."
+        },
+        {
+          "number": 3,
+          "text": "3-5 “‘Se uma mulher faz um voto ao Eterno e assume um compromisso como moça que ainda mora na casa de seu pai e seu pai ouvir o voto e o compromisso assumido, mas não disser nada, então, ela terá de cumprir todos os seus votos e compromissos. Mas, se o pai a proibir quando souber o que ela fez, então, nenhum dos votos e compromissos dela será válido. O Eterno a livrará, porque seu pai a proibiu."
+        },
+        {
+          "number": 6,
+          "text": "6-8 “‘Se ela se casar depois de fazer um voto ou de assumir um compromisso de forma precipitada e seu marido souber o que ela fez, mas não disser nada, então, ela terá de cumprir o que prometeu. Mas, se o marido intervier, o voto precipitado dela será anulado. E o Eterno a livrará."
+        },
+        {
+          "number": 9,
+          "text": "“‘Qualquer voto ou compromisso assumido por uma viúva ou mulher divorciada é válido."
+        },
+        {
+          "number": 10,
+          "text": "10-15 “‘Se uma mulher que vive com seu marido fizer um voto ou assumir um compromisso sob juramento e seu marido souber o que ela fez, mas não disser nada e não a proibir, então, os votos dela são válidos. Mas, se o marido os anular quando souber deles, nenhum dos votos dela será válido. O marido dela os anulou, e o Eterno a livrará. Qualquer voto que seja para prejuízo dela pode ser confirmado ou anulado por seu marido. Mas, se o marido não se pronunciar até o dia seguinte, ele estará confirmando os votos e compromissos dela, e ela terá de cumpri-los. Ao não dizer nada a ela quando souber dos votos, ele os confirma. Mas, se os anular algum tempo depois de ter conhecimento deles, ele estará assumindo as consequências dessa decisão’”."
+        },
+        {
+          "number": 16,
+          "text": "Essas são as regras que o Eterno deu a Moisés com relação à conduta entre um homem e sua mulher e entre um pai e sua filha jovem que mora com ele."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 O Eterno disse a Moisés: “Vingue-se dos midianitas pelo que fizeram ao povo de Israel. Depois disso, você se reunirá a seus antepassados”."
+        },
+        {
+          "number": 3,
+          "text": "3-4 Moisés disse ao povo: “Recrutem homens para uma batalha contra os midianitas, para executar a vingança do Eterno contra Midiã: mil homens de cada tribo de Israel que estejam aptos para ir à guerra”."
+        },
+        {
+          "number": 5,
+          "text": "5-6 Um batalhão de combate de doze mil homens, mil de cada tribo de Israel, foi recrutado. Moisés os enviou à guerra e, com eles, Fineias, filho de Eleazar, na condição de sacerdote do exército, responsável pelos utensílios sagrados e pelas cornetas, para o toque de guerra."
+        },
+        {
+          "number": 7,
+          "text": "7-12 Eles atacaram Midiã, como o Eterno havia ordenado, e mataram todos os homens. Entre os que caíram estavam Evi, Requém, Zur, Hur e Reba, os cinco reis de Midiã. Também mataram Balaão, filho de Beor. O povo. de Israel tomou as mulheres e crianças midianitas como prisioneiras e levou todos os animais do gado e dos rebanhos e os bens como despojo de guerra. Arrasaram e queimaram todas as cidades em que moravam os midianitas e, também, seus acampamentos com as tendas. Eles saquearam tudo e todos — coisas, pessoas e animais. E levaram tudo — cativos e despojos — a Moisés e ao sacerdote Eleazar e a todo o povo de Israel, que estava acampado nas campinas de Moabe, à margem do Jordão, diante de Jericó."
+        },
+        {
+          "number": 13,
+          "text": "13-18 Moisés, Eleazar e todos os líderes da congregação foram ao encontro do exército, fora do acampamento. Moisés ficou irado com os oficiais do exército, os comandantes de mil e de cem, quando eles voltaram do campo de batalha: “O que é isso? Vocês pouparam essas mulheres? Foram elas que, sob orientação de Balaão, seduziram o povo de Israel a se afastar do Eterno, naquela desgraça em Peor, causando a praga que atingiu o povo de Deus. Terminem sua tarefa: matem todos os meninos! Matem todas as mulheres que se deitaram com um homem. As mulheres mais jovens, que ainda forem virgens, vocês podem poupar."
+        },
+        {
+          "number": 19,
+          "text": "19-20 “Eis o que vocês devem fazer. Armem suas tendas fora do acampamento. Todos os que mataram alguém ou tocaram um cadáver ficarão fora do acampamento durante sete dias. Purifiquem a vocês mesmos e aos prisioneiros no terceiro e no sétimo dias. Purifiquem toda peça de roupa e todo utensílio de couro, de pelo de bode ou de madeira”."
+        },
+        {
+          "number": 21,
+          "text": "21-24 O sacerdote Eleazar disse aos soldados que haviam participado da batalha: “Esta é a regra que vem da revelação que o Eterno deu a Moisés: ouro, prata, bronze, ferro, estanho, chumbo e tudo que resista ao fogo precisam passar pelo fogo: então, estarão ritualmente purificados. Também terão de ser lavados ritualmente na água da purificação. Além disso, tudo que não resistir ao fogo precisará ser lavado com água. No sétimo dia, lavem suas roupas: assim, estarão ritualmente purificados e poderão voltar ao acampamento”."
+        },
+        {
+          "number": 25,
+          "text": "25-27 O Eterno disse a Moisés: “Quero que você, o sacerdote Eleazar e os líderes das famílias da comunidade contem os prisioneiros e os animais trazidos da batalha. Dividam o despojo entre os soldados que combateram na batalha e o restante da comunidade.25-30 “Então, cobre o tributo do despojo destinado aos soldados, na base de um para quinhentos, sobre pessoas, bois, jumentos, ovelhas ou bodes. É um tributo ao Eterno da sua metade do despojo, que deve ser entregue ao sacerdote Eleazar, a favor do Eterno. Tributem a metade que pertence aos israelitas na base de um para cinquenta, sobre pessoas, bois, jumentos, ovelhas ou bodes. Entreguem essa parte aos levitas, responsáveis pela habitação do Eterno”."
+        },
+        {
+          "number": 31,
+          "text": "Moisés e Eleazar seguiram à risca a ordem do Eterno."
+        },
+        {
+          "number": 32,
+          "text": "32-35 O restante dos despojos tomados pelo exército era: 675.000 ovelhas, 72.000 cabeças de gado, 61.000 jumentos, 32.000 mulheres virgens."
+        },
+        {
+          "number": 36,
+          "text": "36-40 A metade dos que tinham combatido na batalha era: 337.500 ovelhas — o tributo para o Eterno: 675 36.000 cabeças de gado — o tributo para o Eterno: 72, 30.500 jumentos — o tributo para o Eterno: 61, 16.000 pessoas — o tributo para o Eterno: 32."
+        },
+        {
+          "number": 41,
+          "text": "Moisés entregou o tributo ao sacerdote Eleazar como a parte pertencente ao Eterno, conforme as instruções que o Eterno tinha dado a Moisés."
+        },
+        {
+          "number": 42,
+          "text": "42-46 A outra metade, pertencente à comunidade de Israel, que Moisés separou do que foi dado aos homens que combateram na batalha, foi: 337.500 ovelhas, 36.000 cabeças de gado, 30.500 jumentos, 16.000 pessoas."
+        },
+        {
+          "number": 47,
+          "text": "Da metade destinada ao povo de Israel, Moisés tomou, exatamente como o Eterno havia ordenado, um de cada cinquenta animais e pessoas, para dar aos levitas, que eram os responsáveis pela habitação do Eterno."
+        },
+        {
+          "number": 48,
+          "text": "48-50 Os oficiais militares — comandantes de mil e de cem — vieram procurar Moisés e disseram: “Contamos os soldados sob nosso comando, e não falta um único homem. Trouxemos ofertas ao Eterno das joias de ouro que obtivemos — braceletes, pulseiras, anéis, brincos e colares — para fazer expiação pela nossa vida diante do Eterno”."
+        },
+        {
+          "number": 51,
+          "text": "51-54 Moisés e o sacerdote Eleazar receberam o ouro deles, joias muito bem trabalhadas. No total, o ouro que os comandantes de mil e de cem trouxeram a Moisés e Eleazar como oferta ao Eterno pesava duzentos quilos, tudo que foi doado pelos soldados que tinham tomado esse despojo. Moisés e Eleazar pegaram o ouro dos comandantes de mil e de cem e o levaram à Tenda do Encontro, para ser vir de lembrete ao povo de Israel diante do Eterno."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-4 As famílias das tribos de Rúben e Gade possuíam grandes rebanhos. Eles viram que as terras de Jazar e Gileade eram ideais para pastagens de gado. Por isso, foram falar com Moisés, o sacerdote Eleazar e os líderes da comunidade e disseram: “Atarote, Dibom, Jazar, Ninra, Hesbom, Eleale, Sebã, Nebo e Beom, terras que o Eterno subjugou diante da comunidade de Israel, são ideais para a criação de gado, e nós temos gado”."
+        },
+        {
+          "number": 5,
+          "text": "Eles continuaram: “Se vocês acham que fizemos um bom trabalho até aqui, gostaríamos que essas terras fossem nossa propriedade. Não nos façam atravessar o Jordão”."
+        },
+        {
+          "number": 6,
+          "text": "6-12 Moisés respondeu aos homens de Gade e Rúben: “Vocês estão querendo dizer que vão escapar da guerra que aguarda seus irmãos, enquanto vocês se estabelecem aqui? Como foi que vocês tiveram a ideia de deixar na mão o povo de Israel, desanimando-os justamente agora, que estão para entrar na terra que o Eterno deu a eles? Foi exatamente isso que fizeram seus antepassados quando os enviei de Cades-Barneia em missão de reconhecimento da terra. Eles foram até o vale de Escol, deram uma olhada e, então, desistiram. Eles desestimularam o povo, impedindo que entrassem na terra que o Eterno estava dando a eles. E o Eterno ficou irado. E como ficou! Ele jurou: ‘Eles nunca verão a terra. Ninguém dentre os que saíram do Egito que tenha 20 anos de idade ou mais verá a terra que prometi a Abraão, Isaque e Jacó. Eles não estão interessados em me seguir: o coração deles não está nisso. Ninguém, exceto Calebe, filho de Jefoné, o quenezeu, e Josué, filho de Num, pois esses me seguem — o coração deles está nisso’."
+        },
+        {
+          "number": 13,
+          "text": "“A ira do Eterno se acendeu contra Israel. Ele os fez caminhar no deserto durante quarenta anos, até morrer toda aquela geração."
+        },
+        {
+          "number": 14,
+          "text": "14-15 “E agora vocês estão aqui, raça de pecadores, tentando ocupar o lugar que foi de seus antepassados, jogando lenha na fogueira da ira do Eterno, que já está furioso com Israel! Se vocês não o seguirem, ele fará a mesma coisa de novo. Ele mandará vocês de volta para o deserto, e o desastre será culpa de vocês!”."
+        },
+        {
+          "number": 16,
+          "text": "16-19 Mas eles explicaram: “Tudo que queremos é fazer currais para nosso gado e cidades para nossas famílias. Depois, empunharemos as armas e assumiremos a linha de frente, conduzindo o povo de Israel ao seu lugar. Assim, poderemos deixar nossas famílias para trás, seguras nas cidades fortificadas, protegidas diante dos que vivem na terra. Mas não voltaremos para casa antes que todos os israelitas estejam de posse da sua herança. Não queremos propriedade alguma a oeste do Jordão: estamos reivindicando nossa herança deste lado do rio”."
+        },
+        {
+          "number": 20,
+          "text": "20-22 Moisés disse: “Se vocês fizerem o que estão dizendo; se pegarem suas armas para a batalha e, juntos, atravessarem o Jordão, diante do Eterno, para batalhar até que o Eterno tenha eliminado os inimigos da terra. Quando a terra estiver segura, vocês terão cumprido sua missão para com o Eterno e para com Israel. Então, a terra que desejam será de vocês."
+        },
+        {
+          "number": 23,
+          "text": "23-24 “Mas, se vocês não fizerem o que estão dizendo, estarão pecando contra o Eterno. Estejam certos de que seu pecado os alcançará. Portanto, vão em frente. Construam cidades para suas famílias e currais para o gado. Façam o que disseram que fariam”."
+        },
+        {
+          "number": 25,
+          "text": "25-27 As tribos de Gade e Rúben disseram a Moisés: “Faremos como o senhor está mandando. Nossos filhos e mulheres e todos os nossos rebanhos ficarão nas cidades de Gileade. Mas nós atravessaremos armados o rio para combater pelo Eterno, como o senhor disse”."
+        },
+        {
+          "number": 28,
+          "text": "28-30 Moisés deu ordens a respeito deles ao sacerdote Eleazar, a Josué, filho de Num, e aos líderes das tribos do povo de Israel: “Se as tribos de Gade e Rúben cruzarem o rio Jordão com vocês diante do Eterno, todos armados e prontos para a batalha, então, depois de a terra estar assegurada, podem dar a eles as terras de Gileade como herança. Mas, se eles não atravessarem o rio com vocês, terão de se estabelecer com vocês em Canaã”."
+        },
+        {
+          "number": 31,
+          "text": "31-32 As tribos de Gade e Rúben responderam: “Faremos o que o Eterno nos disse. Atravessaremos o Jordão diante do Eterno, prontos e dispostos para guerrear. Mas a terra que herdaremos estará deste lado, a leste do Jordão”."
+        },
+        {
+          "number": 33,
+          "text": "Moisés deu às tribos de Gade, Rúben e a meia tribo de Manassés, filho de José, o reino de Seom, rei dos amorreus, e o reino de Ogue, rei de Basã — as terras, suas cidades e todo o território ao redor delas."
+        },
+        {
+          "number": 34,
+          "text": "34-36 Os gaditas reconstruíram Dibom, Atarote, Aroer, Atarote-Sofã, Jazar, Jogbeá, Bete-Ninra e Bete-Harã como cidades fortificadas e também construíram currais para seus rebanhos e seu gado."
+        },
+        {
+          "number": 37,
+          "text": "37-38 Os rubenitas reconstruíram Hesbom, Eleale e Quiriataim, bem como Nebo e Baal-Meom e Sibma. E deram outros nomes às cidades que reconstruíram."
+        },
+        {
+          "number": 39,
+          "text": "39-40 A família de Maquir, filho de Manassés, foi a Gileade, tomou posse dela e expulsou os amorreus que viviam ali. Moisés deu Gileade aos maquiritas, descendentes de Manassés. Eles se estabeleceram ali."
+        },
+        {
+          "number": 41,
+          "text": "Jair, outro filho de Manassés, tomou posse de algumas vilas e mudou o nome delas para Havote-Jair (Acampamentos de Jair)."
+        },
+        {
+          "number": 42,
+          "text": "Noba conquistou Quenate e os povoados ao redor. Ele renomeou o lugar com seu nome: Noba."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 Estes são os lugares em que o povo de Israel acampou depois que deixaram o Egito, organizados como militares, sob o comando de Moisés e Arão. Por instrução do Eterno, Moisés fez um registro de todas as vezes que partiram de um lugar para outro, acampamento por acampamento:"
+        },
+        {
+          "number": 3,
+          "text": "3-4 Eles marcharam de Ramessés no dia seguinte ao da Páscoa. Era o dia 15 do primeiro mês. Eles saíram confiantes, de cabeça erguida. Os egípcios, ocupados em enterrar seus primogênitos, que o Eterno havia matado, ficaram apenas observando a partida dos israelitas. O Eterno havia provado que os deuses deles não valiam nada."
+        },
+        {
+          "number": 5,
+          "text": "5-36 O povo de Israel: partiu de Ramessés e acampou em Sucote; partiu de Sucote e acampou em Etã, nos limites do deserto; partiu de Etã, voltou para Pi-Hairote, a leste de Baal-Zefom, e acampou em Migdol; partiu de Pi-Hairote e atravessou o mar, chegando ao deserto; depois de três dias de caminhada no deserto de Etã, acampou em Mara; partiu de Mara e chegou a Elim, onde havia doze fontes e setenta palmeiras, o povo acampou ali; partiu de Elim e acampou junto ao mar Vermelho; partiu do mar Vermelho e acampou no deserto de Sim; partiu do deserto de Sim e acampou em Dofca; partiu de Dofca e acampou em Alus; partiu de Alus e acampou em Refidim, onde não havia água para o povo beber; partiu de Refidim e acampou no deserto do Sinai; partiu do deserto do Sinai e acampou em Quibrote-Hataavá; partiu de Quibrote-Hataavá e acampou em Hazerote; partiu de Hazerote e acampou em Ritmá; partiu de Ritmá e acampou em Rimom Perez; partiu de Rimom Perez e acampou em Libna; partiu de Libna e acampou em Rissa; partiu de Rissa e acampou em Queelata; partiu de Queelata e acampou no monte Séfer; partiu do monte Séfer e acampou em Harada; partiu de Harada e acampou em Maquelote; partiu de Maquelote e acampou em Taate; partiu de Taate e acampou em Terá; partiu de Terá e acampou em Mitca; partiu de Mitca e acampou em Hasmona; partiu de Hasmona e acampou em Moserote; partiu de Moserote e acampou em Bene-Jaacã; partiu de Bene-Jaacã e acampou em Hor-Gidgade; partiu de Hor-Gidgade e acampou em Jotbatá; partiu de Jotbatá e acampou em Abrona; partiu de Abrona e acampou em Eziom-Geber; partiu de Eziom-Geber e acampou em Cades, no deserto de Zim."
+        },
+        {
+          "number": 37,
+          "text": "37-39 Depois de deixarem Cades e acamparem no monte Hor, na fronteira com Edom, o sacerdote Arão subiu ao monte Hor, por ordem do Eterno, e morreu ali. Isso aconteceu no primeiro dia do quinto mês do quadragésimo ano depois de o povo de Israel ter saído do Egito. Arão tinha 123 anos de idade quando morreu no monte Hor."
+        },
+        {
+          "number": 40,
+          "text": "O rei cananeu de Arade, que governava na parte do Neguebe, na terra de Canaã, ouviu que o povo de Israel estava chegando."
+        },
+        {
+          "number": 41,
+          "text": "41-47 O povo de Israel partiu do monte Hor e acampou em Zalmona; partiu de Zalmona e acampou em Punom; partiu de Punom e acampou em Obote; partiu de Obote e acampou em Ijé-Abarim, na fronteira de Moabe; partiu de Ijim e acampou em Dibom-Gade; partiu de Dibom-Gade e acampou em Almom-Diblataim; partiu de Almom-Diblataim e acampou na serra de Abarim (Do Outro Lado do Rio), de frente para o Nebo."
+        },
+        {
+          "number": 48,
+          "text": "48-49 Depois que deixaram a serra de Abarim, o povo acampou nas campinas de Moabe à margem do Jordão, diante de Jericó, desde Bete-Jesimote até Abel-Sitim (Campina de Acácias)."
+        },
+        {
+          "number": 50,
+          "text": "50-53 O Eterno disse a Moisés nas campinas de Moabe, à margem do Jordão, diante de Jericó; “Diga ao povo de Israel: ‘Quando vocês atravessarem o Jordão e entrarem na terra de Canaã, expulsem toda a população nativa que encontrarem pela frente, destruam seus ídolos esculpidos, destruam suas imagens fundidas e derrubem os locais de adoração idólatra deles para que vocês possam tomar posse da terra e se estabelecer nela. Eu dei essa terra a vocês. Ela é de vocês."
+        },
+        {
+          "number": 54,
+          "text": "“‘Dividam e distribuam a terra de acordo com o tamanho dos seus clãs: os grandes receberão porções maiores de terra; os pequenos receberão porções menores. Cada clã receberá sua terra por sorteio. Distribuam a terra entre as tribos de seus antepassados."
+        },
+        {
+          "number": 55,
+          "text": "55-56 “‘Mas, se vocês não expulsarem a população nativa da terra, todos os que vocês deixarem ficar na terra se tornarão farpas nos seus olhos e espinhos nos seus pés. Eles causarão problemas sem fim no quintal de vocês. E eu começarei a dar a vocês o mesmo tratamento que estou planejando dar a eles’”."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-2 O Eterno disse a Moisés: “Diga ao povo de Israel o seguinte: ‘Quando vocês entrarem em Canaã, estas são as fronteiras da terra que vocês estão recebendo como herança:"
+        },
+        {
+          "number": 3,
+          "text": "3-5 “‘Sua fronteira ao sul inclui parte do deserto de Zim, próximo da fronteira de Edom. Começa a leste, no mar Morto, passa pela subida dos Escorpiões e dali para Zim; continua para o sul até Cades-Barneia; então, até Hazar-Adar e para Azmom, onde faz uma curva a noroeste para o ribeiro do Egito, e dali para o mar Mediterrâneo."
+        },
+        {
+          "number": 6,
+          "text": "“‘Sua fronteira a oeste é o mar Mediterrâneo."
+        },
+        {
+          "number": 7,
+          "text": "7-9 “‘Sua fronteira ao norte segue uma linha desde o mar Mediterrâneo até o monte Hor, e desde o monte Hor até Lebo-Hamate e vai até Zedacte, prosseguindo até Zifrom e terminando em Hazar-Enã. Essa é a fronteira norte."
+        },
+        {
+          "number": 10,
+          "text": "10-12 “‘Sua fronteira a leste segue uma linha de Hazar-Enã até Sefã. A linha desce ao sul desde Sefã até Ribla e a leste para Ain e prossegue ao longo das encostas a leste do mar da Galiléia. A fronteira, então, segue o rio Jordão e termina no mar Morto’”."
+        },
+        {
+          "number": 13,
+          "text": "13-15 Moisés ordenou ao povo de Israel: “Essa é a terra. Dividam a herança por sorteio. O Eterno ordenou que ela fosse dada às nove tribos e meia. A tribo de Rúben, a tribo de Gade e meia tribo de Manassés j á receberam sua herança; as duas tribos e a meia tribo receberam herança a leste do Jordão, diante de Jericó, na direção do nascer do sol”."
+        },
+        {
+          "number": 16,
+          "text": "16-19 O Eterno disse a Moisés: “Estes são os homens que serão responsáveis pela distribuição da herança da terra: o sacerdote Eleazar e Josué, filho de Num. Designe um líder de cada tribo para ajudá-los na distribuição da terra. Nomeie estes líderes:"
+        },
+        {
+          "number": 19,
+          "text": "19-28 Calebe, filho de Jefoné, da tribo de Judá; Samuel, filho de Amiúde, da tribo de Simeão; Elidade, filho de Quislom, da tribo de Benjamim; Buqui, filho de Jogli, da tribo de Dã; Haniel, filho de Efode, da tribo de Manassés, filho de José; Quemuel, filho de Siftã, da tribo de Efraim, filho de José; Elisafã, filho de Parnaque, da tribo de Zebulom; Paltiel, filho de Aza, da tribo de Issacar; Aiúde, filho de Selomi, da tribo de Aser; Pedael, filho de Amiúde, da tribo de Naftali”."
+        },
+        {
+          "number": 29,
+          "text": "Esses são os homens que o Eterno designou para distribuir a herança ao povo de Israel na terra de Canaã."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "verses": [
+        {
+          "number": 1,
+          "text": "1-3 Então, o Eterno disse a Moisés, nas campinas de Moabe, à margem do Jordão diante de Jericó: “Ordene ao povo de Israel que de aos levitas, como sua parte da herança, cidades para que morem nelas. Cuidem também para que eles recebam pastagens suficientes ao redor das cidades. Assim, eles estarão bem supridos de cidades, nas quais poderão residir e pastagens para seu gado, rebanhos e outros animais de criação."
+        },
+        {
+          "number": 4,
+          "text": "4-5 “As pastagens ao redor das cidades dos levitas devem ter quatrocentos e cinquenta metros em cada direção a partir dos muros da cidade. A medida externa da pastagem deve ser de novecentos metros de cada um dos pontos cardeais — leste, sul, oeste e norte — , com a cidade no centro. Cada cidade deve ser suprida com essa pastagem."
+        },
+        {
+          "number": 6,
+          "text": "6-8 “Seis das cidades que vocês derem aos levitas serão cidades de refúgio: nelas poderá se abrigar qualquer pessoa que acidentalmente tenha matado outra. Além disso, vocês lhes darão ainda outras quarenta e duas cidades — quarenta e oito no total, com suas pastagens. As cidades que vocês derem aos levitas da herança do povo de Israel serão tomadas de acordo com o tamanho da tribo — muitas cidades de uma tribo que tem muitas, poucas de uma tribo que tem poucas”."
+        },
+        {
+          "number": 9,
+          "text": "9-15 O Eterno disse a Moisés: “Diga ao povo de Israel: ‘Quando vocês atravessarem o rio Jordão e entrarem na terra de Canaã, designem cidades de refúgio, nas quais possa se abrigar a pessoa que acidentalmente matar outra, até que possa aparecer diante da comunidade para ser julgada. Providenciem seis cidades de refugio. Três delas deverão estar no lado leste do Jordão e três na própria Canaã: cidades de refúgio para o povo de Israel, para os estrangeiros residentes e para quaisquer outros estrangeiros entre o povo de Israel; seis cidades de refúgio para onde possa fugir qualquer pessoa que acidentalmente matar alguém."
+        },
+        {
+          "number": 16,
+          "text": "“‘Mas, se quem matou outra pessoa usou um objeto de ferro, isso é assassinato óbvio: ele é assassino e precisa ser executado."
+        },
+        {
+          "number": 17,
+          "text": "“‘Ou, se ele tinha uma pedra na mão grande o bastante para matar uma pessoa, e o outro morrer, isso é assassinato: ele é assassino e precisa ser executado."
+        },
+        {
+          "number": 18,
+          "text": "“‘Ou, se ele estava carregando um pedaço de madeira suficientemente pesado para matar alguém, e o outro morrer, isso é assassinato: ele é assassino e precisa ser executado. —"
+        },
+        {
+          "number": 19,
+          "text": "“‘Nesses casos, o vingador da vítima terá o direito de matar o assassino quando o encontrar — poderá matá-lo assim que o achar."
+        },
+        {
+          "number": 20,
+          "text": "20-21 “‘Ou se um homem, por pura ira, empurra outro, ou, de uma emboscada, atira algo nele e ele morre, ou, com raiva, bate nele com os punhos e o mata, isso é assassinato: ele precisa ser executado. O vingador da vítima tem o direito de matá-lo quando o encontrar."
+        },
+        {
+          "number": 22,
+          "text": "22-27 “‘Mas, se ele impulsivamente empurrar alguém, ou acidentalmente atirar algo contra outra pessoa, ou, sem intenção, deixar cair uma ferramenta de pedra e matar alguém que ele nem sabia que estava ali e não houver suspeita de que houve briga entre eles, a comunidade deverá julgar entre o acusado e o vingador da vítima, de acordo com essas orientações. É responsabilidade da comunidade salvar o acusado de assassinato diante do vingador. A comunidade deverá enviá-lo de volta à cidade de refúgio da qual ele veio. Ele ficará lá até a morte do sacerdote principal que foi ungido com o óleo santo. Mas, se o acusado deixar a cidade de refúgio, e o vingador o encontrar fora dos limites dessa cidade, ele terá o direito de matar o acusado: não será culpado de assassinato."
+        },
+        {
+          "number": 28,
+          "text": "“‘Portanto, é fundamental que ele permaneça na cidade de refúgio até a morte do sacerdote principal. Depois da morte do sacerdote principal, ele estará livre para voltar à sua propriedade’ “."
+        },
+        {
+          "number": 29,
+          "text": "“‘Estes são os procedimentos para que se faça justiça a partir de agora, não importa onde vocês estejam residindo."
+        },
+        {
+          "number": 30,
+          "text": "“‘Qualquer pessoa que matar outra poderá ser executada apenas mediante o depoimento de testemunhas oculares. Mas ninguém poderá ser executado com base no testemunho de uma única pessoa."
+        },
+        {
+          "number": 31,
+          "text": "“‘Não aceitem dinheiro de suborno em troca de qualquer pessoa que tenha fugido para uma cidade de refúgio, para permitir que ela volte à sua propriedade e viva nela antes da morte do sacerdote principal."
+        },
+        {
+          "number": 33,
+          "text": "“‘Não contaminem a terra em que estão vivendo. O assassinato contamina a terra. A terra não pode ser purificada da morte por assassinato, a não ser pelo sangue do assassino."
+        },
+        {
+          "number": 34,
+          "text": "“‘Não contaminem a terra em que estão vivendo. Eu também vivo aqui, eu, o Eterno, vivo na mesma terra com o povo de Israel’”."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Os chefes de família do clã de Gileade, filho de Maquir, filho de Manassés, que pertenciam aos clãs dos descendentes de José, vieram falar com Moisés e com os chefes das famílias do povo de Israel."
+        },
+        {
+          "number": 2,
+          "text": "2-4 Eles disseram: “Quando o Eterno ordenou ao meu senhor que distribuísse as terras da herança por sorteio ao povo de Israel, meu senhor também recebeu ordem do Eterno para dar as terras da herança de Zelofeade, nosso irmão, às filhas dele. Mas o que acontecerá se elas se casarem com homens de outras tribos no povo de Israel? A herança delas será tirada da nossa tribo e dada à tribo dos homens com quem se casarem. Então, quando vier o ano do Jubileu para o povo de Israel, a herança delas será encampada pela tribo a que pertencem por casamento — sua terra será tirada da herança dos seus antepassados!”."
+        },
+        {
+          "number": 5,
+          "text": "5-9 Instruído pelo Eterno, Moisés deu a seguinte ordem ao povo de Israel: “O que a tribo dos filhos de José está dizendo é correto. Esta é a ordem do Eterno para as filhas de Zelofeade: elas podem se casar com quem quiserem, desde que seja alguém do clã da tribo de seu antepassado. As terras de herança do povo de Israel não podem ser passadas de uma tribo para outra. Mantenham as terras da herança da tribo dentro da família. Toda filha que herdar terra, não importa a qual tribo pertença, precisará casar-se com um homem dentro do clã da tribo de seu antepassado. Todo israelita é responsável por garantir que a herança permaneça na tribo de seu antepassado. Nenhuma terra de herança poderá ser passada de uma tribo para outra. Cada tribo de Israel se apegará firmemente às suas terras”."
+        },
+        {
+          "number": 10,
+          "text": "10-12 As filhas de Zelofeade fizeram como o Eterno havia instruído. Maalá, Tirza, Hogla, Milca e Noa, as filhas de Zelofeade, casaram-se com primos por parte de pai. Elas se casaram com descendentes das famílias de Manassés, filho de José, e as terras de sua herança permaneceram na família de seu pai."
+        },
+        {
+          "number": 13,
+          "text": "Esses são os mandamentos e regulamentos que o Eterno ordenou por meio da autoridade de Moisés ao povo de Israel, nas campinas de Moabe, à margem do Jordão, diante de Jericó."
+        }
+      ]
+    }
+  ]
+}

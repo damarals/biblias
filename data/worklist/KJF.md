@@ -1,10 +1,11 @@
 # Worklist — KJF
 
-## high (4)
-- 2SA 13:27 — verse much shorter than other versions (37 vs median 85 chars)
+## high (5)
+- 2SA 13:27 — verse much shorter than other versions (37 vs median 92 chars)
 - MRK 3:16 — verse much shorter than other versions (26 vs median 68 chars)
-- ACT 3:20 — verse much shorter than other versions (51 vs median 110 chars)
-- 2CO 13:13 — verse much shorter than other versions (27 vs median 58 chars)
+- ACT 3:20 — verse much shorter than other versions (51 vs median 113 chars)
+- 2CO 13:13 — verse much shorter than other versions (27 vs median 66 chars)
+- 1TH 2:7 — verse much shorter than other versions (65 vs median 147 chars)
 
 ## low (434)
 - GEN 24:13 — missing terminal punctuation

@@ -1,15 +1,17 @@
 # Worklist — TB
 
-## high (9)
+## high (11)
 - EXO 1:13 — verse much shorter than other versions (29 vs median 59 chars)
-- DEU 2:2 — verse much shorter than other versions (12 vs median 29 chars)
-- JER 51:21 — verse much shorter than other versions (47 vs median 99 chars)
+- DEU 2:2 — verse much shorter than other versions (12 vs median 28 chars)
+- ISA 66:11 — verse much shorter than other versions (64 vs median 128 chars)
+- JER 51:21 — verse much shorter than other versions (47 vs median 98 chars)
 - MAT 6:13 — verse much shorter than other versions (56 vs median 115 chars)
-- LUK 9:56 — verse much shorter than other versions (26 vs median 110 chars)
+- LUK 9:56 — verse much shorter than other versions (26 vs median 56 chars)
 - LUK 20:30 — verse much shorter than other versions (9 vs median 53 chars)
+- ACT 9:28 — verse much shorter than other versions (48 vs median 96 chars)
 - ROM 5:4 — verse much shorter than other versions (27 vs median 60 chars)
-- PHM 1:10 — verse much shorter than other versions (30 vs median 70 chars)
-- HEB 7:20 — verse much shorter than other versions (37 vs median 96 chars)
+- PHM 1:10 — verse much shorter than other versions (30 vs median 71 chars)
+- HEB 7:20 — verse much shorter than other versions (37 vs median 100 chars)
 
 ## low (439)
 - GEN 3:22 — missing terminal punctuation

@@ -1,0 +1,108 @@
+# Worklist — MENS
+
+## high (13)
+- GEN 9:5 — verse much shorter than other versions (82 vs median 167 chars)
+- GEN 38:16 — verse much shorter than other versions (41 vs median 162 chars)
+- EXO 20:16 — verse much shorter than other versions (22 vs median 48 chars)
+- LEV 18:23 — verse much shorter than other versions (61 vs median 141 chars)
+- NUM 7:17 — verse much shorter than other versions (49 vs median 151 chars)
+- DEU 1:5 — verse much shorter than other versions (10 vs median 88 chars)
+- JDG 19:28 — verse much shorter than other versions (60 vs median 138 chars)
+- 1SA 14:12 — verse much shorter than other versions (97 vs median 216 chars)
+- 2SA 14:5 — verse much shorter than other versions (36 vs median 96 chars)
+- 2CH 5:13 — verse much shorter than other versions (160 vs median 341 chars)
+- AMO 7:11 — verse much shorter than other versions (57 vs median 118 chars)
+- JHN 9:11 — verse much shorter than other versions (75 vs median 155 chars)
+- ROM 16:11 — verse much shorter than other versions (32 vs median 87 chars)
+
+## low (64)
+- GEN 14:1 — missing terminal punctuation
+- GEN 36:4 — missing terminal punctuation
+- GEN 36:27 — missing terminal punctuation
+- GEN 46:11 — missing terminal punctuation
+- EXO 12:28 — missing terminal punctuation
+- EXO 16:11 — missing terminal punctuation
+- EXO 32:27 — missing terminal punctuation
+- LEV 16:32 — missing terminal punctuation
+- LEV 25:47 — missing terminal punctuation
+- NUM 6:24 — missing terminal punctuation
+- NUM 6:25 — missing terminal punctuation
+- NUM 13:21 — missing terminal punctuation
+- NUM 18:30 — missing terminal punctuation
+- NUM 28:25 — missing terminal punctuation
+- DEU 23:9 — missing terminal punctuation
+- DEU 33:8 — missing terminal punctuation
+- JOS 22:15 — missing terminal punctuation
+- JDG 13:6 — missing terminal punctuation
+- 2SA 5:3 — missing terminal punctuation
+- 2SA 8:16 — missing terminal punctuation
+- 2SA 8:17 — missing terminal punctuation
+- 2SA 12:24 — missing terminal punctuation
+- 2SA 13:6 — missing terminal punctuation
+- 2SA 16:1 — missing terminal punctuation
+- 1KI 1:1 — missing terminal punctuation
+- 1KI 8:27 — missing terminal punctuation
+- 1KI 8:56 — missing terminal punctuation
+- 2KI 9:35 — missing terminal punctuation
+- 2KI 19:25 — missing terminal punctuation
+- 2KI 23:26 — missing terminal punctuation
+- 2CH 6:22 — missing terminal punctuation
+- NEH 5:12 — missing terminal punctuation
+- JOB 30:1 — missing terminal punctuation
+- PSA 26:2 — missing terminal punctuation
+- PSA 59:16 — missing terminal punctuation
+- PSA 145:10 — missing terminal punctuation
+- PRO 17:10 — missing terminal punctuation
+- PRO 21:20 — missing terminal punctuation
+- PRO 24:13 — missing terminal punctuation
+- ISA 43:22 — missing terminal punctuation
+- JER 44:11 — missing terminal punctuation
+- LAM 3:31 — missing terminal punctuation
+- LAM 4:13 — missing terminal punctuation
+- EZK 11:7 — missing terminal punctuation
+- EZK 24:13 — missing terminal punctuation
+- DAN 2:48 — missing terminal punctuation
+- HOS 1:6 — missing terminal punctuation
+- ZEP 3:9 — missing terminal punctuation
+- MAT 27:55 — missing terminal punctuation
+- MRK 3:33 — missing terminal punctuation
+- MRK 10:29 — missing terminal punctuation
+- MRK 10:38 — missing terminal punctuation
+- MRK 10:46 — missing terminal punctuation
+- LUK 18:14 — missing terminal punctuation
+- JHN 4:43 — missing terminal punctuation
+- JHN 9:3 — missing terminal punctuation
+- JHN 9:16 — missing terminal punctuation
+- JHN 9:18 — missing terminal punctuation
+- JHN 19:16 — missing terminal punctuation
+- ACT 6:7 — missing terminal punctuation
+- PHP 3:1 — missing terminal punctuation
+- 2TI 4:3 — missing terminal punctuation
+- HEB 6:4 — missing terminal punctuation
+- JUD 1:20 — missing terminal punctuation
+
+## info (24)
+- NUM 1:1 — verse continues in next (grouping/split)
+- NUM 1:6 — verse continues in next (grouping/split)
+- NUM 1:7 — verse continues in next (grouping/split)
+- NUM 1:8 — verse continues in next (grouping/split)
+- NUM 1:9 — verse continues in next (grouping/split)
+- NUM 1:10 — verse continues in next (grouping/split)
+- NUM 1:11 — verse continues in next (grouping/split)
+- NUM 1:12 — verse continues in next (grouping/split)
+- NUM 1:13 — verse continues in next (grouping/split)
+- NUM 1:14 — verse continues in next (grouping/split)
+- NUM 7:12 — verse continues in next (grouping/split)
+- NUM 7:14 — verse continues in next (grouping/split)
+- NUM 7:15 — verse continues in next (grouping/split)
+- ECC 3:9 — verse continues in next (grouping/split)
+- LAM 2:11 — verse continues in next (grouping/split)
+- MRK 10:23 — verse continues in next (grouping/split)
+- MRK 10:27 — verse continues in next (grouping/split)
+- MRK 10:32 — verse continues in next (grouping/split)
+- MRK 10:37 — verse continues in next (grouping/split)
+- JHN 9:6 — verse continues in next (grouping/split)
+- JHN 9:8 — verse continues in next (grouping/split)
+- JHN 9:13 — verse continues in next (grouping/split)
+- JHN 9:20 — verse continues in next (grouping/split)
+- JHN 9:24 — verse continues in next (grouping/split)

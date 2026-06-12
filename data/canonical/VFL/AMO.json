@@ -1,0 +1,637 @@
+{
+  "id": 30,
+  "code": "AMO",
+  "name": "Amós",
+  "abbrev": "Am",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Amós era um criador de ovelhas da cidade de Tecoa. Ele teve umas visões a respeito de Israel. Isso aconteceu dois anos antes do terremoto, quando Uzias era rei de Judá e Jeroboão (o filho de Joás) era rei de Israel."
+        },
+        {
+          "number": 2,
+          "text": "Amós diz: “O SENHOR ruge como um leão desde Sião e a sua voz, que é como o trovão, se escuta desde Jerusalém. Os pastos verdes murcham e morrem. Inclusive o topo do Carmelo murchará”."
+        },
+        {
+          "number": 3,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Damasco os tantos crimes que cometeram: usaram seus trilhos de ferro para destruir as pessoas de Gileade."
+        },
+        {
+          "number": 4,
+          "text": "Por isso, porei fogo no palácio de Hazael, e as chamas destruirão todas as fortalezas de Ben-Hadade."
+        },
+        {
+          "number": 5,
+          "text": "Abrirei pela força as portas de Damasco e destruirei quem governa o vale de Avém e quem tem o cetro em Bete-Éden. O povo de Aram será levado à força a Quir”."
+        },
+        {
+          "number": 6,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Gaza os tantos crimes que cometeram: eles levaram como prisioneiros todos os moradores de uma nação e os venderam como escravos em Edom."
+        },
+        {
+          "number": 7,
+          "text": "Por isso, porei fogo nos muros de Gaza, e as chamas destruirão todas as suas fortalezas."
+        },
+        {
+          "number": 8,
+          "text": "Destruirei quem governa em Asdode e quem tem o cetro em Ascalom. Castigarei a todos os de Ecrom, até que morra o último dos filisteus”."
+        },
+        {
+          "number": 9,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Tiro os tantos crimes que cometeram: eles levaram toda uma nação como escrava e a venderam em Edom. Não respeitaram a aliança entre irmãos que tinham feito com essa nação."
+        },
+        {
+          "number": 10,
+          "text": "Por isso, porei fogo nos muros de Tiro e as chamas destruirão todas suas fortalezas”."
+        },
+        {
+          "number": 11,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Edom os tantos crimes que cometeram: eles perseguiram com espadas aos seus irmãos de Israel e não tiveram compaixão deles. Estavam furiosos como animais selvagens e descarregaram toda a sua ira contra o povo de Israel."
+        },
+        {
+          "number": 12,
+          "text": "Por isso, porei fogo na cidade de Temã, e as chamas destruirão as fortalezas de Bosra”."
+        },
+        {
+          "number": 13,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Amom os tantos crimes que cometeram: eles cortaram o ventre das mulheres grávidas em Gileade para tomar posse daquele território e fazer com que o seu país ficasse maior."
+        },
+        {
+          "number": 14,
+          "text": "Por isso, porei fogo em Rabá, e as chamas destruirão todas as suas fortalezas e os seus muros. Entre gritos no dia de batalha virá o desastre como uma tormenta, como um redemoinho."
+        },
+        {
+          "number": 15,
+          "text": "Logo o rei será capturado junto com os seus oficiais e serão expulsos da sua terra”."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Moabe os tantos crimes que cometeram: eles queimaram os ossos do rei de Edom até virar cinzas."
+        },
+        {
+          "number": 2,
+          "text": "Por isso, porei fogo em Moabe, e as chamas destruirão todas as fortalezas de Queriote. Moabe será destruída em meio a gritos de guerra e sons de trombetas."
+        },
+        {
+          "number": 3,
+          "text": "Destruirei o governante de Moabe e matarei a todos os seus oficiais junto com ele”."
+        },
+        {
+          "number": 4,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Judá os tantos crimes que cometeram: eles se recusaram obedecer aos ensinamentos do SENHOR e não cumpriram os seus mandamentos, além de acreditar nos mesmos deuses falsos que seus antepassados acreditaram."
+        },
+        {
+          "number": 5,
+          "text": "Por isso, porei fogo em Judá, e as chamas destruirão todas as fortalezas de Jerusalém”."
+        },
+        {
+          "number": 6,
+          "text": "O SENHOR diz: “Não perdoarei ao povo de Israel os tantos crimes que cometeram: eles venderam as pessoas honestas como escravos em troca de um pouco de dinheiro, e venderam a pessoa pobre em troca de um par de sandálias,"
+        },
+        {
+          "number": 7,
+          "text": "eles afundaram a cabeça dos oprimidos no barro e pisaram nos fracos; o pai e o filho têm relações sexuais com a mesma mulher, eles têm desrespeitado o meu santo nome;"
+        },
+        {
+          "number": 8,
+          "text": "eles emprestam dinheiro aos pobres, mas lhes exigem até a roupa como garantia; eles se sentam na frente de qualquer altar com a roupa que tiram dos pobres; obrigam as pessoas a pagar multas injustas e, com esse dinheiro, compram vinho para beber no templo do seu deus."
+        },
+        {
+          "number": 9,
+          "text": "“Você se esqueceu que fui eu quem destruiu os amorreus que moravam antes de você chegar? Eles eram tão altos como os cedros e tão fortes como os carvalhos. Destruí os seus frutos que estavam lá em cima e as suas raízes que estavam lá embaixo."
+        },
+        {
+          "number": 10,
+          "text": "Eu mesmo tirei vocês do Egito e os guiei durante quarenta anos pelo deserto. Ajudei vocês a se apropriarem das terras dos amorreus."
+        },
+        {
+          "number": 11,
+          "text": "Por acaso, israelitas, não escolhi do meio de vocês alguns para que fossem profetas e outros para que fossem nazireus?"
+        },
+        {
+          "number": 12,
+          "text": "“Mas vocês obrigaram os nazireus a tomarem vinho e proibiram aos profetas que profetizassem."
+        },
+        {
+          "number": 13,
+          "text": "Por isso, farei com que fiquem atolados como uma carroça cheia de grãos."
+        },
+        {
+          "number": 14,
+          "text": "Nem sequer o corredor mais rápido poderá fugir. Os fortes não terão suficiente força, e os soldados não poderão se salvar."
+        },
+        {
+          "number": 15,
+          "text": "Os homens que sabem usar tanto o arco como a flecha não resistirão. Os corredores mais rápidos não conseguirão escapar, e os que montam a cavalo tampouco se salvarão."
+        },
+        {
+          "number": 16,
+          "text": "Nesse momento até os soldados mais valentes sairão fugindo nus. Eu, o SENHOR, afirmo isso”."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Israelitas, escutem esta mensagem que o SENHOR falou contra vocês, a família inteira que ele tirou do Egito:"
+        },
+        {
+          "number": 2,
+          "text": "“Na terra há muitas famílias, mas só escolhi vocês para serem a minha família. Por isso terei que castigar vocês por todas as suas maldades”."
+        },
+        {
+          "number": 3,
+          "text": "Amós diz: “Se dois andarem juntos, não é porque concordaram nisso?"
+        },
+        {
+          "number": 4,
+          "text": "Se um leão rugir na floresta, não é porque tem na sua frente uma presa? Se um cachorro de leão rugir na sua caverna, não é porque pegou alguma coisa?"
+        },
+        {
+          "number": 5,
+          "text": "Se uma ave cair numa armadilha que estava no chão, não é porque colocaram uma isca? A armadilha só se fecha quando a ave for pega."
+        },
+        {
+          "number": 6,
+          "text": "Se tocarem a trombeta numa cidade, não é para alertar as pessoas? Se acontecer um desastre na cidade, não é porque o SENHOR o tem enviado?"
+        },
+        {
+          "number": 7,
+          "text": "“Da mesma forma o Senhor DEUS nunca faz nada sem antes anunciar isso aos seus servos, os profetas."
+        },
+        {
+          "number": 8,
+          "text": "“Se o leão rugir, não ficam assustadas as pessoas? Se o Senhor DEUS falar, quem deixará de profetizar?"
+        },
+        {
+          "number": 9,
+          "text": "“Vão para as fortalezas de Asdode e também para as fortalezas do Egito, e anunciem a seguinte mensagem: ‘Fiquem reunidos nos montes de Samaria. Lá verão que o povo é oprimido e todos os abusos que as pessoas sofrem’”."
+        },
+        {
+          "number": 10,
+          "text": "O SENHOR diz: “Não sabem fazer o bem; ferem, roubam as pessoas e escondem seus tesouros nas torres das fortalezas."
+        },
+        {
+          "number": 11,
+          "text": "Por isso, um inimigo virá e cercará o país; deixará a todos sem forças, vencerá a todos e, por último, saqueará as suas fortalezas."
+        },
+        {
+          "number": 12,
+          "text": "“Eu, o SENHOR, digo que se um leão atacar um cordeiro, o pastor tratará de salvar o cordeiro, mas só conseguirá resgatar algumas partes. Pode ser que o pastor só consiga salvar da boca do leão uma orelha ou uma pata do cordeiro. Da mesma forma, a maioria dos filhos de Israel não poderá se salvar. Os moradores de Samaria só conseguirão salvar um pedaço de cama ou de tela do sofá”."
+        },
+        {
+          "number": 13,
+          "text": "“Eu, o Senhor, DEUS Todo-Poderoso, quero que prestem muita atenção e avisem à família de Jacó"
+        },
+        {
+          "number": 14,
+          "text": "que Israel pecou e, por isso, o castigarei. Destruirei os altares de Betel. Os chifres do altar ficarão quebrados e cairão ao chão."
+        },
+        {
+          "number": 15,
+          "text": "Destruirei todas as moradias e as casas de campo dos ricos. Todas as construções decoradas com marfim serão destruídas; as mansões deixarão de existir. Eu, o SENHOR, afirmo isso”."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O Senhor diz: “Escutem esta mensagem, vacas gordas de Basã, que vivem no monte de Samaria: Vocês maltratam as pessoas pobres e pisam sobre os necessitados. Vocês falam aos seus maridos: ‘Um trago, por favor’."
+        },
+        {
+          "number": 2,
+          "text": "Eu, o Senhor DEUS, prometo pela minha santidade que virão tempos muito difíceis para vocês. As pessoas levarão vocês com ganchos e aos seus filhos com anzóis."
+        },
+        {
+          "number": 3,
+          "text": "Uma após outra sairá da cidade pelos buracos das muralhas e todas serão jogadas no monte Hermom."
+        },
+        {
+          "number": 4,
+          "text": "“Pequem em Betel! Pequem em Gilgal e pequem muito mais! Todas as manhãs levem suas ofertas e sacrifícios e a cada terceiro dia levem a décima parte da sua colheita."
+        },
+        {
+          "number": 5,
+          "text": "Queimem pão com fermento como oferta de gratidão. Anunciem publicamente todas as suas ofertas voluntárias, porque vocês, povo de Israel, gostam de fazer isso."
+        },
+        {
+          "number": 6,
+          "text": "“Não lhes dei nada de comer, e faltou comida em todas as suas cidades. Mas vocês não quiseram retornar a mim."
+        },
+        {
+          "number": 7,
+          "text": "“Parei a chuva três meses antes da colheita, e não cresceram os cultivos. Permiti que chovesse numas cidades e em outras não. Uns lugares tiveram chuvas e outros se secaram."
+        },
+        {
+          "number": 8,
+          "text": "Os refugiados de duas ou três cidades iam para outra cidade em busca de água, pois não tinha suficiente água para todos. Mas ainda assim vocês não retornaram a mim."
+        },
+        {
+          "number": 9,
+          "text": "“Fiz com que se estragassem os seus cultivos por causa do calor e das pragas. Destruí as suas hortas e as suas parreiras, e os gafanhotos devoraram suas figueiras e oliveiras, mas vocês não retornaram a mim."
+        },
+        {
+          "number": 10,
+          "text": "“Enviei pragas terríveis como fiz com o Egito. Fiz com que seus jovens morressem nas batalhas junto com seus cavalos. Fiz com que vocês sentissem o mau cheiro do seu exército, mas vocês não retornaram a mim."
+        },
+        {
+          "number": 11,
+          "text": "“Eu os destruí como fiz com Sodoma e com Gomorra. Pareciam como uma brasa tirada do fogo, mas ainda assim vocês não retornaram a mim. Eu, o SENHOR, estou falando."
+        },
+        {
+          "number": 12,
+          "text": "“Por isso vou castigar você, Israel. Fique preparado para se encontrar com seu Deus”."
+        },
+        {
+          "number": 13,
+          "text": "Amós diz: “Quem é ele? Ele é quem criou as montanhas e os ventos, quem dá a conhecer seus pensamentos aos homens, quem transforma a luz em escuridão e quem pode chegar até os lugares mais altos da terra. Seu nome é YAVÉ, o Deus Todo-Poderoso”."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Amós diz: “Povo de Israel, escute esta mensagem, que é como uma lamentação por vocês:"
+        },
+        {
+          "number": 2,
+          "text": "‘A virgem Israel caiu e não se levantará mais. Deixaram que ela ficasse só, deitada no chão e não tem ninguém para ajudá-la’”."
+        },
+        {
+          "number": 3,
+          "text": "O Senhor DEUS diz: “A cidade de Israel que mandar 1.000 soldados para a guerra, só ficará com 100; o povoado que mandar 100 soldados para a guerra, só ficará com 10."
+        },
+        {
+          "number": 4,
+          "text": "“Eu, o SENHOR, digo à nação de Israel que se vierem me buscar, então viverão."
+        },
+        {
+          "number": 5,
+          "text": "Não procurem em Betel, não vão para Gilgal. Não cruzem a fronteira para ir a Berseba, pois todos os moradores de Gilgal serão exilados; Betel será destruída”."
+        },
+        {
+          "number": 6,
+          "text": "Amós diz: “Procurem pelo SENHOR e viverão; se não fizerem isso, ele consumirá a casa de José como um fogo, e ninguém em Betel poderá apagá-lo."
+        },
+        {
+          "number": 7,
+          "text": "Escutem, vocês, que convertem o direito em amargura e deixam a justiça no chão."
+        },
+        {
+          "number": 8,
+          "text": "Deus é o criador das Plêiades e de Órion. Ele é quem converte a escuridão na luz do dia e transforma o dia em noite. Ele é quem convoca a água dos mares e a derrama sobre a terra. Ele é YAVÉ, esse é o seu nome!"
+        },
+        {
+          "number": 9,
+          "text": "Ele é quem derruba o forte e destrói a fortaleza."
+        },
+        {
+          "number": 10,
+          "text": "“Vocês odeiam a quem, diante de todos, desmascara a injustiça; detestam ao que fala a verdade."
+        },
+        {
+          "number": 11,
+          "text": "Vocês têm se aproveitado dos pobres, ao cobrar deles impostos injustos. Com seu mau comportamento conseguiram construir casas luxosas, mas não poderão viver nelas. Vocês têm plantado parreiras bonitas, mas não poderão beber do seu vinho."
+        },
+        {
+          "number": 12,
+          "text": "Eu sei quantas faltas vocês têm cometido e sei como são terríveis os seus pecados. Vocês oprimem os justos e aceitam subornos. Não deixam que os pobres obtenham justiça nos tribunais."
+        },
+        {
+          "number": 13,
+          "text": "Por isso, o sábio fica em silêncio, pois são tempos maus."
+        },
+        {
+          "number": 14,
+          "text": "“Vocês falam que Deus está com vocês, então procurem fazer o bem e não o mal. Assim, vocês viverão e o SENHOR, Deus Todo-Poderoso, estará com vocês."
+        },
+        {
+          "number": 15,
+          "text": "Odeiem o mal e amem o bem. Façam com que exista justiça nos tribunais. Talvez assim o SENHOR, Deus Todo-Poderoso, tenha compaixão do resto que sobrou de Israel”."
+        },
+        {
+          "number": 16,
+          "text": "O SENHOR diz: “Eu, o Deus Todo-Poderoso, afirmo que as pessoas chorarão em todas as praças, todos gritarão de dor pelas ruas. Os camponeses estarão de luto e serão contratados profissionais para chorar."
+        },
+        {
+          "number": 17,
+          "text": "As pessoas chorarão em todas as vinhas quando eu vier castigar vocês”."
+        },
+        {
+          "number": 18,
+          "text": "Amós diz: “Vocês desejam tanto que chegue o dia do SENHOR, mas vocês não sabem o que estão pedindo! Por acaso não sabem como será esse dia? Será um dia de escuridão e não de luz."
+        },
+        {
+          "number": 19,
+          "text": "Será como quando alguém foge de um leão e se topa com um urso; ou como quando uma pessoa entra na sua casa, recosta o seu corpo contra a parede e é mordido por uma serpente."
+        },
+        {
+          "number": 20,
+          "text": "O dia do SENHOR será de escuridão e não de luz. Será um dia negro e sem nenhuma claridade”."
+        },
+        {
+          "number": 21,
+          "text": "O Senhor diz: “Odeio as suas festas! Não me agradam as suas reuniões religiosas!"
+        },
+        {
+          "number": 22,
+          "text": "Não me agrada nada do que fazem ainda que me ofereçam sacrifícios que devem ser queimados e ofertas de cereais. Não presto atenção às suas ofertas para festejar, aquelas de bezerros gordos."
+        },
+        {
+          "number": 23,
+          "text": "Afastem de mim o ruído das suas canções! Não escutarei a música das suas harpas!"
+        },
+        {
+          "number": 24,
+          "text": "Melhor é que façam a justiça fluir como a água, e que sejam solidários continuamente como uma fonte que não se esgota."
+        },
+        {
+          "number": 25,
+          "text": "“Povo de Israel, por acaso vocês me trouxeram ofertas e sacrifícios durante os quarenta anos que estiveram no deserto?"
+        },
+        {
+          "number": 26,
+          "text": "Mas agora, eu farei com que carreguem as estátuas do seu rei Sicute e da sua estrela Quium, imagens que vocês mesmos criaram,"
+        },
+        {
+          "number": 27,
+          "text": "quando eu fizer com que sejam levados para além de Damasco. Eu, o SENHOR, o Deus Todo-Poderoso, falei”."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Amós diz: “Escutem vocês, que levam uma vida fácil em Sião e que moram tão confiantes no monte Samaria. Vocês acham que são dirigentes importantes da nação mais importante, a quem o povo de Israel pede auxílio."
+        },
+        {
+          "number": 2,
+          "text": "Vão para Calné e observem cuidadosamente, continuem em direção à grande cidade de Hamate, e logo para Gate, cidade dos filisteus. Por acaso vocês são melhores do que esses reinos? Eles têm um território maior do que vocês."
+        },
+        {
+          "number": 3,
+          "text": "Vocês se recusam a acreditar que vai ter um dia de castigo, e, no entanto, a cada dia vocês fazem com que se aproxime mais o reinado da violência."
+        },
+        {
+          "number": 4,
+          "text": "“Escutem vocês, que se deitam em camas de marfim e se esticam ali à vontade. Comem banquetes de cordeiros e engordam bezerros para as festas."
+        },
+        {
+          "number": 5,
+          "text": "Cantam com harpas e fazem como Davi, compondo melodias e canções para si mesmos."
+        },
+        {
+          "number": 6,
+          "text": "Bebem vinho em taças e usam perfumes finos. Mas não ligam que Israel seja destruído."
+        },
+        {
+          "number": 7,
+          "text": "Por isso vocês, que vivem à vontade, serão os primeiros a ser exilados. A festa acabou para vocês”."
+        },
+        {
+          "number": 8,
+          "text": "O Senhor DEUS jurou por si mesmo e disse: “Escutem, vocês do povo de Jacó, eu, o SENHOR, o Deus Todo-Poderoso, deixarei que o inimigo se apodere de sua cidade e de tudo o que tem nela. Pois detesto a arrogância de vocês e odeio as suas fortalezas”."
+        },
+        {
+          "number": 9,
+          "text": "Então, se sobrarem dez pessoas vivas em uma casa, todas as dez morrerão;"
+        },
+        {
+          "number": 10,
+          "text": "e quando algum parente chegar para tirar o corpo de um ente querido, outro lhe perguntará: — Sobrou mais alguém? O outro lhe responderá: — Não, por D…! E o primeiro o interromperá dizendo: — Fique calado, não mencione o nome do SENHOR!"
+        },
+        {
+          "number": 11,
+          "text": "Amós diz: “Olhe, o SENHOR ordenará seu castigo, as casas grandes serão feitas em pedaços e as pequenas virarão ruínas."
+        },
+        {
+          "number": 12,
+          "text": "Por acaso os cavalos conseguem subir por entre as rochas? Os bois são levados para arar no mar? Mas vocês fizeram o oposto. Mudaram o direito em veneno, e o fruto da justiça em amargura."
+        },
+        {
+          "number": 13,
+          "text": "Vocês ficam alegres com a conquista de Lo-Debar e dizem: ‘Nós conquistamos Carnaim com nossa própria força’”."
+        },
+        {
+          "number": 14,
+          "text": "O Senhor diz: “Povo de Israel, escute com atenção! Eu porei uma nação contra vocês que lhes causará sofrimentos por todo o país, desde Lebo-Hamate até o riacho de Arabá. Eu, o SENHOR, o Deus Todo-Poderoso, afirmo isso”."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O Senhor DEUS me mostrou o seguinte: vi que ele formava uma praga de gafanhotos. Era a época que brotava o que tinha sido semeado após feita a colheita do rei."
+        },
+        {
+          "number": 2,
+          "text": "Quando os gafanhotos estavam terminando de comer as plantas do nosso país, eu disse: — Senhor DEUS, eu lhe suplico que nos perdoe! Como nós, o povo de Jacó, poderemos sobreviver se este é um país tão pequeno?"
+        },
+        {
+          "number": 3,
+          "text": "Então o SENHOR mudou de opinião e disse: — Isso não vai acontecer."
+        },
+        {
+          "number": 4,
+          "text": "O Senhor DEUS me mostrou o seguinte: ele estava criando uma grande fogueira que consumia o grande abismo e queimava também a terra."
+        },
+        {
+          "number": 5,
+          "text": "Nesse momento eu disse: — Senhor DEUS, eu lhe suplico que pare! Como poderia sobreviver Jacó se é tão pequeno?"
+        },
+        {
+          "number": 6,
+          "text": "Então o SENHOR mudou de opinião e disse: — Isso não vai acontecer."
+        },
+        {
+          "number": 7,
+          "text": "O Senhor também me mostrou o seguinte: ele estava em pé junto a uma parede de latão e segurava na sua mão um pedaço do latão."
+        },
+        {
+          "number": 8,
+          "text": "Então o SENHOR me disse: — Amós, o que você está vendo aqui? Eu respondi: — Vejo o latão. E ele me disse: — Olhe, tenho colocado sofrimento no meio do meu povo, Israel, porque não vou deixar mais passar sequer um dos seus pecados."
+        },
+        {
+          "number": 9,
+          "text": "Os santuários de Isaque serão destruídos, os santuários de Israel virarão ruínas, e eu mesmo atacarei com espada a dinastia de Jeroboão."
+        },
+        {
+          "number": 10,
+          "text": "Amazias, o sacerdote de Betel, enviou esta mensagem a Jeroboão, rei de Israel: — Amós planeja algo contra você em Israel; as pessoas não suportam mais a sua mensagem,"
+        },
+        {
+          "number": 11,
+          "text": "porque isto é o que ele diz: “Jeroboão morrerá pela espada, e certamente as pessoas de Israel serão exiladas”."
+        },
+        {
+          "number": 12,
+          "text": "Amazias também falou com Amós e lhe disse: — Fora daqui, vidente, vá para Judá, e que lá mantenham você, profetize lá."
+        },
+        {
+          "number": 13,
+          "text": "Nunca volte a profetizar aqui em Betel, porque este é o lugar sagrado de Jeroboão. Este é o santuário do rei e o templo nacional."
+        },
+        {
+          "number": 14,
+          "text": "Amós respondeu a Amazias: — Eu não sou profeta profissional nem faço parte do grupo de profetas. Eu tomava conta de animais e figueiras,"
+        },
+        {
+          "number": 15,
+          "text": "mas o SENHOR me tirou do rebanho e me disse: “Vá e profetize ao meu povo Israel”."
+        },
+        {
+          "number": 16,
+          "text": "Assim que escute a mensagem do SENHOR. Você me pede para não profetizar contra Israel e que não fale nada contra a família de Isaque."
+        },
+        {
+          "number": 17,
+          "text": "Pois isto é o que diz o SENHOR: “Sua esposa será uma prostituta da cidade, seus filhos e filhas morrerão pela espada. Suas terras serão possuídas por estranhos e serão repartidas entre eles. Você mesmo terminará morto em terra estrangeira, e, certamente, o povo de Israel será exilado”."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O Senhor DEUS me mostrou um cesto cheio de frutas maduras"
+        },
+        {
+          "number": 2,
+          "text": "e me perguntou: — Amós, o que você vê aqui? Eu respondi: — Um cesto de frutas maduras. Então o SENHOR me disse: — Chegou o fim do meu povo, Israel; não vou deixar mais passar sequer um dos seus pecados."
+        },
+        {
+          "number": 3,
+          "text": "Nesse momento os cânticos do templo virarão tristes lamentos de funeral, haverá muitos cadáveres e serão jogados por todas partes. Que se faça, então, silêncio!"
+        },
+        {
+          "number": 4,
+          "text": "Amós diz: “Escutem bem, vocês que se aproveitam dos necessitados e prejudicam os pobres do país."
+        },
+        {
+          "number": 5,
+          "text": "Vocês falam: ‘Tomara que passe rápido a festa de Lua nova para poder vender o grão. Tomara que passe rápido o dia de descanso para poder vender o trigo. Vamos alterar as medidas, aumentar os preços, falsificar os pesos e assim calotear os compradores."
+        },
+        {
+          "number": 6,
+          "text": "Compraremos os pobres por um pouco de dinheiro, e os necessitados em troca de um par de sandálias. Também vamos vender até as sobras do trigo’”."
+        },
+        {
+          "number": 7,
+          "text": "O SENHOR diz: “Eu juro pelo orgulho de Jacó que nunca esquecerei a maldade destas pessoas."
+        },
+        {
+          "number": 8,
+          "text": "A terra inteira tremerá por isso. Todos os seus habitantes chorarão pelos mortos. A terra subirá e descerá, como as águas do rio Nilo no Egito."
+        },
+        {
+          "number": 9,
+          "text": "“Eu, o Senhor DEUS, farei nesse dia com que o sol se oculte ao meio-dia e a terra escureça em pleno dia."
+        },
+        {
+          "number": 10,
+          "text": "Farei com que suas celebrações virem dias de choro e tristeza. Suas canções virarão lamentos. Todos se vestirão de luto e se raparão a cabeça. Farei com que sofram e se lamentem como quem perdeu o seu único filho. Tudo terá um trágico e amargo final."
+        },
+        {
+          "number": 11,
+          "text": "“Eu, o Senhor DEUS, afirmo que está chegando o dia em que farei com que a fome venha a este país, mas não por falta de alimento. Terão uma sede terrível, mas não por falta de água. Será fome e sede de ouvir a palavra do SENHOR."
+        },
+        {
+          "number": 12,
+          "text": "As pessoas caminharão sem rumo, de mar a mar, e desde o norte até o leste. Caminharão todos de um lado ao outro procurando a mensagem do SENHOR, mas não a acharão."
+        },
+        {
+          "number": 13,
+          "text": "Nesses dias, a sede debilitará as jovens bonitas e os jovens."
+        },
+        {
+          "number": 14,
+          "text": "Todos os que juraram pelo pecado de Samaria e que disseram: ‘Juramos pela existência do deus de Dã’ ou: ‘Juramos pela existência do deus de Berseba’; todos eles cairão e não se levantarão jamais”."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vi o Senhor junto ao altar me falando o seguinte: “Bata em cima das colunas para que tremam até os umbrais das portas. Que caiam os pedaços sobre a cabeça das pessoas. Se alguém ficar vivo, eu o matarei com espada. Alguns tentarão fugir, mas ninguém poderá escapar."
+        },
+        {
+          "number": 2,
+          "text": "Ainda que tentem se esconder no lugar mais profundo da terra, mesmo de lá eu farei com que saiam. Ainda que tentem subir até o lugar mais alto dos céus, mesmo de lá eu farei com que desçam."
+        },
+        {
+          "number": 3,
+          "text": "Se subirem até o cume do monte Carmelo, até lá irei para trazê-los. Se eles se esconderem de mim no fundo do oceano, mandarei o monstro marinho para que sejam destruídos."
+        },
+        {
+          "number": 4,
+          "text": "Se os seus inimigos os fizerem prisioneiros, até mesmo lá mandarei a minha espada para matar vocês. Vou vigiá-los o tempo todo, mas não para lhes fazer bem, e sim para lhes fazer mal!”"
+        },
+        {
+          "number": 5,
+          "text": "Amós diz: “O Senhor DEUS Todo-Poderoso derreterá a terra inteira com só tocar nela, e todos chorarão pelos seus mortos. Ele fará com que tudo suba e desça, como as águas do Nilo no Egito."
+        },
+        {
+          "number": 6,
+          "text": "Ele é quem tem a sua morada no mais alto dos céus e construiu a sua base na terra. Ele é quem dá ordens às águas do mar para que caiam sobre a terra. YAVÉ, esse é o seu nome”."
+        },
+        {
+          "number": 7,
+          "text": "O SENHOR diz: “Por acaso, israelitas, vocês não são para mim iguais aos de Etiópia? Por acaso não tirei vocês do Egito, os filisteus de Caftor, e os arameus de Quir?”"
+        },
+        {
+          "number": 8,
+          "text": "Amós diz: “Prestem bastante atenção, o Senhor DEUS vigia este reino de pecadores”. O SENHOR diz: “Farei com que desapareçam da face da terra, mas não destruirei por completo a família de Jacó."
+        },
+        {
+          "number": 9,
+          "text": "Darei a ordem, e o povo de Israel será espalhado por todo o mundo. Será como quando se sacode a farinha: a farinha boa passa, mas a farinha ruim fica presa na peneira."
+        },
+        {
+          "number": 10,
+          "text": "Todos os pecadores do meu povo, que dizem que nada mau vai lhes acontecer, todos eles morrerão pela espada”."
+        },
+        {
+          "number": 11,
+          "text": "O Senhor diz: “A tenda de Davi foi derrubada, mas virá o dia em que a levantarei de novo. Arrumarei os danos nos seus muros e a resgatarei das suas ruínas para que seja reconstruída da mesma forma como era há muito tempo,"
+        },
+        {
+          "number": 12,
+          "text": "para que eles conquistem o que resta de Edom e todas as nações que uma vez foram minha possessão”. Amós diz: “Assim disse o SENHOR, e ele se encarregará de que aconteça desse jeito”."
+        },
+        {
+          "number": 13,
+          "text": "O SENHOR diz: “Está chegando o dia em que não terão terminado a colheita, quando já terão começado a semear. Não terão terminado de pisar as uvas, quando já terão começado a semear. Dos montes e colinas descerão manantiais de vinho."
+        },
+        {
+          "number": 14,
+          "text": "Eu irei restaurar a prosperidade do meu povo Israel. Eles voltarão a construir as suas cidades e viverão ali. Irão plantar vinhedos e beber do seu vinho. Irão semear hortos e comer dos seus frutos."
+        },
+        {
+          "number": 15,
+          "text": "Irei plantar o meu povo na sua terra, e nunca mais serão expulsos da terra que eu lhes dei”."
+        }
+      ]
+    }
+  ]
+}
