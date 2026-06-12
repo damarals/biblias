@@ -1,4 +1,5 @@
 import re
+import statistics
 from dataclasses import dataclass
 from enum import Enum
 
@@ -61,3 +62,35 @@ def validate_bible(bible: Bible) -> Report:
                         findings.append(Finding(book.code, chapter.number, verse.number,
                                                 Tier.LOW, "missing terminal punctuation"))
     return Report(code=bible.meta.code, findings=findings)
+
+
+def cross_version_findings(
+    bibles: list[Bible],
+    min_versions: int = 3,
+    ratio: float = 0.5,
+    min_gap: int = 15,
+) -> dict[str, list[Finding]]:
+    """Flag verses that are much shorter than the same verse in other versions
+    (likely lost words). Compares verse text length across all given bibles."""
+    lengths: dict[tuple[str, int, int], dict[str, int]] = {}
+    for bible in bibles:
+        for book in bible.books:
+            for chapter in book.chapters:
+                for verse in chapter.verses:
+                    ref = (book.code, chapter.number, verse.number)
+                    lengths.setdefault(ref, {})[bible.meta.code] = len(verse.text.strip())
+
+    out: dict[str, list[Finding]] = {bible.meta.code: [] for bible in bibles}
+    for (book_code, chapter, verse), per_code in lengths.items():
+        if len(per_code) < min_versions:
+            continue
+        median = statistics.median(per_code.values())
+        if median == 0:
+            continue
+        for code, length in per_code.items():
+            if length < ratio * median and (median - length) >= min_gap:
+                out[code].append(Finding(
+                    book_code, chapter, verse, Tier.HIGH,
+                    f"verse much shorter than other versions ({length} vs median {int(median)} chars)",
+                ))
+    return out
