@@ -1,0 +1,387 @@
+[
+  {
+    "book": "GEN",
+    "chapter": 10,
+    "verse": 9,
+    "was": "Verszeile ohne Text",
+    "now": "E este foi poderoso caçador diante da face do SENHOR; por isso se diz: Como Ninrode, poderoso caçador diante do SENHOR.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "GEN",
+    "chapter": 19,
+    "verse": 36,
+    "was": "Verszeile ohne Text",
+    "now": "E conceberam as duas filhas de Ló de seu pai.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "GEN",
+    "chapter": 31,
+    "verse": 34,
+    "was": "Verszeile ohne Text",
+    "now": "Mas tinha tomado Raquel os ídolos e os tinha posto na albarda de um camelo, e assentara-se sobre eles; e apalpou Labão toda a tenda, e não os achou.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "GEN",
+    "chapter": 39,
+    "verse": 15,
+    "was": "Verszeile ohne Text",
+    "now": "E aconteceu que, ouvindo ele que eu levantava a minha voz e gritava, deixou a sua roupa comigo, e fugiu, e saiu para fora.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "GEN",
+    "chapter": 41,
+    "verse": 48,
+    "was": "Verszeile ohne Text",
+    "now": "E ele ajuntou todo o mantimento dos sete anos, que houve na terra do Egito; e guardou o mantimento nas cidades, pondo nas mesmas o mantimento do campo que estava ao redor de cada cidade.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "LEV",
+    "chapter": 13,
+    "verse": 6,
+    "was": "Verszeile ohne Text",
+    "now": "E o sacerdote ao sétimo dia o examinará outra vez; e eis que, se a praga se recolheu, e na pele a praga não se estendeu, então o sacerdote o declarará por limpo; é uma pústula; e lavará as suas vestes, e será limpo.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "bibliaonline.com.br:acf"
+    ],
+    "note": "bodruk omite 'a praga'; bolls confere com bibliaonline + ARC + ALM1911"
+  },
+  {
+    "book": "LEV",
+    "chapter": 25,
+    "verse": 24,
+    "was": "Verszeile ohne Text",
+    "now": "Portanto em toda a terra da vossa possessão dareis resgate à terra.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 7,
+    "verse": 84,
+    "was": "Verszeile ohne Text",
+    "now": "Esta foi a consagração do altar, feita pelos príncipes de Israel, no dia em que foi ungido, doze pratos de prata, doze bacias de prata, doze colheres de ouro.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 14,
+    "verse": 36,
+    "was": "Verszeile ohne Text",
+    "now": "E os homens que Moisés mandara a espiar a terra, e que, voltando, fizeram murmurar toda a congregação contra ele, infamando a terra,",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ],
+    "note": "versículo continua em v37 (split); 3 fontes concordam, tamanho confere com ARC"
+  },
+  {
+    "book": "NUM",
+    "chapter": 21,
+    "verse": 29,
+    "was": "Verszeile ohne Text",
+    "now": "Ai de ti, Moabe! perdido és, povo de Quemós! entregou seus filhos, que iam fugindo, e suas filhas, como cativas a Siom, rei dos amorreus.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "bibliaonline.com.br:acf"
+    ],
+    "note": "nome próprio Quemós (bolls+bibliaonline) vs Quemos (bodruk) — só diacrítico"
+  },
+  {
+    "book": "DEU",
+    "chapter": 6,
+    "verse": 17,
+    "was": "Verszeile ohne Text",
+    "now": "Diligentemente guardareis os mandamentos do SENHOR vosso Deus, como também os seus testemunhos, e seus estatutos, que te tem mandado.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "DEU",
+    "chapter": 28,
+    "verse": 21,
+    "was": "Verszeile ohne Text",
+    "now": "O SENHOR fará pegar em ti a pestilência, até que te consuma da terra a que passas a possuir.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JOS",
+    "chapter": 4,
+    "verse": 9,
+    "was": "Verszeile ohne Text",
+    "now": "Levantou Josué também doze pedras no meio do Jordão, no lugar onde estiveram parados os pés dos sacerdotes, que levavam a arca da aliança; e ali estão até ao dia de hoje.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JDG",
+    "chapter": 12,
+    "verse": 10,
+    "was": "Verszeile ohne Text",
+    "now": "Então faleceu Ibzã, e foi sepultado em Belém.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JDG",
+    "chapter": 14,
+    "verse": 14,
+    "was": "Verszeile ohne Text",
+    "now": "Então lhes disse: Do comedor saiu comida, e do forte saiu doçura. E em três dias não puderam decifrar o enigma.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1SA",
+    "chapter": 24,
+    "verse": 15,
+    "was": "Verszeile ohne Text",
+    "now": "O SENHOR, porém, será juiz, e julgará entre mim e ti, e verá, e advogará a minha causa, e me defenderá da tua mão.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1SA",
+    "chapter": 26,
+    "verse": 17,
+    "was": "Verszeile ohne Text",
+    "now": "Então conheceu Saul a voz de Davi, e disse: Não é esta a tua voz, meu filho Davi? E disse Davi: É minha voz, ó rei meu senhor.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1SA",
+    "chapter": 29,
+    "verse": 10,
+    "was": "Verszeile ohne Text",
+    "now": "Agora, pois, amanhã de madrugada levanta-te com os servos de teu senhor, que têm vindo contigo; e, levantando-vos pela manhã, de madrugada, e havendo luz, parti.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1SA",
+    "chapter": 30,
+    "verse": 8,
+    "was": "Verszeile ohne Text",
+    "now": "Então consultou Davi ao SENHOR, dizendo: Perseguirei eu a esta tropa? Alcançá-la-ei? E lhe disse: Persegue-a, porque decerto a alcançarás e tudo libertarás.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1CH",
+    "chapter": 2,
+    "verse": 19,
+    "was": "Verszeile ohne Text",
+    "now": "E morreu Azuba; e Calebe tomou para si a Efrate, da qual lhe nasceu Hur.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1CH",
+    "chapter": 7,
+    "verse": 20,
+    "was": "Verszeile ohne Text",
+    "now": "E os filhos de Efraim: Sutela, e seu filho Berede, e seu filho Taate, e seu filho Elada e seu filho Taate.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JOB",
+    "chapter": 12,
+    "verse": 14,
+    "was": "Verszeile ohne Text",
+    "now": "Eis que ele derruba, e ninguém há que edifique; prende um homem, e ninguém há que o solte.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JOB",
+    "chapter": 20,
+    "verse": 6,
+    "was": "Verszeile ohne Text",
+    "now": "Ainda que a sua altivez suba até ao céu, e a sua cabeça chegue até às nuvens.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JOB",
+    "chapter": 35,
+    "verse": 8,
+    "was": "Verszeile ohne Text",
+    "now": "A tua impiedade faria mal a outro tal como tu; e a tua justiça aproveitaria ao filho do homem.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 63,
+    "verse": 3,
+    "was": "Verszeile ohne Text",
+    "now": "Porque a tua benignidade é melhor do que a vida, os meus lábios te louvarão.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "JER",
+    "chapter": 18,
+    "verse": 14,
+    "was": "Verszeile ohne Text",
+    "now": "Porventura a neve do Líbano deixará a rocha do campo ou esgotar-se-ão as águas frias que correm de terras estranhas?",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "HOS",
+    "chapter": 2,
+    "verse": 8,
+    "was": "Verszeile ohne Text",
+    "now": "Ela, pois, não reconhece que eu lhe dei o grão, e o mosto, e o azeite, e que lhe multipliquei a prata e o ouro, que eles usaram para Baal.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "LUK",
+    "chapter": 24,
+    "verse": 5,
+    "was": "Verszeile ohne Text",
+    "now": "E, estando elas muito atemorizadas, e abaixando o rosto para o chão, eles lhes disseram: Por que buscais o vivente entre os mortos?",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "ACT",
+    "chapter": 5,
+    "verse": 19,
+    "was": "Verszeile ohne Text",
+    "now": "Mas de noite um anjo do Senhor abriu as portas da prisão e, tirando-os para fora, disse:",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "ACT",
+    "chapter": 18,
+    "verse": 8,
+    "was": "Verszeile ohne Text",
+    "now": "E Crispo, principal da sinagoga, creu no Senhor com toda a sua casa; e muitos dos coríntios, ouvindo-o, creram e foram batizados.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1CO",
+    "chapter": 15,
+    "verse": 24,
+    "was": "Verszeile ohne Text",
+    "now": "Depois virá o fim, quando tiver entregado o reino a Deus, ao Pai, e quando houver aniquilado todo o império, e toda a potestade e força.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  },
+  {
+    "book": "1TH",
+    "chapter": 5,
+    "verse": 5,
+    "was": "Verszeile ohne Text",
+    "now": "Porque todos vós sois filhos da luz e filhos do dia; nós não somos da noite nem das trevas.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf",
+      "bibliaonline.com.br:acf"
+    ]
+  }
+]

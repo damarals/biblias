@@ -1,49 +1,17 @@
 # Worklist — ACF
 
-## high (41)
-- GEN 10:9 — verse much shorter than other versions (19 vs median 111 chars)
-- GEN 19:36 — verse much shorter than other versions (19 vs median 54 chars)
-- GEN 31:34 — verse much shorter than other versions (19 vs median 150 chars)
-- GEN 39:15 — verse much shorter than other versions (19 vs median 93 chars)
-- GEN 41:48 — verse much shorter than other versions (19 vs median 182 chars)
-- LEV 13:6 — verse much shorter than other versions (19 vs median 208 chars)
-- LEV 25:24 — verse much shorter than other versions (19 vs median 81 chars)
-- NUM 7:84 — verse much shorter than other versions (19 vs median 167 chars)
-- NUM 14:36 — verse much shorter than other versions (19 vs median 143 chars)
-- NUM 21:29 — verse much shorter than other versions (19 vs median 137 chars)
-- DEU 6:17 — verse much shorter than other versions (19 vs median 116 chars)
-- DEU 28:21 — verse much shorter than other versions (19 vs median 100 chars)
-- JOS 4:9 — verse much shorter than other versions (19 vs median 159 chars)
-- JDG 12:10 — verse much shorter than other versions (19 vs median 43 chars)
-- JDG 14:14 — verse much shorter than other versions (19 vs median 123 chars)
-- 1SA 24:15 — verse much shorter than other versions (19 vs median 116 chars)
-- 1SA 26:17 — verse much shorter than other versions (19 vs median 123 chars)
-- 1SA 29:10 — verse much shorter than other versions (19 vs median 144 chars)
-- 1SA 30:8 — verse much shorter than other versions (19 vs median 170 chars)
+## high (9)
 - 1KI 22:45 — verse much shorter than other versions (44 vs median 128 chars)
 - 1KI 22:48 — verse much shorter than other versions (47 vs median 129 chars)
-- 1CH 2:19 — verse much shorter than other versions (19 vs median 71 chars)
-- 1CH 7:20 — verse much shorter than other versions (19 vs median 111 chars)
-- JOB 12:14 — verse much shorter than other versions (19 vs median 85 chars)
-- JOB 20:6 — verse much shorter than other versions (19 vs median 76 chars)
-- JOB 35:8 — verse much shorter than other versions (19 vs median 105 chars)
-- PSA 63:3 — verse much shorter than other versions (19 vs median 72 chars)
-- JER 18:14 — verse much shorter than other versions (19 vs median 123 chars)
-- HOS 2:8 — verse much shorter than other versions (19 vs median 142 chars)
 - LUK 7:15 — verse much shorter than other versions (23 vs median 79 chars)
 - LUK 15:28 — verse much shorter than other versions (41 vs median 85 chars)
-- LUK 24:5 — verse much shorter than other versions (19 vs median 132 chars)
-- ACT 5:19 — verse much shorter than other versions (19 vs median 95 chars)
-- ACT 18:8 — verse much shorter than other versions (19 vs median 132 chars)
-- 1CO 15:24 — verse much shorter than other versions (19 vs median 128 chars)
 - 2CO 2:11 — verse much shorter than other versions (35 vs median 85 chars)
 - 2CO 13:13 — verse much shorter than other versions (27 vs median 58 chars)
 - 1TH 2:7 — verse much shorter than other versions (63 vs median 147 chars)
-- 1TH 5:5 — verse much shorter than other versions (19 vs median 91 chars)
 - HEB 1:2 — verse much shorter than other versions (64 vs median 133 chars)
 - HEB 11:19 — verse much shorter than other versions (38 vs median 122 chars)
 
-## low (3828)
+## low (3797)
 - GEN 1:17 — missing terminal punctuation
 - GEN 2:4 — missing terminal punctuation
 - GEN 2:16 — missing terminal punctuation
@@ -55,7 +23,6 @@
 - GEN 6:1 — missing terminal punctuation
 - GEN 7:8 — missing terminal punctuation
 - GEN 7:11 — missing terminal punctuation
-- GEN 10:9 — missing terminal punctuation
 - GEN 10:11 — missing terminal punctuation
 - GEN 10:13 — missing terminal punctuation
 - GEN 10:15 — missing terminal punctuation
@@ -96,7 +63,6 @@
 - GEN 19:24 — missing terminal punctuation
 - GEN 19:27 — missing terminal punctuation
 - GEN 19:31 — missing terminal punctuation
-- GEN 19:36 — missing terminal punctuation
 - GEN 20:12 — missing terminal punctuation
 - GEN 20:17 — missing terminal punctuation
 - GEN 21:22 — missing terminal punctuation
@@ -159,7 +125,6 @@
 - GEN 31:5 — missing terminal punctuation
 - GEN 31:6 — missing terminal punctuation
 - GEN 31:17 — missing terminal punctuation
-- GEN 31:34 — missing terminal punctuation
 - GEN 31:48 — missing terminal punctuation
 - GEN 32:4 — missing terminal punctuation
 - GEN 32:9 — missing terminal punctuation
@@ -188,7 +153,6 @@
 - GEN 39:10 — missing terminal punctuation
 - GEN 39:11 — missing terminal punctuation
 - GEN 39:13 — missing terminal punctuation
-- GEN 39:15 — missing terminal punctuation
 - GEN 39:17 — missing terminal punctuation
 - GEN 40:10 — missing terminal punctuation
 - GEN 40:12 — missing terminal punctuation
@@ -202,7 +166,6 @@
 - GEN 41:22 — missing terminal punctuation
 - GEN 41:30 — missing terminal punctuation
 - GEN 41:34 — missing terminal punctuation
-- GEN 41:48 — missing terminal punctuation
 - GEN 42:14 — missing terminal punctuation
 - GEN 42:19 — missing terminal punctuation
 - GEN 42:30 — missing terminal punctuation
@@ -457,7 +420,6 @@
 - LEV 11:44 — missing terminal punctuation
 - LEV 11:46 — missing terminal punctuation
 - LEV 13:4 — missing terminal punctuation
-- LEV 13:6 — missing terminal punctuation
 - LEV 13:7 — missing terminal punctuation
 - LEV 13:9 — missing terminal punctuation
 - LEV 13:10 — missing terminal punctuation
@@ -537,7 +499,6 @@
 - LEV 25:14 — missing terminal punctuation
 - LEV 25:20 — missing terminal punctuation
 - LEV 25:21 — missing terminal punctuation
-- LEV 25:24 — missing terminal punctuation
 - LEV 25:26 — missing terminal punctuation
 - LEV 25:40 — missing terminal punctuation
 - LEV 25:47 — missing terminal punctuation
@@ -661,7 +622,6 @@
 - NUM 7:80 — missing terminal punctuation
 - NUM 7:81 — missing terminal punctuation
 - NUM 7:82 — missing terminal punctuation
-- NUM 7:84 — missing terminal punctuation
 - NUM 7:85 — missing terminal punctuation
 - NUM 7:86 — missing terminal punctuation
 - NUM 8:6 — missing terminal punctuation
@@ -708,7 +668,6 @@
 - NUM 20:15 — missing terminal punctuation
 - NUM 21:14 — missing terminal punctuation
 - NUM 21:18 — missing terminal punctuation
-- NUM 21:29 — missing terminal punctuation
 - NUM 22:2 — missing terminal punctuation
 - NUM 22:18 — missing terminal punctuation
 - NUM 24:3 — missing terminal punctuation
@@ -837,7 +796,6 @@
 - DEU 6:10 — missing terminal punctuation
 - DEU 6:11 — missing terminal punctuation
 - DEU 6:14 — missing terminal punctuation
-- DEU 6:17 — missing terminal punctuation
 - DEU 6:21 — missing terminal punctuation
 - DEU 6:22 — missing terminal punctuation
 - DEU 7:1 — missing terminal punctuation
@@ -961,7 +919,6 @@
 - DEU 27:1 — missing terminal punctuation
 - DEU 27:12 — missing terminal punctuation
 - DEU 28:2 — missing terminal punctuation
-- DEU 28:21 — missing terminal punctuation
 - DEU 28:27 — missing terminal punctuation
 - DEU 28:28 — missing terminal punctuation
 - DEU 28:43 — missing terminal punctuation
@@ -1017,7 +974,6 @@
 - JOS 4:2 — missing terminal punctuation
 - JOS 4:4 — missing terminal punctuation
 - JOS 4:5 — missing terminal punctuation
-- JOS 4:9 — missing terminal punctuation
 - JOS 4:12 — missing terminal punctuation
 - JOS 7:16 — missing terminal punctuation
 - JOS 7:17 — missing terminal punctuation
@@ -1193,9 +1149,7 @@
 - JDG 12:2 — missing terminal punctuation
 - JDG 12:4 — missing terminal punctuation
 - JDG 12:5 — missing terminal punctuation
-- JDG 12:10 — missing terminal punctuation
 - JDG 14:1 — missing terminal punctuation
-- JDG 14:14 — missing terminal punctuation
 - JDG 17:8 — missing terminal punctuation
 - JDG 19:18 — missing terminal punctuation
 - JDG 20:2 — missing terminal punctuation
@@ -1230,13 +1184,9 @@
 - 1SA 22:9 — missing terminal punctuation
 - 1SA 22:16 — missing terminal punctuation
 - 1SA 23:16 — missing terminal punctuation
-- 1SA 24:15 — missing terminal punctuation
 - 1SA 25:4 — missing terminal punctuation
 - 1SA 25:28 — missing terminal punctuation
 - 1SA 25:30 — missing terminal punctuation
-- 1SA 26:17 — missing terminal punctuation
-- 1SA 29:10 — missing terminal punctuation
-- 1SA 30:8 — missing terminal punctuation
 - 1SA 30:26 — missing terminal punctuation
 - 1SA 30:27 — missing terminal punctuation
 - 1SA 30:28 — missing terminal punctuation
@@ -1394,7 +1344,6 @@
 - 1CH 1:52 — missing terminal punctuation
 - 1CH 1:53 — missing terminal punctuation
 - 1CH 2:1 — missing terminal punctuation
-- 1CH 2:19 — missing terminal punctuation
 - 1CH 2:50 — missing terminal punctuation
 - 1CH 3:1 — missing terminal punctuation
 - 1CH 3:2 — missing terminal punctuation
@@ -1452,7 +1401,6 @@
 - 1CH 6:78 — missing terminal punctuation
 - 1CH 6:80 — missing terminal punctuation
 - 1CH 7:14 — missing terminal punctuation
-- 1CH 7:20 — missing terminal punctuation
 - 1CH 7:25 — missing terminal punctuation
 - 1CH 7:26 — missing terminal punctuation
 - 1CH 7:28 — missing terminal punctuation
@@ -1820,7 +1768,6 @@
 - JOB 10:21 — missing terminal punctuation
 - JOB 11:13 — missing terminal punctuation
 - JOB 12:7 — missing terminal punctuation
-- JOB 12:14 — missing terminal punctuation
 - JOB 14:8 — missing terminal punctuation
 - JOB 14:11 — missing terminal punctuation
 - JOB 14:19 — missing terminal punctuation
@@ -1835,7 +1782,6 @@
 - JOB 19:5 — missing terminal punctuation
 - JOB 19:26 — missing terminal punctuation
 - JOB 20:4 — missing terminal punctuation
-- JOB 20:6 — missing terminal punctuation
 - JOB 20:12 — missing terminal punctuation
 - JOB 20:13 — missing terminal punctuation
 - JOB 21:29 — missing terminal punctuation
@@ -1888,7 +1834,6 @@
 - JOB 34:26 — missing terminal punctuation
 - JOB 34:27 — missing terminal punctuation
 - JOB 34:29 — missing terminal punctuation
-- JOB 35:8 — missing terminal punctuation
 - JOB 35:10 — missing terminal punctuation
 - JOB 35:15 — missing terminal punctuation
 - JOB 36:8 — missing terminal punctuation
@@ -1948,7 +1893,6 @@
 - PSA 59:8 — missing terminal punctuation
 - PSA 60:5 — missing terminal punctuation
 - PSA 63:1 — missing terminal punctuation
-- PSA 63:3 — missing terminal punctuation
 - PSA 63:5 — missing terminal punctuation
 - PSA 64:3 — missing terminal punctuation
 - PSA 65:6 — missing terminal punctuation
@@ -2274,7 +2218,6 @@
 - JER 18:3 — missing terminal punctuation
 - JER 18:7 — missing terminal punctuation
 - JER 18:9 — missing terminal punctuation
-- JER 18:14 — missing terminal punctuation
 - JER 18:15 — missing terminal punctuation
 - JER 18:16 — missing terminal punctuation
 - JER 18:20 — missing terminal punctuation
@@ -2498,7 +2441,6 @@
 - DAN 10:4 — missing terminal punctuation
 - DAN 10:5 — missing terminal punctuation
 - HOS 2:3 — missing terminal punctuation
-- HOS 2:8 — missing terminal punctuation
 - HOS 3:2 — missing terminal punctuation
 - HOS 6:5 — missing terminal punctuation
 - HOS 12:4 — missing terminal punctuation
@@ -2968,7 +2910,6 @@
 - LUK 23:44 — missing terminal punctuation
 - LUK 23:50 — missing terminal punctuation
 - LUK 23:51 — missing terminal punctuation
-- LUK 24:5 — missing terminal punctuation
 - LUK 24:6 — missing terminal punctuation
 - LUK 24:19 — missing terminal punctuation
 - LUK 24:22 — missing terminal punctuation
@@ -3056,7 +2997,6 @@
 - ACT 4:36 — missing terminal punctuation
 - ACT 5:1 — missing terminal punctuation
 - ACT 5:17 — missing terminal punctuation
-- ACT 5:19 — missing terminal punctuation
 - ACT 5:22 — missing terminal punctuation
 - ACT 5:27 — missing terminal punctuation
 - ACT 5:34 — missing terminal punctuation
@@ -3128,7 +3068,6 @@
 - ACT 17:27 — missing terminal punctuation
 - ACT 17:30 — missing terminal punctuation
 - ACT 18:2 — missing terminal punctuation
-- ACT 18:8 — missing terminal punctuation
 - ACT 18:9 — missing terminal punctuation
 - ACT 18:12 — missing terminal punctuation
 - ACT 18:14 — missing terminal punctuation
@@ -3290,7 +3229,6 @@
 - 1CO 13:8 — missing terminal punctuation
 - 1CO 13:9 — missing terminal punctuation
 - 1CO 15:3 — missing terminal punctuation
-- 1CO 15:24 — missing terminal punctuation
 - 1CO 15:51 — missing terminal punctuation
 - 1CO 16:8 — missing terminal punctuation
 - 1CO 16:15 — missing terminal punctuation
@@ -3542,7 +3480,6 @@
 - 1TH 4:11 — missing terminal punctuation
 - 1TH 5:1 — missing terminal punctuation
 - 1TH 5:2 — missing terminal punctuation
-- 1TH 5:5 — missing terminal punctuation
 - 1TH 5:6 — missing terminal punctuation
 - 1TH 5:8 — missing terminal punctuation
 - 1TH 5:9 — missing terminal punctuation
