@@ -6,3 +6,11 @@
 
 # Working docs (specs, notes) — not versioned
 docs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+.pytest_cache/
+.ruff_cache/
