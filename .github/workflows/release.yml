@@ -46,8 +46,8 @@ jobs:
             zip -q "${code}.zip" "${code}.xml" "${code}.sqlite" "${code}.json"
           done
           # Per-target bundles across all versions.
-          zip -q biblias-openlp.zip *.sqlite 2>/dev/null || true
-          zip -q biblias-quelea.zip *.xml 2>/dev/null || true
+          zip -q biblias-sqlite.zip *.sqlite 2>/dev/null || true
+          zip -q biblias-zefania.zip *.xml 2>/dev/null || true
 
       - name: Upload to Release
         uses: softprops/action-gh-release@v2

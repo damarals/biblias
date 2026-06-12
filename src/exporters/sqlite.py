@@ -22,7 +22,7 @@ CREATE TABLE verse (
 """
 
 
-class OpenLpSqliteExporter:
+class SqliteExporter:
     """Writes an OpenLP-native bible SQLite (metadata/book/verse schema)."""
 
     def export(self, bible: Bible, path: Path) -> None:

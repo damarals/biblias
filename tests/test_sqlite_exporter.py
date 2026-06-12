@@ -1,7 +1,7 @@
 import sqlite3
 from pathlib import Path
 
-from exporters.sqlite import OpenLpSqliteExporter
+from exporters.sqlite import SqliteExporter
 from model import Bible, BibleMeta, Book, Chapter, Verse
 
 
@@ -20,7 +20,7 @@ def _bible() -> Bible:
 
 def test_export_creates_openlp_schema(tmp_path: Path):
     out = tmp_path / "KJA.sqlite"
-    OpenLpSqliteExporter().export(_bible(), out)
+    SqliteExporter().export(_bible(), out)
     con = sqlite3.connect(out)
     tables = {r[0] for r in con.execute("SELECT name FROM sqlite_master WHERE type='table'")}
     assert {"metadata", "book", "verse"} <= tables
@@ -30,7 +30,7 @@ def test_export_creates_openlp_schema(tmp_path: Path):
 
 def test_export_writes_books_and_verses(tmp_path: Path):
     out = tmp_path / "KJA.sqlite"
-    OpenLpSqliteExporter().export(_bible(), out)
+    SqliteExporter().export(_bible(), out)
     con = sqlite3.connect(out)
     rows = dict(con.execute("SELECT name, testament_reference_id FROM book").fetchall())
     assert rows == {"Gênesis": 1, "João": 2}

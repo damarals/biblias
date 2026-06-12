@@ -3,13 +3,13 @@
 [![Última atualização](https://img.shields.io/github/last-commit/damarals/biblias?color=blue&label=atualizado&style=for-the-badge)](https://github.com/damarals/biblias/commits)
 [![Licença](https://img.shields.io/github/license/damarals/biblias?style=for-the-badge)](LICENSE)
 
-Bíblias em português, prontas para os principais softwares de projeção de igreja, geradas a partir de uma fonte canônica única. O projeto disponibiliza três formatos:
+Bíblias em português geradas a partir de uma fonte canônica única, em formatos abertos lidos por diversos softwares de projeção e leitura. O projeto disponibiliza três formatos:
 
-- **SQLite** — para o [OpenLP](https://openlp.org/);
-- **Zefania XML** — para o [Quelea](https://quelea.org/) (e outros que importam Zefania);
-- **JSON** — formato aberto, útil para qualquer outro uso.
+- **Zefania XML** — formato-padrão de Bíblia, importado por vários programas (Quelea, MyBible, And Bible, OpenLP, entre outros);
+- **SQLite** — banco de dados no esquema do OpenLP (cada programa usa o seu próprio esquema SQLite; este é o do [OpenLP](https://openlp.org/));
+- **JSON** — formato aberto, para qualquer outro uso.
 
-> **Onde baixar:** os arquivos prontos ficam em [**Releases**](https://github.com/damarals/biblias/releases). Baixe o pacote da versão desejada e importe no seu programa.
+> **Onde baixar:** os arquivos prontos ficam em [**Releases**](https://github.com/damarals/biblias/releases). Baixe o formato/versão desejado e importe no seu programa.
 
 ## Traduções
 
