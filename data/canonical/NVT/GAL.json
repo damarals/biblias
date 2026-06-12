@@ -1,0 +1,634 @@
+{
+  "id": 48,
+  "code": "GAL",
+  "name": "Gálatas",
+  "abbrev": "Gl",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eu, Paulo, apóstolo, nomeado não por um grupo de pessoas, nem por alguma autoridade humana, mas pelo próprio Jesus Cristo e por Deus, o Pai, que ressuscitou Jesus dos mortos,"
+        },
+        {
+          "number": 2,
+          "text": "escrevo esta carta, com todos os irmãos que estão comigo, às igrejas da Galácia."
+        },
+        {
+          "number": 3,
+          "text": "Que Deus, o Pai, e nosso Senhor Jesus Cristo lhes deem graça e paz."
+        },
+        {
+          "number": 4,
+          "text": "Jesus entregou sua vida por nossos pecados, a fim de nos resgatar deste mundo mau, conforme Deus, nosso Pai, havia planejado."
+        },
+        {
+          "number": 5,
+          "text": "Toda a glória a Deus para todo o sempre! Amém."
+        },
+        {
+          "number": 6,
+          "text": "Admiro-me que vocês estejam se afastando tão depressa daquele que os chamou para si por meio da graça de Cristo. Vocês estão seguindo um caminho diferente que se faz passar pelas boas-novas,"
+        },
+        {
+          "number": 7,
+          "text": "mas que não são boas-novas de maneira nenhuma. Estão sendo perturbados por aqueles que distorcem deliberadamente as boas-novas de Cristo."
+        },
+        {
+          "number": 8,
+          "text": "Que seja amaldiçoado qualquer um, incluindo nós, ou mesmo um anjo do céu, que anunciar boas-novas diferentes das que nós lhes anunciamos."
+        },
+        {
+          "number": 9,
+          "text": "Repito o que disse antes: se alguém anunciar boas-novas diferentes das que vocês receberam, que seja amaldiçoado."
+        },
+        {
+          "number": 10,
+          "text": "Acaso estou tentando conquistar a aprovação das pessoas? Ou será que procuro a aprovação de Deus? Se meu objetivo fosse agradar as pessoas, não seria servo de Cristo."
+        },
+        {
+          "number": 11,
+          "text": "Irmãos, quero que vocês entendam que a mensagem das boas-novas por mim anunciada não provém do raciocínio humano."
+        },
+        {
+          "number": 12,
+          "text": "Não a recebi de fonte humana, e ninguém a ensinou a mim. Ao contrário, eu a recebi por revelação de Jesus Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Vocês sabem como eu era quando seguia a religião judaica, como perseguia com violência a igreja de Deus. Não media esforços para destruí-la."
+        },
+        {
+          "number": 14,
+          "text": "Superava a muitos dos judeus de minha geração, sendo extremamente zeloso pelas tradições de meus antepassados."
+        },
+        {
+          "number": 15,
+          "text": "Contudo, ainda antes de eu nascer, Deus me escolheu e me chamou por sua graça. Foi do agrado dele"
+        },
+        {
+          "number": 16,
+          "text": "revelar seu Filho a mim, para que eu o anunciasse aos gentios. Quando isso aconteceu, não consultei ser humano algum."
+        },
+        {
+          "number": 17,
+          "text": "Tampouco subi a Jerusalém para pedir o conselho daqueles que eram apóstolos antes de mim. Em vez disso, fui à Arábia e depois voltei à cidade de Damasco."
+        },
+        {
+          "number": 18,
+          "text": "Então, passados três anos, fui a Jerusalém para conhecer Pedro, com quem permaneci quinze dias."
+        },
+        {
+          "number": 19,
+          "text": "O único outro apóstolo que vi naquela ocasião foi Tiago, irmão do Senhor."
+        },
+        {
+          "number": 20,
+          "text": "Afirmo diante de Deus que o que lhes escrevo não é mentira."
+        },
+        {
+          "number": 21,
+          "text": "Depois disso, fui às províncias da Síria e da Cilícia."
+        },
+        {
+          "number": 22,
+          "text": "As igrejas em Cristo que estão na Judeia ainda não me conheciam pessoalmente."
+        },
+        {
+          "number": 23,
+          "text": "Sabiam apenas o que as pessoas diziam: “Aquele que nos perseguia agora anuncia a mesma fé que antes tentava destruir”."
+        },
+        {
+          "number": 24,
+          "text": "E louvavam a Deus por minha causa."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Catorze anos depois, voltei a Jerusalém, dessa vez com Barnabé, e Tito também nos acompanhou."
+        },
+        {
+          "number": 2,
+          "text": "Fui para lá por causa de uma revelação. Reuni-me em particular com os líderes e compartilhei com eles as boas-novas que tenho anunciado aos gentios. Queria me certificar de que estávamos de acordo, pois temia que meus esforços, anteriores e presentes, fossem considerados inúteis."
+        },
+        {
+          "number": 3,
+          "text": "Mas eles me apoiaram e nem sequer exigiram que Tito, que me acompanhava, fosse circuncidado, embora fosse gentio."
+        },
+        {
+          "number": 4,
+          "text": "Essa questão foi levantada apenas por causa de alguns falsos irmãos que se infiltraram em nosso meio para nos espionar e nos tirar a liberdade que temos em Cristo Jesus. Sua intenção era nos escravizar,"
+        },
+        {
+          "number": 5,
+          "text": "mas não cedemos a eles nem por um momento, a fim de preservar a verdade das boas-novas para vocês."
+        },
+        {
+          "number": 6,
+          "text": "Quanto aos líderes — cuja reputação, a propósito, não fez diferença alguma para mim, pois Deus não age com favoritismo — , nada tiveram a acrescentar àquilo que eu pregava."
+        },
+        {
+          "number": 7,
+          "text": "Ao contrário, viram que me havia sido confiada a responsabilidade de anunciar as boas-novas aos gentios, assim como a Pedro tinha sido confiada a responsabilidade de anunciar as boas-novas aos judeus."
+        },
+        {
+          "number": 8,
+          "text": "Pois o mesmo Deus que atuou por meio de Pedro como apóstolo aos judeus também atuou por meu intermédio como apóstolo aos gentios."
+        },
+        {
+          "number": 9,
+          "text": "De fato, Tiago, Pedro e João, tidos como colunas, reconheceram a graça que me foi dada e aceitaram Barnabé e a mim como seus colaboradores. Eles nos incentivaram a dar continuidade à pregação aos gentios, enquanto eles prosseguiriam no trabalho com os judeus."
+        },
+        {
+          "number": 10,
+          "text": "Sua única sugestão foi que continuássemos a ajudar os pobres, o que sempre fiz com dedicação."
+        },
+        {
+          "number": 11,
+          "text": "Mas, quando Pedro veio a Antioquia, tive de opor-me a ele abertamente, pois o que ele fez foi muito errado."
+        },
+        {
+          "number": 12,
+          "text": "No começo, quando chegou, ele comia com os gentios. Mais tarde, porém, quando vieram alguns amigos de Tiago, começou a se afastar, com medo daqueles que insistiam na necessidade de circuncisão."
+        },
+        {
+          "number": 13,
+          "text": "Como resultado, outros judeus imitaram a hipocrisia de Pedro, e até mesmo Barnabé se deixou levar por ela."
+        },
+        {
+          "number": 14,
+          "text": "Quando vi que não estavam seguindo a verdade das boas-novas, disse a Pedro diante de todos: “Se você, que é judeu de nascimento, vive como gentio, e não como judeu, por que agora obriga esses gentios a viverem como judeus?"
+        },
+        {
+          "number": 15,
+          "text": "Você e eu somos judeus de nascimento, e não pecadores, como os judeus consideram os gentios."
+        },
+        {
+          "number": 16,
+          "text": "E, no entanto, sabemos que uma pessoa é declarada justa diante de Deus pela fé em ­Jesus Cristo, e não pela obediência à lei. E cremos em Cristo Jesus, para que fôssemos declarados justos pela fé em Cristo, e não porque obedecemos à lei. Pois ninguém é declarado justo diante de Deus pela obediência à lei”."
+        },
+        {
+          "number": 17,
+          "text": "Mas, se a busca da justiça por meio de Cristo nos torna culpados de abandonar a lei, isso torna Cristo responsável por nosso pecado? De maneira nenhuma!"
+        },
+        {
+          "number": 18,
+          "text": "Se, pois, reconstruo o antigo sistema da lei que já destruí, então faço de mim mesmo transgressor da lei."
+        },
+        {
+          "number": 19,
+          "text": "Pois, quando procurei viver por meio da lei, ela me condenou. Portanto, morri para a lei a fim de viver para Deus."
+        },
+        {
+          "number": 20,
+          "text": "Fui crucificado com Cristo; assim, já não sou eu quem vive, mas Cristo vive em mim. Portanto, vivo neste corpo terreno pela fé no Filho de Deus, que me amou e se entregou por mim."
+        },
+        {
+          "number": 21,
+          "text": "Não considero a graça de Deus algo sem sentido. Pois, se a obediência à lei nos tornasse justos diante de Deus, não haveria necessidade alguma de Cristo morrer."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ó gálatas insensatos! Quem os enfeitiçou? Jesus Cristo não lhes foi explicado tão claramente como se tivessem visto com os próprios olhos a morte dele na cruz?"
+        },
+        {
+          "number": 2,
+          "text": "Deixem-me perguntar apenas uma coisa: vocês receberam o Espírito porque obedeceram à lei ou porque creram na mensagem que ouviram?"
+        },
+        {
+          "number": 3,
+          "text": "Será que perderam o juízo? Tendo começado no Espírito, por que agora procuram tornar-se perfeitos por seus próprios esforços?"
+        },
+        {
+          "number": 4,
+          "text": "Será que foi à toa que passaram por tantos sofrimentos? É claro que não foi à toa!"
+        },
+        {
+          "number": 5,
+          "text": "Volto a perguntar: acaso aquele que lhes deu o Espírito e realizou milagres entre vocês agiu assim porque vocês obedeceram à lei ou porque creram na mensagem que ouviram?"
+        },
+        {
+          "number": 6,
+          "text": "Da mesma forma, “Abraão creu em Deus, e assim foi considerado justo”."
+        },
+        {
+          "number": 7,
+          "text": "Logo, os verdadeiros filhos de Abraão são aqueles que creem."
+        },
+        {
+          "number": 8,
+          "text": "As Escrituras previram esse tempo em que Deus declararia os gentios justos por meio da fé. Ele anunciou essas boas-novas a Abraão há muito tempo, quando disse: “Todas as nações da terra serão abençoadas por seu intermédio”."
+        },
+        {
+          "number": 9,
+          "text": "Portanto, todos os que creem participam da mesma bênção que Abraão recebeu por crer."
+        },
+        {
+          "number": 10,
+          "text": "Contudo, os que confiam na lei para serem declarados justos estão sob maldição, pois as Escrituras dizem: “Maldito quem não se mantiver obediente a tudo que está escrito no Livro da Lei”."
+        },
+        {
+          "number": 11,
+          "text": "É evidente, portanto, que ninguém pode ser declarado justo diante de Deus pela lei. Pois as Escrituras dizem: “O justo viverá pela fé”."
+        },
+        {
+          "number": 12,
+          "text": "A lei, porém, não é baseada na fé, pois diz: “Quem obedece à lei viverá por ela”."
+        },
+        {
+          "number": 13,
+          "text": "Mas Cristo nos resgatou da maldição pronunciada pela lei tomando sobre si a maldição por nossas ofensas. Pois as Escrituras dizem: “Maldito todo aquele que é pendurado num madeiro”."
+        },
+        {
+          "number": 14,
+          "text": "Por meio de Cristo Jesus, os gentios foram abençoados com a mesma bênção de Abraão, para que recebêssemos, pela fé, o Espírito prometido."
+        },
+        {
+          "number": 15,
+          "text": "Irmãos, apresento-lhes um exemplo da vida diária. Ninguém pode anular ou fazer acréscimos a uma aliança irrevogável."
+        },
+        {
+          "number": 16,
+          "text": "Pois bem, Deus fez a promessa a Abraão e a seu descendente. Observem que as Escrituras não dizem “a seus descendentes”, como se fosse uma referência a muitos, mas sim “a seu descendente”, isto é, Cristo."
+        },
+        {
+          "number": 17,
+          "text": "É isto que quero dizer: a lei, que veio 430 anos depois, não pode anular a aliança que Deus estabeleceu com Abraão, pois nesse caso a promessa seria quebrada."
+        },
+        {
+          "number": 18,
+          "text": "Portanto, se a herança pudesse ser recebida pela obediência à lei, ela não viria pela aceitação da promessa. No entanto, Deus, em sua bondade, a concedeu a Abraão como promessa."
+        },
+        {
+          "number": 19,
+          "text": "Qual era, então, o propósito da lei? Ela foi acrescentada à promessa para mostrar às pessoas seus pecados. Mas a lei deveria durar apenas até a vinda do descendente prometido. Por meio de anjos, a lei foi entregue a um mediador."
+        },
+        {
+          "number": 20,
+          "text": "O mediador, porém, só é necessário quando dois ou mais precisam chegar a um acordo, e Deus é um só."
+        },
+        {
+          "number": 21,
+          "text": "Existe, portanto, algum conflito entre a lei e as promessas de Deus? De maneira nenhuma! Se a lei fosse capaz de nos conceder nova vida, seríamos declarados justos pela obediência a ela."
+        },
+        {
+          "number": 22,
+          "text": "Mas as Escrituras afirmam que somos todos prisioneiros do pecado, de modo que nós, os que cremos, recebemos a promessa de libertação apenas pela fé em Jesus Cristo."
+        },
+        {
+          "number": 23,
+          "text": "Antes que o caminho da fé se tornasse disponível, fomos colocados sob a custódia da lei e mantidos sob a sua guarda, até que essa fé fosse revelada."
+        },
+        {
+          "number": 24,
+          "text": "Em outras palavras, a lei foi nosso guardião até a vinda de Cristo; ela nos protegeu até que, por meio da fé, pudéssemos ser declarados justos."
+        },
+        {
+          "number": 25,
+          "text": "Agora que veio o caminho da fé, não precisamos mais da lei como guardião."
+        },
+        {
+          "number": 26,
+          "text": "Pois todos vocês são filhos de Deus por meio da fé em Cristo Jesus."
+        },
+        {
+          "number": 27,
+          "text": "Todos que foram unidos com Cristo no batismo se revestiram de Cristo."
+        },
+        {
+          "number": 28,
+          "text": "Não há mais judeu nem gentio, escravo nem livre, homem nem mulher, pois todos vocês são um em Cristo Jesus."
+        },
+        {
+          "number": 29,
+          "text": "E agora que pertencem a Cristo, são verdadeiros filhos de Abraão, herdeiros dele segundo a promessa de Deus."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Portanto, pensem da seguinte forma: enquanto não atingir a idade adequada, o herdeiro não está numa posição muito melhor que a de um escravo, apesar de ser dono de todos os bens."
+        },
+        {
+          "number": 2,
+          "text": "Deve obedecer a seus tutores e administradores até a idade determinada por seu pai."
+        },
+        {
+          "number": 3,
+          "text": "O mesmo acontecia conosco. Éramos como crianças; éramos escravos dos princípios básicos deste mundo."
+        },
+        {
+          "number": 4,
+          "text": "Mas, quando chegou o tempo certo, Deus enviou seu Filho, nascido de uma mulher e sob a lei."
+        },
+        {
+          "number": 5,
+          "text": "Assim o fez para resgatar a nós que estávamos sob a lei, a fim de nos adotar como seus filhos."
+        },
+        {
+          "number": 6,
+          "text": "E, porque nós somos seus filhos, Deus enviou ao nosso coração o Espírito de seu Filho, e por meio dele clamamos: “Aba, Pai”."
+        },
+        {
+          "number": 7,
+          "text": "Agora você já não é escravo, mas filho de Deus. E, uma vez que é filho, Deus o tornou herdeiro dele."
+        },
+        {
+          "number": 8,
+          "text": "Antes de conhecerem a Deus, vocês eram escravos de supostos deuses que, na verdade, nem existem."
+        },
+        {
+          "number": 9,
+          "text": "Agora que conhecem a Deus, ou melhor, agora que Deus os conhece, por que desejam voltar atrás e tornar-se novamente escravos dos frágeis e inúteis princípios básicos deste mundo?"
+        },
+        {
+          "number": 10,
+          "text": "Vocês insistem em guardar certos dias, meses, estações ou anos."
+        },
+        {
+          "number": 11,
+          "text": "Temo por vocês. Talvez meu árduo trabalho em seu favor tenha sido inútil."
+        },
+        {
+          "number": 12,
+          "text": "Irmãos, peço-lhes que sejam como eu, pois eu também sou como vocês. E vocês não me trataram mal"
+        },
+        {
+          "number": 13,
+          "text": "e certamente se lembram de que eu estava doente quando lhes anunciei as boas-novas pela primeira vez."
+        },
+        {
+          "number": 14,
+          "text": "Embora minha saúde precária fosse uma tentação para me rejeitarem, vocês não me desprezaram nem me mandaram embora. Ao contrário, acolheram-me e cuidaram de mim como se eu fosse um anjo de Deus, ou mesmo o próprio Cristo Jesus."
+        },
+        {
+          "number": 15,
+          "text": "Que aconteceu com a alegria que vocês demonstraram naquela ocasião? Estou certo de que, se fosse possível, teriam arrancado os próprios olhos e os teriam dado a mim."
+        },
+        {
+          "number": 16,
+          "text": "Acaso me tornei inimigo de vocês porque lhes digo a verdade?"
+        },
+        {
+          "number": 17,
+          "text": "Esses falsos mestres estão extremamente ansiosos para agradá-los, mas suas intenções não são boas. Querem afastá-los de mim para que dependam deles."
+        },
+        {
+          "number": 18,
+          "text": "Se alguém deseja agradá-los, muito bem; mas que o faça sempre, e não só quando estou com vocês."
+        },
+        {
+          "number": 19,
+          "text": "Ó meus filhos queridos, sinto como se estivesse passando outra vez pelas dores de parto por sua causa, e elas continuarão até que Cristo seja plenamente desenvolvido em vocês."
+        },
+        {
+          "number": 20,
+          "text": "Gostaria de poder estar aí com vocês para lhes falar em outro tom. Mas, distante como estou, não sei o que mais fazer para ajudá-los."
+        },
+        {
+          "number": 21,
+          "text": "Digam-me, vocês que desejam viver debaixo da lei: acaso sabem o que a lei diz de fato?"
+        },
+        {
+          "number": 22,
+          "text": "De acordo com as Escrituras, Abraão teve dois filhos, um nascido de uma escrava e outro de sua esposa, que era livre."
+        },
+        {
+          "number": 23,
+          "text": "O filho da escrava nasceu segundo a vontade humana; o filho da mulher livre nasceu segundo a promessa."
+        },
+        {
+          "number": 24,
+          "text": "Essas duas mulheres ilustram duas alianças. A primeira, Hagar, representa o monte Sinai, onde o povo recebeu a lei que o escravizou."
+        },
+        {
+          "number": 25,
+          "text": "E Hagar, que é o monte Sinai, na Arábia, representa a Jerusalém de agora, pois ela e seus filhos vivem sob a escravidão da lei."
+        },
+        {
+          "number": 26,
+          "text": "A segunda, Sara, representa a Jerusalém celestial. Ela é a mulher livre, e é nossa mãe."
+        },
+        {
+          "number": 27,
+          "text": "Como dizem as Escrituras: “Alegre-se, mulher sem filhos, você que nunca deu à luz! Grite de alegria, você que nunca esteve em trabalho de parto! Pois a abandonada agora tem mais filhos que a mulher que vive com o marido”."
+        },
+        {
+          "number": 28,
+          "text": "E vocês, irmãos, são filhos da promessa, como Isaque."
+        },
+        {
+          "number": 29,
+          "text": "Ismael, o filho nascido da vontade humana, perseguiu Isaque, o filho nascido do poder do Espírito, e o mesmo ocorre agora."
+        },
+        {
+          "number": 30,
+          "text": "Mas o que dizem as Escrituras sobre isso? “Livre-se da escrava e do filho dela, pois o filho da escrava não será herdeiro junto com o filho da mulher livre.”"
+        },
+        {
+          "number": 31,
+          "text": "Portanto, irmãos, não somos filhos da escrava; somos filhos da mulher livre."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Portanto, permaneçam firmes nessa liberdade, pois Cristo verdadeiramente nos libertou. Não se submetam novamente à escravidão da lei."
+        },
+        {
+          "number": 2,
+          "text": "Prestem atenção! Eu, Paulo, lhes digo: se vocês se deixarem ser circuncidados, Cristo de nada lhes servirá."
+        },
+        {
+          "number": 3,
+          "text": "Volto a dizer: todo aquele que se deixa ser circuncidado deve obedecer a toda a lei."
+        },
+        {
+          "number": 4,
+          "text": "Pois, se vocês procuram tornar-se justos diante de Deus pelo cumprimento da lei, foram separados de Cristo e caíram para longe da graça."
+        },
+        {
+          "number": 5,
+          "text": "Mas nós que vivemos pelo Espírito esperamos ansiosamente receber pela fé a justiça que Deus nos prometeu."
+        },
+        {
+          "number": 6,
+          "text": "Pois, em Cristo Jesus, não há benefício algum em ser ou não circuncidado. O que importa é a fé que se expressa pelo amor."
+        },
+        {
+          "number": 7,
+          "text": "Vocês estavam indo bem na corrida; quem os impediu de seguir a verdade?"
+        },
+        {
+          "number": 8,
+          "text": "Certamente não foi Deus quem os levou a pensar assim, pois ele os chamou para serem livres."
+        },
+        {
+          "number": 9,
+          "text": "Um pouco de fermento se espalha por toda a massa."
+        },
+        {
+          "number": 10,
+          "text": "Confio que o Senhor os guardará de crer em falsos ensinamentos. Aquele que os perturbar, seja ele quem for, será julgado."
+        },
+        {
+          "number": 11,
+          "text": "Irmãos, se eu ainda prego que vocês devem ser circuncidados, como dizem alguns, por que continuo a ser perseguido? Se eu não pregasse a salvação exclusivamente por meio da cruz, ninguém se ofenderia."
+        },
+        {
+          "number": 12,
+          "text": "Esses sujeitos que os perturbam deveriam castrar a si mesmos!"
+        },
+        {
+          "number": 13,
+          "text": "Porque vocês, irmãos, foram chamados para viver em liberdade. Não a usem, porém, para satisfazer sua natureza humana. Ao contrário, usem-na para servir uns aos outros em amor."
+        },
+        {
+          "number": 14,
+          "text": "Pois toda a lei pode ser resumida neste único mandamento: “Ame o seu próximo como a si mesmo”."
+        },
+        {
+          "number": 15,
+          "text": "Mas, se vocês estão sempre mordendo e devorando uns aos outros, tenham cuidado, pois correm o risco de se destruírem."
+        },
+        {
+          "number": 16,
+          "text": "Por isso digo: deixem que o Espírito guie sua vida. Assim, não satisfarão os anseios de sua natureza humana."
+        },
+        {
+          "number": 17,
+          "text": "A natureza humana deseja fazer exatamente o oposto do que o Espírito quer, e o Espírito nos impele na direção contrária àquela desejada pela natureza humana. Essas duas forças se confrontam o tempo todo, de modo que vocês não têm liberdade de pôr em prática o que intentam fazer."
+        },
+        {
+          "number": 18,
+          "text": "Quando, porém, são guiados pelo Espírito, não estão debaixo da lei."
+        },
+        {
+          "number": 19,
+          "text": "Quando seguem os desejos da natureza humana, os resultados são extremamente claros: imoralidade sexual, impureza, sensualidade,"
+        },
+        {
+          "number": 20,
+          "text": "idolatria, feitiçaria, hostilidade, discórdias, ciúmes, acessos de raiva, ambições egoístas, dissensões, divisões,"
+        },
+        {
+          "number": 21,
+          "text": "inveja, bebedeiras, festanças desregradas e outros pecados semelhantes. Repito o que disse antes: quem pratica essas coisas não herdará o reino de Deus."
+        },
+        {
+          "number": 22,
+          "text": "Mas o Espírito produz este fruto: amor, alegria, paz, paciência, amabilidade, bondade, fidelidade,"
+        },
+        {
+          "number": 23,
+          "text": "mansidão e domínio próprio. Não há lei contra essas coisas!"
+        },
+        {
+          "number": 24,
+          "text": "Aqueles que pertencem a Cristo Jesus crucificaram as paixões e os desejos de sua natureza humana."
+        },
+        {
+          "number": 25,
+          "text": "Uma vez que vivemos pelo Espírito, sigamos a direção do Espírito em todas as áreas de nossa vida."
+        },
+        {
+          "number": 26,
+          "text": "Não nos tornemos orgulhosos, provocando e invejando uns aos outros."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Irmãos, se alguém for vencido por algum pecado, vocês que são guiados pelo Espírito devem, com mansidão, ajudá-lo a voltar ao caminho certo. E cada um cuide para não ser tentado."
+        },
+        {
+          "number": 2,
+          "text": "Ajudem a levar os fardos uns dos outros e obedeçam, desse modo, à lei de Cristo."
+        },
+        {
+          "number": 3,
+          "text": "Se vocês se consideram importantes demais para ajudar os outros, estão apenas enganando a si mesmos."
+        },
+        {
+          "number": 4,
+          "text": "Cada um preste muita atenção em seu trabalho, pois então terá a satisfação de havê-lo feito bem e não precisará se comparar com os outros."
+        },
+        {
+          "number": 5,
+          "text": "Porque cada um de nós é responsável pela própria conduta."
+        },
+        {
+          "number": 6,
+          "text": "Aqueles que recebem o ensino da palavra devem repartir com seus mestres todas as coisas boas."
+        },
+        {
+          "number": 7,
+          "text": "Não se deixem enganar: ninguém pode zombar de Deus. A pessoa sempre colherá aquilo que semear."
+        },
+        {
+          "number": 8,
+          "text": "Quem vive apenas para satisfazer sua natureza humana colherá dessa natureza ruína e morte. Mas quem vive para agradar o Espírito colherá do Espírito a vida eterna."
+        },
+        {
+          "number": 9,
+          "text": "Portanto, não nos cansemos de fazer o bem. No momento certo, teremos uma colheita de bênçãos, se não desistirmos."
+        },
+        {
+          "number": 10,
+          "text": "Por isso, sempre que tivermos oportunidade, façamos o bem a todos, especialmente aos da família da fé."
+        },
+        {
+          "number": 11,
+          "text": "Vejam com que letras grandes lhes escrevo, de próprio punho, estas palavras finais!"
+        },
+        {
+          "number": 12,
+          "text": "Aqueles que procuram obrigá-los a se circuncidarem desejam causar boa impressão para outros, a fim de não serem perseguidos por ensinar que somente a cruz de Cristo pode salvar."
+        },
+        {
+          "number": 13,
+          "text": "E nem mesmo aqueles que defendem a circuncisão cumprem toda a lei. Querem que vocês sejam circuncidados só para que eles se gloriem disso."
+        },
+        {
+          "number": 14,
+          "text": "Quanto a mim, que eu jamais me glorie em qualquer coisa, a não ser na cruz de nosso Senhor Jesus Cristo. Por causa dessa cruz meu interesse neste mundo foi crucificado, e o interesse do mundo em mim também morreu."
+        },
+        {
+          "number": 15,
+          "text": "Não importa se fomos circuncidados ou não. O que importa é que fomos transformados em nova criação."
+        },
+        {
+          "number": 16,
+          "text": "Que a paz e a miseri­córdia de Deus estejam sobre todos os que vivem de acordo com esse princípio e sobre o Israel de Deus."
+        },
+        {
+          "number": 17,
+          "text": "De agora em diante, que ninguém me perturbe com essas coisas, pois levo em meu corpo cicatrizes que mostram que pertenço a Jesus."
+        },
+        {
+          "number": 18,
+          "text": "Irmãos, que a graça de nosso Senhor Jesus Cristo esteja com o espírito de vocês. Amém."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "id": 21,
+  "code": "ECC",
+  "name": "Eclesiastes",
+  "abbrev": "Ec",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eis as palavras de Cohéllet ben David, o mestre, filho de Davi, rei de Jerusalém:"
+        },
+        {
+          "number": 2,
+          "text": "“Que grande ilusão! Que grande inutilidade! Nada faz sentido!”, diz o sábio."
+        },
+        {
+          "number": 3,
+          "text": "Que vantagem tem o ser humano em todo o seu trabalho, em que tanto se dedica debaixo do sol?"
+        },
+        {
+          "number": 4,
+          "text": "Gerações nascem e gerações morrem, mas a terra permanece sempre do mesmo jeito."
+        },
+        {
+          "number": 5,
+          "text": "O sol se levanta no horizonte e ao fim do dia se põe, e depressa volta ao lugar de onde se levanta para um novo dia."
+        },
+        {
+          "number": 6,
+          "text": "Os ventos sopram para o sul, depois viram para o norte; dão voltas e mais voltas e cessam no ponto de partida."
+        },
+        {
+          "number": 7,
+          "text": "Todos os rios correm para o mar; contudo, o mar nunca se enche; ainda que sempre se dirijam para o mar, para lá voltam a correr."
+        },
+        {
+          "number": 8,
+          "text": "Todas as atividades humanas geram cansaço. Nenhum ser humano é capaz de dar uma boa explicação sobre isso. Mas os olhos nunca se saciam de ver, nem os ouvidos de escutar."
+        },
+        {
+          "number": 9,
+          "text": "O que foi voltará a ser, o que aconteceu, ocorrerá de novo, o que foi feito se fará outra vez; não existe nada de novo debaixo do sol."
+        },
+        {
+          "number": 10,
+          "text": "Será que há algo do qual se possa dizer: ‘Vê! De fato, isto é absolutamente inédito?’ Não! Já existiu em épocas anteriores à nossa."
+        },
+        {
+          "number": 11,
+          "text": "Ninguém se lembra dos que viveram na antiguidade. Não há recordações do que aconteceu no passado, e mesmo o que ainda vier a ocorrer de significativo não será lembrado por todos que vierem depois disso."
+        },
+        {
+          "number": 12,
+          "text": "Eu, Cohéllet, o sábio, fui rei de Israel em Jerusalém."
+        },
+        {
+          "number": 13,
+          "text": "Empreguei todo o meu coração a investigar e a fazer uso do saber para explorar tudo o que é realizado debaixo dos céus. Que fardo pesado Deus colocou sobre os ombros dos seres humanos para dele se atarefarem."
+        },
+        {
+          "number": 14,
+          "text": "Examinei todas as obras que se fazem debaixo do sol e cheguei à conclusão de que tudo é inútil, é como uma corrida sem fim atrás do vento!"
+        },
+        {
+          "number": 15,
+          "text": "Não se pode endireitar o que é torto; da mesma maneira que não se pode contar o que está faltando!"
+        },
+        {
+          "number": 16,
+          "text": "Então fiquei meditando: ‘Ora, aqui estou eu com tanto conhecimento acumulado que ultrapassa a sabedoria dos meus predecessores em Jerusalém; minha mente alcançou o ponto mais alto do entendimento e do saber."
+        },
+        {
+          "number": 17,
+          "text": "Por esse motivo me esforcei ao máximo para compreender a sabedoria, bem como a loucura e a insensatez; contudo, o que aprendi, de fato, é que isso igualmente é correr atrás do vento.’"
+        },
+        {
+          "number": 18,
+          "text": "Afinal, quanto maior o saber, maior o sofrimento; e quanto maior o entendimento maior o desgosto.”"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eu disse a mim mesmo: ‘Pois bem, eu te farei experimentar o prazer em toda a sua intensidade e conhecer as grandes alegrias da vida!’ Contudo, isso também se demonstrou algo inútil, mais uma vaidade."
+        },
+        {
+          "number": 2,
+          "text": "Só me fez concluir que do riso o que sobra é a tolice; e da alegria, o que resulta é o vazio."
+        },
+        {
+          "number": 3,
+          "text": "Então decidi entregar-me aos vinhos e à extravagância, procurando, entretanto, manter mente e coração sob a liderança da sabedoria. Eu desejava descobrir o que, de fato, vale a pena debaixo dos céus, durante esses poucos anos que um ser humano vive sobre a terra."
+        },
+        {
+          "number": 4,
+          "text": "Depois concentrei-me no trabalho de edificar obras magníficas: construí palácios para mim mesmo e plantei imensos vinhedos."
+        },
+        {
+          "number": 5,
+          "text": "Projetei e mandei construir belos jardins e pomares e neles plantei todo tipo de árvore frutífera."
+        },
+        {
+          "number": 6,
+          "text": "Construí grandes reservatórios de água para irrigar os meus muitos bosques verdejantes."
+        },
+        {
+          "number": 7,
+          "text": "Comprei uma infinidade de escravos e escravas e muitos foram os escravos que nasceram em minhas terras. Além de toda essa criadagem, tive mais bois e ovelhas do que todos os que viveram antes de mim em Jerusalém."
+        },
+        {
+          "number": 8,
+          "text": "Acumulei para mim prata e ouro, riquezas sem conta dos reis e das províncias. Escolhi os melhores cantores e cantoras, e servi-me de um imenso harém, experimentei os maiores prazeres que um ser humano pode sonhar."
+        },
+        {
+          "number": 9,
+          "text": "Tornei-me mais poderoso e famoso do que todos os governantes que viveram em Jerusalém antes de mim, sempre me mantendo junto ao meu saber."
+        },
+        {
+          "number": 10,
+          "text": "De tudo quanto meus olhos e meu corpo desejaram não lhes neguei nada; jamais privei meu coração de alegria alguma; sabia desfrutar de todo o meu trabalho; essa, pois, foi a recompensa que obtive de todo o trabalho que realizei dedicadamente."
+        },
+        {
+          "number": 11,
+          "text": "Contudo, no momento em que passei a examinar tudo o que minhas mãos haviam produzido e o trabalho que eu tanto me esforçara com alegria para realizar, compreendi que, na verdade, tudo não passava de vaidade, um inútil e enorme vazio, como correr atrás do vento; ou seja, não há qualquer valor real, nada útil, em tudo o que se faz debaixo do sol."
+        },
+        {
+          "number": 12,
+          "text": "Contudo, comecei a refletir sobre a relação que há entre a sabedoria e a loucura. Ora, o que pode realizar o sucessor de um rei, a não ser repetir o que já foi feito?"
+        },
+        {
+          "number": 13,
+          "text": "Observei que a sabedoria é mais proveitosa do que a insensatez, assim como a luz é mais benéfica que as trevas."
+        },
+        {
+          "number": 14,
+          "text": "Entendi que o sábio tem olhos que enxergam melhor e além, mas o tolo tateia pelas trevas; entretanto, notei que ambos têm a mesma sorte."
+        },
+        {
+          "number": 15,
+          "text": "Diante disso, pensei mais profundamente: ‘Ora, se o que acontece ao insensato acabará ocorrendo comigo, que proveito tive eu em alcançar a sabedoria?’ Então retruquei a mim mesmo: ‘Vê! Isso, semelhante a tudo mais, é pura vaidade, não faz sentido!’"
+        },
+        {
+          "number": 16,
+          "text": "Assim, nem o sábio nem o insensato serão lembrados para sempre pelas gerações futuras, ambos serão simplesmente esquecidos no tempo. Mas como pode o sábio morrer da mesma maneira que o insensato?"
+        },
+        {
+          "number": 17,
+          "text": "Detesto a vida, pois vejo que a obra que se realiza debaixo do sol é árdua e desagradável. Tudo é um vazio só, correr atrás do vento."
+        },
+        {
+          "number": 18,
+          "text": "Detesto todo o trabalho com que me afadigo diariamente, pois, se tenho que deixar tudo ao meu sucessor,"
+        },
+        {
+          "number": 19,
+          "text": "quem sabe se ele será um homem sábio ou néscio? Todavia, ele será o verdadeiro dono de todo o trabalho que realizei com extremo esforço e sabedoria debaixo do sol; e isso também não faz o menor sentido, é vazio."
+        },
+        {
+          "number": 20,
+          "text": "Desprezei a vida e entreguei meu coração ao desespero, tudo por causa do trabalho em que tanto me esforcei debaixo do sol, para concluir que foi nulo. Ora, tudo é um absurdo!"
+        },
+        {
+          "number": 21,
+          "text": "Há quem trabalhe com sabedoria, conhecimento e sucesso, e deixe sua porção como herança a outro que não trabalhou. Isso também é vaidade e grande injustiça."
+        },
+        {
+          "number": 22,
+          "text": "Sendo assim, o que resta ao homem de todo o trabalho e ansiedade com que o seu coração se afadigou debaixo do sol?"
+        },
+        {
+          "number": 23,
+          "text": "Durante todos os seus anos de vida, o trabalho humano é pura dor e tristeza; mesmo durante à noite a sua mente não repousa tranquila. Isso, de igual modo, é nulidade e vazio."
+        },
+        {
+          "number": 24,
+          "text": "Para o homem não existe nada melhor do que comer, beber e se alegrar no trabalho que realiza. Contudo, compreendi que mesmo estes prazeres só podem ser concedidos pelas mãos de Deus,"
+        },
+        {
+          "number": 25,
+          "text": "pois quem pode comer, beber, trabalhar ou ter alegrias sem que tudo isso venha de Deus?"
+        },
+        {
+          "number": 26,
+          "text": "Deus concede sabedoria, entendimento e felicidade às pessoas que nele têm o seu prazer. Quanto ao pecador, Deus o encarrega de ajuntar e armazenar riquezas para entregá-las a quem o agrada. Também isto é vão e frustrante."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Para todas as realizações há um momento certo; existe sempre um tempo apropriado para todo o propósito debaixo do céu."
+        },
+        {
+          "number": 2,
+          "text": "Há o tempo de nascer e a época de morrer, tempo de plantar e o tempo de arrancar o que se plantou,"
+        },
+        {
+          "number": 3,
+          "text": "tempo de matar e tempo de curar, tempo de derrubar e tempo de edificar,"
+        },
+        {
+          "number": 4,
+          "text": "tempo de chorar e tempo de rir, tempo de lamentar e tempo de dançar,"
+        },
+        {
+          "number": 5,
+          "text": "tempo de atirar pedras e tempo de guardar as pedras; tempo de abraçar e tempo de se apartar do abraço,"
+        },
+        {
+          "number": 6,
+          "text": "tempo de buscar, e tempo de desistir, tempo de conservar e tempo de jogar fora,"
+        },
+        {
+          "number": 7,
+          "text": "tempo de rasgar, e tempo de costurar; tempo de ficar quieto e tempo de expressar o que se sente,"
+        },
+        {
+          "number": 8,
+          "text": "tempo de amar e tempo de odiar, tempo de lutar e tempo de estabelecer a paz."
+        },
+        {
+          "number": 9,
+          "text": "Que proveito o trabalhador tira de sua fadiga diária?"
+        },
+        {
+          "number": 10,
+          "text": "Observo a tarefa que Deus deu aos seres humanos para que dela se ocupem."
+        },
+        {
+          "number": 11,
+          "text": "Ele fez tudo apropriado ao seu tempo. Também colocou no coração do homem o desejo profundo pela eternidade; contudo, o ser humano não consegue perceber completamente o que Deus realizou."
+        },
+        {
+          "number": 12,
+          "text": "Sendo assim, compreendi que não pode haver felicidade para o homem a não ser a de alegrar-se e fazer o bem durante toda a sua vida."
+        },
+        {
+          "number": 13,
+          "text": "E, descobri também que a própria condição de comer, beber e desfrutar das recompensas pelo seu trabalho é um presente de Deus."
+        },
+        {
+          "number": 14,
+          "text": "Compreendi ainda que tudo o que Deus faz dura para sempre: ao que Deus criou nada se pode acrescentar, de igual modo, nada se pode subtrair. Esse é o método de Deus para fazer com que a humanidade o ame reverentemente."
+        },
+        {
+          "number": 15,
+          "text": "Assim, tudo o que há, já havia existido; o que será, já existiu antigamente; Deus pode renovar o que já passou!"
+        },
+        {
+          "number": 16,
+          "text": "Observei que debaixo do sol: ‘No lugar da justiça prevalece a malignidade, no lugar da honestidade, domina a impiedade.’"
+        },
+        {
+          "number": 17,
+          "text": "Então, passei a refletir: ‘Ao justo e ao perverso Deus os julgará, porque aqui na terra há uma época apropriada para todo o propósito e um lugar para cada ação!’"
+        },
+        {
+          "number": 18,
+          "text": "Quanto à humanidade penso assim: ‘Deus prova os homens para que percebam que são tão mortais quanto os animais!"
+        },
+        {
+          "number": 19,
+          "text": "Porquanto a sorte do ser humano e a do animal é idêntica: como morre um, assim morre o outro, e ambos têm o mesmo espírito, o mesmo fôlego de vida; de fato, o ser humano não tem vantagem alguma sobre os animais. E, assim, tudo não passa de uma grande ilusão!"
+        },
+        {
+          "number": 20,
+          "text": "Tudo e todos se dirigem para o mesmo fim: tudo vem do pó e tudo retorna ao pó."
+        },
+        {
+          "number": 21,
+          "text": "Quem pode afirmar que o alento, o espírito humano, sobe às alturas e que o fôlego do animal desce à terra?"
+        },
+        {
+          "number": 22,
+          "text": "Considerando tudo isso, cheguei à conclusão de que não existe nada melhor para o ser humano do que ser feliz no trabalho que realiza e desfrutar dos seus resultados; afinal essa é a sua recompensa. Porquanto, quem de nós tem o poder de saber o que vai acontecer depois da nossa morte?"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fiz nova análise e observei as opressões todas que se cometem debaixo do sol: Vi as lágrimas dos oprimidos, e notei que eles não têm quem os console; o poder está à disposição dos opressores em toda parte, e os oprimidos não encontram quem lhes dê apoio."
+        },
+        {
+          "number": 2,
+          "text": "Isso me levou a considerar os mortos mais felizes do que os vivos, pois estes ainda têm que atravessar a vida!"
+        },
+        {
+          "number": 3,
+          "text": "Todavia, mais feliz que ambos é aquele que ainda não nasceu, que não viu e não teve contato com a malignidade que se pratica debaixo do sol."
+        },
+        {
+          "number": 4,
+          "text": "Observei também que todo trabalho e todo êxito ocorre porque há uma competição entre companheiros. Isso também é vazio e um despropósito tal como correr atrás do vento."
+        },
+        {
+          "number": 5,
+          "text": "O insensato cruza os braços e se deixa consumir a si mesmo."
+        },
+        {
+          "number": 6,
+          "text": "Muito mais vale conquistar um punhado com paz e tranquilidade do que dois punhados em desatino, correndo atrás do vento."
+        },
+        {
+          "number": 7,
+          "text": "Descobri ainda outra situação louca debaixo do sol:"
+        },
+        {
+          "number": 8,
+          "text": "‘Havia um homem solitário, que não tendo filho, irmão, nem qualquer parente, dedicava sua vida exclusivamente ao trabalho. No entanto, seus olhos não se satisfaziam com as riquezas que acumulava. E ele nem pensava em se questionar: ‘Para quem estou trabalhando tanto, afinal? Por que não desfruto um pouco do que já tenho?’ Ora, isso é uma insensatez, uma ilusão e um trabalho ingrato!"
+        },
+        {
+          "number": 9,
+          "text": "Melhor é serem dois do que um, porque há melhor recompensa no trabalho de duas pessoas."
+        },
+        {
+          "number": 10,
+          "text": "Porquanto, se um cair, o outro levantará seu companheiro. Mas pobre do que estiver sozinho e cair, assim não haverá quem o ajude a se reerguer!"
+        },
+        {
+          "number": 11,
+          "text": "Também, se dois dormirem juntos, ficarão ambos aquecidos; mas como um só poderá manter-se aquecido?"
+        },
+        {
+          "number": 12,
+          "text": "Um homem sozinho pode ser mais facilmente derrotado, mas duas pessoas conseguem resistir. Um cordão de três dobras não se rebenta com facilidade!"
+        },
+        {
+          "number": 13,
+          "text": "Mais vale um jovem pobre e sábio do que um rei ancião e insensato, que em sua arrogância já não aceita mais conselhos."
+        },
+        {
+          "number": 14,
+          "text": "Ainda que o jovem seja um ex-detento ou tenha nascido em uma família de mendigos poderá chegar ao trono e governar uma nação."
+        },
+        {
+          "number": 15,
+          "text": "Observei que, apesar das dificuldades, o povo que vivia debaixo do sol seguia aquele jovem, o sucessor do rei."
+        },
+        {
+          "number": 16,
+          "text": "A sua popularidade se tornou impressionante, e o número de seus apoiadores era incontável. A geração seguinte; contudo, não teve a mesma simpatia e satisfação por ele. Ora, isso também não faz o menor sentido; tudo é como um contínuo correr atrás do vento."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cuida dos teus passos e sê reverente quando adentrares o Santuário, a Casa de Deus. Aproximar-se para ouvir vale muito mais que os vários sacrifícios oferecidos pelos tolos, ainda que não percebam o mal que estão fazendo."
+        },
+        {
+          "number": 2,
+          "text": "Não permita que tua boca fale precipitadamente, nem que teu coração o impulsione a fazer promessas diante de Deus. Afinal, Deus está nos céus, e tu apenas vives sobre a terra; portanto, que tuas palavras sejam poucas e corretas."
+        },
+        {
+          "number": 3,
+          "text": "Das muitas ocupações surgem sonhos; do muito falar nasce a conversa inútil e perversa."
+        },
+        {
+          "number": 4,
+          "text": "Quanto fizeres algum voto ou promessa, cumpre-os sem demora, pois somente os tolos desagradam a Deus. Cumpre, pois a tua palavra!"
+        },
+        {
+          "number": 5,
+          "text": "Portanto, é melhor não prometer do que fazer um voto e não cumprir a palavra empenhada."
+        },
+        {
+          "number": 6,
+          "text": "Não permitas, pois, que tua boca te conduza ao pecado. E não digas ao sacerdote, ao mensageiro de Deus: “Cometi um engano! O que prometi em meu voto não foi bem o que eu queria dizer!” Ora, por que irritar a Deus com o que dizes e levá-lo a destruir tudo quanto construíste mediante teu trabalho?"
+        },
+        {
+          "number": 7,
+          "text": "Muitos sonhos, e sonhos absurdos, acabam provocando conversas insensatas. Tu, porém, conserva o temor, o teu amor reverente, a Deus!"
+        },
+        {
+          "number": 8,
+          "text": "Se em uma província vês um pobre oprimido, e as leis e a justiça violadas, não fiques perplexo: quem está no alto tem sempre outro mais alto que o vigia, e sobre ambos há outros ainda mais altos."
+        },
+        {
+          "number": 9,
+          "text": "O proveito da terra a todos pertence, até mesmo o rei se serve da agricultura e por ela e seus trabalhadores deve zelar."
+        },
+        {
+          "number": 10,
+          "text": "Quem ama o dinheiro jamais terá o suficiente; quem ama as riquezas, nunca se sentirá em paz e feliz com seus rendimentos. Certamente, isso também é ilusão, vaidade."
+        },
+        {
+          "number": 11,
+          "text": "Onde aumentam os bens, aumenta o número daqueles que os devoram; que vantagem trazem os bens ao seu proprietário, senão dar um pouco de alegria aos seus olhos?"
+        },
+        {
+          "number": 12,
+          "text": "Coma muito ou coma pouco, o sono do trabalhador é gostoso; mas o rico farto nem ao menos consegue adormecer em paz."
+        },
+        {
+          "number": 13,
+          "text": "Há um mal terrível que observei debaixo do sol: riquezas que o dono avarento acumula para a sua própria desgraça!"
+        },
+        {
+          "number": 14,
+          "text": "Basta um mau negócio, e tudo poderá se perder; se tiver um filho, este ficará de mãos vazias."
+        },
+        {
+          "number": 15,
+          "text": "O ser humano sai nu do ventre de sua mãe; assim como vem ao mundo, assim parte deste. De todo o trabalho em que se extenuou nada poderá levar consigo!"
+        },
+        {
+          "number": 16,
+          "text": "Mas há ainda outro mal doloroso: concluir ao final da vida que simplesmente correu atrás do vento; do mesmo modo como veio; assim vai."
+        },
+        {
+          "number": 17,
+          "text": "Consome todos os seus dias perambulando nas trevas, sofrendo grandes desapontamentos, doenças e amarguras."
+        },
+        {
+          "number": 18,
+          "text": "E, na experiência da vida, descobre que o melhor e o que mais vale a pena é: comer, beber, e desfrutar o resultado de todo trabalho realizado debaixo do sol durante os poucos anos que Deus lhe concede, porquanto esta é a sua porção e recompensa."
+        },
+        {
+          "number": 19,
+          "text": "Todo homem a quem Deus concede riquezas e recursos que o tornam capaz de sustentar-se, de receber a sua porção e desfrutar das recompensas do seu trabalho, isso é presente de Deus."
+        },
+        {
+          "number": 20,
+          "text": "Esta pessoa não ficará refletindo sobre os dias que se passaram, pois Deus o mantém ocupado desfrutando as alegrias do seu coração!"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Constatei ainda um outro mal debaixo do sol, que se abate sobre todo ser humano:"
+        },
+        {
+          "number": 2,
+          "text": "Deus concede riquezas, bens e honra a um homem, e nada lhe falta de tudo o que poderia imaginar; contudo, o próprio Deus não lhe permite desfrutar de todos esses recursos; mas outra pessoa, vinda de outro lugar, é quem irá aproveitar dos seus haveres. Ora, isso não faz sentido, é pura ilusão e sofrimento cruel."
+        },
+        {
+          "number": 3,
+          "text": "Um homem pode ser pai de cem filhos e viver muitos anos. Contudo, se não aproveitar os bons momentos da vida, afirmo que uma criança que nasce morta nem mesmo recebe um enterro decente é mais feliz do que ele."
+        },
+        {
+          "number": 4,
+          "text": "A criança nasce em vão e parte para o mundo da escuridão, e as trevas cuidam de sepultar seu nome."
+        },
+        {
+          "number": 5,
+          "text": "Embora ela não tenha visto a luz do dia, nem tomado conhecimento de nada, ela, ao menos, encontrará mais paz e descanso do que o tal homem."
+        },
+        {
+          "number": 6,
+          "text": "E mesmo que alguém vivesse duas vezes mil anos, não conheceria plenamente a felicidade; afinal, não estamos todos seguindo para o mesmo fim?"
+        },
+        {
+          "number": 7,
+          "text": "Todo o trabalho humano é realizado para satisfazer a sua boca; entretanto, o seu apetite jamais encontra satisfação."
+        },
+        {
+          "number": 8,
+          "text": "E que vantagem tem o sábio em relação ao insensato? Que vantagem tem o pobre em saber como enfrentar a vida?"
+        },
+        {
+          "number": 9,
+          "text": "Mais vale contentar-se com o que os olhos veem do que sonhar com desejos irrealizáveis. Afinal, não é isso também total insensatez, como correr atrás do vento?"
+        },
+        {
+          "number": 10,
+          "text": "Ora, tudo o que existe já recebeu um nome, e já é do conhecimento de todos o que o ser humano é; não se pode brigar com alguém mais forte!"
+        },
+        {
+          "number": 11,
+          "text": "Quanto mais se abre a boca, mais tolices e frustrações experimentamos; o muito falar é inútil."
+        },
+        {
+          "number": 12,
+          "text": "Sendo assim, quem sabe o que é bom e proveitoso para o ser humano nesta existência, nos poucos dias de sua vida de ilusão, que passa como uma sombra? Quem poderá lhe contar o que acontecerá debaixo do sol depois que ele se for com a morte."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mais vale o bom nome do que o melhor dos perfumes, e o dia da morte é mais proveitoso que o dia do nascimento."
+        },
+        {
+          "number": 2,
+          "text": "Mais vale ir a uma casa em luto do que ir a uma casa em festa, porquanto este é o fim de todo ser humano; e desde modo, os vivos terão uma grande oportunidade para refletir."
+        },
+        {
+          "number": 3,
+          "text": "Mais vale um momento de tristeza do que dias de riso, porque é o rosto circunspecto que produzirá um coração compreensivo."
+        },
+        {
+          "number": 4,
+          "text": "Portanto, o coração dos sábios está na casa onde há luto, mas o coração dos insensatos, nos banquetes e em lugares de muito riso."
+        },
+        {
+          "number": 5,
+          "text": "Mais vale escutar a repreensão de um sábio do que as adulações dos tolos;"
+        },
+        {
+          "number": 6,
+          "text": "pois tal como o estalo de espinhos ao fogo debaixo da panela, assim é o riso dos insensatos. E isso também é vaidade, e não faz sentido."
+        },
+        {
+          "number": 7,
+          "text": "A opressão tem o poder de enlouquecer até o sábio, e um suborno pode apodrecer o coração."
+        },
+        {
+          "number": 8,
+          "text": "A conclusão dos assuntos é melhor que o seu início, e a paciência vale sempre mais do que a arrogância."
+        },
+        {
+          "number": 9,
+          "text": "Não permitas que a irritação tome conta do teu espírito rapidamente, pois a ira habita no coração dos insensatos!"
+        },
+        {
+          "number": 10,
+          "text": "Não murmures: “Por que os dias do passado foram tão melhores do que os dias de hoje?” Porquanto não é inteligente levantar esse tipo de questionamento."
+        },
+        {
+          "number": 11,
+          "text": "A sabedoria é algo tão bom quanto uma valiosa herança, e é uma bênção para todos quantos vivem debaixo do sol."
+        },
+        {
+          "number": 12,
+          "text": "Pois o abrigo da sabedoria é como o das muitas riquezas, todavia a vantagem do saber é esta: A sabedoria tem o poder de preservar a vida de quem a possui."
+        },
+        {
+          "number": 13,
+          "text": "Observa toda a obra de Deus: Quem poderá endireitar o que ele curvou?"
+        },
+        {
+          "number": 14,
+          "text": "Em tempo de paz e alegria, sê feliz e aproveita-os bem; quando os maus dias chegarem reflete: Deus fez tanto um quanto o outro, a fim de que o ser humano não tenha o poder de desvendar o seu futuro."
+        },
+        {
+          "number": 15,
+          "text": "Nesta vida vazia e sem sentido eu já vi de tudo: um justo que morreu jovem por causa da verdade, e um ímpio que desfrutou de vida longa apesar da sua malignidade!"
+        },
+        {
+          "number": 16,
+          "text": "Não sejas absolutamente justo e nem exageradamente sábio; afinal, por que deverias destruir a ti mesmo e morrer tão cedo?"
+        },
+        {
+          "number": 17,
+          "text": "Entretanto, não sejas mau demais, nem insensato demais; por que apressarias o dia da tua morte?"
+        },
+        {
+          "number": 18,
+          "text": "É bom e saudável que agarres um conceito sem soltar o outro, pois aquele que ama a Deus saberá encontrar o melhor de ambos!"
+        },
+        {
+          "number": 19,
+          "text": "A prática da sabedoria torna o sábio mais poderoso que uma fortaleza guardada por dez valentes."
+        },
+        {
+          "number": 20,
+          "text": "Contudo, não existe um homem tão justo sobre a face da terra que saiba fazer o bem sem jamais pecar!"
+        },
+        {
+          "number": 21,
+          "text": "Não dês muita atenção a todas as palavras que dizem sobre ti, assim não te decepcionarás ouvindo teu próprio servo te amaldiçoar,"
+        },
+        {
+          "number": 22,
+          "text": "porquanto em teu coração sabes que também tu já falaste mal de teus companheiros muitas vezes."
+        },
+        {
+          "number": 23,
+          "text": "Todos esses conceitos analisei criteriosamente mediante a sabedoria e pensei: ‘Estou decidido a tornar-me sábio’; mas logo notei que a sabedoria está fora do meu alcance."
+        },
+        {
+          "number": 24,
+          "text": "A realidade e a verdade estão muito distantes, incompreensíveis e profundas; que ser humano terá a capacidade de descobri-las?"
+        },
+        {
+          "number": 25,
+          "text": "Por este motivo, em meu coração, dediquei-me a conhecer, a raciocinar e a pesquisar o saber e a razão de ser de tudo o que há; para compreender a própria insensatez da malignidade e a loucura da impiedade."
+        },
+        {
+          "number": 26,
+          "text": "E descobri que a mulher que age como armadilha, cujo coração é uma total cilada e as mãos correntes ardilosas, é mais amarga que a morte. O homem que deseja agradar a Deus fugirá dela, mas o que tem prazer no pecado, este lhe será presa fácil."
+        },
+        {
+          "number": 27,
+          "text": "Então declara Cohéllet, o mestre: ‘Eis o que descubro ao examinar tema por tema a fim de chegar a uma correta conclusão:"
+        },
+        {
+          "number": 28,
+          "text": "Sim, durante essa minha busca, ainda inconclusa, entre mil homens encontrei apenas um que considero justo; todavia, entre as mulheres não achei uma sequer.’"
+        },
+        {
+          "number": 29,
+          "text": "Sendo assim, eis a única conclusão a que cheguei: ‘Deus criou o ser humano justo, mas este se deixou envolver por muitas astúcias e ilusões!’"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quem é como o sábio? Quem sabe interpretar os acontecimentos? A sabedoria de uma pessoa muda o seu semblante carrancudo, faz sua face brilhar e pode alcançar o favor do rei."
+        },
+        {
+          "number": 2,
+          "text": "Este é meu conselho: obedece às ordens do rei; pois fizeste este juramento de lealdade na presença de Deus."
+        },
+        {
+          "number": 3,
+          "text": "Não te apresses em deixar a companhia do rei, nem te coloques em má situação apoiando uma causa errada, considerando que o rei faz o que bem lhe aprouver."
+        },
+        {
+          "number": 4,
+          "text": "Afinal, os desejos e a palavra do rei são soberanos, e ninguém tem o direito de questionar: ‘Que estás fazendo, ó rei?’"
+        },
+        {
+          "number": 5,
+          "text": "Assim, quem sabe obedecer suas ordens não sofrerá punição alguma, porquanto o coração sábio compreenderá a melhor hora e a maneira certa de agir."
+        },
+        {
+          "number": 6,
+          "text": "Pois há uma hora certa e também uma atitude adequada para responder a cada situação da vida. Entretanto, o sofrimento sobre o ser humano o faz precipitar-se."
+        },
+        {
+          "number": 7,
+          "text": "Considerando que ninguém conhece o futuro, quem poderá dizer o que vai acontecer?"
+        },
+        {
+          "number": 8,
+          "text": "Ninguém controla o vento, como não domina o próprio espírito, tampouco tem poder sobre o dia da sua morte e de evitar lutas e guerras; nem mesmo a malignidade ou a riqueza deixam impunes os seus adeptos."
+        },
+        {
+          "number": 9,
+          "text": "Tudo isso observei quando me dediquei a refletir sobre toda a atividade humana que se realiza debaixo do sol. Há épocas em que um homem se levanta para tiranizar seus semelhantes para a infelicidade de todos, inclusive a sua própria."
+        },
+        {
+          "number": 10,
+          "text": "Vi também pessoas perversas serem sepultadas em grande honra. Na volta do lugar santo, percebi que eram elogiadas, e isso na mesma cidade onde haviam praticado o mal. Ora, isso também não faz sentido, é um absurdo!"
+        },
+        {
+          "number": 11,
+          "text": "Quando os crimes não recebem rapidamente os devidos julgamentos e punições, os corações dos demais filhos dos homens se enchem de disposição para fazer o mal."
+        },
+        {
+          "number": 12,
+          "text": "Uma pessoa pecadora e iníqua pode ter vida longa, ainda que cometa uma centena de crimes; mas aprendi, com certeza, que tudo vai melhor para os que temem a Deus, para todos aqueles que amam reverentemente a ele."
+        },
+        {
+          "number": 13,
+          "text": "Entretanto, para os malvados e insensatos, nada irá bem, porquanto não respeitam a Deus; os seus dias serão poucos e passarão como uma sombra."
+        },
+        {
+          "number": 14,
+          "text": "Mas há mais um absurdo sobre a face da terra: justos que são castigados como se fossem ímpios, e perversos que são tratados com a dignidade devida aos homens de bem."
+        },
+        {
+          "number": 15,
+          "text": "Portanto aconselho que se desfrute o melhor que a vida pode proporcionar, porquanto debaixo do sol não existe nada mais feliz para o ser humano do que simplesmente: comer, beber e alegrar-se. Essa é a felicidade que nos ajudará a superar os difíceis dias de trabalho durante todo o tempo de vida que Deus nos conceder debaixo do sol!"
+        },
+        {
+          "number": 16,
+          "text": "Quando apliquei minha mente a fim de conhecer a sabedoria e a observar todo o trabalho humano que se realiza sobre a face da terra; especialmente daqueles que não se permitem descansar nem de dia nem de noite,"
+        },
+        {
+          "number": 17,
+          "text": "cheguei à seguinte conclusão sobre tudo quanto Deus tem realizado na terra: ninguém é capaz de compreender o que se faz debaixo do sol. Por mais que se esforce para desvendar o sentido dos acontecimentos, não foi dado ao ser humano o poder de entender todas as ações de Deus. O sábio pode até asseverar que compreende; entretanto, na realidade jamais conseguirá explicá-las."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sim! Refleti sobre todos esses temas e cheguei à conclusão de que os justos e os sábios, e as obras de suas mãos, estão sob o controle total de Deus. O que os aguarda, seja amor ou ódio, ninguém pode saber."
+        },
+        {
+          "number": 2,
+          "text": "Assim, todos caminham rumo a um mesmo destino, tanto o justo quanto o ímpio, o bom e o mau, o puro e o impuro, o que consagra sacrifícios e louvores e o que não os oferece. O que acontece com o homem bom, ocorre também ao pecador; e o que faz juramentos passa pelas mesmas circunstâncias que aquele que evita jurar."
+        },
+        {
+          "number": 3,
+          "text": "Este é o mal que paira sobre tudo o que se realiza debaixo do sol: todos nós estamos expostos ao mesmo destino. Além de tudo, o coração do ser humano está repleto de malignidade e de insensatez, mal que o acompanha durante toda a vida. Finalmente todo homem se juntará aos mortos."
+        },
+        {
+          "number": 4,
+          "text": "Contudo, sempre haverá esperança para quem está vivo; afinal, até um cachorro vivo é melhor do que um leão morto!"
+        },
+        {
+          "number": 5,
+          "text": "Porquanto os que estão entre os vivos sabem que morrerão, mas os mortos não sabem mais nada; não haverá recompensa para eles nem mesmo lembranças restarão acerca de suas pessoas."
+        },
+        {
+          "number": 6,
+          "text": "Assim, o amor, o ódio e a inveja há muito os deixaram; nunca mais terão parte em nada do que se passa debaixo do sol."
+        },
+        {
+          "number": 7,
+          "text": "Portanto, vai e come com alegria o teu pão e bebe o teu vinho com o coração contente, pois Deus já se agradou do que fazes."
+        },
+        {
+          "number": 8,
+          "text": "Estejas sempre vestido com roupas brancas, com trajes de festa, e nunca deixes de ungir a tua cabeça com o óleo santo."
+        },
+        {
+          "number": 9,
+          "text": "Desfruta a vida com a mulher amada em todos os dias desta vida paradoxal que Deus te concede debaixo do sol; uma vida ilusória e sem sentido! Pois essa é a tua recompensa na vida pelo teu árduo trabalho debaixo do sol."
+        },
+        {
+          "number": 10,
+          "text": "Sendo assim, tudo quanto vier à mão para realizar, faze-o com o melhor das tuas forças, porquanto para o Sheol, a sepultura, para onde vais, não há atividade, trabalho, reflexão, planos, conhecimento, saber, nem nada."
+        },
+        {
+          "number": 11,
+          "text": "Observei ainda e notei que debaixo do sol os velozes nem sempre vencem a corrida; os mais fortes nem sempre triunfam nas batalhas; os sábios nem sempre têm com o que se alimentar; nem a fortuna acompanha sempre os prudentes; nem os bem instruídos e inteligentes têm garantia de prestígio e honra; pois o tempo e o acaso afetam a todos indistintamente."
+        },
+        {
+          "number": 12,
+          "text": "Afinal, o ser humano não conhece a sua hora. Como os peixes são apanhados de surpresa na rede mortal e os passarinhos são pegos nas armadilhas escondidas, assim também os homens são tomados pelas épocas difíceis que lhes sobrevêm de repente."
+        },
+        {
+          "number": 13,
+          "text": "Também vi debaixo do sol esta demonstração de sabedoria que me deixou perplexo:"
+        },
+        {
+          "number": 14,
+          "text": "Havia uma cidade pequena com poucos habitantes. Um grande rei veio contra ela, cercou-a e levantou contra ela enormes rampas militares de ataque."
+        },
+        {
+          "number": 15,
+          "text": "Contudo, nesta pequena cidade, havia um sábio pobre que livrou seu povo por meio do seu admirável saber; apesar disso, ninguém mais se lembrou daquele homem pobre."
+        },
+        {
+          "number": 16,
+          "text": "Então passei a refletir: ‘Melhor é a sabedoria do que o poder; contudo, a sabedoria do pobre é desprezada e as suas palavras logo caem no esquecimento geral.’"
+        },
+        {
+          "number": 17,
+          "text": "As palavras proferidas por aqueles que detêm o conhecimento e o saber devem ser ouvidas com mais calma e atenção do que os discursos inflamados dos que dominam sobre os tolos e insensatos."
+        },
+        {
+          "number": 18,
+          "text": "A sabedoria é melhor e mais poderosa do que qualquer arma de guerra; entretanto, um só pecador promove enorme destruição."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "As moscas mortas fazem com que o óleo do perfumista se corrompa e produza mau cheiro. Da mesma forma, um pouco de tolice pode fazer o conhecimento perder todo o seu valor."
+        },
+        {
+          "number": 2,
+          "text": "O coração do sábio se inclina para o bem e o direito, mas o coração do insensato, para o mal e o injusto."
+        },
+        {
+          "number": 3,
+          "text": "Mesmo quando tenta andar pelo bom caminho, o néscio demonstra que não tem o mínimo de sabedoria."
+        },
+        {
+          "number": 4,
+          "text": "Se o espírito, a ira, de uma autoridade se levantar contra ti, não abandones o teu posto, porquanto a calma evita grandes erros."
+        },
+        {
+          "number": 5,
+          "text": "Há, todavia, outro mal que observei debaixo do sol, um erro cometido pelos que têm o poder de governar:"
+        },
+        {
+          "number": 6,
+          "text": "tolos são guindados a cargos importantes, enquanto ricos e cultos são assentados em lugares inferiores."
+        },
+        {
+          "number": 7,
+          "text": "Tenho visto servos cavalgando, e príncipes andando a pé, como se fossem servos."
+        },
+        {
+          "number": 8,
+          "text": "Quem cava uma cilada, cairá nela; e quem derrubar um muro, uma cobra o morderá."
+        },
+        {
+          "number": 9,
+          "text": "Quem remove pedras acabará sendo machucado por uma delas, e o que racha lenha corre grande perigo."
+        },
+        {
+          "number": 10,
+          "text": "Se o machado perder o corte e não for afiado, será preciso golpear com muito mais força; ter uma atitude sábia assegura o sucesso!"
+        },
+        {
+          "number": 11,
+          "text": "Não adianta saberes encantar cobras se permitires que uma delas te morda."
+        },
+        {
+          "number": 12,
+          "text": "As palavras da boca do sábio são agradáveis, mas os lábios do insensato o devoram."
+        },
+        {
+          "number": 13,
+          "text": "No início, as palavras da sua boca são tolice e no final são loucura maligna."
+        },
+        {
+          "number": 14,
+          "text": "O insensato multiplica as palavras, no entanto, ninguém imagina o que está por vir; quem poderá prevenir a outros sobre o que ainda virá mais tarde?"
+        },
+        {
+          "number": 15,
+          "text": "O trabalho do tolo o deixa tão fatigado que ele nem consegue achar o caminho de casa."
+        },
+        {
+          "number": 16,
+          "text": "Ó terra, ai de ti quando o teu governante é inexperiente e quando os teus príncipes banqueteiam logo pela manhã!"
+        },
+        {
+          "number": 17,
+          "text": "Ó terra, feliz de ti se o teu rei é filho de nobres e se os teus líderes comem com equilíbrio, e no devido tempo a fim de recuperar as forças, e não para embriagar-se."
+        },
+        {
+          "number": 18,
+          "text": "Por causa da preguiça o telhado se enverga; por causa da falta de disposição de restaurar, a casa tem goteiras."
+        },
+        {
+          "number": 19,
+          "text": "O banquete traz diversão, e o vinho alegra a vivência, mas é com dinheiro que se consegue tudo isso."
+        },
+        {
+          "number": 20,
+          "text": "Não amaldiçoeis o rei nem mesmo em pensamento. Tampouco em seu aposento insultes o rico! Porquanto uma ave do céu poderá levar as suas palavras pelo ar, e seres alados poderão se encarregar de divulgar aos quatro ventos tudo o que disseste!"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Distribua com generosidade o teu pão como se o atirasse sobre águas e depois de algum tempo o receberás de volta."
+        },
+        {
+          "number": 2,
+          "text": "Reparte com sete e mesmo com oito o que tens, pois não sabes que desgraça pode vir sobre a terra."
+        },
+        {
+          "number": 3,
+          "text": "Quando as nuvens estão pesadas de água derramam chuva sobre a terra. Quer uma árvore debruce para o sul ou tombe para o norte, onde cair ali permanecerá."
+        },
+        {
+          "number": 4,
+          "text": "Quem fica apenas olhando o vento jamais plantará e quem para observando a passagem das nuvens nada colherá."
+        },
+        {
+          "number": 5,
+          "text": "Assim como não conheces o caminho do vento, tampouco como o espírito entra no corpo que se forma no ventre de uma mulher, do mesmo modo não podes compreender as obras de Deus, o Criador de tudo o que há!"
+        },
+        {
+          "number": 6,
+          "text": "Logo ao alvorecer semeia a tua semente e à tarde não repouses a mão, pois não sabes qual das tuas obras vai prosperar, se esta ou aquela, ou ambas serão boas."
+        },
+        {
+          "number": 7,
+          "text": "Como é agradável ver a luz e estimulante sentir o sol do raiar do dia."
+        },
+        {
+          "number": 8,
+          "text": "Portanto, se um ser humano chegar a viver muitos anos, alegre-se em todos eles. Porém lembre-se dos dias difíceis e escuros, porquanto não faltarão em quantidade. Afinal, tudo o que está para vir é absurdo, não faz sentido."
+        },
+        {
+          "number": 9,
+          "text": "Jovem, alegra-te na tua mocidade! Sê feliz o teu coração nos dias da tua juventude. Segue os caminhos que o teu coração indicar e todos os desejos dos teus olhos; saibas, contudo, que tudo quanto fizeres passará pelo julgamento de Deus."
+        },
+        {
+          "number": 10,
+          "text": "Sendo assim, afasta do teu coração o desgosto e a ansiedade, e pare de fazer teu corpo sofrer, pois a juventude e o vigor da mocidade passam muito rápido."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lembra-te do teu Criador nos dias da tua mocidade, antes que cheguem os dias difíceis e se aproximem os dias da velhice em que dirás: “Não tenho mais satisfação em meus dias!”"
+        },
+        {
+          "number": 2,
+          "text": "Antes que a luz do sol, da lua e das estrelas percam o brilho aos teus olhos, e penses que as nuvens carregadas de chuva jamais se afastarão de ti;"
+        },
+        {
+          "number": 3,
+          "text": "quando os guardas da casa caminharem trêmulos, e os homens fortes andarem encurvados; quando cessar o trabalho diário dos moedores, por já serem poucos, e os que olham pelas janelas enxergarem apenas sombras e figuras turvas;"
+        },
+        {
+          "number": 4,
+          "text": "quando as portas da rua se fecharem; quando o ruído do moinho diminuir muito e te despertares com o simples canto dos pássaros; mas o som de todas as canções te parecer fraco e distante;"
+        },
+        {
+          "number": 5,
+          "text": "quando temeres a altura e te aterrorizares com os perigos das ruas; quando florir a amendoeira, o gafanhoto se transformar em um grande peso e perderes o gosto por quase tudo. Então é tempo de o ser humano se recolher à sua morada eterna, e os pranteadores caminharem pelas ruas chorando a tua partida."
+        },
+        {
+          "number": 6,
+          "text": "Sim, com certeza, lembra-te de Deus, antes que se rompa o cordão de prata, ou se quebre a taça de ouro; antes que o cântaro se despedace junto à fonte, a roda se quebre junto ao poço;"
+        },
+        {
+          "number": 7,
+          "text": "o pó retorne à terra, de onde veio, e o espírito volte a Deus, que o concedeu."
+        },
+        {
+          "number": 8,
+          "text": "“Que absurdo! Que futilidade! Tudo é ilusão, vaidade!” exclama Cohéllet, o sábio. E finaliza: “Nada faz sentido! Tudo é inútil!”"
+        },
+        {
+          "number": 9,
+          "text": "Além de ter sido sábio e mestre, Cohéllet também ministrou grande conhecimento ao povo. Ele ouviu, analisou e colecionou diversos provérbios."
+        },
+        {
+          "number": 10,
+          "text": "O sábio procurou achar palavras inteligentes e agradáveis e escreveu com destreza e justiça seus muitos discursos plenos de verdade."
+        },
+        {
+          "number": 11,
+          "text": "As palavras dos sábios são como pregos bem pregados; são como varas pontiagudas que os pastores usam para guiar as ovelhas. Eis que estas palavras foram concedidas por Deus: o Único Pastor de todos nós."
+        },
+        {
+          "number": 12,
+          "text": "Atentai, pois, filho meu, a mais este conselho: Não há limite para se produzir livros e estudar demasiado fazem o corpo todo ficar exausto."
+        },
+        {
+          "number": 13,
+          "text": "Agora que já se disse tudo, eis aqui a conclusão a que chegamos: ama reverentemente a Deus e obedece aos seus mandamentos; porquanto foi para isso que fomos criados."
+        },
+        {
+          "number": 14,
+          "text": "Porque Deus conduzirá a Juízo tudo quanto foi realizado e até mesmo o que ainda está escondido; quer seja bem, quer seja mal."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "id": 48,
+  "code": "GAL",
+  "name": "Gálatas",
+  "abbrev": "Gl",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paulo, apóstolo ( não da parte dos homens, nem por algum homem, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dentre os mortos),"
+        },
+        {
+          "number": 2,
+          "text": "e todos os irmãos que estão comigo, às igrejas da Galácia:"
+        },
+        {
+          "number": 3,
+          "text": "graça a vós e paz da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo,"
+        },
+        {
+          "number": 4,
+          "text": "que se deu a si mesmo por nossos pecados, para nos livrar do presente mundo perverso, conforme a vontade de nosso Deus e Pai,"
+        },
+        {
+          "number": 5,
+          "text": "a quem seja dada glória pelos séculos dos séculos. Amém."
+        },
+        {
+          "number": 6,
+          "text": "Admiro-me de que tão depressa estais passando daquele que vos chamou pela graça de Cristo para um evangelho diferente,"
+        },
+        {
+          "number": 7,
+          "text": "o qual não é outro senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo."
+        },
+        {
+          "number": 8,
+          "text": "Mas, ainda que nós ou um anjo do céu vos pregasse um evangelho além do que vos pregamos, seja anátema."
+        },
+        {
+          "number": 9,
+          "text": "Como antes temos dito, assim digo agora, de novo: se alguém vos pregar um evangelho além do que recebestes, seja anátema."
+        },
+        {
+          "number": 10,
+          "text": "Pois procuro eu agora o favor dos homens ou de Deus? Ou busco agradar aos homens? Se ainda buscasse agradar aos homens, não seria servo de Cristo."
+        },
+        {
+          "number": 11,
+          "text": "Declaro-vos, irmãos, que o evangelho que foi pregado por mim não é segundo o homem;"
+        },
+        {
+          "number": 12,
+          "text": "pois eu nem o recebi, nem o aprendi de homem algum, mas, sim, mediante a revelação de Jesus Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Ouvistes falar do meu modo de viver no Judaísmo, em outro tempo, de como perseguia excessivamente a igreja de Deus, e a assolava,"
+        },
+        {
+          "number": 14,
+          "text": "e adiantava-me no Judaísmo mais que muitos da mesma idade na minha nação, sendo extremamente zeloso das tradições de meus pais."
+        },
+        {
+          "number": 15,
+          "text": "Mas, quando aprouve a Deus, que me separou desde o ventre de minha mãe e me chamou pela sua graça,"
+        },
+        {
+          "number": 16,
+          "text": "revelar seu Filho em mim, para que eu o pregasse entre os gentios, imediatamente, não consultei carne e sangue,"
+        },
+        {
+          "number": 17,
+          "text": "nem fui a Jerusalém para os que eram apóstolos antes de mim, mas parti para a Arábia e, outra vez, voltei a Damasco."
+        },
+        {
+          "number": 18,
+          "text": "Então, depois de três anos, subi a Jerusalém para visitar a Cefas e com ele me demorei quinze dias;"
+        },
+        {
+          "number": 19,
+          "text": "mas dos apóstolos não vi a nenhum, senão a Tiago, irmão do Senhor."
+        },
+        {
+          "number": 20,
+          "text": "Acerca das coisas que vos escrevo, eis que perante Deus afirmo que não minto."
+        },
+        {
+          "number": 21,
+          "text": "Depois, fui para as regiões da Síria e da Cilícia."
+        },
+        {
+          "number": 22,
+          "text": "Era, porém, pessoalmente desconhecido às igrejas da Judeia, que estavam em Cristo."
+        },
+        {
+          "number": 23,
+          "text": "Somente ouviram dizer: Aquele que dantes nos perseguia, agora, prega a fé que outrora combatia;"
+        },
+        {
+          "number": 24,
+          "text": "e glorificavam a Deus a respeito de mim."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, depois de quatorze anos, subi outra vez a Jerusalém com Barnabé, levando também comigo a Tito."
+        },
+        {
+          "number": 2,
+          "text": "Subi devido a uma revelação; e comuniquei a eles o evangelho que prego entre os gentios, mas particularmente aos que eram de nomeada, para que, de algum, modo não estivesse eu correndo ou não tivesse corrido em vão."
+        },
+        {
+          "number": 3,
+          "text": "Mas nem Tito, que estava comigo, sendo grego, foi obrigado a ser circuncidado,"
+        },
+        {
+          "number": 4,
+          "text": "e isso por causa dos falsos irmãos intrusos, os quais, furtivamente, se introduziram para espiar a nossa liberdade que temos em Cristo Jesus, a fim de nos escravizar;"
+        },
+        {
+          "number": 5,
+          "text": "aos quais nem por uma hora estivemos em sujeição, para que a verdade do evangelho permanecesse entre vós."
+        },
+        {
+          "number": 6,
+          "text": "Mas dos que pareciam ser de alguma nomeada (quais foram, noutro tempo, nada me importa; Deus não se deixa levar de respeitos humanos) — estes que pareciam ser de alguma nomeada nada me acrescentaram;"
+        },
+        {
+          "number": 7,
+          "text": "pelo contrário quando, eles viram que me havia sido confiado o evangelho da incircuncisão, justamente como a Pedro, o da circuncisão"
+        },
+        {
+          "number": 8,
+          "text": "(pois o que operou em Pedro para o apostolado da circuncisão operou também em mim para com os gentios);"
+        },
+        {
+          "number": 9,
+          "text": "e, conhecendo a graça que me foi dada, Tiago, Cefas e João, que pareciam ser colunas, deram a mim e a Barnabé a destra de comunhão, para que nós fôssemos aos gentios,"
+        },
+        {
+          "number": 10,
+          "text": "e eles, à circuncisão; somente quiseram que nos lembrássemos dos pobres, o que também me esforcei por fazer."
+        },
+        {
+          "number": 11,
+          "text": "Quando, porém, Cefas veio a Antioquia, resisti-lhe na cara porque era condenado."
+        },
+        {
+          "number": 12,
+          "text": "Pois, antes de chegarem alguns da parte de Tiago, ele comia com os gentios; mas, quando eles vieram, subtraía-se e separava-se, temendo os que eram da circuncisão."
+        },
+        {
+          "number": 13,
+          "text": "Os outros judeus também dissimularam juntamente com ele, de modo que até Barnabé foi levado com eles na sua dissimulação."
+        },
+        {
+          "number": 14,
+          "text": "Mas, quando vi que eles não andavam retamente, conforme a verdade do evangelho, disse a Cefas perante todos: Se tu, sendo judeu, vives como gentio e não como judeu, como obrigas os gentios a viver como os judeus?"
+        },
+        {
+          "number": 15,
+          "text": "Nós, judeus por natureza e não pecadores dentre os gentios,"
+        },
+        {
+          "number": 16,
+          "text": "sabendo, contudo, que o homem não é justificado por obras da lei, mas, sim, mediante a fé em Cristo Jesus, também nós cremos em Cristo Jesus, para sermos justificados pela fé em Cristo e não por obras da lei; pois, por obras da lei, nenhuma carne será justificada."
+        },
+        {
+          "number": 17,
+          "text": "Mas, se, buscando ser justificados em Cristo, fomos nós mesmos também achados pecadores, é Cristo, porventura, ministro de pecado? De modo nenhum!"
+        },
+        {
+          "number": 18,
+          "text": "Se eu torno a edificar as coisas que destruí, constituo-me transgressor."
+        },
+        {
+          "number": 19,
+          "text": "Pois eu, mediante a lei, morri para a lei, a fim de viver para Deus."
+        },
+        {
+          "number": 20,
+          "text": "Estou crucificado com Cristo; logo, já não sou eu que vivo, mas é Cristo que vive em mim. Aquela vida que agora vivo na carne vivo na fé do Filho de Deus, que me amou e se entregou por mim."
+        },
+        {
+          "number": 21,
+          "text": "Não faço nula a graça de Deus; pois, se a justiça vem mediante a lei, então, morreu Cristo sem necessidade."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ó insensatos gálatas! Quem vos fascinou a vós, ante cujos olhos foi representado Jesus Cristo como crucificado?"
+        },
+        {
+          "number": 2,
+          "text": "Só isso quero saber de vós: recebestes o Espírito por obras da lei ou pela mensagem da fé?"
+        },
+        {
+          "number": 3,
+          "text": "Sois tão insensatos? Tendo começado no Espírito, estais agora vos aperfeiçoando na carne?"
+        },
+        {
+          "number": 4,
+          "text": "Sofrestes tantas coisas em vão? Se é que, na verdade, foram em vão."
+        },
+        {
+          "number": 5,
+          "text": "Aquele que vos subministra o Espírito e opera milagres entre vós, acaso fá-lo ele por obras da lei ou pela mensagem da fé?"
+        },
+        {
+          "number": 6,
+          "text": "Justamente como Abraão creu a Deus, e foi-lhe imputado para justiça."
+        },
+        {
+          "number": 7,
+          "text": "Sabei, pois, que os que são da fé, estes são filhos de Abraão."
+        },
+        {
+          "number": 8,
+          "text": "A Escritura, prevendo que Deus justificaria os gentios pela fé, de antemão, anunciou as boas-novas a Abraão: Em ti serão bem-aventuradas todas as nações."
+        },
+        {
+          "number": 9,
+          "text": "Assim, os que são da fé são bem-aventurados com o fiel Abraão."
+        },
+        {
+          "number": 10,
+          "text": "Pois todos quantos são das obras da lei estão sob a maldição; porque está escrito: Maldito todo aquele que não permanece em todas as coisas escritas no livro da Lei para fazê-las."
+        },
+        {
+          "number": 11,
+          "text": "É claro que, pela Lei, ninguém é justificado diante de Deus, porque: O justo viverá da fé."
+        },
+        {
+          "number": 12,
+          "text": "A Lei não é da fé, mas: Aquele que faz essas coisas viverá por elas."
+        },
+        {
+          "number": 13,
+          "text": "Cristo nos remiu da maldição da Lei, tornando-se maldição por nós, porque está escrito: Maldito todo aquele que é pendurado no madeiro,"
+        },
+        {
+          "number": 14,
+          "text": "para que sobre os gentios viesse a bênção de Abraão em Jesus Cristo, a fim de que nós recebêssemos a promessa do Espírito, por meio da fé."
+        },
+        {
+          "number": 15,
+          "text": "Irmãos, falo como homem. Ainda que a aliança seja só de homem, contudo, uma vez confirmada, ninguém a anula ou lhe acrescenta coisa alguma."
+        },
+        {
+          "number": 16,
+          "text": "Ora, a Abraão foram feitas as promessas e à sua semente. Não diz: E às sementes, como falando de muitos; mas, como de um: E à tua semente, a qual é Cristo."
+        },
+        {
+          "number": 17,
+          "text": "Digo isto: Uma aliança previamente confirmada por Deus, a Lei, que veio quatrocentos e trinta anos depois, não a ab-roga, de modo a tornar de nenhum efeito a promessa."
+        },
+        {
+          "number": 18,
+          "text": "Pois, se da Lei vem a herança, não é mais da promessa; mas pela promessa é que Deus a deu a Abraão."
+        },
+        {
+          "number": 19,
+          "text": "Que é, pois, a Lei? Foi acrescentada por causa das transgressões, até que viesse a semente a quem se fez a promessa, tendo sido ordenada mediante anjos, pela mão de um mediador."
+        },
+        {
+          "number": 20,
+          "text": "O mediador, porém, não o é de um só, mas Deus é só um."
+        },
+        {
+          "number": 21,
+          "text": "É a Lei, porventura, contra as promessas de Deus? De modo nenhum! Pois, se tivesse sido dada uma lei que pudesse dar vida, a justiça, na verdade, teria sido pela Lei."
+        },
+        {
+          "number": 22,
+          "text": "A Escritura, porém, encerrou todas as coisas debaixo do pecado, para que a promessa pela fé em Jesus Cristo fosse dada aos que creem."
+        },
+        {
+          "number": 23,
+          "text": "Mas, antes que viesse a fé, estávamos debaixo da guarda da Lei, encerrados para a fé que havia de ser revelada."
+        },
+        {
+          "number": 24,
+          "text": "Assim, a Lei se tornou nosso pedagogo, para conduzir-nos a Cristo, a fim de sermos justificados pela fé."
+        },
+        {
+          "number": 25,
+          "text": "Mas, tendo vindo a fé, não estamos mais debaixo de pedagogo."
+        },
+        {
+          "number": 26,
+          "text": "Pois todos vós sois filhos de Deus, mediante a fé em Cristo Jesus;"
+        },
+        {
+          "number": 27,
+          "text": "porque tantos quantos fostes batizados em Cristo vos revestistes de Cristo."
+        },
+        {
+          "number": 28,
+          "text": "Não pode haver judeu nem grego, não pode haver escravo nem livre, não pode haver homem nem mulher, pois todos vós sois um em Cristo Jesus."
+        },
+        {
+          "number": 29,
+          "text": "Mas, se vós sois de Cristo, então, sois semente de Abraão, herdeiros segundo a promessa."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mas digo que o herdeiro, enquanto menino, em nada difere de um escravo, embora seja senhor de tudo;"
+        },
+        {
+          "number": 2,
+          "text": "mas está debaixo de tutores e curadores, até o tempo designado por seu pai."
+        },
+        {
+          "number": 3,
+          "text": "Assim também nós, quando éramos meninos, estávamos guardados em escravidão debaixo dos rudimentos do mundo;"
+        },
+        {
+          "number": 4,
+          "text": "mas, quando veio o cumprimento do tempo, enviou Deus a seu Filho, nascido de mulher, nascido debaixo da Lei,"
+        },
+        {
+          "number": 5,
+          "text": "a fim de resgatar os que estavam debaixo da Lei, para que recebêssemos a adoção de filhos."
+        },
+        {
+          "number": 6,
+          "text": "Porque sois filhos, Deus enviou aos nossos corações o Espírito de seu Filho, que clama: Aba, Pai."
+        },
+        {
+          "number": 7,
+          "text": "Assim, não és mais escravo, porém filho; mas, se filho, também herdeiro por Deus."
+        },
+        {
+          "number": 8,
+          "text": "Porém, naquele tempo, não conhecendo a Deus, vos fizestes escravos dos que por natureza não são deuses;"
+        },
+        {
+          "number": 9,
+          "text": "mas, agora, conhecendo a Deus ou, antes, sendo conhecidos por Deus, como estais voltando outra vez aos rudimentos fracos e pobres, aos quais vos quereis ainda, de novo, escravizar?"
+        },
+        {
+          "number": 10,
+          "text": "Guardais dias, e meses, e tempos e anos."
+        },
+        {
+          "number": 11,
+          "text": "Temo-me de vós não tenha eu trabalhado para vós em vão."
+        },
+        {
+          "number": 12,
+          "text": "Rogo-vos, irmãos, que vos torneis como eu, porque eu também me tenho tornado como vós. Nenhum mal me fizestes;"
+        },
+        {
+          "number": 13,
+          "text": "mas vós sabeis que, por causa duma enfermidade da carne, vos preguei o evangelho a primeira vez;"
+        },
+        {
+          "number": 14,
+          "text": "e aquilo que era para vós uma tentação em minha carne, não o desprezastes, nem o repelistes, mas me recebestes como anjo de Deus, até como Cristo Jesus."
+        },
+        {
+          "number": 15,
+          "text": "Onde está, então, aquela vossa satisfação? Pois vos dou testemunho de que, se possível fora, teríeis arrancado os vossos olhos e mos teríeis dado."
+        },
+        {
+          "number": 16,
+          "text": "Tenho-me, pois, tornado vosso inimigo, porque vos disse a verdade?"
+        },
+        {
+          "number": 17,
+          "text": "Eles vos procuram zelosamente não com bons motivos, mas querem vos excluir, para que zelosamente os procureis a eles."
+        },
+        {
+          "number": 18,
+          "text": "No que é bom, é bom serdes sempre procurados e não só quando estou presente convosco,"
+        },
+        {
+          "number": 19,
+          "text": "filhinhos meus, por quem de novo sinto as dores de parto, até que Cristo seja formado em vós;"
+        },
+        {
+          "number": 20,
+          "text": "quem me dera estar presente convosco agora e mudar de tom! Porque estou perplexo acerca de vós."
+        },
+        {
+          "number": 21,
+          "text": "Dizei-me vós, os que quereis estar debaixo da Lei: não ouvis a Lei?"
+        },
+        {
+          "number": 22,
+          "text": "Pois está escrito que Abraão teve dois filhos, um da mulher escrava e o outro da livre."
+        },
+        {
+          "number": 23,
+          "text": "Mas o da escrava nasceu segundo a carne, porém o da livre, por meio da promessa."
+        },
+        {
+          "number": 24,
+          "text": "As quais coisas são uma alegoria; pois essas mulheres são duas alianças; uma, na verdade, do monte Sinai, que dá à luz filhos para a escravidão e que é Agar."
+        },
+        {
+          "number": 25,
+          "text": "Ora, esta Agar é o monte Sinai, na Arábia, e corresponde a Jerusalém atual, pois está em escravidão com seus filhos."
+        },
+        {
+          "number": 26,
+          "text": "Mas a Jerusalém que é lá de cima é livre, a qual é nossa mãe,"
+        },
+        {
+          "number": 27,
+          "text": "pois está escrito: Regozija-te, ó estéril, que não dás à luz, esforça-te e clama, tu que não estás de parto; porque mais são os filhos da desolada que os daquela que tem marido."
+        },
+        {
+          "number": 28,
+          "text": "Vós, irmãos, sois, como Isaque, filhos da promessa."
+        },
+        {
+          "number": 29,
+          "text": "Mas, como, então, o que nasceu segundo a carne perseguia ao que nasceu segundo o Espírito, assim também é agora."
+        },
+        {
+          "number": 30,
+          "text": "Que diz, porém, a Escritura? Lança fora a escrava e a seu filho, porque o filho da escrava não será herdeiro com o filho da livre."
+        },
+        {
+          "number": 31,
+          "text": "Por isso, irmãos, não somos filhos da escrava, mas da livre."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Para a liberdade Cristo nos livrou. Portanto, ficai firmes e não vos sujeiteis, de novo, a um jugo de escravidão."
+        },
+        {
+          "number": 2,
+          "text": "Eis que eu, Paulo, vos declaro que, se vos circuncidardes, Cristo de nada vos aproveitará."
+        },
+        {
+          "number": 3,
+          "text": "De novo, testifico a todo homem que se circuncida que está obrigado a guardar a Lei toda."
+        },
+        {
+          "number": 4,
+          "text": "Estais já separados de Cristo, vós que vos justificais pela Lei; decaístes da graça."
+        },
+        {
+          "number": 5,
+          "text": "Nós, por meio do Espírito, pela fé, aguardamos a esperança da justiça."
+        },
+        {
+          "number": 6,
+          "text": "Pois, em Cristo Jesus, nem a circuncisão vale coisa alguma, nem a incircuncisão; mas a fé que opera por amor."
+        },
+        {
+          "number": 7,
+          "text": "Corríeis bem; quem vos impediu de obedecer à verdade?"
+        },
+        {
+          "number": 8,
+          "text": "Essa persuasão não vem daquele que vos chama."
+        },
+        {
+          "number": 9,
+          "text": "Um pouco de fermento leveda a massa inteira."
+        },
+        {
+          "number": 10,
+          "text": "Eu confio de vós, no Senhor, que não tereis outro modo de pensar; mas aquele que vos perturba, seja quem for, levará sobre si a condenação."
+        },
+        {
+          "number": 11,
+          "text": "Mas, quanto a mim, irmãos, se ainda estou pregando a circuncisão, por que ainda sou perseguido? Logo, está desfeita a ofensa da cruz."
+        },
+        {
+          "number": 12,
+          "text": "Oxalá que fossem além da circuncisão os que vos inquietam."
+        },
+        {
+          "number": 13,
+          "text": "Vós, irmãos, fostes chamados à liberdade; porém não useis da liberdade para dar ocasião à carne, mas, num espírito de amor, sede servos uns dos outros."
+        },
+        {
+          "number": 14,
+          "text": "Pois toda a Lei se resume em um só preceito, a saber: Amarás ao teu próximo como a ti mesmo."
+        },
+        {
+          "number": 15,
+          "text": "Mas, se vós vos mordeis e devorais uns aos outros, vede que não vos consumais uns aos outros."
+        },
+        {
+          "number": 16,
+          "text": "Porém digo: andai pelo Espírito e não satisfareis a cobiça da carne."
+        },
+        {
+          "number": 17,
+          "text": "Pois a carne luta contra o Espírito, e o Espírito, contra a carne, porque estes são opostos um ao outro; de sorte que não façais as coisas que quereis."
+        },
+        {
+          "number": 18,
+          "text": "Se, porém, sois guiados pelo Espírito, não estais debaixo da Lei."
+        },
+        {
+          "number": 19,
+          "text": "Ora, as obras da carne são manifestas, as quais são: a fornicação, a impureza, a lascívia,"
+        },
+        {
+          "number": 20,
+          "text": "a idolatria, a feitiçaria, as inimizades, as contendas, os ciúmes, as iras, as facções, as dissensões, os partidos,"
+        },
+        {
+          "number": 21,
+          "text": "as invejas, as bebedices, as orgias e outras coisas semelhantes, contra as quais vos previno, como já vos preveni, que os que tais coisas praticam não herdarão o reino de Deus."
+        },
+        {
+          "number": 22,
+          "text": "Mas o fruto do Espírito é a caridade, o gozo, a paz, a longanimidade, a benignidade, a bondade, a fidelidade,"
+        },
+        {
+          "number": 23,
+          "text": "a mansidão, a temperança. Contra tais coisas não há lei."
+        },
+        {
+          "number": 24,
+          "text": "Os que são de Cristo Jesus crucificaram a carne com as suas paixões e cobiças."
+        },
+        {
+          "number": 25,
+          "text": "Se vivemos pelo Espírito, andemos também pelo Espírito."
+        },
+        {
+          "number": 26,
+          "text": "Não nos tornemos vangloriosos, provocando uns aos outros, tendo inveja uns dos outros."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Irmãos, se um homem for surpreendido em algum delito, vós, que sois espirituais, restaurai o tal num espírito de mansidão; e tu olha a ti mesmo, para que não sejas também tentado."
+        },
+        {
+          "number": 2,
+          "text": "Levai as cargas uns dos outros e, assim, cumprireis a lei de Cristo."
+        },
+        {
+          "number": 3,
+          "text": "Pois, se alguém pensa ser alguma coisa, não sendo nada, engana-se a si mesmo."
+        },
+        {
+          "number": 4,
+          "text": "Mas cada um prove a sua obra e, então, terá o seu motivo de glória em si mesmo somente e não em outrem;"
+        },
+        {
+          "number": 5,
+          "text": "pois cada um levará o seu próprio fardo."
+        },
+        {
+          "number": 6,
+          "text": "Mas aquele que é ensinado na palavra faça participante em todas as coisas boas aquele que o ensina."
+        },
+        {
+          "number": 7,
+          "text": "Não vos enganeis; de Deus não se zomba. Pois aquilo que o homem semear, isso também ceifará."
+        },
+        {
+          "number": 8,
+          "text": "Porque o que semeia na sua carne, da carne ceifará corrupção; mas o que semeia no Espírito, do Espírito ceifará vida eterna."
+        },
+        {
+          "number": 9,
+          "text": "Não nos desanimemos de fazer o bem; pois a seu tempo ceifaremos, se não desfalecermos."
+        },
+        {
+          "number": 10,
+          "text": "Portanto, à medida que tivermos oportunidade, façamos o que é bom a todos os homens, mas, especialmente, aos que pertencem à família da fé."
+        },
+        {
+          "number": 11,
+          "text": "Vede com que letras grandes vos escrevo com a minha própria mão."
+        },
+        {
+          "number": 12,
+          "text": "Todos os que querem ostentar boa aparência na carne, estes vos obrigam a ser circuncidados, somente para que não sejam perseguidos por causa da cruz de Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Pois nem mesmo aqueles que se deixam circuncidar guardam a Lei; antes, querem fazer-vos circuncidar para se gloriarem na vossa carne."
+        },
+        {
+          "number": 14,
+          "text": "Mas longe de mim esteja o gloriar-me, a não ser na cruz de nosso Senhor Jesus Cristo, pela qual o mundo tem sido crucificado para mim, e eu, para o mundo."
+        },
+        {
+          "number": 15,
+          "text": "Pois nem a circuncisão é coisa alguma nem a incircuncisão, mas o ser uma nova criação."
+        },
+        {
+          "number": 16,
+          "text": "Quantos andarem por essa norma, paz e misericórdia sejam sobre eles e sobre o Israel de Deus."
+        },
+        {
+          "number": 17,
+          "text": "Daqui em diante, ninguém me moleste; pois eu trago em meu corpo as marcas de Jesus."
+        },
+        {
+          "number": 18,
+          "text": "A graça de nosso Senhor Jesus Cristo seja com o vosso espírito, irmãos. Amém."
+        }
+      ]
+    }
+  ]
+}
