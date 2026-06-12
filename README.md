@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/github/license/damarals/biblias?color=blue" alt="Licença" />
 </div>
 <br />
-<div align="center"><strong>Bíblias em português para projeção e leitura</strong></div>
-<div align="center">Uma coletânea de 20 traduções em formatos abertos (Zefania, SQLite e JSON),<br/> prontas para usar no OpenLP, no Quelea e em outros programas.</div>
+<div align="center"><strong>Uma coletânea de 20 Bíblias em português</strong></div>
+<div align="center">Traduções em formatos abertos: Zefania (XML), SQLite e JSON.</div>
 <br />
 <div align="center">
   <sub>Desenvolvido por <a href="https://github.com/damarals">Daniel Amaral</a> 👨‍💻</sub>
