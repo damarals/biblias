@@ -32,3 +32,18 @@ def test_unknown_version_raises():
     import pytest
     with pytest.raises(KeyError):
         _source().fetch("KJF")
+
+
+def test_get_json_retries_on_429():
+    calls = {"n": 0}
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        calls["n"] += 1
+        if calls["n"] == 1:
+            return httpx.Response(429)
+        return httpx.Response(200, json=[{"verse": 1, "text": "ok"}])
+
+    client = httpx.Client(transport=httpx.MockTransport(handler), base_url="https://bolls.life")
+    src = BollsSource(client, retry_base=0)
+    assert src._get_json("/get-text/X/1/1/") == [{"verse": 1, "text": "ok"}]
+    assert calls["n"] == 2
