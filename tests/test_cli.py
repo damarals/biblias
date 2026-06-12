@@ -60,3 +60,20 @@ def test_fetch_refuses_when_corrections_exist(tmp_path: Path, monkeypatch):
 
     forced = runner.invoke(cli.app, ["fetch", "KJA", "--force"])
     assert forced.exit_code == 0
+
+
+def test_build_multiple_formats(tmp_path: Path, monkeypatch):
+    sql_dir = tmp_path / "inst" / "sql"
+    sql_dir.mkdir(parents=True)
+    _make_db(sql_dir / "KJA.sqlite")
+    canon_dir = tmp_path / "data" / "canonical"
+    dist_dir = tmp_path / "dist"
+    monkeypatch.setattr(cli, "SQL_DIR", sql_dir)
+    monkeypatch.setattr(cli, "CANON_DIR", canon_dir)
+
+    runner.invoke(cli.app, ["fetch", "KJA"])
+    r = runner.invoke(cli.app, ["build", "KJA", "--format", "zefania,sqlite,json", "--out", str(dist_dir)])
+    assert r.exit_code == 0
+    assert (dist_dir / "KJA.xml").exists()
+    assert (dist_dir / "KJA.sqlite").exists()
+    assert (dist_dir / "KJA.json").exists()

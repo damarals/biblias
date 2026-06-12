@@ -7,7 +7,7 @@ import corrections
 import validate as validate_mod
 import worklist
 from validate import Report
-from exporters.zefania import ZefaniaExporter
+from exporters.registry import EXTENSIONS, make_exporter
 from sources.registry import make_source
 
 app = typer.Typer(help="Ferramenta para gerar Bíblias em português a partir de uma fonte canônica.")
@@ -34,12 +34,15 @@ def fetch(code: str, source: str = "openlp", force: bool = False) -> None:
 
 @app.command()
 def build(code: str, format: str = "zefania", out: Path = Path("dist")) -> None:
-    """Gera um formato de saída a partir do canônico."""
-    if format != "zefania":
-        raise typer.BadParameter(f"Formato desconhecido: {format}")
+    """Gera um ou mais formatos de saída a partir do canônico."""
+    formats = [f.strip() for f in format.split(",") if f.strip()]
+    for fmt in formats:
+        if fmt not in EXTENSIONS:
+            raise typer.BadParameter(f"Formato desconhecido: {fmt}")
     bible = canon.load_bible(code, CANON_DIR)
-    ZefaniaExporter().export(bible, out / f"{code}.xml")
-    typer.echo(f"{code}: {format} gerado em {out}.")
+    for fmt in formats:
+        make_exporter(fmt).export(bible, out / f"{code}.{EXTENSIONS[fmt]}")
+    typer.echo(f"{code}: {', '.join(formats)} gerado(s) em {out}.")
 
 
 @app.command(name="diff-sources")
