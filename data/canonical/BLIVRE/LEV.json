@@ -1,0 +1,3579 @@
+{
+  "id": 3,
+  "code": "LEV",
+  "name": "Levítico",
+  "abbrev": "Lv",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E chamou o SENHOR a Moisés, e falou com ele desde o tabernáculo do testemunho, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Quando algum dentre vós oferecer oferta ao SENHOR, de gado vacum ou ovelha fareis vossa oferta. "
+        },
+        {
+          "number": 3,
+          "text": "Se sua oferta for holocausto de vacas, macho sem mácula o oferecerá: de sua vontade o oferecerá à porta do tabernáculo do testemunho diante do SENHOR. "
+        },
+        {
+          "number": 4,
+          "text": "E porá sua mão sobre a cabeça do holocausto; e ele o aceitará para expiar-lhe. "
+        },
+        {
+          "number": 5,
+          "text": "Então degolará o bezerro na presença do SENHOR; e os sacerdotes, filhos de Arão, oferecerão o sangue, e o espargirão ao redor sobre o altar, o qual está à porta do tabernáculo do testemunho. "
+        },
+        {
+          "number": 6,
+          "text": "E tirará a pele do holocausto, e o dividirá em suas peças. "
+        },
+        {
+          "number": 7,
+          "text": "E os filhos de Arão sacerdote porão fogo sobre o altar, e porão a lenha sobre o fogo. "
+        },
+        {
+          "number": 8,
+          "text": "Logo os sacerdotes, filhos de Arão, acomodarão as peças, a cabeça e o redenho, sobre a lenha que está sobre o fogo, que haverá encima do altar: "
+        },
+        {
+          "number": 9,
+          "text": "E lavará com água seus intestinos e suas pernas: e o sacerdote fará arder tudo sobre o altar: holocausto é, oferta acesa de cheiro suave ao SENHOR. "
+        },
+        {
+          "number": 10,
+          "text": "E se sua oferta para holocausto for de ovelhas, dos cordeiros, ou das cabras, macho sem defeito o oferecerá. "
+        },
+        {
+          "number": 11,
+          "text": "E há de degolá-lo ao lado norte do altar diante do SENHOR: e os sacerdotes, filhos de Arão, espargirão seu sangue sobre o altar ao redor. "
+        },
+        {
+          "number": 12,
+          "text": "E o dividirá em suas peças, com sua cabeça e seu redenho; e o sacerdote as acomodará sobre a lenha que está sobre o fogo, que haverá encima do altar; "
+        },
+        {
+          "number": 13,
+          "text": "E lavará suas entranhas e suas pernas com água; e o sacerdote o oferecerá tudo, e o fará arder sobre o altar; holocausto é, oferta acesa de cheiro suave ao SENHOR. "
+        },
+        {
+          "number": 14,
+          "text": "E se o holocausto se houver de oferecer ao SENHOR de aves, apresentará sua oferta de rolinhas, ou de pombinhos. "
+        },
+        {
+          "number": 15,
+          "text": "E o sacerdote a oferecerá sobre o altar, e há de tirar-lhe a cabeça, e fará que arda no altar; e seu sangue será espremido sobre a parede do altar. "
+        },
+        {
+          "number": 16,
+          "text": "E lhe há de tirar o papo e as penas, o qual lançará junto ao altar, até o oriente, no lugar das cinzas. "
+        },
+        {
+          "number": 17,
+          "text": "E a fenderá por suas asas, mas não a dividirá em dois: e o sacerdote a fará arder sobre o altar, sobre a lenha que estará no fogo; holocausto é, oferta acesa de cheiro suave ao SENHOR. "
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E quando alguma pessoa oferecer oferta de grãos de presente ao SENHOR, sua oferta será flor de farinha, sobre a qual lançará azeite, e porá sobre ela incenso: "
+        },
+        {
+          "number": 2,
+          "text": "E a trará aos sacerdotes, filhos de Arão; e disso tomará o sacerdote seu punho cheio de sua flor de farinha e de seu azeite, com todo seu incenso, e o fará arder sobre o altar: oferta acesa para memorial, de cheiro suave ao SENHOR. "
+        },
+        {
+          "number": 3,
+          "text": "E a sobra da oferta será de Arão e de seus filhos: é coisa santíssima das ofertas que se queimam ao SENHOR. "
+        },
+        {
+          "number": 4,
+          "text": "E quando ofereceres oferta de presente cozida em forno, será de tortas de flor de farinha sem levedura, amassadas com azeite, e massas sem levedura untadas com azeite. "
+        },
+        {
+          "number": 5,
+          "text": "Mas se teu presente for oferta de alimentos de panelas, será de flor de farinha sem levedura, amassada com azeite, "
+        },
+        {
+          "number": 6,
+          "text": "A qual partirás em peças, e expulsarás sobre ela azeite: é presente. "
+        },
+        {
+          "number": 7,
+          "text": "E se teu presente for oferta cozida em frigideira, ela será feita de flor de farinha com azeite. "
+        },
+        {
+          "number": 8,
+          "text": "E trarás ao SENHOR a oferta que se fará destas coisas, e a apresentarás ao sacerdote, o qual a chegará ao altar. "
+        },
+        {
+          "number": 9,
+          "text": "E tomará o sacerdote daquele presente, em memória do mesmo, e o fará arder sobre o altar; oferta acesa, de suave cheiro ao SENHOR. "
+        },
+        {
+          "number": 10,
+          "text": "E o restante da oferta será de Arão e de seus filhos; é coisa santíssima das ofertas que se queimam ao SENHOR. "
+        },
+        {
+          "number": 11,
+          "text": "Nenhum presente que oferecerdes ao SENHOR, será com levedura: porque de nenhuma coisa levedada, nem de nenhum mel, se há de queimar oferta ao SENHOR. "
+        },
+        {
+          "number": 12,
+          "text": "Na oferta das primícias as oferecereis ao SENHOR: mas não subirão sobre o altar em cheiro suave. "
+        },
+        {
+          "number": 13,
+          "text": "E temperarás toda oferta de teu presente com sal; e não farás que falte jamais de teu presente o sal da aliança de teu Deus: em toda oferta tua oferecerás sal. "
+        },
+        {
+          "number": 14,
+          "text": "E se ofereceres ao SENHOR presente de primícias, tostarás ao fogo as espigas verdes, e o grão esmigalhado oferecerás por oferta de tuas primícias. "
+        },
+        {
+          "number": 15,
+          "text": "E porás sobre ela azeite, e porás sobre ela incenso: é presente. "
+        },
+        {
+          "number": 16,
+          "text": "E o sacerdote fará arder, em memória do presente, parte de seu grão esmigalhado, e de seu azeite com todo seu incenso; é oferta acesa ao SENHOR. "
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E se sua oferta for sacrifício pacífico, se houver de oferecê-lo de gado vacum, seja macho ou fêmea, sem defeito o oferecerá diante do SENHOR: "
+        },
+        {
+          "number": 2,
+          "text": "E porá sua mão sobre a cabeça de sua oferta, e a degolará à porta do tabernáculo do testemunho; e os sacerdotes, filhos de Arão, espargirão seu sangue sobre o altar em derredor. "
+        },
+        {
+          "number": 3,
+          "text": "Logo oferecerá do sacrifício pacífico, por oferta acesa ao SENHOR, a gordura que cobre os intestinos, e toda a gordura que está sobre as entranhas, "
+        },
+        {
+          "number": 4,
+          "text": "E os dois rins, e a gordura que está sobre eles, e sobre os lombos, e com os rins tirará o redenho que está sobre o fígado. "
+        },
+        {
+          "number": 5,
+          "text": "E os filhos de Arão farão arder isto no altar, sobre o holocausto que estará sobre a lenha que haverá encima do fogo; é oferta de cheiro suave ao SENHOR. "
+        },
+        {
+          "number": 6,
+          "text": "Mas se de ovelhas for sua oferta para sacrifício pacífico ao SENHOR, seja macho ou fêmea, oferecê-la-á sem mácula. "
+        },
+        {
+          "number": 7,
+          "text": "Se oferecer cordeiro por sua oferta, há de oferecê-lo diante do SENHOR: "
+        },
+        {
+          "number": 8,
+          "text": "E porá sua mão sobre a cabeça de sua oferta, e depois a degolará diante do tabernáculo do testemunho; e os filhos de Arão espargirão seu sangue sobre o altar em derredor. "
+        },
+        {
+          "number": 9,
+          "text": "E do sacrifício pacífico oferecerá por oferta acesa ao SENHOR, sua gordura, e a cauda inteira, a qual tirará a raiz do espinhaço, e a gordura que cobre os intestinos, e toda a gordura que está sobre as entranhas: "
+        },
+        {
+          "number": 10,
+          "text": "Também os dois rins, e a gordura que está sobre eles, e o que está sobre os lombos, e com os rins tirará o redenho de sobre o fígado. "
+        },
+        {
+          "number": 11,
+          "text": "E o sacerdote fará arder isto sobre o altar; comida de oferta acesa ao SENHOR. "
+        },
+        {
+          "number": 12,
+          "text": "E se for cabra sua oferta oferecê-la-á diante do SENHOR: "
+        },
+        {
+          "number": 13,
+          "text": "E porá sua mão sobre a cabeça dela, e a degolará diante do tabernáculo do testemunho; e os filhos de Arão espargirão seu sangue sobre o altar em derredor. "
+        },
+        {
+          "number": 14,
+          "text": "Depois oferecerá dela sua oferta acesa ao SENHOR; a gordura que cobre os intestinos, e toda a gordura que está sobre as entranhas, "
+        },
+        {
+          "number": 15,
+          "text": "E os dois rins, e a gordura que está sobre eles, e o que está sobre os lombos, e com os rins tirará o redenho de sobre o fígado. "
+        },
+        {
+          "number": 16,
+          "text": "E o sacerdote fará arder isto sobre o altar; é comida de oferta que se queima em cheiro suave ao SENHOR: a gordura tudo é do SENHOR. "
+        },
+        {
+          "number": 17,
+          "text": "Estatuto perpétuo por vossas gerações; em todas as vossas moradas, nenhuma gordura nem nenhum sangue comereis. "
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, dizendo: Quando alguma pessoa pecar por acidente em algum dos mandamentos do SENHOR sobre coisas que não se devem fazer, e agir contra algum deles; "
+        },
+        {
+          "number": 3,
+          "text": "Se sacerdote ungido pecar segundo o pecado do povo, oferecerá ao SENHOR, por seu pecado que houver cometido, um bezerro sem mácula para expiação. "
+        },
+        {
+          "number": 4,
+          "text": "E trará o bezerro à porta do tabernáculo do testemunho diante do SENHOR, e porá sua mão sobre a cabeça do bezerro, e o degolará diante do SENHOR. "
+        },
+        {
+          "number": 5,
+          "text": "E o sacerdote ungido tomará do sangue do bezerro, e a trará ao tabernáculo do testemunho; "
+        },
+        {
+          "number": 6,
+          "text": "E molhará o sacerdote seu dedo no sangue, e espargirá daquele sangue sete vezes diante do SENHOR, até o véu do santuário. "
+        },
+        {
+          "number": 7,
+          "text": "E porá o sacerdote do sangue sobre as pontas do altar do incenso aromático, que está no tabernáculo do testemunho diante do SENHOR: e lançará todo o sangue do bezerro ao pé do altar do holocausto, que está à porta do tabernáculo do testemunho. "
+        },
+        {
+          "number": 8,
+          "text": "E tomará do bezerro para a expiação toda a sua gordura, a gordura que cobre os intestinos, e toda a gordura que está sobre as entranhas, "
+        },
+        {
+          "number": 9,
+          "text": "E os dois rins, e a gordura que está sobre eles, e o que está sobre os lombos, e com os rins tirará o redenho de sobre o fígado, "
+        },
+        {
+          "number": 10,
+          "text": "Da maneira que se tira do boi do sacrifício pacífico: e o sacerdote o fará arder sobre o altar do holocausto. "
+        },
+        {
+          "number": 11,
+          "text": "E o couro do bezerro, e toda sua carne, com sua cabeça, e suas pernas, e seus intestinos, e seu excremento, "
+        },
+        {
+          "number": 12,
+          "text": "Em fim, todo o bezerro tirará fora do acampamento, a um lugar limpo, onde se lançam as cinzas, e o queimará ao fogo sobre a lenha: onde se lançam as cinzas será queimado. "
+        },
+        {
+          "number": 13,
+          "text": "E se toda a congregação de Israel houver errado, e o negócio estiver oculto aos olhos do povo, e houverem feito algo contra algum dos mandamentos do SENHOR em coisas que não se devem fazer, e forem culpados; "
+        },
+        {
+          "number": 14,
+          "text": "Logo que for entendido o pecado sobre que transgrediram, a congregação oferecerá um bezerro por expiação, e o trarão diante do tabernáculo do testemunho. "
+        },
+        {
+          "number": 15,
+          "text": "E os anciãos da congregação porão suas mãos sobre a cabeça do bezerro diante do SENHOR; e em presença do SENHOR degolarão aquele bezerro. "
+        },
+        {
+          "number": 16,
+          "text": "E o sacerdote ungido meterá do sangue do bezerro no tabernáculo do testemunho. "
+        },
+        {
+          "number": 17,
+          "text": "E molhará o sacerdote seu dedo no mesmo sangue, e espargirá sete vezes diante do SENHOR até o véu. "
+        },
+        {
+          "number": 18,
+          "text": "E daquele sangue porá sobre as pontas do altar que está diante do SENHOR no tabernáculo do testemunho, e derramará todo o sangue ao pé do altar do holocausto, que está à porta do tabernáculo do testemunho. "
+        },
+        {
+          "number": 19,
+          "text": "E lhe tirará toda a gordura, e a fará arder sobre o altar. "
+        },
+        {
+          "number": 20,
+          "text": "E fará daquele bezerro como fez com o bezerro da expiação; o mesmo fará dele: assim fará o sacerdote expiação por eles, e obterão perdão. "
+        },
+        {
+          "number": 21,
+          "text": "E tirará o bezerro fora do acampamento, e o queimará como queimou o primeiro bezerro; expiação da congregação. "
+        },
+        {
+          "number": 22,
+          "text": "E quando pecar o príncipe, e fizer por acidente algo contra algum de todos os mandamentos do SENHOR seu Deus, sobre coisas que não se devem fazer, e pecar; "
+        },
+        {
+          "number": 23,
+          "text": "Logo que lhe for conhecido seu pecado em que transgrediu, apresentará por sua oferta um bode macho sem defeito. "
+        },
+        {
+          "number": 24,
+          "text": "E porá sua mão sobre a cabeça do bode macho, e o degolará no lugar de onde se degola o holocausto diante do SENHOR; é expiação. "
+        },
+        {
+          "number": 25,
+          "text": "E tomará o sacerdote com seu dedo do sangue da expiação, e porá sobre as pontas do altar do holocausto, e derramará o sangue ao pé do altar do holocausto: "
+        },
+        {
+          "number": 26,
+          "text": "E queimará toda a sua gordura sobre o altar, como a gordura do sacrifício pacífico: assim fará o sacerdote por ele a expiação de seu pecado, e terá perdão. "
+        },
+        {
+          "number": 27,
+          "text": "E se alguma pessoa comum do povo pecar por acidente, fazendo algo contra algum dos mandamentos do SENHOR em coisas que não se devem fazer, e transgredir; "
+        },
+        {
+          "number": 28,
+          "text": "Logo que lhe for conhecido seu pecado que cometeu, trará por sua oferta uma fêmea das cabras, uma cabra sem defeito, por seu pecado que haverá cometido: "
+        },
+        {
+          "number": 29,
+          "text": "E porá sua mão sobre a cabeça da expiação, e a degolará no lugar do holocausto. "
+        },
+        {
+          "number": 30,
+          "text": "Logo tomará o sacerdote em seu dedo de seu sangue, e porá sobre as pontas do altar do holocausto, e derramará todo o seu sangue ao pé do altar. "
+        },
+        {
+          "number": 31,
+          "text": "E lhe tirará toda a sua gordura, da maneira que foi tirada a gordura do sacrifício pacífico; e o sacerdote a fará arder sobre o altar em cheiro suave ao SENHOR: assim fará o sacerdote expiação por ele, e será perdoado. "
+        },
+        {
+          "number": 32,
+          "text": "E se trouxer cordeiro para sua oferta pelo pecado, fêmea sem defeito trará. "
+        },
+        {
+          "number": 33,
+          "text": "E porá sua mão sobre a cabeça da expiação, e a degolará por expiação no lugar onde se degola o holocausto. "
+        },
+        {
+          "number": 34,
+          "text": "Depois tomará o sacerdote com seu dedo do sangue da expiação, e porá sobre as pontas do altar do holocausto; e derramará todo o sangue ao pé do altar. "
+        },
+        {
+          "number": 35,
+          "text": "E lhe tirará toda a sua gordura, como foi tirada a gordura do sacrifício pacífico, e a fará o sacerdote arder no altar sobre a oferta acesa ao SENHOR: e lhe fará o sacerdote expiação de seu pecado que haverá cometido, e será perdoado. "
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E quando alguma pessoa pecar, que houver ouvido a voz do que jurou, e ele for testemunha que viu, ou soube, se não o denunciar, ele levará seu pecado. "
+        },
+        {
+          "number": 2,
+          "text": "Também a pessoa que houver tocado em qualquer coisa imunda, seja corpo morto de animal selvagem impuro, ou corpo morto de animal doméstico impuro, ou corpo morto de réptil impuro, ainda que não o soubesse, será impura e haverá transgredido: "
+        },
+        {
+          "number": 3,
+          "text": "Ou se tocar a homem impuro em qualquer impureza sua de que é impuro, e não o deixar de ver; se depois chega a sabê-lo, será culpável. "
+        },
+        {
+          "number": 4,
+          "text": "Também a pessoa que jurar precipitadamente com seus lábios fazer mal ou bem, em quaisquer coisas que o homem profere com juramento, e ele não o conhecer; se depois o entende, será culpado em uma destas coisas. "
+        },
+        {
+          "number": 5,
+          "text": "E será que quando pecar em alguma destas coisas, confessará aquilo em que pecou: "
+        },
+        {
+          "number": 6,
+          "text": "E para sua expiação trará ao SENHOR por seu pecado que cometeu, uma fêmea dos rebanhos, uma cordeira ou uma cabra como oferta de expiação; e o sacerdote fará expiação por ele de seu pecado. "
+        },
+        {
+          "number": 7,
+          "text": "E se não lhe alcançar para um cordeiro, trará em expiação por seu pecado que cometeu, duas rolinhas ou dois pombinhos ao SENHOR; um para expiação, e o outro para holocausto. "
+        },
+        {
+          "number": 8,
+          "text": "E há de trazê-los ao sacerdote, o qual oferecerá primeiro o que é para expiação, e desunirá sua cabeça de seu pescoço, mas não a separará por completo: "
+        },
+        {
+          "number": 9,
+          "text": "E espargirá do sangue da expiação sobre a parede do altar; e o que sobrar do sangue o espremerá ao pé do altar; é expiação. "
+        },
+        {
+          "number": 10,
+          "text": "E do outro fará holocausto conforme o rito; e fará por ele o sacerdote expiação de seu pecado que cometeu, e será perdoado. "
+        },
+        {
+          "number": 11,
+          "text": "Mas se sua possibilidade não alcançar para duas rolinhas, ou dois pombinhos, o que pecou trará por sua oferta a décima parte de um efa de flor de farinha por expiação. Não porá sobre ela azeite, nem sobre ela porá incenso, porque é expiação. "
+        },
+        {
+          "number": 12,
+          "text": "Ele a trará, pois, ao sacerdote, e o sacerdote tomará dela seu punho cheio, em memória sua, e a fará arder no altar sobre as ofertas acendidas ao SENHOR: é expiação. "
+        },
+        {
+          "number": 13,
+          "text": "E fará o sacerdote expiação por ele de seu pecado que cometeu em alguma destas coisas, e será perdoado; e o excedente será do sacerdote, como o presente de comida. "
+        },
+        {
+          "number": 14,
+          "text": "Falou mais o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 15,
+          "text": "Quando alguma pessoa cometer falta, e pecar por acidente nas coisas santificadas ao SENHOR, trará sua expiação ao SENHOR, um carneiro sem mácula dos rebanhos, conforme tua avaliação, em siclos de prata do siclo do santuário, em oferta pelo pecado; "
+        },
+        {
+          "number": 16,
+          "text": "E pagará aquilo das coisas santas em que houver pecado, e acrescentará a ele o quinto, e o dará ao sacerdote: e o sacerdote fará expiação por ele com o carneiro do sacrifício pelo pecado, e será perdoado. "
+        },
+        {
+          "number": 17,
+          "text": "Finalmente, se uma pessoa pecar, ou fizer alguma de todas aquelas coisas que por mandamento do SENHOR não se devem fazer, ainda sem fazê-lo de propósito, é culpável, e levará seu pecado. "
+        },
+        {
+          "number": 18,
+          "text": "Trará, pois, ao sacerdote por expiação, segundo tu o estimes, um carneiro sem mácula dos rebanhos: e o sacerdote fará expiação por ele de seu erro que cometeu por ignorância, e será perdoado. "
+        },
+        {
+          "number": 19,
+          "text": "É infração, e certamente transgrediu contra o SENHOR. "
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Quando uma pessoa pecar, e fizer transgressão contra o SENHOR, e negar a seu próximo o depositado ou deixado em sua mão, ou roubar, ou extorquir a seu próximo; "
+        },
+        {
+          "number": 3,
+          "text": "Ou seja que achando o perdido, depois o negar, e jurar em falso, em alguma de todas aquelas coisas em que costuma pecar o homem: "
+        },
+        {
+          "number": 4,
+          "text": "Então será que, posto que haverá pecado e ofendido, restituirá aquilo que roubou, ou pelo dano da extorsão, ou o depósito que se lhe depositou, ou o perdido que achou, "
+        },
+        {
+          "number": 5,
+          "text": "Ou tudo aquilo sobre que houver jurado falsamente; o restituirá, pois, por inteiro, e acrescentará a ele a quinta parte, que há de pagar a aquele a quem pertence no dia de sua expiação. "
+        },
+        {
+          "number": 6,
+          "text": "E por sua expiação trará ao SENHOR um carneiro sem mácula dos rebanhos, conforme tua avaliação, ao sacerdote para a expiação. "
+        },
+        {
+          "number": 7,
+          "text": "E o sacerdote fará expiação por ele diante do SENHOR, e obterá perdão de qualquer de todas as coisas em que costuma ofender. "
+        },
+        {
+          "number": 8,
+          "text": "Falou ainda o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 9,
+          "text": "Manda a Arão e a seus filhos dizendo: Esta é a lei do holocausto: (é holocausto, porque se queima sobre o altar toda a noite até a manhã, e o fogo do altar arderá nele:) "
+        },
+        {
+          "number": 10,
+          "text": "O sacerdote se porá sua vestimenta de linho, e se vestirá calções de linho sobre sua carne; e quando o fogo houver consumido o holocausto, apartará ele as cinzas de sobre o altar, e as porá junto ao altar. "
+        },
+        {
+          "number": 11,
+          "text": "Depois se desnudará de suas vestimentas, e se porá outras vestiduras, e tirará as cinzas fora do acampamento ao lugar limpo. "
+        },
+        {
+          "number": 12,
+          "text": "E o fogo acendido sobre o altar não há de apagar-se, mas sim que o sacerdote porá nele lenha cada manhã, e acomodará sobre ele o holocausto, e queimará sobre ele a gordura pacífica. "
+        },
+        {
+          "number": 13,
+          "text": "O fogo há de arder continuamente no altar; não se apagará. "
+        },
+        {
+          "number": 14,
+          "text": "E esta é a lei da oferta: Hão de oferecê-lo os filhos de Arão diante do SENHOR, diante do altar. "
+        },
+        {
+          "number": 15,
+          "text": "E tomará dele um punhado da flor de farinha da oferta, e de seu azeite, e todo o incenso que está sobre o presente, e o fará arder sobre o altar por memória, em cheiro suavíssimo ao SENHOR. "
+        },
+        {
+          "number": 16,
+          "text": "E o excedente dela o comerão Arão e seus filhos: sem levedura se comerá no lugar santo; no átrio do tabernáculo do testemunho o comerão. "
+        },
+        {
+          "number": 17,
+          "text": "Não se cozerá com levedura: dei-o a eles por sua porção de minhas ofertas acendidas; é coisa santíssima, como a expiação pelo pecado, e como a expiação pela culpa. "
+        },
+        {
+          "number": 18,
+          "text": "Todos os homens dos filhos de Arão comerão dela. Estatuto perpétuo será para vossas gerações acerca das ofertas acendidas do SENHOR: toda coisa que tocar nelas será santificada. "
+        },
+        {
+          "number": 19,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 20,
+          "text": "Esta é a oferta de Arão e de seus filhos, que oferecerão ao SENHOR o dia que serão ungidos: a décima parte de um efa de flor de farinha, presente perpétuo, a metade à manhã e a metade à tarde. "
+        },
+        {
+          "number": 21,
+          "text": "Em panela se preparará com azeite; bem misturada a trarás, e os pedaços cozidos da oferta oferecerás ao SENHOR em cheiro suave. "
+        },
+        {
+          "number": 22,
+          "text": "E o sacerdote que em lugar de Arão for ungido dentre seus filhos, fará a oferta; estatuto perpétuo do SENHOR: toda ela será queimada. "
+        },
+        {
+          "number": 23,
+          "text": "E toda a oferta de cereais de sacerdote será inteiramente queimado; não se comerá. "
+        },
+        {
+          "number": 24,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 25,
+          "text": "Fala a Arão e a seus filhos, dizendo: Esta é a lei da expiação: no lugar de onde será degolado o holocausto, será degolada a expiação pelo pecado diante do SENHOR: é coisa santíssima. "
+        },
+        {
+          "number": 26,
+          "text": "O sacerdote que a oferecer por expiação, a comerá: no lugar santo será comida, no átrio do tabernáculo do testemunho. "
+        },
+        {
+          "number": 27,
+          "text": "Tudo o que em sua carne tocar, será santificado; e se cair de seu sangue sobre a roupa, lavarás aquilo sobre que cair, no lugar santo. "
+        },
+        {
+          "number": 28,
+          "text": "E a vasilha de barro em que for cozida, será quebrada: e se for cozida em vasilha de metal, será esfregada e lavada com água. "
+        },
+        {
+          "number": 29,
+          "text": "Todo homem dentre os sacerdotes a comerá: é coisa santíssima. "
+        },
+        {
+          "number": 30,
+          "text": "Mas não se comerá de expiação alguma, de cujo sangue se meter no tabernáculo do testemunho para reconciliar no santuário: ao fogo será queimada. "
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Assim esta é a lei da expiação da culpa: é coisa muito santa. "
+        },
+        {
+          "number": 2,
+          "text": "No lugar onde degolarem o holocausto, degolarão o sacrifício pela culpa; e espargirá seu sangue em derredor sobre o altar: "
+        },
+        {
+          "number": 3,
+          "text": "E dela oferecerá toda a sua gordura, a cauda, e a gordura que cobre os intestinos. "
+        },
+        {
+          "number": 4,
+          "text": "E os dois rins, e a gordura que está sobre eles, e o que está sobre os lombos; e com os rins tirará o redenho de sobre o fígado. "
+        },
+        {
+          "number": 5,
+          "text": "E o sacerdote o fará arder sobre o altar; oferta acesa ao SENHOR: é expiação da culpa. "
+        },
+        {
+          "number": 6,
+          "text": "Todo homem dentre os sacerdotes a comerá: será comida no lugar santo: é coisa muito santa. "
+        },
+        {
+          "number": 7,
+          "text": "Como a expiação pelo pecado, assim é a expiação da culpa: uma mesma lei terão: será do sacerdote que haverá feito a reconciliação com ela. "
+        },
+        {
+          "number": 8,
+          "text": "E o sacerdote que oferecer holocausto de alguém, o couro do holocausto que oferecer, será para ele. "
+        },
+        {
+          "number": 9,
+          "text": "Também toda oferta de cereais que se cozer em forno, e tudo o que for preparado em panela, ou em frigideira, será do sacerdote que o oferecer. "
+        },
+        {
+          "number": 10,
+          "text": "E toda oferta de cereais amassada com azeite, e seca, será de todos os filhos de Arão, tanto ao um como ao outro. "
+        },
+        {
+          "number": 11,
+          "text": "E esta é a lei do sacrifício pacífico, que se oferecerá ao SENHOR: "
+        },
+        {
+          "number": 12,
+          "text": "Se se oferecer em ação de graças, oferecerá por sacrifício de ação de graças tortas sem levedura amassadas com azeite, e massas sem levedura untadas com azeite, e flor de farinha frita em tortas amassadas com azeite. "
+        },
+        {
+          "number": 13,
+          "text": "Com tortas de pão levedado oferecerá sua oferta no sacrifício de ação de graças de suas pazes. "
+        },
+        {
+          "number": 14,
+          "text": "E de toda a oferta apresentará uma parte para oferta elevada ao SENHOR, e será do sacerdote que espargir o sangue das ofertas pacíficas. "
+        },
+        {
+          "number": 15,
+          "text": "E a carne do sacrifício de suas ofertas pacíficas em ação de graças, se comerá no dia que for oferecida: não deixarão dela nada para outro dia. "
+        },
+        {
+          "number": 16,
+          "text": "Mas se o sacrifício de sua oferta for voto, ou voluntário, no dia que oferecer seu sacrifício será comido; e o que dele restar, será comido no dia seguinte: "
+        },
+        {
+          "number": 17,
+          "text": "E o que restar para o terceiro dia da carne do sacrifício, será queimado no fogo. "
+        },
+        {
+          "number": 18,
+          "text": "E se se comer da carne do sacrifício de suas pazes no terceiro dia, o que o oferecer não será aceito, nem lhe será imputado; abominação será, e a pessoa que dele comer levará seu pecado. "
+        },
+        {
+          "number": 19,
+          "text": "E a carne que tocar a alguma coisa impura, não se comerá; ao fogo será queimada; mas qualquer limpo comerá desta carne. "
+        },
+        {
+          "number": 20,
+          "text": "E a pessoa que comer a carne do sacrifício pacífico, o qual é do SENHOR, estando impura, aquela pessoa será eliminada de seus povos. "
+        },
+        {
+          "number": 21,
+          "text": "Além disso, a pessoa que tocar alguma coisa impura, em impureza de homem, ou em animal impuro, ou em qualquer abominação impura, e comer a carne do sacrifício pacífico, o qual é do SENHOR, aquela pessoa será eliminada de seus povos. "
+        },
+        {
+          "number": 22,
+          "text": "Falou ainda o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 23,
+          "text": "Fala aos filhos de Israel, dizendo: Nenhuma gordura de boi, nem de cordeiro, nem de cabra, comereis. "
+        },
+        {
+          "number": 24,
+          "text": "A gordura de animal morto naturalmente, e a gordura do que foi arrebatado de feras, se preparará para qualquer outro uso, mas não o comereis. "
+        },
+        {
+          "number": 25,
+          "text": "Porque qualquer um que comer gordura de animal, do qual se oferece ao SENHOR oferta acesa, a pessoa que o comer, será cortada de seus povos. "
+        },
+        {
+          "number": 26,
+          "text": "Além disso, nenhum sangue comereis em todas as vossas habitações, tanto de aves como de animais. "
+        },
+        {
+          "number": 27,
+          "text": "Qualquer um pessoa que comer algum sangue, a tal pessoa será eliminada de seus povos. "
+        },
+        {
+          "number": 28,
+          "text": "Falou mais o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 29,
+          "text": "Fala aos filhos de Israel, dizendo: O que oferecer sacrifício de suas pazes ao SENHOR, trará sua oferta do sacrifício de suas pazes ao SENHOR; "
+        },
+        {
+          "number": 30,
+          "text": "Suas mãos trarão as ofertas que se hão de queimar ao SENHOR: trará a gordura com o peito: o peito para que este seja movido, como sacrifício movido diante do SENHOR; "
+        },
+        {
+          "number": 31,
+          "text": "E a gordura a fará arder o sacerdote no altar, mas o peito será de Arão e de seus filhos. "
+        },
+        {
+          "number": 32,
+          "text": "E dareis ao sacerdote para ser elevada em oferta, a coxa direita dos sacrifícios de vossas pazes. "
+        },
+        {
+          "number": 33,
+          "text": "O que dos filhos de Arão oferecer o sangue das ofertas pacíficas, e a gordura, dele será em porção a coxa direita; "
+        },
+        {
+          "number": 34,
+          "text": "Porque tomei dos filhos de Israel, dos sacrifícios de suas ofertas pacíficas, o peito que é movido, e a coxa elevada em oferta, e o dei a Arão o sacerdote e a seus filhos, por estatuto perpétuo dos filhos de Israel. "
+        },
+        {
+          "number": 35,
+          "text": "Esta é pela unção de Arão e a unção de seus filhos, a parte deles nas ofertas acendidas ao SENHOR, desde o dia que ele os apresentou para serem sacerdotes do SENHOR: "
+        },
+        {
+          "number": 36,
+          "text": "O qual mandou o SENHOR que lhes dessem, desde o dia que ele os ungiu dentre os filhos de Israel, por estatuto perpétuo em suas gerações. "
+        },
+        {
+          "number": 37,
+          "text": "Esta é a lei do holocausto, da oferta, da expiação pelo pecado, e da culpa, e das consagrações, e do sacrifício pacífico: "
+        },
+        {
+          "number": 38,
+          "text": "A qual intimou o SENHOR a Moisés, no monte Sinai, no dia que mandou aos filhos de Israel que oferecessem suas ofertas ao SENHOR no deserto de Sinai. "
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Toma a Arão e a seus filhos com ele, e as vestimentas, e o azeite da unção, e o bezerro da expiação, e os dois carneiros, e o cesto dos pães ázimos; "
+        },
+        {
+          "number": 3,
+          "text": "E reúne toda a congregação à porta do tabernáculo do testemunho. "
+        },
+        {
+          "number": 4,
+          "text": "Fez, pois, Moisés como o SENHOR lhe mandou, e juntou-se a congregação à porta do tabernáculo do testemunho. "
+        },
+        {
+          "number": 5,
+          "text": "E disse Moisés à congregação: Isto é o que o SENHOR mandou fazer. "
+        },
+        {
+          "number": 6,
+          "text": "Então Moisés fez chegar a Arão e a seus filhos, e lavou-os com água. "
+        },
+        {
+          "number": 7,
+          "text": "E pôs sobre ele a túnica, e cingiu-o com o cinto; vestiu-lhe depois o manto, e pôs sobre ele o éfode, e cingiu-o com o cinto do éfode, e ajustou-o com ele. "
+        },
+        {
+          "number": 8,
+          "text": "Pôs-lhe logo encima o peitoral, e nele pôs o Urim e Tumim. "
+        },
+        {
+          "number": 9,
+          "text": "Depois pôs a mitra sobre sua cabeça; e sobre a mitra em sua frente dianteira pôs a placa de ouro, a coroa santa; como o SENHOR havia mandado a Moisés. "
+        },
+        {
+          "number": 10,
+          "text": "E tomou Moisés o azeite da unção, e ungiu o tabernáculo, e todas as coisas que estavam nele, e santificou-as. "
+        },
+        {
+          "number": 11,
+          "text": "E espargiu dele sobre o altar sete vezes, e ungiu o altar e todos os seus utensílios, e a pia e sua base, para santificá-los. "
+        },
+        {
+          "number": 12,
+          "text": "E derramou do azeite da unção sobre a cabeça de Arão, e ungiu-o para santificá-lo. "
+        },
+        {
+          "number": 13,
+          "text": "Depois Moisés fez chegar os filhos de Arão, e vestiu-lhes as túnicas, e cingiu-os com cintos, e ajustou-lhes as tiaras), como o SENHOR o havia mandado a Moisés. "
+        },
+        {
+          "number": 14,
+          "text": "Fez logo chegar o bezerro da expiação, e Arão e seus filhos puseram suas mãos sobre a cabeça do bezerro da expiação. "
+        },
+        {
+          "number": 15,
+          "text": "E degolou-o; e Moisés tomou o sangue, e pôs com seu dedo sobre as pontas do altar ao redor, e purificou o altar; e lançou o resto do sangue ao pé do altar, e santificou-o para fazer reconciliação sobre ele. "
+        },
+        {
+          "number": 16,
+          "text": "Depois tomou toda a gordura que estava sobre os intestinos, e o redenho do fígado, e os dois rins, e a gordura deles, e o fez Moisés arder sobre o altar. "
+        },
+        {
+          "number": 17,
+          "text": "Mas o bezerro, e seu couro, e sua carne, e seu excremento, queimou-o ao fogo fora do acampamento; como o SENHOR o havia mandado a Moisés. "
+        },
+        {
+          "number": 18,
+          "text": "Depois fez chegar o carneiro do holocausto, e Arão e seus filhos puseram suas mãos sobre a cabeça do carneiro: "
+        },
+        {
+          "number": 19,
+          "text": "E degolou-o; e espargiu Moisés o sangue sobre o altar em derredor. "
+        },
+        {
+          "number": 20,
+          "text": "E cortou o carneiro em pedaços; e Moisés fez arder a cabeça, e os pedaços, e a gordura. "
+        },
+        {
+          "number": 21,
+          "text": "Lavou logo com água os intestinos e pernas, e queimou Moisés todo o carneiro sobre o altar: holocausto em cheiro suave, oferta acesa ao SENHOR; como o havia o SENHOR mandado a Moisés. "
+        },
+        {
+          "number": 22,
+          "text": "Depois fez chegar o outro carneiro, o carneiro das consagrações, e Arão e seus filhos puseram suas mãos sobre a cabeça do carneiro: "
+        },
+        {
+          "number": 23,
+          "text": "E degolou-o; e tomou Moisés de seu sangue, e pôs sobre a ponta da orelha direita de Arão, e sobre o dedo polegar de sua mão direita, e sobre o dedo polegar de seu pé direito. "
+        },
+        {
+          "number": 24,
+          "text": "Fez chegar logo os filhos de Arão, e pôs Moisés do sangue sobre a ponta de suas orelhas direitas, e sobre os polegares de suas mãos direitas, e sobre os polegares de seus pés direitos: e espargiu Moisés o sangue sobre o altar em derredor; "
+        },
+        {
+          "number": 25,
+          "text": "E depois tomou a gordura, e a cauda, e toda a gordura que estava sobre os intestinos, e o redenho do fígado, e os dois rins, e a gordura deles, e a coxa direita; "
+        },
+        {
+          "number": 26,
+          "text": "E do cesto dos pães ázimos, que estava diante do SENHOR, tomou uma torta sem levedura, e uma torta de pão de azeite, e um bolo, e o pôs com a gordura e com a coxa direita; "
+        },
+        {
+          "number": 27,
+          "text": "E o pôs tudo nas mãos de Arão, e nas mãos de seus filhos, e o fez mover: oferta agitada diante do SENHOR. "
+        },
+        {
+          "number": 28,
+          "text": "Depois tomou aquelas coisas Moisés das mãos deles, e as fez arder no altar sobre o holocausto: as consagrações em cheiro suave, oferta acesa ao SENHOR. "
+        },
+        {
+          "number": 29,
+          "text": "E tomou Moisés o peito, e moveu-o, oferta movida diante do SENHOR: do carneiro das consagrações aquela foi a parte de Moisés; como o SENHOR o havia mandado a Moisés. "
+        },
+        {
+          "number": 30,
+          "text": "Logo tomou Moisés do azeite da unção, e do sangue que estava sobre o altar, e espargiu sobre Arão, e sobre suas vestiduras, sobre seus filhos, e sobre as vestiduras de seus filhos com ele; e santificou a Arão, e suas vestiduras, e a seus filhos, e as vestiduras de seus filhos com ele. "
+        },
+        {
+          "number": 31,
+          "text": "E disse Moisés a Arão e a seus filhos: Comei a carne à porta do tabernáculo do testemunho; e comei-a ali com o pão que está no cesto das consagrações, segundo eu mandei, dizendo: Arão e seus filhos a comerão. "
+        },
+        {
+          "number": 32,
+          "text": "E o que sobrar da carne e do pão, queimareis ao fogo. "
+        },
+        {
+          "number": 33,
+          "text": "Da porta do tabernáculo do testemunho não saireis em sete dias, até o dia que se cumprirem os dias de vossas consagrações: porque por sete dias sereis consagrados. "
+        },
+        {
+          "number": 34,
+          "text": "Da maneira que hoje se fez, mandou fazer o SENHOR para expiar-vos. "
+        },
+        {
+          "number": 35,
+          "text": "À porta, pois, do tabernáculo do testemunho estareis dia e noite por sete dias, e guardareis a ordenança diante do SENHOR, para que não morrais; porque assim me foi mandado. "
+        },
+        {
+          "number": 36,
+          "text": "E Arão e seus filhos fizeram todas as coisas que mandou o SENHOR por meio de Moisés. "
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E foi no dia oitavo, que Moisés chamou a Arão e a seus filhos, e aos anciãos de Israel; "
+        },
+        {
+          "number": 2,
+          "text": "E disse a Arão: Toma das vacas um bezerro para expiação, e um carneiro para holocausto, sem defeito, e oferece-os diante do SENHOR. "
+        },
+        {
+          "number": 3,
+          "text": "E aos filhos de Israel falarás, dizendo: Tomai um bode macho para expiação, e um bezerro e um cordeiro de ano, sem mácula, para holocausto; "
+        },
+        {
+          "number": 4,
+          "text": "Também um boi e um carneiro para sacrifício pacífico, que imoleis diante do SENHOR; e uma oferta de cereais amassada com azeite: porque o SENHOR se aparecerá hoje a vós. "
+        },
+        {
+          "number": 5,
+          "text": "E levaram o que mandou Moisés diante do tabernáculo do testemunho, e chegou-se toda a congregação, e puseram-se diante do SENHOR. "
+        },
+        {
+          "number": 6,
+          "text": "Então Moisés disse: Isto é o que mandou o SENHOR; fazei-o, e a glória do SENHOR se vos aparecerá. "
+        },
+        {
+          "number": 7,
+          "text": "E disse Moisés a Arão: Achega-te ao altar, e faze tua expiação, e teu holocausto, e faze a reconciliação por ti e pelo povo: faze também a oferta do povo, e faze a reconciliação por eles; como mandou o SENHOR. "
+        },
+        {
+          "number": 8,
+          "text": "Então chegou-se Arão ao altar; e degolou seu bezerro da expiação que era por ele. "
+        },
+        {
+          "number": 9,
+          "text": "E os filhos de Arão lhe trouxeram o sangue; e ele molhou seu dedo no sangue, e pôs sobre as pontas do altar, e derramou o resto do sangue ao pé do altar; "
+        },
+        {
+          "number": 10,
+          "text": "E a gordura e rins e redenho do fígado, da expiação, os fez arder sobre o altar; como o SENHOR o havia mandado a Moisés. "
+        },
+        {
+          "number": 11,
+          "text": "Mas a carne e o couro os queimou ao fogo fora do acampamento. "
+        },
+        {
+          "number": 12,
+          "text": "Degolou também o holocausto, e os filhos de Arão lhe apresentaram o sangue, a qual espargiu ele ao redor sobre o altar. "
+        },
+        {
+          "number": 13,
+          "text": "Apresentaram-lhe depois o holocausto, em pedaços, e a cabeça; e os fez queimar sobre o altar. "
+        },
+        {
+          "number": 14,
+          "text": "Logo lavou os intestinos e as pernas, e queimou-os sobre o holocausto no altar. "
+        },
+        {
+          "number": 15,
+          "text": "Ofereceu também a oferta do povo, e tomou o bode macho que era para a expiação do povo, e degolou-o, e o ofereceu pelo pecado como o primeiro. "
+        },
+        {
+          "number": 16,
+          "text": "E ofereceu o holocausto, e fez segundo o rito. "
+        },
+        {
+          "number": 17,
+          "text": "Ofereceu também a oferta de cereais, e encheu dela sua mão, e o fez queimar sobre o altar, também do holocausto da manhã. "
+        },
+        {
+          "number": 18,
+          "text": "Degolou também o boi e o carneiro em sacrifício pacífico, que era do povo: e os filhos de Arão lhe apresentaram o sangue (o qual espargiu ele sobre o altar ao redor), "
+        },
+        {
+          "number": 19,
+          "text": "E a gordura do boi; e do carneiro a cauda com o que cobre as entranhas, e os rins, e o redenho do fígado: "
+        },
+        {
+          "number": 20,
+          "text": "E puseram a gordura sobre os peitos, e ele queimou a gordura sobre o altar: "
+        },
+        {
+          "number": 21,
+          "text": "Porém os peitos, com a coxa direita, moveu-os Arão por oferta movida diante do SENHOR; como o SENHOR o havia mandado a Moisés. "
+        },
+        {
+          "number": 22,
+          "text": "Depois levantou Arão suas mãos até o povo e abençoou-os: e desceu de fazer a expiação, e o holocausto, e o sacrifício pacífico. "
+        },
+        {
+          "number": 23,
+          "text": "E entraram Moisés e Arão no tabernáculo do testemunho; e saíram, e bendisseram ao povo: e a glória do SENHOR se apareceu a todo o povo. "
+        },
+        {
+          "number": 24,
+          "text": "E saiu fogo de diante do SENHOR, e consumiu o holocausto e a gordura sobre o altar; e vendo-o todo o povo, louvaram, e caíram sobre seus rostos. "
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E os filhos de Arão, Nadabe e Abiú, tomaram cada um seu incensário, e puseram fogo neles, sobre o qual puseram incenso, e ofereceram diante do SENHOR fogo estranho, que ele nunca lhes mandou. "
+        },
+        {
+          "number": 2,
+          "text": "E saiu fogo de diante do SENHOR que os queimou, e morreram diante do SENHOR. "
+        },
+        {
+          "number": 3,
+          "text": "Então disse Moisés a Arão: Isto é o que falou o SENHOR, dizendo: Em meus achegados me santificarei, e em presença de todo o povo serei glorificado. E Arão calou. "
+        },
+        {
+          "number": 4,
+          "text": "E chamou Moisés a Misael, e a Elzafã, filhos de Uziel, tio de Arão, e disse-lhes: Achegai-vos e tirai a vossos irmãos de diante do santuário fora do acampamento. "
+        },
+        {
+          "number": 5,
+          "text": "E eles chegaram, e tiraram-nos com suas túnicas fora do acampamento, como disse Moisés. "
+        },
+        {
+          "number": 6,
+          "text": "Então Moisés disse a Arão, e a Eleazar e a Itamar, seus filhos: Não descubrais vossas cabeças, nem rasgueis vossas roupas, para que não morrais, nem se levante a ira sobre toda a congregação: porém vossos irmãos, toda a casa de Israel, lamentarão o incêndio que o SENHOR fez. "
+        },
+        {
+          "number": 7,
+          "text": "Nem saireis da porta do tabernáculo do testemunho, porque morrereis; porquanto o azeite da unção do SENHOR está sobre vós. E eles fizeram conforme o dito de Moisés. "
+        },
+        {
+          "number": 8,
+          "text": "E o SENHOR falou a Arão, dizendo: "
+        },
+        {
+          "number": 9,
+          "text": "Tu, e teus filhos contigo, não bebereis vinho nem bebida forte, quando houverdes de entrar no tabernáculo do testemunho, para que não morrais: estatuto perpétuo por vossas gerações; "
+        },
+        {
+          "number": 10,
+          "text": "E para poder discernir entre o santo e o profano, e entre o impuro e o limpo; "
+        },
+        {
+          "number": 11,
+          "text": "E para ensinar aos filhos de Israel todos os estatutos que o SENHOR lhes disse por meio de Moisés. "
+        },
+        {
+          "number": 12,
+          "text": "E Moisés disse a Arão, e a Eleazar e a Itamar, seus filhos que haviam restado: Tomai a oferta de cereais que resta das ofertas acendidas ao SENHOR, e comei-a sem levedura junto ao altar, porque é coisa muito santa. "
+        },
+        {
+          "number": 13,
+          "text": "Haveis, pois, de comê-la no lugar santo: porque isto é estatuto para ti, e estatuto para teus filhos, das ofertas acendidas ao SENHOR, pois que assim me foi mandado. "
+        },
+        {
+          "number": 14,
+          "text": "Comereis também em lugar limpo, tu e teus filhos e tuas filhas contigo, o peito da oferta movida, e a coxa elevada, porque por estatuto para ti, e estatuto para teus filhos, são dados dos sacrifícios das ofertas pacíficas dos filhos de Israel. "
+        },
+        {
+          "number": 15,
+          "text": "Com as ofertas das gorduras que se hão de acender, trarão a coxa que se há de elevar, e o peito que será movido, para que o movas por oferta movida diante do SENHOR: e será por estatuto perpétuo teu, e de teus filhos contigo, como o SENHOR o mandou. "
+        },
+        {
+          "number": 16,
+          "text": "E Moisés mandou o bode macho da expiação, e achou-se que era queimado: e irou-se contra Eleazar e Itamar, os filhos de Arão que haviam restado, dizendo: "
+        },
+        {
+          "number": 17,
+          "text": "Por que não comestes a expiação no lugar santo? Porque é muito santa, e deu-a ele a vós para levar a iniquidade da congregação, para que sejam reconciliados diante do SENHOR. "
+        },
+        {
+          "number": 18,
+          "text": "Vedes que seu sangue não foi metido dentro do santuário: havíeis de comê-la no lugar santo, como eu mandei. "
+        },
+        {
+          "number": 19,
+          "text": "E respondeu Arão a Moisés: Eis que hoje ofereceram sua expiação e seu holocausto diante do SENHOR: mas me aconteceram estas coisas: pois se comesse eu hoje da expiação, Teria sido aceito ao SENHOR? "
+        },
+        {
+          "number": 20,
+          "text": "E quando Moisés ouviu isto, deu-se por satisfeito. "
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés e a Arão, dizendo-lhes: "
+        },
+        {
+          "number": 2,
+          "text": "Falai aos filhos de Israel, dizendo: Estes são os animais que comereis de todos os animais que estão sobre a terra. "
+        },
+        {
+          "number": 3,
+          "text": "De entre os animais, todo o de casco, e que tem as unhas fendidas, e que rumina, este comereis. "
+        },
+        {
+          "number": 4,
+          "text": "Estes, porém, não comereis dos que ruminam e dos que têm casco: o camelo, porque rumina mas não tem casco fendido, haveis de tê-lo por impuro; "
+        },
+        {
+          "number": 5,
+          "text": "Também o coelho, porque rumina, mas não tem unha fendida, o tereis por impuro; "
+        },
+        {
+          "number": 6,
+          "text": "Assim a lebre, porque rumina, mas não tem unha fendida, a tereis por impura; "
+        },
+        {
+          "number": 7,
+          "text": "Também o porco, porque tem unhas, e é de unhas fendidas, mas não rumina, o tereis por impuro. "
+        },
+        {
+          "number": 8,
+          "text": "Da carne deles não comereis, nem tocareis seu corpo morto: os tereis por impuros. "
+        },
+        {
+          "number": 9,
+          "text": "Isto comereis de todas as coisas que estão nas águas: todas as coisas que têm barbatanas e escamas nas águas do mar, e nos rios, aquelas comereis; "
+        },
+        {
+          "number": 10,
+          "text": "Mas todas as coisas que não têm barbatanas nem escamas no mar e nos rios, tanto de todo réptil de água como de toda coisa vivente que está nas águas, as tereis em abominação. "
+        },
+        {
+          "number": 11,
+          "text": "Vos serão, pois, em abominação: de sua carne não comereis, e abominareis seus corpos mortos. "
+        },
+        {
+          "number": 12,
+          "text": "Tudo o que não tiver barbatanas e escamas nas águas, o tereis em abominação. "
+        },
+        {
+          "number": 13,
+          "text": "E das aves, estas tereis em abominação; não se comerão, serão abominação: a água, o quebra-ossos, o esmerilhão, "
+        },
+        {
+          "number": 14,
+          "text": "O milhafre, e o falcão a segundo sua espécie; "
+        },
+        {
+          "number": 15,
+          "text": "Todo corvo segundo sua espécie; "
+        },
+        {
+          "number": 16,
+          "text": "O avestruz, e a coruja, e a gaivota, e o gavião segundo sua espécie; "
+        },
+        {
+          "number": 17,
+          "text": "E o mocho, e o corvo-marinho, e o íbis, "
+        },
+        {
+          "number": 18,
+          "text": "E a galinha-d'água, e o cisne, e o pelicano, "
+        },
+        {
+          "number": 19,
+          "text": "E a cegonha, e a garça, segundo sua espécie, e a poupa, e o morcego. "
+        },
+        {
+          "number": 20,
+          "text": "Todo inseto de asas que andar sobre quatro pés, tereis em abominação. "
+        },
+        {
+          "number": 21,
+          "text": "Porém isto comereis de todo inseto de asas que anda sobre quatro patas, que tiver pernas além de suas patas para saltar com elas sobre a terra; "
+        },
+        {
+          "number": 22,
+          "text": "Estes comereis deles: o gafanhoto migrador segundo sua espécie, e a esperança segundo sua espécie, e o grilo segundo sua espécie, e o gafanhoto comum segundo sua espécie. "
+        },
+        {
+          "number": 23,
+          "text": "Todo réptil de asas que tenha quatro pés, tereis em abominação. "
+        },
+        {
+          "number": 24,
+          "text": "E por estas coisas sereis impuros: qualquer um que tocar a seus corpos mortos, será impuro até à tarde: "
+        },
+        {
+          "number": 25,
+          "text": "E qualquer um que levar de seus corpos mortos, lavará suas roupas, e será impuro até à tarde. "
+        },
+        {
+          "number": 26,
+          "text": "Todo animal de casco, mas que não tem unha fendida, nem rumina, tereis por impuro: qualquer um que os tocar será impuro. "
+        },
+        {
+          "number": 27,
+          "text": "E de todos os animais que andam a quatro patas, tereis por impuro qualquer um que ande sobre suas garras: qualquer um que tocar seus corpos mortos, será impuro até à tarde. "
+        },
+        {
+          "number": 28,
+          "text": "E o que levar seus corpos mortos, lavará suas roupas, e será impuro até à tarde: haveis de tê-los por impuros. "
+        },
+        {
+          "number": 29,
+          "text": "E estes tereis por impuros dos répteis que vão arrastando sobre a terra: a doninha, e o rato, e o lagarto segundo sua espécie, "
+        },
+        {
+          "number": 30,
+          "text": "E a lagartixa, e o lagarto pintado, e a lagartixa de parede, e a salamandra, e o camaleão. "
+        },
+        {
+          "number": 31,
+          "text": "Estes tereis por impuros de todos os répteis: qualquer um que os tocar, quando estiverem mortos, será impuro até à tarde. "
+        },
+        {
+          "number": 32,
+          "text": "E tudo aquilo sobre que cair algum deles depois de mortos, será impuro; tanto vaso de madeira, como roupa, ou pele, ou saco, qualquer instrumento com que se faz obra, será posto em água, e será impuro até à tarde, e assim será limpo. "
+        },
+        {
+          "number": 33,
+          "text": "E toda vasilha de barro dentro da qual cair algum deles, tudo o que estiver nela será impuro, e quebrareis a vasilha: "
+        },
+        {
+          "number": 34,
+          "text": "Toda comida que se come, sobre a qual vier a água de tais vasilhas, será imunda: e toda bebida que se beber, será em todas essas vasilhas impura: "
+        },
+        {
+          "number": 35,
+          "text": "E tudo aquilo sobre que cair algo do corpo morto deles, será impuro: o forno ou aquecedores se derrubarão; são impuros, e por impuros os tereis. "
+        },
+        {
+          "number": 36,
+          "text": "Contudo, a fonte e a cisterna onde se recolhem águas, serão limpas: mas o que houver tocado em seus corpos mortos será impuro. "
+        },
+        {
+          "number": 37,
+          "text": "E se cair de seus corpos mortos sobre alguma semente que se haja de semear, será limpa. "
+        },
+        {
+          "number": 38,
+          "text": "Mas se se houver posto água na semente, e cair de seus corpos mortos sobre ela, a tereis por impura. "
+        },
+        {
+          "number": 39,
+          "text": "E se algum animal que tiverdes para comer se morrer, o que tocar seu corpo morto será impuro até à tarde: "
+        },
+        {
+          "number": 40,
+          "text": "E o que comer de seu corpo morto, lavará suas roupas, e será impuro até à tarde: também o que tirar seu corpo morto, lavará suas roupas, e será impuro até à tarde. "
+        },
+        {
+          "number": 41,
+          "text": "E todo réptil que vai arrastando sobre a terra, é abominação; não se comerá. "
+        },
+        {
+          "number": 42,
+          "text": "Tudo o que anda sobre o peito, e tudo o que anda sobre quatro ou mais patas, de todo réptil que anda arrastando sobre a terra, não o comereis, porque é abominação. "
+        },
+        {
+          "number": 43,
+          "text": "Não torneis abomináveis vossas pessoas com nenhum réptil que anda arrastando, nem vos contamineis com eles, nem sejais impuros por eles. "
+        },
+        {
+          "number": 44,
+          "text": "Pois que eu sou o SENHOR vosso Deus, vós portanto vos santificareis, e sereis santos, porque eu sou santo: assim que não torneis abomináveis vossas pessoas com nenhum réptil que andar arrastando sobre a terra. "
+        },
+        {
+          "number": 45,
+          "text": "Porque eu sou o SENHOR, que vos faço subir da terra do Egito para vos ser por Deus: sereis pois santos, porque eu sou santo. "
+        },
+        {
+          "number": 46,
+          "text": "Esta é a lei dos animais e das aves, e de todo ser vivente que se move nas águas, e de todo animal que anda arrastando sobre a terra; "
+        },
+        {
+          "number": 47,
+          "text": "Para fazer diferença entre impuro e limpo, e entre os animais que se podem comer e os animais que não se podem comer. "
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, dizendo: A mulher quando conceber e der à luz macho, será impura sete dias; conforme os dias que está separada por sua menstruação, será impura. "
+        },
+        {
+          "number": 3,
+          "text": "E ao oitavo dia circuncidará a carne de seu prepúcio. "
+        },
+        {
+          "number": 4,
+          "text": "Mas ela permanecerá trinta e três dias no sangue de sua purificação: nenhuma coisa santa tocará, nem virá ao santuário, até que sejam cumpridos os dias de sua purificação. "
+        },
+        {
+          "number": 5,
+          "text": "E se der à luz fêmea será impura duas semanas, conforme sua separação, e sessenta e seis dias estará purificando-se de seu sangue. "
+        },
+        {
+          "number": 6,
+          "text": "E quando os dias de sua purificação forem cumpridos, por filho ou por filha, trará um cordeiro de ano para holocausto, e um pombinho ou uma rolinha para expiação, à porta do tabernáculo do testemunho, ao sacerdote: "
+        },
+        {
+          "number": 7,
+          "text": "E ele oferecerá diante do SENHOR, e fará expiação por ela, e será limpa do fluxo de seu sangue. Esta é a lei da que der à luz macho ou fêmea. "
+        },
+        {
+          "number": 8,
+          "text": "E se não alcançar sua mão o suficiente para um cordeiro, tomará então duas rolinhas ou dois pombinhos, um para holocausto, e outro para expiação: e o sacerdote fará expiação por ela, e será limpa. "
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés e a Arão, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Quando o homem tiver na pele de sua carne inchaço, ou pústula, ou mancha branca, e houver na pele de sua carne como chaga de lepra, será trazido a Arão o sacerdote, ou a um dos sacerdotes seus filhos: "
+        },
+        {
+          "number": 3,
+          "text": "E o sacerdote olhará a chaga na pele da carne: se o pelo na chaga se tornou branco, e parecer a chaga mais profunda que a pele da carne, chaga de lepra é; e o sacerdote lhe reconhecerá, e lhe dará por impuro. "
+        },
+        {
+          "number": 4,
+          "text": "E se na pele de sua carne houver mancha branca, mas não parecer mais profunda que a pele, nem seu pelo se houver tornado branco, então o sacerdote encerrará ao que tem chagas por sete dias; "
+        },
+        {
+          "number": 5,
+          "text": "E ao sétimo dia o sacerdote o olhará; e se a chaga a seu parecer se houver parado, não havendo-se estendido na pele, então o sacerdote lhe voltará a encerrar por outros sete dias. "
+        },
+        {
+          "number": 6,
+          "text": "E ao sétimo dia o sacerdote lhe reconhecerá de novo; e se parece haver-se escurecido a chaga, e que não estendeu na pele, então o sacerdote o dará por limpo: era pústula; e lavará suas roupas, e será limpo. "
+        },
+        {
+          "number": 7,
+          "text": "Mas se houver ido crescendo a pústula na pele, depois que foi mostrado ao sacerdote para ser limpo, será visto outra vez pelo sacerdote: "
+        },
+        {
+          "number": 8,
+          "text": "E se reconhecendo-o o sacerdote, vê que a pústula cresceu na pele, o sacerdote o dará por impuro: é lepra. "
+        },
+        {
+          "number": 9,
+          "text": "Quando houver chaga de lepra no homem, será trazido ao sacerdote; "
+        },
+        {
+          "number": 10,
+          "text": "E o sacerdote olhará, e se parecer inchaço branco na pele, o qual tenha mudado a cor do pelo, e se descobre também a carne viva, "
+        },
+        {
+          "number": 11,
+          "text": "Lepra é envelhecida na pele de sua carne; e lhe dará por impuro o sacerdote, e não lhe encerrará, porque é impuro. "
+        },
+        {
+          "number": 12,
+          "text": "Mas se brotar a lepra estendendo pela pele, e ela cobrir toda a pele do que tem chagas desde sua cabeça até seus pés, a toda vista de olhos do sacerdote; "
+        },
+        {
+          "number": 13,
+          "text": "Então o sacerdote lhe reconhecerá; e se a lepra houver coberto toda sua carne, dará por limpo ao que tem chagas: tornou-se toda ela branca; e ele é limpo. "
+        },
+        {
+          "number": 14,
+          "text": "Mas o dia que parecer nele a carne viva, será impuro. "
+        },
+        {
+          "number": 15,
+          "text": "E o sacerdote olhará a carne viva, e o dará por impuro. É impura a carne viva: é lepra. "
+        },
+        {
+          "number": 16,
+          "text": "Mas quando a carne viva se mudar e tornar branca, então virá ao sacerdote; "
+        },
+        {
+          "number": 17,
+          "text": "E o sacerdote olhará, e se a chaga se houver tornado branca, o sacerdote dará por limpo ao que tinha a chaga, e será limpo. "
+        },
+        {
+          "number": 18,
+          "text": "E quando na carne, em sua pele, houver úlcera, e se sarar, "
+        },
+        {
+          "number": 19,
+          "text": "E suceder no lugar da úlcera inchaço branco, ou mancha branca avermelhada, será mostrado ao sacerdote: "
+        },
+        {
+          "number": 20,
+          "text": "E o sacerdote olhará; e se parecer estar mais baixa que sua pele, e seu pelo se houver tornado branco, o dará o sacerdote por impuro: é chaga de lepra que se originou na úlcera. "
+        },
+        {
+          "number": 21,
+          "text": "E se o sacerdote a considerar, e não parecer nela pelo branco, nem estiver mais baixa que a pele, mas sim escura, então o sacerdote o encerrará por sete dias: "
+        },
+        {
+          "number": 22,
+          "text": "E se se for estendendo pela pele, então o sacerdote o dará por impuro: é chaga. "
+        },
+        {
+          "number": 23,
+          "text": "Porém se a mancha branca estiver em seu lugar, que não tenha estendido, é a cicatriz da úlcera; e o sacerdote o dará por limpo. "
+        },
+        {
+          "number": 24,
+          "text": "Assim quando a carne tiver em sua pele queimadura de fogo, e houver no sarado do fogo mancha esbranquiçada, avermelhada ou branca, "
+        },
+        {
+          "number": 25,
+          "text": "O sacerdote a olhará; e se o pelo se houver tornado branco na mancha, e parecer estar mais profunda que a pele, é lepra que saiu na queimadura; e o sacerdote declarará ao sujeito impuro, por ser chaga de lepra. "
+        },
+        {
+          "number": 26,
+          "text": "Mas se o sacerdote a olhar, e não parecer na mancha pelo branco, nem estiver mais baixa que a pele, mas sim que está escura, lhe encerrará o sacerdote por sete dias; "
+        },
+        {
+          "number": 27,
+          "text": "E ao sétimo dia o sacerdote a reconhecerá: se se houver ido estendendo pela pele, o sacerdote o dará por impuro: é chaga de lepra. "
+        },
+        {
+          "number": 28,
+          "text": "Porém se a mancha estiver em seu lugar, e não se houver estendido na pele, a não ser que está escura, inchaço é da queimadura: o dará o sacerdote por limpo; que sinal da queimadura é. "
+        },
+        {
+          "number": 29,
+          "text": "E ao homem ou mulher que lhe sair chaga na cabeça, ou no queixo, "
+        },
+        {
+          "number": 30,
+          "text": "O sacerdote olhará a chaga; e se parecer estar mais profunda que a pele, e o pelo nela fora ruivo e fino, então o sacerdote o dará por impuro: é tinha, é lepra da cabeça ou do queixo. "
+        },
+        {
+          "number": 31,
+          "text": "Mas quando o sacerdote houver olhado a chaga da tinha, e não parecer estar mais profunda que a pele, nem for nela pelo negro, o sacerdote encerrará ao que tem chagas da tinha por sete dias: "
+        },
+        {
+          "number": 32,
+          "text": "E ao sétimo dia o sacerdote olhará a chaga: e se a tinha não parecer haver-se estendido, nem houver nela pelo ruivo, nem parecer a tinha mais profunda que a pele, "
+        },
+        {
+          "number": 33,
+          "text": "Então o raparão, mas não raparão o lugar da tinha: e encerrará o sacerdote ao que tem a tinha por outros sete dias. "
+        },
+        {
+          "number": 34,
+          "text": "E ao sétimo dia olhará o sacerdote a tinha; e se a tinha não houver estendido na pele, nem parecer estar mais profunda que a pele, o sacerdote o dará por limpo; e lavará suas roupas, e será limpo. "
+        },
+        {
+          "number": 35,
+          "text": "Porém se a tinha se houver ido estendendo na pele depois de sua purificação, "
+        },
+        {
+          "number": 36,
+          "text": "Então o sacerdote a olhará; e se a tinha houver estendido na pele, não busque o sacerdote o pelo ruivo, é impuro. "
+        },
+        {
+          "number": 37,
+          "text": "Mas se lhe parecer que a tinha está detida, e que saiu nela o pelo negro, a tinha está sarada; ele está limpo, e por limpo o dará o sacerdote. "
+        },
+        {
+          "number": 38,
+          "text": "Também o homem ou mulher, quando na pele de sua carne tiver machas, machas brancas, "
+        },
+        {
+          "number": 39,
+          "text": "O sacerdote olhará: e se na pele de sua carne parecerem machas brancas algo escurecidas, é impigem que brotou na pele, está limpa a pessoa. "
+        },
+        {
+          "number": 40,
+          "text": "E o homem, quando se lhe cair os cabelos da cabeça, é calvo, mas limpo. "
+        },
+        {
+          "number": 41,
+          "text": "E se à parte de seu rosto se lhe cair os cabelos da cabeça, é calvo pela frente, mas limpo. "
+        },
+        {
+          "number": 42,
+          "text": "Mas quando na calva ou na calva da frente houver chaga branca avermelhada, lepra é que brota em sua calva ou em sua calva da frente. "
+        },
+        {
+          "number": 43,
+          "text": "Então o sacerdote o olhará, e se parecer a inchaço da chaga branca avermelhada em sua calva ou em sua calva da frente, como o parecer da lepra da pele da carne, "
+        },
+        {
+          "number": 44,
+          "text": "Leproso é, é impuro; o sacerdote o dará logo por impuro; em sua cabeça tem sua chaga. "
+        },
+        {
+          "number": 45,
+          "text": "E o leproso em quem houver chaga, suas roupas serão derrotados e sua cabeça descoberta, e com o lábio superior coberto proclamará: -Imundo! -Imundo! "
+        },
+        {
+          "number": 46,
+          "text": "Durante todo o tempo que a chaga estiver nele será imundo; estará impuro: habitará sozinho; fora do acampamento será sua morada. "
+        },
+        {
+          "number": 47,
+          "text": "E quando na roupa houver praga de lepra, em vestido de lã, ou em vestido de linho; "
+        },
+        {
+          "number": 48,
+          "text": "Ou na urdidura ou em trama, de linho ou de lã, ou em pele, ou em qualquer obra de pele; "
+        },
+        {
+          "number": 49,
+          "text": "E que a praga seja verde, ou vermelha, em roupa ou em pele, ou na urdidura, ou em trama, ou em qualquer obra de pele; praga é de lepra, e se há de mostrar ao sacerdote. "
+        },
+        {
+          "number": 50,
+          "text": "E o sacerdote olhará a praga, e encerrará a coisa que tem praga por sete dias. "
+        },
+        {
+          "number": 51,
+          "text": "E ao sétimo dia olhará a praga: e se houver estendido a praga na roupa, ou urdidura, ou na trama, ou em pele, ou em qualquer obra que se faz de peles, lepra roedora é a praga; impura será. "
+        },
+        {
+          "number": 52,
+          "text": "Será queimada a roupa, ou urdidura ou trama, de lã ou de linho, ou qualquer obra de peles em que houver tal praga; porque lepra roedora é; ao fogo será queimada. "
+        },
+        {
+          "number": 53,
+          "text": "E se o sacerdote olhar, e não parecer que a praga se tenha estendido na roupa, ou urdidura, ou na trama, ou em qualquer obra de peles; "
+        },
+        {
+          "number": 54,
+          "text": "Então o sacerdote mandará que lavem onde está a praga, e o encerrará outra vez por sete dias. "
+        },
+        {
+          "number": 55,
+          "text": "E o sacerdote olhará depois que a praga for lavada; e se parecer que a praga não mudou seu aspecto, ainda que não tenha estendido a praga, impura é; a queimarás ao fogo; corrosão é penetrante, esteja o estragado na face ou no verso daquela coisa. "
+        },
+        {
+          "number": 56,
+          "text": "Mas se o sacerdote a vir, e parecer que a praga se escureceu depois que foi lavada, a cortará da roupa, ou da pele, ou da urdidura, ou da trama. "
+        },
+        {
+          "number": 57,
+          "text": "E se parecer mais no vestido, ou urdidura, ou trama, ou em qualquer coisa de peles, esverdeando nela, queimarás ao fogo aquilo onde estiver a praga. "
+        },
+        {
+          "number": 58,
+          "text": "Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a praga, se lavará segunda vez, e então será limpa. "
+        },
+        {
+          "number": 59,
+          "text": "Esta é a lei da praga da lepra da roupa de lã ou de linho, ou da urdidura, ou da trama, ou de qualquer coisa de pele, para que seja dada por limpa ou por impura. "
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Esta será a lei do leproso quando se limpar: Será trazido ao sacerdote: "
+        },
+        {
+          "number": 3,
+          "text": "E o sacerdote sairá fora do acampamento; e olhará o sacerdote, e vendo que está sã a praga da lepra do leproso, "
+        },
+        {
+          "number": 4,
+          "text": "O sacerdote mandará logo que se tomem para o que se purifica duas aves vivas, limpas, e pau de cedro, e carmesim, e hissopo; "
+        },
+        {
+          "number": 5,
+          "text": "E mandará o sacerdote matar uma ave em um vaso de barro sobre águas vivas; "
+        },
+        {
+          "number": 6,
+          "text": "Depois tomará a ave viva, e o pau de cedro, e o carmesim, e o hissopo, e o molhará com a ave viva no sangue da ave morta sobre as águas vivas: "
+        },
+        {
+          "number": 7,
+          "text": "E espargirá sete vezes sobre o que se purifica da lepra, e lhe dará por limpo; e soltará a ave viva sobre a face do campo. "
+        },
+        {
+          "number": 8,
+          "text": "E o que se purifica lavará suas roupas, e rapará todos os seus pelos, e se há de lavar com água, e será limpo: e depois entrará no acampamento, e morará fora de sua tenda sete dias. "
+        },
+        {
+          "number": 9,
+          "text": "E será, que ao sétimo dia rapará todos os seus pelos, sua cabeça, e sua barba, e as sobrancelhas de seus olhos; finalmente, rapará todo seu pelo, e lavará suas roupas, e lavará sua carne em águas, e será limpo. "
+        },
+        {
+          "number": 10,
+          "text": "E o dia oitavo tomará dois cordeiros sem defeito, e uma cordeira de ano sem mácula; e três dízimas de flor de farinha para oferta amassada com azeite, e um logue de azeite. "
+        },
+        {
+          "number": 11,
+          "text": "E o sacerdote que lhe purifica apresentará com aquelas coisas ao que se há de limpar diante do SENHOR, à porta do tabernáculo do testemunho: "
+        },
+        {
+          "number": 12,
+          "text": "E tomará o sacerdote um cordeiro, e o oferecerá pela culpa, com o logue de azeite, e o moverá como oferta movida diante do SENHOR: "
+        },
+        {
+          "number": 13,
+          "text": "E degolará o cordeiro no lugar onde degolam o sacrifício pelo pecado e o holocausto, no lugar do santuário: porque como o sacrifício pelo pecado, assim também o sacrifício pela culpa é do sacerdote: é coisa muito sagrada. "
+        },
+        {
+          "number": 14,
+          "text": "E tomará o sacerdote do sangue do animal sacrificado pela culpa, e porá o sacerdote sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito. "
+        },
+        {
+          "number": 15,
+          "text": "Também tomará o sacerdote do logue de azeite, e lançará sobre a palma de sua mão esquerda: "
+        },
+        {
+          "number": 16,
+          "text": "E molhará seu dedo direito no azeite que tem em sua mão esquerda, e espargirá do azeite com seu dedo sete vezes diante do SENHOR: "
+        },
+        {
+          "number": 17,
+          "text": "E do que restar do azeite que tem em sua mão, porá o sacerdote sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito, sobre o sangue da expiação pela culpa: "
+        },
+        {
+          "number": 18,
+          "text": "E o que restar do azeite que tem em sua mão, porá sobre a cabeça do que se purifica: e fará o sacerdote expiação por ele diante do SENHOR. "
+        },
+        {
+          "number": 19,
+          "text": "Oferecerá logo o sacerdote o sacrifício pelo pecado, e fará expiação pelo que se há de purificar de sua impureza, e depois degolará o holocausto: "
+        },
+        {
+          "number": 20,
+          "text": "E fará subir o sacerdote o holocausto e a oferta de cereais sobre o altar. Assim fará o sacerdote expiação por ele, e será limpo. "
+        },
+        {
+          "number": 21,
+          "text": "Mas se for pobre, que não alcançar sua mão a tanto, então tomará um cordeiro para ser oferecido como oferta movida pela culpa, para reconciliar-se, e uma dízima de flor de farinha amassada com azeite para oferta de cereais, e um logue de azeite; "
+        },
+        {
+          "number": 22,
+          "text": "E duas rolinhas, ou dois pombinhos, o que alcançar sua mão: e um será para expiação pelo pecado, e o outro para holocausto; "
+        },
+        {
+          "number": 23,
+          "text": "As quais coisas trará ao oitavo dia de sua purificação ao sacerdote, à porta do tabernáculo do testemunho diante do SENHOR. "
+        },
+        {
+          "number": 24,
+          "text": "E o sacerdote tomará o cordeiro da expiação pela culpa, e o logue de azeite, e o moverá o sacerdote como oferta movida diante do SENHOR; "
+        },
+        {
+          "number": 25,
+          "text": "Logo degolará o cordeiro da culpa, e tomará o sacerdote do sangue da culpa, e porá sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito. "
+        },
+        {
+          "number": 26,
+          "text": "E o sacerdote lançará do azeite sobre a palma de sua mão esquerda; "
+        },
+        {
+          "number": 27,
+          "text": "E com seu dedo direito espargirá o sacerdote do azeite que tem em sua mão esquerda, sete vezes diante do SENHOR. "
+        },
+        {
+          "number": 28,
+          "text": "Também porá o sacerdote do azeite que tem em sua mão sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito, no lugar do sangue da culpa. "
+        },
+        {
+          "number": 29,
+          "text": "E o que sobrar do azeite que o sacerdote tem em sua mão, o porá sobre a cabeça do que se purifica, para reconciliá-lo diante do SENHOR. "
+        },
+        {
+          "number": 30,
+          "text": "Também oferecerá uma das rolinhas, ou dos pombinhos, o que alcançar sua mão: "
+        },
+        {
+          "number": 31,
+          "text": "O um do que alcançar sua mão, em expiação pelo pecado, e o outro em holocausto, ademais da oferta: e fará o sacerdote expiação pelo que se há de purificar, diante do SENHOR. "
+        },
+        {
+          "number": 32,
+          "text": "Esta é a lei do que houver tido praga de lepra, cuja mão não alcançar o prescrito para purificar-se. "
+        },
+        {
+          "number": 33,
+          "text": "E falou o SENHOR a Moisés e a Arão, dizendo: "
+        },
+        {
+          "number": 34,
+          "text": "Quando houveres entrado na terra de Canaã, a qual eu vos dou em possessão, e puser eu praga de lepra em alguma casa da terra de vossa possessão, "
+        },
+        {
+          "number": 35,
+          "text": "Virá aquele cuja for a casa, e dará aviso ao sacerdote, dizendo: Como praga apareceu em minha casa. "
+        },
+        {
+          "number": 36,
+          "text": "Então mandará o sacerdote, e despejarão a casa antes que o sacerdote entre a olhar a praga, para que não seja contaminado tudo o que estiver na casa: e depois o sacerdote entrará a reconhecer a casa: "
+        },
+        {
+          "number": 37,
+          "text": "E olhará a praga: e se se virem machas nas paredes da casa, cavidades esverdeadas ou vermelhas, as quais parecerem mais profundas que a parede, "
+        },
+        {
+          "number": 38,
+          "text": "O sacerdote sairá da casa à porta dela, e fechará a casa por sete dias. "
+        },
+        {
+          "number": 39,
+          "text": "E ao sétimo dia voltará o sacerdote, e olhará: e se a praga houver crescido nas paredes da casa, "
+        },
+        {
+          "number": 40,
+          "text": "Então mandará o sacerdote, e arrancarão as pedras em que estiver a praga, e as lançarão fora da cidade, em lugar impuro: "
+        },
+        {
+          "number": 41,
+          "text": "E fará raspar a casa por dentro ao redor, e derramarão o pó que rasparem fora da cidade em lugar impuro: "
+        },
+        {
+          "number": 42,
+          "text": "E tomarão outras pedras, e as porão em lugar das pedras tiradas; e tomarão outro barro, e rebocarão a casa. "
+        },
+        {
+          "number": 43,
+          "text": "E se a praga voltar a esverdear naquela casa, depois que fez arrancar as pedras, e raspar a casa, e depois que foi rebocada, "
+        },
+        {
+          "number": 44,
+          "text": "Então o sacerdote entrará e olhará; e se parecer haver-se estendido a praga na casa, lepra roedora está na casa: impura é. "
+        },
+        {
+          "number": 45,
+          "text": "Derrubará, portanto, a tal casa, suas pedras, e seus madeiros, e toda a mistura da casa; e o tirará fora da cidade a lugar impuro. "
+        },
+        {
+          "number": 46,
+          "text": "E qualquer um que entrar naquela casa todos os dias que a mandou fechar, será impuro até à tarde. "
+        },
+        {
+          "number": 47,
+          "text": "E o que dormir naquela casa, lavará suas roupas; também o que comer na casa, lavará suas roupas. "
+        },
+        {
+          "number": 48,
+          "text": "Mas se entrar o sacerdote e olhar, e vir que a praga não se estendeu na casa depois que foi rebocada, o sacerdote dará a casa por limpa, porque a praga sarou. "
+        },
+        {
+          "number": 49,
+          "text": "Então tomará para limpar a casa duas aves, e pau de cedro, e carmesim, e hissopo: "
+        },
+        {
+          "number": 50,
+          "text": "E degolará uma ave em uma vasilha de barro sobre águas vivas: "
+        },
+        {
+          "number": 51,
+          "text": "E tomará o pau de cedro, e o hissopo, e o carmesim, e a ave viva, e o molhará no sangue da ave morta e nas águas vivas, e espargirá a casa sete vezes: "
+        },
+        {
+          "number": 52,
+          "text": "E purificará a casa com o sangue da ave, e com as águas vivas, e com a ave viva, e o pau de cedro, e o hissopo, e o carmesim: "
+        },
+        {
+          "number": 53,
+          "text": "Logo soltará a ave viva fora da cidade sobre a face do campo: Assim fará expiação pela casa, e será limpa. "
+        },
+        {
+          "number": 54,
+          "text": "Esta é a lei acerca de toda praga de lepra, e de tinha; "
+        },
+        {
+          "number": 55,
+          "text": "E da lepra da roupa, e da casa; "
+        },
+        {
+          "number": 56,
+          "text": "E acerca do inchaço, e da pústula, e da mancha branca: "
+        },
+        {
+          "number": 57,
+          "text": "Para ensinar quando é impuro, e quando limpo. Esta é a lei tocante à lepra. "
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés e a Arão, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Falai aos filhos de Israel, e dizei-lhes: Qualquer homem, quando seu corrimento sair de sua carne, será impuro. "
+        },
+        {
+          "number": 3,
+          "text": "E esta será sua impureza em seu fluxo; seja que sua carne derramou por causa de seu fluxo, ou que sua carne se obstruiu por causa de seu fluxo, ele será impuro. "
+        },
+        {
+          "number": 4,
+          "text": "Toda cama em que se deitar o que tiver fluxo, será impura; e toda coisa sobre que se sentar, impura será. "
+        },
+        {
+          "number": 5,
+          "text": "E qualquer um que tocar em sua cama, lavará suas roupas; lavará também a si mesmo com água, e será impuro até à tarde. "
+        },
+        {
+          "number": 6,
+          "text": "E o que se sentar sobre aquilo em que se houver sentado o que tem fluxo, lavará suas roupas, se lavará também a si mesmo com água, e será impuro até à tarde. "
+        },
+        {
+          "number": 7,
+          "text": "Também o que tocar a carne do que tem fluxo, lavará suas roupas, e a si mesmo se lavará com água, e será impuro até à tarde. "
+        },
+        {
+          "number": 8,
+          "text": "E se o que tem fluxo cuspir sobre o limpo, este lavará suas roupas, e depois de haver-se lavado com água, será impuro até à tarde. "
+        },
+        {
+          "number": 9,
+          "text": "E toda sela sobre que cavalgar o que tiver fluxo, será impura. "
+        },
+        {
+          "number": 10,
+          "text": "E qualquer um que tocar qualquer coisa que tenha estado debaixo dele, será impuro até à tarde; e o que a levar, lavará suas roupas, e depois de lavar-se com água, será impuro até à tarde. "
+        },
+        {
+          "number": 11,
+          "text": "E todo aquele a quem tocar o que tem fluxo, e não lavar com água suas mãos, lavará suas roupas, e a si mesmo se lavará com água, e será impuro até à tarde. "
+        },
+        {
+          "number": 12,
+          "text": "E a vasilha de barro em que tocar o que tem fluxo, será quebrada; e toda vasilha de madeira será lavada com água. "
+        },
+        {
+          "number": 13,
+          "text": "E quando se houver limpado de seu fluxo o que tem fluxo, se há de contar sete dias desde sua purificação, e lavará suas roupas, e lavará sua carne em águas vivas, e será limpo. "
+        },
+        {
+          "number": 14,
+          "text": "E no oitavo dia tomará duas rolinhas, ou dois pombinhos, e virá diante do SENHOR à porta do tabernáculo do testemunho, e os dará ao sacerdote: "
+        },
+        {
+          "number": 15,
+          "text": "E os fará o sacerdote, uma oferta pelo pecado, e o outro holocausto: e lhe purificará o sacerdote de seu fluxo diante do SENHOR. "
+        },
+        {
+          "number": 16,
+          "text": "E o homem, quando dele sair derramamento seminal, lavará em águas toda sua carne, e será impuro até à tarde. "
+        },
+        {
+          "number": 17,
+          "text": "E toda vestimenta, ou toda pele sobre a qual houver o derramamento seminal, lavará com água, e será impura até à tarde. "
+        },
+        {
+          "number": 18,
+          "text": "E a mulher com quem o homem tiver ajuntamento seminal, ambos se lavarão com água, e serão impuros até à tarde. "
+        },
+        {
+          "number": 19,
+          "text": "E quando a mulher tiver fluxo de sangue, e seu fluxo for em sua carne, sete dias estará separada; e qualquer um que tocar nela, será impuro até à tarde. "
+        },
+        {
+          "number": 20,
+          "text": "E tudo aquilo sobre que ela se deitar durante sua separação, será impuro: também tudo aquilo sobre que se sentar, será impuro. "
+        },
+        {
+          "number": 21,
+          "text": "E qualquer um que tocar a sua cama, lavará suas roupas, e depois de lavar-se com água, será impuro até à tarde. "
+        },
+        {
+          "number": 22,
+          "text": "Também qualquer um que tocar qualquer móvel sobre que ela se houver sentado, lavará suas roupas; lavará logo a si mesmo com água, e será impuro até à tarde. "
+        },
+        {
+          "number": 23,
+          "text": "E se estiver sobre a cama, ou sobre a cadeira em que ela se houver sentado, o que tocar nela será impuro até à tarde. "
+        },
+        {
+          "number": 24,
+          "text": "E se alguém dormir com ela, e sua menstruação for sobre ele, será impuro por sete dias; e toda cama sobre que dormir, será impura. "
+        },
+        {
+          "number": 25,
+          "text": "E a mulher, quando seguir o fluxo de seu sangue por muitos dias fora do tempo de seu costume, ou quando tiver fluxo de sangue mais de seu costume; todo o tempo do fluxo de seu imundícia, será impura como nos dias de seu costume. "
+        },
+        {
+          "number": 26,
+          "text": "Toda cama em que dormir todo o tempo de seu fluxo, lhe será como a cama de seu costume; e todo móvel sobre que se sentar, será impuro, como a impureza de seu costume. "
+        },
+        {
+          "number": 27,
+          "text": "Qualquer um que tocar em essas coisas será impuro; e lavará suas roupas, e a si mesmo se lavará com água, e será impuro até à tarde. "
+        },
+        {
+          "number": 28,
+          "text": "E quando for livre de seu fluxo, se há de contar sete dias, e depois será limpa. "
+        },
+        {
+          "number": 29,
+          "text": "E o oitavo dia tomará consigo duas rolinhas, ou dois pombinhos, e os trará ao sacerdote, à porta do tabernáculo do testemunho: "
+        },
+        {
+          "number": 30,
+          "text": "E o sacerdote fará um oferta pelo pecado, e o outro holocausto; e a purificará o sacerdote diante do SENHOR do fluxo de sua impureza. "
+        },
+        {
+          "number": 31,
+          "text": "Assim separareis os filhos de Israel de suas imundícias, a fim de que não morram por suas imundícias, contaminando meu tabernáculo que está entre eles. "
+        },
+        {
+          "number": 32,
+          "text": "Esta é a lei do que tem fluxo, e do que sai derramamento seminal, vindo a ser impuro por causa disso; "
+        },
+        {
+          "number": 33,
+          "text": "E da que padece seu costume, e acerca do que tiver fluxo, seja homem ou fêmea, e do homem que dormir com mulher impura. "
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, depois que morreram os dois filhos de Arão, quando se chegaram diante do SENHOR, e morreram; "
+        },
+        {
+          "number": 2,
+          "text": "E o SENHOR disse a Moisés: Dize a Arão teu irmão, que não em todo tempo entre no santuário do véu dentro, diante do propiciatório que está sobre a arca, para que não morra: porque eu aparecerei na nuvem sobre o propiciatório. "
+        },
+        {
+          "number": 3,
+          "text": "Com isto entrará Arão no santuário: com um bezerro por expiação, e um carneiro em holocausto. "
+        },
+        {
+          "number": 4,
+          "text": "A túnica santa de linho se vestirá, e sobre sua carne terá calções de linho, e se cingirá o cinto de linho; e com a mitra de linho se cobrirá: são as santas vestiduras: com elas, depois de lavar sua carne com água, se há de vestir. "
+        },
+        {
+          "number": 5,
+          "text": "E da congregação dos filhos de Israel tomará dois machos de bode para expiação, e um carneiro para holocausto. "
+        },
+        {
+          "number": 6,
+          "text": "E fará achegar Arão o bezerro da expiação, que é seu, e fará a reconciliação por si e por sua casa. "
+        },
+        {
+          "number": 7,
+          "text": "Depois tomará os dois machos de bode, e os apresentará diante do SENHOR à porta do tabernáculo do testemunho. "
+        },
+        {
+          "number": 8,
+          "text": "E lançará sortes Arão sobre os dois machos de bode; uma sorte pelo SENHOR, e a outra sorte por Azazel. "
+        },
+        {
+          "number": 9,
+          "text": "E fará achegar Arão o bode macho sobre o qual cair a sorte pelo SENHOR, e o oferecerá em expiação. "
+        },
+        {
+          "number": 10,
+          "text": "Mas o bode macho, sobre o qual cair a sorte por Azazel, o apresentará vivo diante do SENHOR, para fazer a reconciliação sobre ele, para enviá-lo a Azazel ao deserto. "
+        },
+        {
+          "number": 11,
+          "text": "E fará chegar Arão o bezerro que era seu para expiação, e fará a reconciliação por si e por sua casa, e degolará em expiação o bezerro que é seu. "
+        },
+        {
+          "number": 12,
+          "text": "Depois tomará o incensário cheio de brasas de fogo, do altar de diante do SENHOR, e seus punhos cheios do incenso aromático prensado, e o meterá do véu dentro: "
+        },
+        {
+          "number": 13,
+          "text": "E porá o incenso sobre o fogo diante do SENHOR, e a nuvem do incenso cobrirá o propiciatório que está sobre o testemunho, e não morrerá. "
+        },
+        {
+          "number": 14,
+          "text": "Tomará logo do sangue do bezerro, e espargirá com seu dedo até o propiciatório ao lado oriental: até o propiciatório espargirá sete vezes daquele sangue com seu dedo. "
+        },
+        {
+          "number": 15,
+          "text": "Depois degolará em expiação o bode macho, que era do povo, e meterá o sangue dele do véu dentro; e fará de seu sangue como fez do sangue do bezerro, e espargirá sobre o propiciatório e diante do propiciatório: "
+        },
+        {
+          "number": 16,
+          "text": "E limpará o santuário, das imundícias dos filhos de Israel, e de suas rebeliões, e de todos os seus pecados: da mesma maneira fará também ao tabernáculo do testemunho, o qual reside entre eles em meio de suas imundícias. "
+        },
+        {
+          "number": 17,
+          "text": "E nenhum homem estará no tabernáculo do testemunho quando ele entrar a fazer a reconciliação no santuário, até que ele saia, e haja feito a reconciliação por si, e por sua casa, e por toda a congregação de Israel. "
+        },
+        {
+          "number": 18,
+          "text": "E sairá ao altar que está diante do SENHOR, e o expiará; e tomará do sangue do bezerro, e do sangue do bode macho, e porá sobre as pontas do altar ao redor. "
+        },
+        {
+          "number": 19,
+          "text": "E espargirá sobre ele do sangue com seu dedo sete vezes, e o limpará, e o santificará das imundícias dos filhos de Israel. "
+        },
+        {
+          "number": 20,
+          "text": "E quando houver acabado de expiar o santuário, e o tabernáculo do testemunho, e o altar, fará chegar o bode macho vivo: "
+        },
+        {
+          "number": 21,
+          "text": "E porá Arão ambas as mãos suas sobre a cabeça do bode macho vivo, e confessará sobre ele todas as iniquidades dos filhos de Israel, e todas suas rebeliões, e todos os seus pecados, pondo-os assim sobre a cabeça do bode macho, e o enviará ao deserto por meio de um homem destinado para isto. "
+        },
+        {
+          "number": 22,
+          "text": "E aquele bode macho levará sobre si todas as iniquidades deles a terra inabitada: e deixará ir o bode macho pelo deserto. "
+        },
+        {
+          "number": 23,
+          "text": "Depois virá Arão ao tabernáculo do testemunho, e se desnudará as vestimentas de linho, que havia vestido para entrar no santuário, e as porá ali. "
+        },
+        {
+          "number": 24,
+          "text": "Lavará logo sua carne com água no lugar do santuário, e depois de se pôr suas roupas sairá, e fará seu holocausto, e o holocausto do povo, e fará a reconciliação por si e pelo povo. "
+        },
+        {
+          "number": 25,
+          "text": "E queimará a gordura da expiação sobre o altar. "
+        },
+        {
+          "number": 26,
+          "text": "E o que houver levado o bode macho a Azazel, lavará suas roupas, lavará também com água sua carne, e depois entrará no acampamento. "
+        },
+        {
+          "number": 27,
+          "text": "E tirará fora do acampamento o bezerro do pecado, e o bode macho da culpa, o sangue dos quais foi metido para fazer a expiação no santuário; e queimarão no fogo suas peles, e suas carnes, e seu excremento. "
+        },
+        {
+          "number": 28,
+          "text": "E o que os queimar, lavará suas roupas, lavará também sua carne com água, e depois entrará no acampamento. "
+        },
+        {
+          "number": 29,
+          "text": "E isto tereis por estatuto perpétuo: No mês sétimo, aos dez do mês, afligireis vossas almas, e nenhuma obra fareis, nem o natural nem o estrangeiro que peregrina entre vós: "
+        },
+        {
+          "number": 30,
+          "text": "Porque neste dia se vos reconciliará para limpar-vos; e sereis limpos de todos vossos pecados diante do SENHOR. "
+        },
+        {
+          "number": 31,
+          "text": "Sábado de repouso é para vós, e afligireis vossas almas, por estatuto perpétuo. "
+        },
+        {
+          "number": 32,
+          "text": "E fará a reconciliação o sacerdote que for ungido, e cuja mão houver sido cheia para ser sacerdote em lugar de seu pai; e se vestirá as vestimentas de linho, as vestiduras sagradas: "
+        },
+        {
+          "number": 33,
+          "text": "E expiará o santuário santo, e o tabernáculo do testemunho; expiará também o altar, e aos sacerdotes, e a todo o povo da congregação. "
+        },
+        {
+          "number": 34,
+          "text": "E isto tereis por estatuto perpétuo, para expiar aos filhos de Israel de todos os seus pecados uma vez no ano. E Moisés o fez como o SENHOR lhe mandou. "
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala a Arão e a seus filhos, e a todos os filhos de Israel, e dize-lhes: Isto é o que mandou o SENHOR, dizendo: "
+        },
+        {
+          "number": 3,
+          "text": "Qualquer homem da casa de Israel que degolar boi, ou cordeiro, ou cabra, no acampamento, ou fora do acampamento, "
+        },
+        {
+          "number": 4,
+          "text": "E não o trouxer à porta do tabernáculo do testemunho, para oferecer oferta ao SENHOR diante do tabernáculo do SENHOR, sangue será imputado ao tal homem: sangue derramou; eliminado será o tal homem dentre seu povo: "
+        },
+        {
+          "number": 5,
+          "text": "A fim de que tragam os filhos de Israel seus sacrifícios, os que sacrificam sobre a face do campo, para que os tragam ao SENHOR à porta do tabernáculo do testemunho ao sacerdote, e sacrifiquem eles sacrifícios pacíficos ao SENHOR. "
+        },
+        {
+          "number": 6,
+          "text": "E o sacerdote espargirá o sangue sobre o altar do SENHOR, à porta do tabernáculo do testemunho, e queimará a gordura em cheiro suave ao SENHOR. "
+        },
+        {
+          "number": 7,
+          "text": "E nunca mais sacrificarão seus sacrifícios aos demônios, atrás dos quais se prostituíram: terão isto por estatuto perpétuo por suas gerações. "
+        },
+        {
+          "number": 8,
+          "text": "Tu Lhes dirás também: Qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre vós, que oferecer holocausto ou sacrifício, "
+        },
+        {
+          "number": 9,
+          "text": "E não o trouxer à porta do tabernáculo do testemunho, para fazê-lo ao SENHOR, o tal homem será igualmente eliminado de seus povos. "
+        },
+        {
+          "number": 10,
+          "text": "E qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre eles, que comer algum sangue, eu porei meu rosto contra a pessoa que comer sangue, e lhe cortarei dentre seu povo. "
+        },
+        {
+          "number": 11,
+          "text": "Porque a vida da carne no sangue está: e eu vos a dei para expiar vossas pessoas sobre o altar: pelo qual o mesmo sangue expiará a pessoa. "
+        },
+        {
+          "number": 12,
+          "text": "Portanto, disse aos filhos de Israel: Nenhuma pessoa de vós comerá sangue, nem o estrangeiro que peregrina entre vós comerá sangue. "
+        },
+        {
+          "number": 13,
+          "text": "E qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam entre eles, que recolher caça de animal ou de ave que seja de comer, derramará seu sangue e o cobrirá com terra: "
+        },
+        {
+          "number": 14,
+          "text": "Porque a alma de toda carne, sua vida, está em seu sangue: portanto disse aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a vida de toda carne é seu sangue; qualquer um que a comer será eliminado. "
+        },
+        {
+          "number": 15,
+          "text": "E qualquer um pessoa que comer coisa morta ou despedaçada por fera, tanto dos naturais como dos estrangeiros, lavará suas roupas e a si mesmo se lavará com água, e será impuro até à tarde; e se limpará. "
+        },
+        {
+          "number": 16,
+          "text": "E se não os lavar, nem lavar sua carne, levará sua iniquidade. "
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 3,
+          "text": "Não fareis como fazem na terra do Egito, na qual morastes; nem fareis como fazem na terra de Canaã, à qual eu vos conduzo; nem andareis em seus estatutos. "
+        },
+        {
+          "number": 4,
+          "text": "Meus regulamentos poreis por obra, e meus estatutos guardareis, andando neles: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 5,
+          "text": "Portanto meus estatutos e meus regulamentos guardareis, os quais fazendo o homem, viverá neles: Eu sou o SENHOR. "
+        },
+        {
+          "number": 6,
+          "text": "Nenhum homem se achegue a nenhuma próxima de sua carne, para descobrir sua nudez: Eu sou o SENHOR. "
+        },
+        {
+          "number": 7,
+          "text": "A nudez de teu pai, ou a nudez de tua mãe, não descobrirás: tua mãe é, não descobrirá sua nudez. "
+        },
+        {
+          "number": 8,
+          "text": "A nudez da mulher de teu pai não descobrirás; é a nudez de teu pai. "
+        },
+        {
+          "number": 9,
+          "text": "A nudez de tua irmã, filha de teu pai, ou filha de tua mãe, nascida em casa ou nascida fora, sua nudez não descobrirás. "
+        },
+        {
+          "number": 10,
+          "text": "A nudez da filha de teu filho, ou da filha de tua filha, seu nudez não descobrirás, porque é a nudez tua. "
+        },
+        {
+          "number": 11,
+          "text": "A nudez da filha da mulher de teu pai, gerada de teu pai, tua irmã é, sua nudez não descobrirás. "
+        },
+        {
+          "number": 12,
+          "text": "A nudez da irmã de teu pai não descobrirás: é parente de teu pai. "
+        },
+        {
+          "number": 13,
+          "text": "A nudez da irmã de tua mãe não descobrirás: porque parente de tua mãe é. "
+        },
+        {
+          "number": 14,
+          "text": "A nudez do irmão de teu pai não descobrirás: não chegarás à sua mulher: é mulher do irmão de teu pai. "
+        },
+        {
+          "number": 15,
+          "text": "A nudez de tua nora não descobrirás: mulher é de teu filho, não descobrirás sua nudez. "
+        },
+        {
+          "number": 16,
+          "text": "A nudez da mulher de teu irmão não descobrirás: é a nudez de teu irmão. "
+        },
+        {
+          "number": 17,
+          "text": "A nudez da mulher e de sua filha não descobrirás: não tomarás a filha de seu filho, nem a filha de sua filha, para descobrir sua nudez: são parentes, é maldade. "
+        },
+        {
+          "number": 18,
+          "text": "Não tomarás mulher juntamente com sua irmã, para fazê-la sua rival, descobrindo sua nudez diante dela em sua vida. "
+        },
+        {
+          "number": 19,
+          "text": "E não chegarás à mulher na separação de sua impureza, para descobrir sua nudez. "
+        },
+        {
+          "number": 20,
+          "text": "Além disso, não terás ato carnal com a mulher de teu próximo, contaminando-te nela. "
+        },
+        {
+          "number": 21,
+          "text": "E não dês de tua descendência para fazê-la passar pelo fogo a Moloque; não contamines o nome de teu Deus: Eu sou o SENHOR. "
+        },
+        {
+          "number": 22,
+          "text": "Não te deitarás com homem como com mulher: é abominação. "
+        },
+        {
+          "number": 23,
+          "text": "Nem com nenhum animal terás ajuntamento contaminando-te com ele; nem mulher alguma se porá diante de animal para ajuntar-se com ele: é confusão. "
+        },
+        {
+          "number": 24,
+          "text": "Em nenhuma destas coisas vos contaminareis; porque em todas estas coisas se poluíram as nações que eu expulso de diante de vós: "
+        },
+        {
+          "number": 25,
+          "text": "E a terra foi contaminada; e eu visitei sua maldade sobre ela, e a terra vomitou seus moradores. "
+        },
+        {
+          "number": 26,
+          "text": "Guardai, pois, vós meus estatutos e meus regulamentos, e não façais nenhuma de todas estas abominações: nem o natural nem o estrangeiro que peregrina entre vós. "
+        },
+        {
+          "number": 27,
+          "text": "(Porque todas estas abominações fizeram os homens da terra, que foram antes de vós, e a terra foi contaminada:) "
+        },
+        {
+          "number": 28,
+          "text": "E a terra não vos vomitará, por havê-la contaminado, como vomitou à gente que foi antes de vós. "
+        },
+        {
+          "number": 29,
+          "text": "Porque qualquer um que fizer alguma de todas estas abominações, as pessoas que as fizerem, serão eliminadas dentre seu povo. "
+        },
+        {
+          "number": 30,
+          "text": "Guardai, pois, minha ordenança, não fazendo das práticas abomináveis que tiveram lugar antes de vós, e não vos torneis abomináveis nelas: Eu sou o SENHOR vosso Deus. "
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala a toda a congregação dos filhos de Israel, e dize-lhes: Santos sereis, porque santo sou eu o SENHOR vosso Deus. "
+        },
+        {
+          "number": 3,
+          "text": "Cada um temerá a sua mãe e a seu pai, e meus sábados guardareis: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 4,
+          "text": "Não vos voltareis aos ídolos, nem fareis para vós deuses de fundição: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 5,
+          "text": "E quando sacrificardes sacrifício pacífico ao SENHOR, de vossa vontade o sacrificareis. "
+        },
+        {
+          "number": 6,
+          "text": "Será comido o dia que o sacrificardes, e o dia seguinte: e o que restar para o terceiro dia, será queimado no fogo. "
+        },
+        {
+          "number": 7,
+          "text": "E se se comer no dia terceiro, será abominação; não será aceito: "
+        },
+        {
+          "number": 8,
+          "text": "E o que o comer, levará seu delito, porquanto profanou o santo do SENHOR; e a tal pessoa será eliminada de seus povos. "
+        },
+        {
+          "number": 9,
+          "text": "Quando ceifardes na colheita de vossa terra, não acabarás de ceifar o canto de tua plantação, nem espigarás tua terra ceifada. "
+        },
+        {
+          "number": 10,
+          "text": "E não coletarás os restos de tua vinha, nem recolherás as uvas caídas de tua vinha; para o pobre e para o estrangeiro os deixarás: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 11,
+          "text": "Não furtareis, e não enganareis, nem mentireis ninguém a seu próximo. "
+        },
+        {
+          "number": 12,
+          "text": "E não jurareis em meu nome com mentira, nem profanarás o nome de teu Deus: Eu sou o SENHOR. "
+        },
+        {
+          "number": 13,
+          "text": "Não oprimirás a teu próximo, nem lhe roubarás. Não se deterá o trabalho do assalariado em tua casa até a manhã. "
+        },
+        {
+          "number": 14,
+          "text": "Não amaldiçoes ao surdo, e diante do cego não ponhas tropeço, mas terás temor de teu Deus: Eu sou o SENHOR. "
+        },
+        {
+          "number": 15,
+          "text": "Não farás injustiça no juízo: não favorecerás deslealmente ao pobre, nem honrarás a face do poderoso: com justiça julgarás a teu próximo. "
+        },
+        {
+          "number": 16,
+          "text": "Não andarás propagando boatos em teus povos. Não te porás contra o sangue de teu próximo: Eu sou o SENHOR. "
+        },
+        {
+          "number": 17,
+          "text": "Não aborrecerás a teu irmão em teu coração: francamente repreenderás a teu próximo, e não consentirás sobre ele pecado. "
+        },
+        {
+          "number": 18,
+          "text": "Não te vingarás, nem guardarás rancor aos filhos de teu povo: mas amarás a teu próximo como a ti mesmo: Eu sou o SENHOR. "
+        },
+        {
+          "number": 19,
+          "text": "Meus estatutos guardareis. A teu animal não farás ajuntar para espécies misturadas; tua plantação não semearás com mistura de sementes, e não te porás roupas com mistura de diversos materiais. "
+        },
+        {
+          "number": 20,
+          "text": "E quando um homem tiver relação sexual com mulher, e ela for serva desposada com alguém, e não estiver resgatada, nem lhe houver sido dada liberdade, ambos serão açoitados: não morrerão, porquanto ela não é livre. "
+        },
+        {
+          "number": 21,
+          "text": "E ele trará ao SENHOR, à porta do tabernáculo do testemunho, um carneiro em expiação por sua culpa. "
+        },
+        {
+          "number": 22,
+          "text": "E com o carneiro da expiação o reconciliará o sacerdote diante do SENHOR, por seu pecado que cometeu: e se lhe perdoará seu pecado que cometeu. "
+        },
+        {
+          "number": 23,
+          "text": "E quando houverdes entrado na terra, e plantardes toda árvore de comer, tirareis seu prepúcio, o primeiro de seu fruto: três anos vos será incircunciso: seu fruto não se comerá. "
+        },
+        {
+          "number": 24,
+          "text": "E o quarto ano todo seu fruto será santidade de louvores ao SENHOR. "
+        },
+        {
+          "number": 25,
+          "text": "Mas ao quinto ano comereis o fruto dele, para que vos faça crescer seu fruto: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 26,
+          "text": "Não comereis coisa alguma com sangue. Não sereis encantadores, nem fareis adivinhações. "
+        },
+        {
+          "number": 27,
+          "text": "Não cortareis em redondo as extremidades de vossas cabeças, nem danificarás a ponta de tua barba. "
+        },
+        {
+          "number": 28,
+          "text": "E não fareis cortes em vossa carne por um morto, nem imprimireis em vós sinal alguma: Eu sou o SENHOR. "
+        },
+        {
+          "number": 29,
+          "text": "Não contaminarás tua filha fazendo-a se prostituir: para não se prostitua a terra, e se encha de maldade. "
+        },
+        {
+          "number": 30,
+          "text": "Meus sábados guardareis, e meu santuário tereis em reverência: Eu sou o SENHOR. "
+        },
+        {
+          "number": 31,
+          "text": "Não vos volteis aos encantadores e aos adivinhos: não os consulteis contaminando-vos com eles: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 32,
+          "text": "Diante das cãs te levantarás, e honrarás o rosto do ancião, e de teu Deus terás temor: Eu sou o SENHOR. "
+        },
+        {
+          "number": 33,
+          "text": "E quando o estrangeiro morar contigo em vossa terra, não o oprimireis. "
+        },
+        {
+          "number": 34,
+          "text": "Como a um natural de vós tereis ao estrangeiro que peregrinar entre vós; e ama-o como a ti mesmo; porque peregrinos fostes na terra do Egito: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 35,
+          "text": "Não façais injustiça no juízo, na medida da terra, nem no peso, nem em outra medida. "
+        },
+        {
+          "number": 36,
+          "text": "Balanças justas, pesos justos, efa justo, e him justo tereis. Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito. "
+        },
+        {
+          "number": 37,
+          "text": "Guardai, pois, todos os meus estatutos, e todos os meus regulamentos, e os praticai. Eu sou o SENHOR. "
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E o SENHOR falou a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Dirás também aos filhos de Israel: Qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, que oferecer de sua descendência a Moloque, certamente morrerá: o povo da terra o apedrejará com pedras. "
+        },
+        {
+          "number": 3,
+          "text": "E eu porei meu rosto contra o tal homem, e o cortarei dentre seu povo; porquanto deu de sua descendência a Moloque, contaminando meu santuário, e profanando meu santo nome. "
+        },
+        {
+          "number": 4,
+          "text": "E se o povo da terra esconder seus olhos daquele homem que houver dado de sua descendência a Moloque, para não matar-lhe, "
+        },
+        {
+          "number": 5,
+          "text": "então eu porei meu rosto contra aquele homem, e contra sua família, e lhe eliminarei dentre seu povo, com todos os que se prostituíram depois dele, prostituindo-se com Moloque. "
+        },
+        {
+          "number": 6,
+          "text": "E a pessoa que der atenção a encantadores ou adivinhos, para prostituir-se atrás deles, eu porei meu rosto contra a tal pessoa, e a eliminarei dentre seu povo. "
+        },
+        {
+          "number": 7,
+          "text": "Santificai-vos, pois, e sede santos, porque eu o SENHOR sou vosso Deus. "
+        },
+        {
+          "number": 8,
+          "text": "E guardai meus estatutos, e os praticai. Eu sou o SENHOR que vos santifico. "
+        },
+        {
+          "number": 9,
+          "text": "Aquele que amaldiçoar seu pai ou sua mãe certamente morrerá; a seu pai ou a sua mãe amaldiçoou; seu sangue será sobre ele. "
+        },
+        {
+          "number": 10,
+          "text": "E o homem que adulterar com a mulher de outro, o que cometer adultério com a mulher de seu próximo, inevitavelmente se fará morrer ao adúltero e à adúltera. "
+        },
+        {
+          "number": 11,
+          "text": "Qualquer um que se deitar com a mulher de seu pai terá revelou a nudez de seu pai; ambos serão mortos; seu sangue será sobre eles. "
+        },
+        {
+          "number": 12,
+          "text": "Qualquer um que dormir com a sua nora, ambos terão de morrer; fizeram confusão; seu sangue será sobre eles. "
+        },
+        {
+          "number": 13,
+          "text": "Qualquer um que tiver ajuntamento com homem como se fosse com mulher, abominação fizeram entre ambos; terão de ser mortos; sobre eles será seu sangue. "
+        },
+        {
+          "number": 14,
+          "text": "E o que tomar uma mulher e a mãe dela comete depravação; queimarão em fogo ele e elas, para que não haja depravação entre vós. "
+        },
+        {
+          "number": 15,
+          "text": "Qualquer um que tiver relação sexual com animal, será morto; e matareis ao animal. "
+        },
+        {
+          "number": 16,
+          "text": "E a mulher que se achegar a algum animal, para ter ajuntamento com ele, à mulher e ao animal matarás; morrerão inevitavelmente; seu sangue será sobre eles. "
+        },
+        {
+          "number": 17,
+          "text": "Qualquer um que tomar a sua irmã, filha de seu pai ou filha de sua mãe, e vir sua nudez, e ela vir a sua, coisa é execrável; portanto serão mortos à vista dos filhos de seu povo: revelou a nudez de sua irmã; levará consigo o seu pecado. "
+        },
+        {
+          "number": 18,
+          "text": "Qualquer um que dormir com mulher menstruada, e descobrir sua nudez, sua fonte descobriu, e ela descobriu a fonte de seu sangue: ambos serão eliminados dentre seu povo. "
+        },
+        {
+          "number": 19,
+          "text": "A nudez da irmã de tua mãe, ou da irmã de teu pai, não descobrirás; uma vez que descobriu sua parente, sua iniquidade levarão. "
+        },
+        {
+          "number": 20,
+          "text": "E qualquer um que dormir com a mulher do irmão de seu pai, a nudez do irmão de seu pai descobriu; seu pecado levarão; morrerão sem filhos. "
+        },
+        {
+          "number": 21,
+          "text": "E o que tomar a mulher de seu irmão, é imundícia; a nudez de seu irmão descobriu; sem filhos serão. "
+        },
+        {
+          "number": 22,
+          "text": "Guardai, pois, todos meus estatutos e todos meus regulamentos, e ponde-os por obra: e não vos vomitará a terra, na qual eu vos introduzo para que habiteis nela. "
+        },
+        {
+          "number": 23,
+          "text": "E não andeis nas práticas da gente que eu lançarei de diante de vós: porque eles fizeram todas estas coisas, e os tive em abominação. "
+        },
+        {
+          "number": 24,
+          "text": "Porém a vós vos disse: Vós possuireis a terra deles, e eu a darei a vós para que a possuais por herança, terra que flui leite e mel: Eu sou o SENHOR vosso Deus, que vos separei dos povos. "
+        },
+        {
+          "number": 25,
+          "text": "Portanto, vós fareis diferença entre animal limpo e impuro, e entre ave impura e limpa: e não torneis abomináveis vossas pessoas nos animais, nem nas aves, nem em nenhuma coisa que vai arrastando pela terra, as quais vos separei por impuras. "
+        },
+        {
+          "number": 26,
+          "text": "Haveis, pois, de ser para mim santos, porque eu o SENHOR sou santo, e vos separei dos povos, para que sejais meus. "
+        },
+        {
+          "number": 27,
+          "text": "E o homem ou a mulher em que houver espírito mediúnico ou de adivinhação, terão de ser mortos; os apedrejarão com pedras; seu próprio sangue será sobre eles. "
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E o SENHOR disse a Moisés: Fala aos sacerdotes filhos de Arão, e dize-lhes que não se contaminem por um morto em seus povos. "
+        },
+        {
+          "number": 2,
+          "text": "A não ser por seu parente próximo a si, por sua mãe, ou por seu pai, ou por seu filho, ou por seu irmão, "
+        },
+        {
+          "number": 3,
+          "text": "ou por sua irmã virgem, a ele próxima, a qual não tenha tido marido, por ela se contaminará. "
+        },
+        {
+          "number": 4,
+          "text": "Porque é líder  em seu povo, não se contaminará, fazendo-se impuro. "
+        },
+        {
+          "number": 5,
+          "text": "Não farão calva em sua cabeça, nem raparão a ponta de sua barba, nem em sua carne farão cortes. "
+        },
+        {
+          "number": 6,
+          "text": "Santos serão a seu Deus, e não profanarão o nome de seu Deus; porque oferecem os fogos do SENHOR e o pão de seu Deus; portanto, serão santos. "
+        },
+        {
+          "number": 7,
+          "text": "Mulher prostituta ou infame não tomarão: nem tomarão mulher repudiada de seu marido: porque é santo a seu Deus. "
+        },
+        {
+          "number": 8,
+          "text": "O santificarás portanto, pois o pão de teu Deus oferece: santo será para ti, porque santo sou eu o SENHOR vosso santificador. "
+        },
+        {
+          "number": 9,
+          "text": "E a filha do homem sacerdote, se começar a se prostituir, a seu pai profana: queimada será ao fogo. "
+        },
+        {
+          "number": 10,
+          "text": "E o sumo sacerdote entre seus irmãos, sobre cuja cabeça foi derramado o azeite da unção, e que encheu sua mão para vestir as vestimentas, não descobrirá sua cabeça, nem romperá suas roupas: "
+        },
+        {
+          "number": 11,
+          "text": "nem entrará onde haja alguma pessoa morta, nem por seu pai, ou por sua mãe se contaminará. "
+        },
+        {
+          "number": 12,
+          "text": "nem sairá do santuário, nem contaminará o santuário de seu Deus; porque a coroa do azeite da unção de seu Deus está sobre ele: Eu sou o SENHOR. "
+        },
+        {
+          "number": 13,
+          "text": "E tomará ele mulher com sua virgindade. "
+        },
+        {
+          "number": 14,
+          "text": "Viúva, ou repudiada, ou infame, ou prostituta, estas não tomará: mas tomará virgem de seus povos por mulher. "
+        },
+        {
+          "number": 15,
+          "text": "E não profanará sua descendência em seus povos; porque eu o SENHOR sou o que os santifico. "
+        },
+        {
+          "number": 16,
+          "text": "E o SENHOR falou a Moisés, dizendo: "
+        },
+        {
+          "number": 17,
+          "text": "Fala a Arão, e dize-lhe: O homem de tua semente em suas gerações, no qual houver falta, não se achegará para oferecer o pão de seu Deus. "
+        },
+        {
+          "number": 18,
+          "text": "Porque nenhum homem no qual houver falta, se achegará: homem cego, ou coxo, ou rosto mutilado, ou membro deformado, "
+        },
+        {
+          "number": 19,
+          "text": "Ou homem no qual houver fratura de pé ou rotura da mão, "
+        },
+        {
+          "number": 20,
+          "text": "Ou corcunda, ou anão, ou que tiver visão embaçada, ou que tenha sarna, ou impigem, ou testículo mutilado; "
+        },
+        {
+          "number": 21,
+          "text": "Nenhum homem da descendência de Arão sacerdote, no qual houver falta, se achegará para oferecer as ofertas acendidas do SENHOR. Há falta nele; não se achegará a oferecer o pão de seu Deus. "
+        },
+        {
+          "number": 22,
+          "text": "O pão de seu Deus, do muito santo e as coisas santificadas, comerá. "
+        },
+        {
+          "number": 23,
+          "text": "Porém não entrará do véu dentro, nem se achegará ao altar, porquanto há falta nele: e não profanará meu santuário, porque eu o SENHOR sou o que os santifico. "
+        },
+        {
+          "number": 24,
+          "text": "E Moisés falou isto a Arão, e a seus filhos, e a todos os filhos de Israel. "
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Dize a Arão e a seus filhos, que se abstenham das coisas santas dos filhos de Israel, e que não profanem meu santo nome no que eles me santificam: Eu sou o SENHOR. "
+        },
+        {
+          "number": 3,
+          "text": "Dize-lhes: Todo homem de toda vossa descendência em vossas gerações que chegar às coisas sagradas, que os filhos de Israel consagram ao SENHOR, tendo imundícia sobre si, de diante de mim será eliminada sua alma: Eu sou o SENHOR. "
+        },
+        {
+          "number": 4,
+          "text": "Qualquer homem da semente de Arão que for leproso, ou padecer fluxo, não comerá das coisas sagradas até que esteja limpo: e o que tocar qualquer coisa impura de cadáver, ou o homem do qual houver saído derramamento de sêmen; "
+        },
+        {
+          "number": 5,
+          "text": "Ou o homem que houver tocado qualquer réptil ou inseto, pelo qual será impuro, ou homem pelo qual venha a ser impuro, conforme qualquer imundícia sua; "
+        },
+        {
+          "number": 6,
+          "text": "A pessoa que o tocar, será impura até à tarde, e não comerá das coisas sagradas antes que tenha lavado sua carne com água. "
+        },
+        {
+          "number": 7,
+          "text": "E quando o sol se puser, será limpo; e depois comerá as coisas sagradas, porque seu pão é. "
+        },
+        {
+          "number": 8,
+          "text": "O morto naturalmente nem despedaçado por fera não comerá, para contaminar-se em ele: Eu sou o SENHOR. "
+        },
+        {
+          "number": 9,
+          "text": "Guardem, pois, minha ordenança, e não levem pecado por ele, não seja que assim morram quando a profanarem: Eu sou o SENHOR que os santifico. "
+        },
+        {
+          "number": 10,
+          "text": "Nenhum estranho comerá coisa sagrada; o hóspede do sacerdote, nem o empregado, não comerá coisa sagrada. "
+        },
+        {
+          "number": 11,
+          "text": "Mas o sacerdote, quando comprar pessoa de seu dinheiro, esta comerá dela, e o nascido em sua casa: estes comerão de seu pão. "
+        },
+        {
+          "number": 12,
+          "text": "Porém a filha do sacerdote, quando se casar com homem estranho, ela não comerá da oferta das coisas sagradas. "
+        },
+        {
+          "number": 13,
+          "text": "Porém se a filha do sacerdote for viúva, ou repudiada, e não tiver descendência, e se houver voltado à casa de seu pai, como em sua juventude, comerá do pão de seu pai; mas nenhum estranho coma dele. "
+        },
+        {
+          "number": 14,
+          "text": "E o que por acidente comer coisa sagrada, acrescentará a ela seu quinto, e o dará ao sacerdote com a coisa sagrada. "
+        },
+        {
+          "number": 15,
+          "text": "Não profanarão, pois, as coisas santas dos filhos de Israel, as quais separam para o SENHOR: "
+        },
+        {
+          "number": 16,
+          "text": "E não lhes farão levar a iniquidade do pecado, comendo as coisas santas deles: porque eu o SENHOR sou o que os santifico. "
+        },
+        {
+          "number": 17,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 18,
+          "text": "Fala a Arão e a seus filhos, e a todos os filhos de Israel, e dize-lhes: Qualquer homem da casa de Israel, ou dos estrangeiros em Israel, que oferecer sua oferta por todos os seus votos, e por todas seus ofertas voluntárias que oferecerem ao SENHOR em holocausto. "
+        },
+        {
+          "number": 19,
+          "text": "De vossa vontade oferecereis macho sem defeito dentre as vacas, dentre os cordeiros, ou dentre as cabras. "
+        },
+        {
+          "number": 20,
+          "text": "Nenhuma coisa em que tenha falta oferecereis, porque não será aceito por vós. "
+        },
+        {
+          "number": 21,
+          "text": "Também, quando alguém oferecer sacrifício pacífico ao SENHOR para presentear voto, ou oferecendo voluntariamente, seja de vacas ou de ovelhas, sem mácula será aceito; não há de haver nele falta. "
+        },
+        {
+          "number": 22,
+          "text": "Cego, ou aleijado, ou mutilado, ou com verruga, ou sarnento ou com impingens, não oferecereis estes ao SENHOR, nem deles poreis oferta acesa sobre o altar do SENHOR. "
+        },
+        {
+          "number": 23,
+          "text": "Boi ou carneiro que tenha de mais ou de menos, poderás oferecer por oferta voluntária; mas por voto não será aceito. "
+        },
+        {
+          "number": 24,
+          "text": "Ferido ou golpeado, rompido ou cortado, não oferecereis ao SENHOR, nem em vossa terra o fareis. "
+        },
+        {
+          "number": 25,
+          "text": "E da mão de filho de estrangeiro não oferecereis o pão de vosso Deus de todas estas coisas; porque sua corrupção está nelas: há nelas falta, não se vos aceitarão. "
+        },
+        {
+          "number": 26,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 27,
+          "text": "O boi, ou o cordeiro, ou a cabra, quando nascer, sete dias estará mamando de sua mãe: mas desde o oitavo dia em adiante será aceito para oferta de sacrifício acendido ao SENHOR. "
+        },
+        {
+          "number": 28,
+          "text": "E seja boi ou carneiro, não degolareis em um dia a o e a seu filho. "
+        },
+        {
+          "number": 29,
+          "text": "E quando sacrificardes sacrifício de ação de graças ao SENHOR, de vossa vontade o sacrificareis. "
+        },
+        {
+          "number": 30,
+          "text": "No mesmo dia se comerá; não deixareis dele para outro dia: Eu sou o SENHOR. "
+        },
+        {
+          "number": 31,
+          "text": "Guardai pois meus mandamentos, e executai-os: Eu sou o SENHOR. "
+        },
+        {
+          "number": 32,
+          "text": "E não profaneis meu santo nome, e eu me santificarei em meio dos filhos de Israel: Eu sou o SENHOR que vos santifico; "
+        },
+        {
+          "number": 33,
+          "text": "Que vos tirei da terra do Egito, para ser vosso Deus: Eu sou o SENHOR. "
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, e dize-lhes: As solenidades do SENHOR, as quais proclamareis santas convocações, aquelas serão minhas solenidades. "
+        },
+        {
+          "number": 3,
+          "text": "Seis dias se trabalhará, e no sétimo dia sábado de repouso será, convocação santa: nenhuma obra fareis; sábado é do SENHOR em todas as vossas habitações. "
+        },
+        {
+          "number": 4,
+          "text": "Estas são as solenidades do SENHOR, as convocações santas, às quais convocareis em seus tempos. "
+        },
+        {
+          "number": 5,
+          "text": "No mês primeiro, aos catorze do mês, entre as duas tardes, páscoa é do SENHOR. "
+        },
+        {
+          "number": 6,
+          "text": "E aos quinze dias deste mês é a solenidade dos pães ázimos ao SENHOR: sete dias comereis pães ázimos. "
+        },
+        {
+          "number": 7,
+          "text": "O primeiro dia tereis santa convocação: nenhuma obra servil fareis. "
+        },
+        {
+          "number": 8,
+          "text": "E oferecereis ao SENHOR sete dias oferta acesa: no sétimo dia será santa convocação; nenhuma obra servil fareis. "
+        },
+        {
+          "number": 9,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 10,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra que eu vos dou, e ceifardes seu colheita, trareis ao sacerdote um ômer por primícia dos primeiros frutos de vossa colheita; "
+        },
+        {
+          "number": 11,
+          "text": "O qual moverá o ômer diante do SENHOR, para que sejais aceitos: o dia seguinte do sábado o moverá o sacerdote. "
+        },
+        {
+          "number": 12,
+          "text": "E no dia que oferecerdes o ômer, oferecereis um cordeiro de ano, sem defeito, em holocausto ao SENHOR. "
+        },
+        {
+          "number": 13,
+          "text": "E sua oferta de cereais será duas dízimas de flor de farinha amassada com azeite, oferta acesa ao SENHOR em cheiro suavíssimo; e sua libação de vinho, a quarta parte de um him. "
+        },
+        {
+          "number": 14,
+          "text": "E não comereis pão, nem grão tostado, nem espiga fresca, até este mesmo dia, até que tenhais oferecido a oferta de vosso Deus; estatuto perpétuo é por vossas gerações em todas as vossas habitações. "
+        },
+        {
+          "number": 15,
+          "text": "E vos haveis de contar desde o dia seguinte do sábado, desde o dia em que oferecestes o ômer da oferta movida; sete semanas completas serão: "
+        },
+        {
+          "number": 16,
+          "text": "Até o dia seguinte do sábado sétimo contareis cinquenta dias; então oferecereis nova oferta de cereais ao SENHOR. "
+        },
+        {
+          "number": 17,
+          "text": "De vossas habitações trareis dois pães para oferta movida, que serão de duas dízimas de flor de farinha, cozidos com levedura, por primícias ao SENHOR. "
+        },
+        {
+          "number": 18,
+          "text": "E oferecereis com o pão sete cordeiros de ano sem defeito, e um bezerro das vacas e dois carneiros: serão holocausto ao SENHOR, com sua oferta de cereais e suas libações; oferta acesa de suave cheiro ao SENHOR. "
+        },
+        {
+          "number": 19,
+          "text": "Oferecereis também um macho de bode por expiação; e dois cordeiros de ano em sacrifício pacífico. "
+        },
+        {
+          "number": 20,
+          "text": "E o sacerdote os moverá em oferta movida diante do SENHOR, com o pão das primícias, e os dois cordeiros: serão coisa sagrada do SENHOR para o sacerdote. "
+        },
+        {
+          "number": 21,
+          "text": "E convocareis neste mesmo dia; vos será santa convocação: nenhuma obra servil fareis: estatuto perpétuo em todas as vossas habitações por vossas gerações. "
+        },
+        {
+          "number": 22,
+          "text": "E quando ceifardes a colheita de vossa terra, não acabarás de ceifar o canto de tua plantação, nem espigarás tua colheita; para o pobre, e para o estrangeiro a deixarás: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 23,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 24,
+          "text": "Fala aos filhos de Israel, e dize-lhes: No mês sétimo, ao primeiro do mês tereis sábado, uma comemoração ao são de trombetas, e uma santa convocação. "
+        },
+        {
+          "number": 25,
+          "text": "Nenhuma obra servil fareis; e oferecereis oferta acesa ao SENHOR. "
+        },
+        {
+          "number": 26,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 27,
+          "text": "Porém aos dez deste mês sétimo será o dia das expiações: tereis santa convocação, e afligireis vossas almas, e oferecereis oferta acesa ao SENHOR. "
+        },
+        {
+          "number": 28,
+          "text": "Nenhuma obra fareis neste mesmo dia; porque é dia de expiações, para reconciliar-vos diante do SENHOR vosso Deus. "
+        },
+        {
+          "number": 29,
+          "text": "Porque toda pessoa que não se afligir neste mesmo dia, será eliminada de seus povos. "
+        },
+        {
+          "number": 30,
+          "text": "E qualquer pessoa que fizer obra alguma neste mesmo dia, eu destruirei a tal pessoa dentre seu povo. "
+        },
+        {
+          "number": 31,
+          "text": "Nenhuma obra fareis: estatuto perpétuo é por vossas gerações em todas as vossas habitações. "
+        },
+        {
+          "number": 32,
+          "text": "Sábado de repouso será a vós, e afligireis vossas almas, começando aos nove do mês na tarde: de tarde a tarde descansareis vosso sábado. "
+        },
+        {
+          "number": 33,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 34,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Aos quinze dias deste mês sétimo será a solenidade das cabanas ao SENHOR por sete dias. "
+        },
+        {
+          "number": 35,
+          "text": "O primeiro dia haverá santa convocação: nenhuma obra servil fareis. "
+        },
+        {
+          "number": 36,
+          "text": "Sete dias oferecereis oferta acesa ao SENHOR: o oitavo dia tereis santa convocação, e oferecereis oferta acesa ao SENHOR: é festa: nenhuma obra servil fareis. "
+        },
+        {
+          "number": 37,
+          "text": "Estas são as solenidades do SENHOR, às que convocareis santas reuniões, para oferecer oferta acesa ao SENHOR, holocausto e oferta de cereais, sacrifício e libações, cada coisa em seu tempo: "
+        },
+        {
+          "number": 38,
+          "text": "Além disso dos sábados do SENHOR e além de vossos presentes, e a mais de todos vossos votos, e além de todas as vossas ofertas voluntárias, que dareis ao SENHOR. "
+        },
+        {
+          "number": 39,
+          "text": "Porém aos quinze do mês sétimo, quando houverdes recolhido o fruto da terra, fareis festa ao SENHOR por sete dias: o primeiro dia será sábado; sábado será também o oitavo dia. "
+        },
+        {
+          "number": 40,
+          "text": "E tomareis o primeiro dia galhos das mais belas árvores, ramos de palmeiras, e ramos de árvores frondosas, e salgueiros dos ribeiros; e vos regozijareis diante do SENHOR vosso Deus por sete dias. "
+        },
+        {
+          "number": 41,
+          "text": "E lhe fareis festa ao SENHOR por sete dias cada ano; será estatuto perpétuo por vossas gerações; no mês sétimo a fareis. "
+        },
+        {
+          "number": 42,
+          "text": "Em cabanas habitareis sete dias: todo natural de Israel habitará em cabanas; "
+        },
+        {
+          "number": 43,
+          "text": "Para que saibam vossos descendentes que em cabanas fiz eu habitar aos filhos de Israel, quando os tirei da terra do Egito: Eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 44,
+          "text": "Assim falou Moisés aos filhos de Israel sobre as solenidades do SENHOR. "
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Manda aos filhos de Israel que te tragam azeite de olivas claro, prensado, para a luminária, para fazer arder as lâmpadas continuamente. "
+        },
+        {
+          "number": 3,
+          "text": "Fora do véu do testemunho, no tabernáculo do testemunho, as preparará Arão desde a tarde até a manhã diante do SENHOR, continuamente: estatuto perpétuo por vossas gerações. "
+        },
+        {
+          "number": 4,
+          "text": "Sobre o candelabro limpo porá sempre em ordem as lâmpadas diante do SENHOR. "
+        },
+        {
+          "number": 5,
+          "text": "E tomarás flor de farinha, e cozerás dela doze tortas: cada torta será de duas dízimas. "
+        },
+        {
+          "number": 6,
+          "text": "E hás de pô-las em duas ordens, seis em cada ordem, sobre a mesa limpa diante do SENHOR. "
+        },
+        {
+          "number": 7,
+          "text": "Porás também sobre cada ordem incenso limpo, e será para o pão por incenso, oferta acesa ao SENHOR. "
+        },
+        {
+          "number": 8,
+          "text": "Cada dia de sábado o porá continuamente em ordem diante do SENHOR, dos filhos de Israel por pacto sempiterno. "
+        },
+        {
+          "number": 9,
+          "text": "E será de Arão e de seus filhos, os quais o comerão no lugar santo; porque é coisa muito santa para ele, das ofertas acendidas ao SENHOR, por estatuto perpétuo. "
+        },
+        {
+          "number": 10,
+          "text": "Naquela muita o filho de uma mulher israelita, o qual era filho de um egípcio, saiu entre os filhos de Israel; e o filho da israelita e um homem de Israel brigaram no acampamento: "
+        },
+        {
+          "number": 11,
+          "text": "E o filho da mulher israelita pronunciou o Nome, e amaldiçoou: então o levaram a Moisés. E sua mãe se chamava Selomite, filha de Dribi, da tribo de Dã. "
+        },
+        {
+          "number": 12,
+          "text": "E puseram-no no cárcere, até que lhes fosse sentenciado pela palavra do SENHOR. "
+        },
+        {
+          "number": 13,
+          "text": "E o SENHOR falou a Moisés, dizendo: "
+        },
+        {
+          "number": 14,
+          "text": "Tira ao blasfemo fora do acampamento, e todos os que o ouviram ponham suas mãos sobre a cabeça dele, e apedreje-o toda a congregação. "
+        },
+        {
+          "number": 15,
+          "text": "E aos filhos de Israel falarás, dizendo: Qualquer um que amaldiçoar a seu Deus, levará sua iniquidade. "
+        },
+        {
+          "number": 16,
+          "text": "E o que blasfemar o nome do SENHOR, será morto; toda a congregação o apedrejará: tanto o estrangeiro como o natural, se blasfemar o Nome, que morra. "
+        },
+        {
+          "number": 17,
+          "text": "Também o homem que fere de morte a qualquer pessoa, que sofra a morte. "
+        },
+        {
+          "number": 18,
+          "text": "E o que fere a algum animal há de restituí-lo: animal por animal. "
+        },
+        {
+          "number": 19,
+          "text": "E o que causar lesão em seu próximo, segundo fez, assim lhe seja feito: "
+        },
+        {
+          "number": 20,
+          "text": "Rompimento por rompimento, olho por olho, dente por dente: segundo a lesão que haverá feito a outro, tal se fará a ele. "
+        },
+        {
+          "number": 21,
+          "text": "O que fere algum animal, há de restituí-lo; mas o que fere de morte a um homem, que morra. "
+        },
+        {
+          "number": 22,
+          "text": "Um mesmo regulamento tereis: como o estrangeiro, assim será o natural: porque eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 23,
+          "text": "E falou Moisés aos filhos de Israel, e eles tiraram ao blasfemo fora do acampamento, e apedrejaram-no com pedras. E os filhos de Israel fizeram segundo que o SENHOR havia mandado a Moisés. "
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E o SENHOR falou a Moisés no monte Sinai, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra que eu vos dou, a terra fará sábado ao SENHOR. "
+        },
+        {
+          "number": 3,
+          "text": "Seis anos semearás tua terra, e seis anos podarás tua vinha, e colherás seus frutos; "
+        },
+        {
+          "number": 4,
+          "text": "E no sétimo ano a terra terá sábado de descanso, sábado ao SENHOR: não semearás tua terra, nem podarás tua vinha. "
+        },
+        {
+          "number": 5,
+          "text": "O que de seu se nascer em tua terra ceifada, não o ceifarás; e as uvas de teu vinhedo não vindimarás: ano de descanso será à terra. "
+        },
+        {
+          "number": 6,
+          "text": "Mas o sábado da terra vos será para comer a ti, e a teu servo, e a tua serva, e a tua criado, e a tua estrangeiro que morar contigo: "
+        },
+        {
+          "number": 7,
+          "text": "E a teu animal, e à animal que houver em tua terra, será todo o fruto dela para comer. "
+        },
+        {
+          "number": 8,
+          "text": "E te hás de contar sete semanas de anos, sete vezes sete anos; de modo que os dias das sete semanas de anos virão a ser para ti quarenta e nove anos. "
+        },
+        {
+          "number": 9,
+          "text": "Então farás passar a trombeta de júbilo no mês sétimo aos dez do mês; o dia da expiação fareis passar a trombeta por toda vossa terra. "
+        },
+        {
+          "number": 10,
+          "text": "E santificareis o ano cinquenta, e apregoareis liberdade na terra a todos os seus moradores: este vos será jubileu; e voltareis cada um à sua possessão, e cada qual voltará à sua família. "
+        },
+        {
+          "number": 11,
+          "text": "O ano dos cinquenta anos vos será jubileu: não semeareis, nem colhereis o que nascer de seu na terra, nem vindimareis seus vinhedos: "
+        },
+        {
+          "number": 12,
+          "text": "Porque é jubileu: santo será a vós; o produto da terra comereis. "
+        },
+        {
+          "number": 13,
+          "text": "Em este ano de jubileu voltareis cada um à sua possessão. "
+        },
+        {
+          "number": 14,
+          "text": "E quando venderdes algo a vosso próximo, ou comprardes da mão de vosso próximo, não engane ninguém a seu irmão: "
+        },
+        {
+          "number": 15,
+          "text": "Conforme o número dos anos depois do jubileu comprarás de teu próximo; conforme o número dos anos dos frutos te venderá ele a ti. "
+        },
+        {
+          "number": 16,
+          "text": "Conforme a abundância dos anos aumentarás o preço, e conforme a diminuição dos anos diminuirás o preço; porque segundo o número dos rendimentos te há de vender ele. "
+        },
+        {
+          "number": 17,
+          "text": "E não engane ninguém a seu próximo; mas terás temor de teu Deus: porque eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 18,
+          "text": "Executai, pois, meus estatutos, e guardai meus regulamentos, e ponde-os por obra, e habitareis na terra seguros; "
+        },
+        {
+          "number": 19,
+          "text": "E a terra dará seu fruto, e comereis até fartura, e habitareis nela com segurança. "
+        },
+        {
+          "number": 20,
+          "text": "E se disserdes: Que comeremos no sétimo ano? eis que não temos de semear, nem temos de colher nossos frutos: "
+        },
+        {
+          "number": 21,
+          "text": "Então eu vos enviarei minha bênção no sexto ano, e fará fruto por três anos. "
+        },
+        {
+          "number": 22,
+          "text": "E semeareis no ano oitavo, e comereis do fruto alheio; até o ano nono, até que venha seu fruto comereis do alheio. "
+        },
+        {
+          "number": 23,
+          "text": "E a terra não se venderá definitivamente, porque a terra minha é; que vós peregrinos e estrangeiros sois para comigo. "
+        },
+        {
+          "number": 24,
+          "text": "Portanto, em toda a terra de vossa possessão, outorgareis remissão à terra. "
+        },
+        {
+          "number": 25,
+          "text": "Quando teu irmão empobrecer, e vender algo de sua possessão, virá o resgatador, seu próximo, e resgatará o que seu irmão houver vendido. "
+        },
+        {
+          "number": 26,
+          "text": "E quando o homem não tiver resgatador, se alcançar sua mão, e achar o que basta para seu resgate; "
+        },
+        {
+          "number": 27,
+          "text": "Então contará os anos de sua venda, e pagará o que restar ao homem a quem vendeu, e voltará à sua possessão. "
+        },
+        {
+          "number": 28,
+          "text": "Mas se não alcançar sua mão o que basta para que volte a ele, o que vendeu estará em poder do que o comprou até o ano do jubileu; e ao jubileu sairá, e ele voltará à sua possessão. "
+        },
+        {
+          "number": 29,
+          "text": "E o homem que vender casa de morada em cidade cercado, poderá resgatá-la até acabar-se o ano de sua venda: ano será o termo de se poder resgatar. "
+        },
+        {
+          "number": 30,
+          "text": "E se não for resgatada dentro de ano inteiro, a casa que estiver na cidade murada ficará para sempre por daquele que a comprou, e para seus descendentes: não sairá no jubileu. "
+        },
+        {
+          "number": 31,
+          "text": "Mas as casas das aldeias que não têm muro ao redor, serão estimadas como uma plantação da terra: terão remissão, e sairão no jubileu. "
+        },
+        {
+          "number": 32,
+          "text": "Porém em quanto às cidades dos levitas, sempre poderão resgatar os levitas as casas das cidades que possuírem. "
+        },
+        {
+          "number": 33,
+          "text": "E o que comprar dos levitas, sairá da casa vendida, ou da cidade de sua possessão, no jubileu: porquanto as casas das cidades dos levitas é a possessão deles entre os filhos de Israel. "
+        },
+        {
+          "number": 34,
+          "text": "Mas a terra dos arredores de suas cidades não se venderá, porque é perpétua possessão deles. "
+        },
+        {
+          "number": 35,
+          "text": "E quando teu irmão empobrecer, e se refugiar a ti, tu o ampararás: como peregrino e estrangeiro viverá contigo. "
+        },
+        {
+          "number": 36,
+          "text": "Não tomarás juros dele, nem lucro; mas terás temor de teu Deus, e teu irmão viverá contigo. "
+        },
+        {
+          "number": 37,
+          "text": "Não lhe darás teu dinheiro a juros, nem tua comida a ganho: "
+        },
+        {
+          "number": 38,
+          "text": "Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaã, para ser vosso Deus. "
+        },
+        {
+          "number": 39,
+          "text": "E quando teu irmão empobrecer, estando contigo, e se vender a ti, não lhe farás servir como servo: "
+        },
+        {
+          "number": 40,
+          "text": "Como criado, como estrangeiro estará contigo; até o ano do jubileu te servirá. "
+        },
+        {
+          "number": 41,
+          "text": "Então sairá de tua presença, ele e seus filhos consigo, e voltará à sua família, e à possessão de seus pais se restituirá. "
+        },
+        {
+          "number": 42,
+          "text": "Porque são meus servos, os quais tirei eu da terra do Egito: não serão vendidos à maneira de servos. "
+        },
+        {
+          "number": 43,
+          "text": "Não serás senhor dele com dureza, mas terás temor de teu Deus. "
+        },
+        {
+          "number": 44,
+          "text": "Assim teu servo como tua serva que tiveres, serão das nações que estão em vosso ao redor: deles comprareis servos e servas. "
+        },
+        {
+          "number": 45,
+          "text": "Também comprareis dos filhos dos forasteiros que vivem entre vós, e dos que da linhagem deles são nascidos em vossa terra, que estão convosco; os quais tereis por possessão: "
+        },
+        {
+          "number": 46,
+          "text": "E os possuireis por herança para vossos filhos depois de vós, como possessão hereditária; para sempre vos servireis deles; porém em vossos irmãos os filhos de Israel, não vos dominareis cada um sobre seu irmão com dureza. "
+        },
+        {
+          "number": 47,
+          "text": "E se o peregrino ou estrangeiro que está contigo, adquirisse meios, e teu irmão que está com ele empobrecer, e se vender ao peregrino ou estrangeiro que está contigo, ou à raça da família do estrangeiro; "
+        },
+        {
+          "number": 48,
+          "text": "Depois que se houver vendido, poderá ser resgatado: um de seus irmãos o resgatará; "
+        },
+        {
+          "number": 49,
+          "text": "Ou seu tio, ou o filho de seu tio o resgatará, ou o próximo de sua carne, de sua linhagem, o resgatará; ou se seus meios alcançarem, ele mesmo se resgatará. "
+        },
+        {
+          "number": 50,
+          "text": "E contará com o que o comprou, desde o ano que se vendeu a ele até o ano do jubileu: e há de estabelecer preço o dinheiro de sua venda conforme o número dos anos, e se fará com ele conforme o tempo de um criado assalariado. "
+        },
+        {
+          "number": 51,
+          "text": "Se ainda forem muitos anos, conforme eles voltará para seu resgate do dinheiro pelo qual se vendeu. "
+        },
+        {
+          "number": 52,
+          "text": "E se restar pouco tempo até o ano do jubileu, então contará com ele, e devolverá seu resgate conforme seus anos. "
+        },
+        {
+          "number": 53,
+          "text": "Como com tomado a salário anualmente fará com ele: não será senhor dele com aspereza diante de teus olhos. "
+        },
+        {
+          "number": 54,
+          "text": "Mas se não se resgatar em esses anos, no ano do jubileu sairá, ele, e seus filhos com ele. "
+        },
+        {
+          "number": 55,
+          "text": "Porque meus servos são os filhos de Israel; são servos meus, aos quais tirei da terra do Egito: Eu sou o SENHOR vosso Deus. "
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Não fareis para vós ídolos, nem escultura, nem levantareis para vós estátua, nem poreis em vossa terra pedra pintada para inclinar-vos a ela: porque eu sou o SENHOR vosso Deus. "
+        },
+        {
+          "number": 2,
+          "text": "Guardai meus sábados, e tende em reverência meu santuário: Eu sou o SENHOR. "
+        },
+        {
+          "number": 3,
+          "text": "Se andardes em meus decretos, e guardardes meus mandamentos, e os puserdes por obra; "
+        },
+        {
+          "number": 4,
+          "text": "Eu darei vossa chuva em seu tempo, e a terra produzirá, e a árvore do campo dará seu fruto; "
+        },
+        {
+          "number": 5,
+          "text": "E a debulha vos alcançará à vindima, e a vindima alcançará à sementeira, e comereis vosso pão em fartura e habitareis seguros em vossa terra: "
+        },
+        {
+          "number": 6,
+          "text": "E eu darei paz na terra, e dormireis, e não haverá quem vos espante: e farei tirar os animais ferozes de vossa terra, e não passará por vosso país a espada: "
+        },
+        {
+          "number": 7,
+          "text": "E perseguireis a vossos inimigos, e cairão à espada diante de vós: "
+        },
+        {
+          "number": 8,
+          "text": "E cinco de vós perseguirão a cem, e cem de vós perseguirão a dez mil, e vossos inimigos cairão à espada diante de vós. "
+        },
+        {
+          "number": 9,
+          "text": "Porque eu me voltarei a vós, e vos farei crescer, e vos multiplicarei, e afirmarei meu pacto convosco: "
+        },
+        {
+          "number": 10,
+          "text": "E comereis o antigo de muito tempo, e tirareis fora o antigo por causa do novo: "
+        },
+        {
+          "number": 11,
+          "text": "E porei minha morada em meio de vós, e minha alma não vos abominará: "
+        },
+        {
+          "number": 12,
+          "text": "E andarei entre vós, e eu serei vosso Deus, e vós sereis meu povo. "
+        },
+        {
+          "number": 13,
+          "text": "Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito, para que não fôsseis seus servos; e rompi as barras de vosso jugo, e vos fiz andar com o rosto alto. "
+        },
+        {
+          "number": 14,
+          "text": "Porém se não me ouvirdes, nem fizerdes todos estes meus mandamentos, "
+        },
+        {
+          "number": 15,
+          "text": "E se abominardes meus decretos, e vossa alma menosprezar meus regulamentos, não executando todos meus mandamentos, e invalidando meu pacto; "
+        },
+        {
+          "number": 16,
+          "text": "Eu também farei convosco isto: enviarei sobre vós terror, enfermidade e febre, que consumam os olhos e atormentem a alma: e semeareis em vão vossa semente, porque vossos inimigos a comerão: "
+        },
+        {
+          "number": 17,
+          "text": "E porei minha ira sobre vós, e sereis feridos diante de vossos inimigos; e os que vos aborrecem vos dominarão, e fugireis sem que haja quem vos persiga. "
+        },
+        {
+          "number": 18,
+          "text": "E se ainda com estas coisas não me ouvirdes, eu voltarei a castigar-vos sete vezes mais por vossos pecados. "
+        },
+        {
+          "number": 19,
+          "text": "E quebrarei a soberba de vossa força, e voltarei vosso céu como ferro, e vossa terra como bronze: "
+        },
+        {
+          "number": 20,
+          "text": "E vossa força se consumirá em vão; que vossa terra não dará seu produto, e as árvores da terra não darão seu fruto. "
+        },
+        {
+          "number": 21,
+          "text": "E se andardes comigo em oposição, e não me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais pragas segundo vossos pecados. "
+        },
+        {
+          "number": 22,
+          "text": "Enviarei também contra vós animais feras que vos arrebatem os filhos, e destruam vossos animais, e vos reduzam a poucos, e vossos caminhos sejam desertos. "
+        },
+        {
+          "number": 23,
+          "text": "E se com estas coisas não fordes corrigidos, mas que andardes comigo em oposição, "
+        },
+        {
+          "number": 24,
+          "text": "Eu também procederei convosco, em oposição e vos ferirei ainda sete vezes por vossos pecados: "
+        },
+        {
+          "number": 25,
+          "text": "E trarei sobre vós espada vingadora, em castigo do pacto; e vos recolhereis a vossas cidades; mas eu enviarei pestilência entre vós, e sereis entregues em mão do inimigo. "
+        },
+        {
+          "number": 26,
+          "text": "Quando eu vos quebrantar o sustento de pão, cozerão dez mulheres vosso pão em um forno, e vos devolverão vosso pão por peso; e comereis, e não vos fartareis. "
+        },
+        {
+          "number": 27,
+          "text": "E se com isto não me ouvirdes, mas procederdes comigo em oposição, "
+        },
+        {
+          "number": 28,
+          "text": "Eu procederei convosco em contra e com ira, e vos castigarei ainda sete vezes por vossos pecados. "
+        },
+        {
+          "number": 29,
+          "text": "E comereis as carnes de vossos filhos, e comereis as carnes de vossas filhas: "
+        },
+        {
+          "number": 30,
+          "text": "E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e meu alma vos abominará: "
+        },
+        {
+          "number": 31,
+          "text": "E porei vossas cidades em deserto, e assolarei vossos santuários, e não cheirarei a fragrância de vosso suave incenso. "
+        },
+        {
+          "number": 32,
+          "text": "Eu assolarei também a terra, e se pasmarão dela vossos inimigos que nela moram: "
+        },
+        {
+          "number": 33,
+          "text": "E a vós vos espalharei pelas nações, e desembainharei espada atrás de vós: e vossa terra estará assolada, e desertas vossas cidades. "
+        },
+        {
+          "number": 34,
+          "text": "Então a terra folgará seus sábados todos os dias que estiver assolada, e vós na terra de vossos inimigos: a terra descansará então e desfrutará seus sábados. "
+        },
+        {
+          "number": 35,
+          "text": "Todo o tempo que estará assolada, folgará o que não folgou em vossos sábados enquanto habitáveis nela. "
+        },
+        {
+          "number": 36,
+          "text": "E aos que restarem de vós porei em seus corações tal covardia, na terra de seus inimigos, que o som de uma folha movida os perseguirá, e fugirão como de espada, e cairão sem que ninguém os persiga: "
+        },
+        {
+          "number": 37,
+          "text": "E tropeçarão uns nos outros, como se fugissem diante de espada, ainda que ninguém os persiga; e não podereis resistir diante de vossos inimigos. "
+        },
+        {
+          "number": 38,
+          "text": "E perecereis entre as nações, e a terra de vossos inimigos vos consumirá. "
+        },
+        {
+          "number": 39,
+          "text": "E os que restarem de vós perecerão nas terras de vossos inimigos por sua iniquidade; e pela iniquidade de seus pais perecerão com eles: "
+        },
+        {
+          "number": 40,
+          "text": "E confessarão sua iniquidade, e a iniquidade de seus pais, por sua transgressão com que transgrediram contra mim: e também porque andaram comigo em oposição, "
+        },
+        {
+          "number": 41,
+          "text": "Eu também houver andado contrário a eles, e os houver metido na terra de seus inimigos: e então se humilhará seu coração incircunciso, e reconhecerão seu pecado; "
+        },
+        {
+          "number": 42,
+          "text": "E eu me lembrarei de meu pacto com Jacó, e também de meu pacto com Isaque, e também de meu pacto com Abraão me lembrarei; e farei memória da terra. "
+        },
+        {
+          "number": 43,
+          "text": "Que a terra estará desamparada deles, e folgará seus sábados, estando deserta por causa deles; mas entretanto se submeterão ao castigo de suas iniquidades: porquanto menosprezaram meus regulamentos, e teve a alma deles ódio de meus estatutos. "
+        },
+        {
+          "number": 44,
+          "text": "E ainda com tudo isto, estando eles em terra de seus inimigos, eu não os rejeitarei, nem os abominarei para consumi-los, invalidando meu pacto com eles: porque eu o SENHOR sou seu Deus: "
+        },
+        {
+          "number": 45,
+          "text": "Antes me lembrarei deles pelo pacto antigo, quando os tirei da terra do Egito aos olhos das nações, para ser seu Deus: Eu sou o SENHOR. "
+        },
+        {
+          "number": 46,
+          "text": "Estes são os decretos, regulamentos e leis que estabeleceu o SENHOR entre si e os filhos de Israel no monte Sinai por meio de Moisés. "
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E falou o SENHOR a Moisés, dizendo: "
+        },
+        {
+          "number": 2,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Quando alguém fizer especial voto ao SENHOR, segundo a avaliação das pessoas que se hajam de resgatar, assim será tua avaliação: "
+        },
+        {
+          "number": 3,
+          "text": "Em quanto ao homem de vinte anos até sessenta, tua avaliação será cinquenta siclos de prata, segundo o siclo do santuário. "
+        },
+        {
+          "number": 4,
+          "text": "E se for fêmea, a avaliação será trinta siclos. "
+        },
+        {
+          "number": 5,
+          "text": "E se for de cinco anos até vinte, tua avaliação será respeito ao homem vinte siclos, e à fêmea dez siclos. "
+        },
+        {
+          "number": 6,
+          "text": "E se for de um mês até cinco anos, tua avaliação será em ordem ao homem, cinco siclos de prata; e pela fêmea será tua avaliação três siclos de prata. "
+        },
+        {
+          "number": 7,
+          "text": "Mas se for de sessenta anos acima, pelo homem tua avaliação será quinze siclos, e pela fêmea dez siclos. "
+        },
+        {
+          "number": 8,
+          "text": "Porém se for mais pobre que tua avaliação, então comparecerá ante o sacerdote, e o sacerdote lhe porá valor: conforme a capacidade do votante lhe imporá valor o sacerdote. "
+        },
+        {
+          "number": 9,
+          "text": "E se for animal de que se oferece oferta ao SENHOR, tudo o que se der dele ao SENHOR será santo. "
+        },
+        {
+          "number": 10,
+          "text": "Não será mudado nem trocado, bom por mau, nem mau por bom; e se se permutar um animal por outro, ele e o dado por ele em troca serão sagrados. "
+        },
+        {
+          "number": 11,
+          "text": "E se for algum animal impuro, de que não se oferece oferta ao SENHOR, então o animal será posto diante do sacerdote: "
+        },
+        {
+          "number": 12,
+          "text": "E o sacerdote o avaliará preço, seja bom ou seja mau; conforme a avaliação do sacerdote, assim será. "
+        },
+        {
+          "number": 13,
+          "text": "E se o houverem de resgatar, acrescentarão seu quinto sobre tua avaliação. "
+        },
+        {
+          "number": 14,
+          "text": "E quando alguém santificar sua casa consagrando-a ao SENHOR, a avaliará preço o sacerdote, seja boa ou seja má: segundo a avaliar o sacerdote, assim ficará. "
+        },
+        {
+          "number": 15,
+          "text": "Mas se o que a santificar resgatar sua casa, acrescentará à tua avaliação o quinto do dinheiro dela, e será sua. "
+        },
+        {
+          "number": 16,
+          "text": "E se alguém santificar da terra de sua possessão ao SENHOR, tua avaliação será conforme sua semeadura: um ômer de semeadura de cevada se avaliará preço em cinquenta siclos de prata. "
+        },
+        {
+          "number": 17,
+          "text": "E se santificar sua terra desde o ano do jubileu, conforme tua avaliação ficará. "
+        },
+        {
+          "number": 18,
+          "text": "Mas se depois do jubileu santificar sua terra, então o sacerdote fará a conta do dinheiro conforme os anos que restarem até o ano do jubileu, e se diminuirá de tua avaliação. "
+        },
+        {
+          "number": 19,
+          "text": "E se o que santificou a terra quiser resgatá-la, acrescentará à tua avaliação o quinto do dinheiro dela, e ficará para ele. "
+        },
+        {
+          "number": 20,
+          "text": "Mas se ele não resgatar a terra, e a terra se vender a outro, não a resgatará mais; "
+        },
+        {
+          "number": 21,
+          "text": "Em vez disso quando sair no jubileu, a terra será santa ao SENHOR, como terra consagrada: a possessão dela será do sacerdote. "
+        },
+        {
+          "number": 22,
+          "text": "E se santificar alguém ao SENHOR a terra que ele comprou, que não era da terra de sua herança, "
+        },
+        {
+          "number": 23,
+          "text": "Então o sacerdote calculará com ele a soma de tua avaliação até o ano do jubileu, e aquele dia dará teu assinalado preço, coisa consagrada ao SENHOR. "
+        },
+        {
+          "number": 24,
+          "text": "No ano do jubileu, voltará a terra a aquele de quem ele a comprou, cuja é a herança da terra. "
+        },
+        {
+          "number": 25,
+          "text": "E tudo o que avaliares o preço será conforme o siclo do santuário: o siclo tem vinte óbolos. "
+        },
+        {
+          "number": 26,
+          "text": "Porém o primogênito dos animais, que pela primogenitura é do SENHOR, ninguém o santificará; seja boi ou ovelha, do SENHOR é. "
+        },
+        {
+          "number": 27,
+          "text": "Mas se for dos animais impuros, o resgatarão conforme tua avaliação, e acrescentarão sobre ela seu quinto: e se não o resgatarem, se venderá conforme tua avaliação. "
+        },
+        {
+          "number": 28,
+          "text": "Porém nenhuma coisa consagrada, que alguém houver santificado ao SENHOR de tudo o que tiver, de homens e animais, e das terras de sua possessão, não se venderá, nem se resgatará: todo o consagrado será coisa santíssima ao SENHOR. "
+        },
+        {
+          "number": 29,
+          "text": "Qualquer um que for consagrado dentre o homens que for separado para a condenação não será resgatado; inevitavelmente será morto. "
+        },
+        {
+          "number": 30,
+          "text": "E todos os dízimos da terra, tanto das sementes da terra como dos frutos das árvores, pertencem ao SENHOR; são coisas consagradas ao SENHOR. "
+        },
+        {
+          "number": 31,
+          "text": "E se alguém quiser resgatar algo de seus dízimos, acrescentará seu quinto a ele. "
+        },
+        {
+          "number": 32,
+          "text": "E todo dízimo de vacas ou de ovelhas, de tudo o que passa sob a vara, a décima parte será consagrada ao SENHOR. "
+        },
+        {
+          "number": 33,
+          "text": "Não olhará se é bom ou mau, nem o trocará; e se o trocar, ele e o seu trocado serão consagrados; não se resgatará. "
+        },
+        {
+          "number": 34,
+          "text": "Esses são os mandamentos que o SENHOR ordenou a Moisés para os filhos de Israel, no monte Sinai."
+        }
+      ]
+    }
+  ]
+}

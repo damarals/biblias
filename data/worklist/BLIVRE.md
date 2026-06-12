@@ -1,0 +1,3477 @@
+# Worklist — BLIVRE
+
+## high (28)
+- 1SA 15:25 — verse much shorter than other versions (40 vs median 85 chars)
+- 2SA 2:32 — verse much shorter than other versions (75 vs median 167 chars)
+- 1KI 18:33 — verse much shorter than other versions (67 vs median 156 chars)
+- MAT 6:13 — verse much shorter than other versions (52 vs median 115 chars)
+- MAT 17:21 — verse much shorter than other versions (1 vs median 67 chars)
+- MAT 18:11 — verse much shorter than other versions (1 vs median 59 chars)
+- MAT 23:14 — verse much shorter than other versions (1 vs median 171 chars)
+- MRK 7:16 — verse much shorter than other versions (1 vs median 41 chars)
+- MRK 9:44 — verse much shorter than other versions (1 vs median 51 chars)
+- MRK 9:46 — verse much shorter than other versions (1 vs median 51 chars)
+- MRK 11:26 — verse much shorter than other versions (1 vs median 99 chars)
+- MRK 15:28 — verse much shorter than other versions (1 vs median 69 chars)
+- LUK 4:18 — verse much shorter than other versions (94 vs median 203 chars)
+- LUK 9:55 — verse much shorter than other versions (34 vs median 80 chars)
+- LUK 9:56 — verse much shorter than other versions (27 vs median 110 chars)
+- LUK 17:36 — verse much shorter than other versions (1 vs median 67 chars)
+- LUK 20:30 — verse much shorter than other versions (12 vs median 53 chars)
+- LUK 23:17 — verse much shorter than other versions (1 vs median 64 chars)
+- ACT 8:37 — verse much shorter than other versions (1 vs median 123 chars)
+- ACT 15:18 — verse much shorter than other versions (31 vs median 64 chars)
+- ACT 15:34 — verse much shorter than other versions (1 vs median 36 chars)
+- ACT 24:2 — verse much shorter than other versions (54 vs median 180 chars)
+- ACT 24:7 — verse much shorter than other versions (1 vs median 85 chars)
+- ACT 28:29 — verse much shorter than other versions (1 vs median 79 chars)
+- ROM 16:24 — verse much shorter than other versions (1 vs median 64 chars)
+- 2CO 2:11 — verse much shorter than other versions (38 vs median 84 chars)
+- 2CO 2:13 — verse much shorter than other versions (54 vs median 132 chars)
+- 2CO 13:13 — verse much shorter than other versions (27 vs median 58 chars)
+
+## low (2898)
+- GEN 1:14 — missing terminal punctuation
+- GEN 1:17 — missing terminal punctuation
+- GEN 2:4 — missing terminal punctuation
+- GEN 2:5 — missing terminal punctuation
+- GEN 2:16 — missing terminal punctuation
+- GEN 2:21 — missing terminal punctuation
+- GEN 3:2 — missing terminal punctuation
+- GEN 3:4 — missing terminal punctuation
+- GEN 3:17 — missing terminal punctuation
+- GEN 3:18 — missing terminal punctuation
+- GEN 4:4 — missing terminal punctuation
+- GEN 5:1 — missing terminal punctuation
+- GEN 6:1 — missing terminal punctuation
+- GEN 7:8 — missing terminal punctuation
+- GEN 7:11 — missing terminal punctuation
+- GEN 7:13 — missing terminal punctuation
+- GEN 7:16 — missing terminal punctuation
+- GEN 8:6 — missing terminal punctuation
+- GEN 8:8 — missing terminal punctuation
+- GEN 9:9 — missing terminal punctuation
+- GEN 9:20 — missing terminal punctuation
+- GEN 9:24 — missing terminal punctuation
+- GEN 10:11 — missing terminal punctuation
+- GEN 10:13 — missing terminal punctuation
+- GEN 10:15 — missing terminal punctuation
+- GEN 10:16 — missing terminal punctuation
+- GEN 10:17 — missing terminal punctuation
+- GEN 10:26 — missing terminal punctuation
+- GEN 10:27 — missing terminal punctuation
+- GEN 10:28 — missing terminal punctuation
+- GEN 12:1 — missing terminal punctuation
+- GEN 12:11 — missing terminal punctuation
+- GEN 13:3 — missing terminal punctuation
+- GEN 13:14 — missing terminal punctuation
+- GEN 14:1 — missing terminal punctuation
+- GEN 14:8 — missing terminal punctuation
+- GEN 14:18 — missing terminal punctuation
+- GEN 14:19 — missing terminal punctuation
+- GEN 14:22 — missing terminal punctuation
+- GEN 15:18 — missing terminal punctuation
+- GEN 15:19 — missing terminal punctuation
+- GEN 15:20 — missing terminal punctuation
+- GEN 18:2 — missing terminal punctuation
+- GEN 18:4 — missing terminal punctuation
+- GEN 18:17 — missing terminal punctuation
+- GEN 18:20 — missing terminal punctuation
+- GEN 19:1 — missing terminal punctuation
+- GEN 19:4 — missing terminal punctuation
+- GEN 19:6 — missing terminal punctuation
+- GEN 19:18 — missing terminal punctuation
+- GEN 19:24 — missing terminal punctuation
+- GEN 21:15 — missing terminal punctuation
+- GEN 22:12 — missing terminal punctuation
+- GEN 22:15 — missing terminal punctuation
+- GEN 23:7 — missing terminal punctuation
+- GEN 23:8 — missing terminal punctuation
+- GEN 23:17 — missing terminal punctuation
+- GEN 24:2 — missing terminal punctuation
+- GEN 24:3 — missing terminal punctuation
+- GEN 24:22 — missing terminal punctuation
+- GEN 24:29 — missing terminal punctuation
+- GEN 24:34 — missing terminal punctuation
+- GEN 24:37 — missing terminal punctuation
+- GEN 24:40 — missing terminal punctuation
+- GEN 24:42 — missing terminal punctuation
+- GEN 24:43 — missing terminal punctuation
+- GEN 24:47 — missing terminal punctuation
+- GEN 24:62 — missing terminal punctuation
+- GEN 24:64 — missing terminal punctuation
+- GEN 25:1 — missing terminal punctuation
+- GEN 25:9 — missing terminal punctuation
+- GEN 25:13 — missing terminal punctuation
+- GEN 25:14 — missing terminal punctuation
+- GEN 25:29 — missing terminal punctuation
+- GEN 26:2 — missing terminal punctuation
+- GEN 27:3 — missing terminal punctuation
+- GEN 27:8 — missing terminal punctuation
+- GEN 27:9 — missing terminal punctuation
+- GEN 27:16 — missing terminal punctuation
+- GEN 27:27 — missing terminal punctuation
+- GEN 27:39 — missing terminal punctuation
+- GEN 27:44 — missing terminal punctuation
+- GEN 28:3 — missing terminal punctuation
+- GEN 28:6 — missing terminal punctuation
+- GEN 28:8 — missing terminal punctuation
+- GEN 28:10 — missing terminal punctuation
+- GEN 28:20 — missing terminal punctuation
+- GEN 28:21 — missing terminal punctuation
+- GEN 30:23 — missing terminal punctuation
+- GEN 30:29 — missing terminal punctuation
+- GEN 30:35 — missing terminal punctuation
+- GEN 31:4 — missing terminal punctuation
+- GEN 32:4 — missing terminal punctuation
+- GEN 32:7 — missing terminal punctuation
+- GEN 32:14 — missing terminal punctuation
+- GEN 34:15 — missing terminal punctuation
+- GEN 34:28 — missing terminal punctuation
+- GEN 35:6 — missing terminal punctuation
+- GEN 36:2 — missing terminal punctuation
+- GEN 36:15 — missing terminal punctuation
+- GEN 36:20 — missing terminal punctuation
+- GEN 36:40 — missing terminal punctuation
+- GEN 36:41 — missing terminal punctuation
+- GEN 36:42 — missing terminal punctuation
+- GEN 37:19 — missing terminal punctuation
+- GEN 37:23 — missing terminal punctuation
+- GEN 37:31 — missing terminal punctuation
+- GEN 39:13 — missing terminal punctuation
+- GEN 39:14 — missing terminal punctuation
+- GEN 39:17 — missing terminal punctuation
+- GEN 40:9 — missing terminal punctuation
+- GEN 40:16 — missing terminal punctuation
+- GEN 40:18 — missing terminal punctuation
+- GEN 41:1 — missing terminal punctuation
+- GEN 41:3 — missing terminal punctuation
+- GEN 41:22 — missing terminal punctuation
+- GEN 41:30 — missing terminal punctuation
+- GEN 41:34 — missing terminal punctuation
+- GEN 41:42 — missing terminal punctuation
+- GEN 42:14 — missing terminal punctuation
+- GEN 42:18 — missing terminal punctuation
+- GEN 42:19 — missing terminal punctuation
+- GEN 42:33 — missing terminal punctuation
+- GEN 44:27 — missing terminal punctuation
+- GEN 44:28 — missing terminal punctuation
+- GEN 44:30 — missing terminal punctuation
+- GEN 44:32 — missing terminal punctuation
+- GEN 45:17 — missing terminal punctuation
+- GEN 46:6 — missing terminal punctuation
+- GEN 46:31 — missing terminal punctuation
+- GEN 47:5 — missing terminal punctuation
+- GEN 47:29 — missing terminal punctuation
+- GEN 48:2 — missing terminal punctuation
+- GEN 48:3 — missing terminal punctuation
+- GEN 48:15 — missing terminal punctuation
+- GEN 49:22 — missing terminal punctuation
+- GEN 49:23 — missing terminal punctuation
+- GEN 49:29 — missing terminal punctuation
+- EXO 1:2 — missing terminal punctuation
+- EXO 1:3 — missing terminal punctuation
+- EXO 1:9 — missing terminal punctuation
+- EXO 2:8 — missing terminal punctuation
+- EXO 3:7 — missing terminal punctuation
+- EXO 3:16 — missing terminal punctuation
+- EXO 5:7 — missing terminal punctuation
+- EXO 5:20 — missing terminal punctuation
+- EXO 6:2 — missing terminal punctuation
+- EXO 6:6 — missing terminal punctuation
+- EXO 6:28 — missing terminal punctuation
+- EXO 7:11 — missing terminal punctuation
+- EXO 7:15 — missing terminal punctuation
+- EXO 8:2 — missing terminal punctuation
+- EXO 8:3 — missing terminal punctuation
+- EXO 8:10 — missing terminal punctuation
+- EXO 9:1 — missing terminal punctuation
+- EXO 9:2 — missing terminal punctuation
+- EXO 10:13 — missing terminal punctuation
+- EXO 10:14 — missing terminal punctuation
+- EXO 11:4 — missing terminal punctuation
+- EXO 12:43 — missing terminal punctuation
+- EXO 13:11 — missing terminal punctuation
+- EXO 13:14 — missing terminal punctuation
+- EXO 14:17 — missing terminal punctuation
+- EXO 14:22 — missing terminal punctuation
+- EXO 15:25 — missing terminal punctuation
+- EXO 16:2 — missing terminal punctuation
+- EXO 17:15 — missing terminal punctuation
+- EXO 18:2 — missing terminal punctuation
+- EXO 18:3 — missing terminal punctuation
+- EXO 18:5 — missing terminal punctuation
+- EXO 19:10 — missing terminal punctuation
+- EXO 20:5 — missing terminal punctuation
+- EXO 20:9 — missing terminal punctuation
+- EXO 21:18 — missing terminal punctuation
+- EXO 21:23 — missing terminal punctuation
+- EXO 21:24 — missing terminal punctuation
+- EXO 21:33 — missing terminal punctuation
+- EXO 22:10 — missing terminal punctuation
+- EXO 22:23 — missing terminal punctuation
+- EXO 24:9 — missing terminal punctuation
+- EXO 25:3 — missing terminal punctuation
+- EXO 25:4 — missing terminal punctuation
+- EXO 25:5 — missing terminal punctuation
+- EXO 25:6 — missing terminal punctuation
+- EXO 26:20 — missing terminal punctuation
+- EXO 26:23 — missing terminal punctuation
+- EXO 26:26 — missing terminal punctuation
+- EXO 27:9 — missing terminal punctuation
+- EXO 28:13 — missing terminal punctuation
+- EXO 28:17 — missing terminal punctuation
+- EXO 28:18 — missing terminal punctuation
+- EXO 28:19 — missing terminal punctuation
+- EXO 29:1 — missing terminal punctuation
+- EXO 29:5 — missing terminal punctuation
+- EXO 29:23 — missing terminal punctuation
+- EXO 30:20 — missing terminal punctuation
+- EXO 30:23 — missing terminal punctuation
+- EXO 30:26 — missing terminal punctuation
+- EXO 30:27 — missing terminal punctuation
+- EXO 31:2 — missing terminal punctuation
+- EXO 31:3 — missing terminal punctuation
+- EXO 31:4 — missing terminal punctuation
+- EXO 31:7 — missing terminal punctuation
+- EXO 31:8 — missing terminal punctuation
+- EXO 31:9 — missing terminal punctuation
+- EXO 31:10 — missing terminal punctuation
+- EXO 32:25 — missing terminal punctuation
+- EXO 32:31 — missing terminal punctuation
+- EXO 34:6 — missing terminal punctuation
+- EXO 34:8 — missing terminal punctuation
+- EXO 34:15 — missing terminal punctuation
+- EXO 34:34 — missing terminal punctuation
+- EXO 35:5 — missing terminal punctuation
+- EXO 35:6 — missing terminal punctuation
+- EXO 35:7 — missing terminal punctuation
+- EXO 35:8 — missing terminal punctuation
+- EXO 35:11 — missing terminal punctuation
+- EXO 35:12 — missing terminal punctuation
+- EXO 35:14 — missing terminal punctuation
+- EXO 35:15 — missing terminal punctuation
+- EXO 35:16 — missing terminal punctuation
+- EXO 35:17 — missing terminal punctuation
+- EXO 35:18 — missing terminal punctuation
+- EXO 35:27 — missing terminal punctuation
+- EXO 35:30 — missing terminal punctuation
+- EXO 35:31 — missing terminal punctuation
+- EXO 35:32 — missing terminal punctuation
+- EXO 36:2 — missing terminal punctuation
+- EXO 36:6 — missing terminal punctuation
+- EXO 36:25 — missing terminal punctuation
+- EXO 36:28 — missing terminal punctuation
+- EXO 36:31 — missing terminal punctuation
+- EXO 36:37 — missing terminal punctuation
+- EXO 37:10 — missing terminal punctuation
+- EXO 37:23 — missing terminal punctuation
+- EXO 38:14 — missing terminal punctuation
+- EXO 38:29 — missing terminal punctuation
+- EXO 39:27 — missing terminal punctuation
+- EXO 39:28 — missing terminal punctuation
+- EXO 39:33 — missing terminal punctuation
+- EXO 39:34 — missing terminal punctuation
+- EXO 39:35 — missing terminal punctuation
+- EXO 39:36 — missing terminal punctuation
+- EXO 39:37 — missing terminal punctuation
+- EXO 39:38 — missing terminal punctuation
+- EXO 39:39 — missing terminal punctuation
+- EXO 39:40 — missing terminal punctuation
+- LEV 1:12 — missing terminal punctuation
+- LEV 2:5 — missing terminal punctuation
+- LEV 3:3 — missing terminal punctuation
+- LEV 3:14 — missing terminal punctuation
+- LEV 4:2 — missing terminal punctuation
+- LEV 4:5 — missing terminal punctuation
+- LEV 4:8 — missing terminal punctuation
+- LEV 4:9 — missing terminal punctuation
+- LEV 4:11 — missing terminal punctuation
+- LEV 4:13 — missing terminal punctuation
+- LEV 4:22 — missing terminal punctuation
+- LEV 4:27 — missing terminal punctuation
+- LEV 5:15 — missing terminal punctuation
+- LEV 6:2 — missing terminal punctuation
+- LEV 6:4 — missing terminal punctuation
+- LEV 7:29 — missing terminal punctuation
+- LEV 7:30 — missing terminal punctuation
+- LEV 7:33 — missing terminal punctuation
+- LEV 8:2 — missing terminal punctuation
+- LEV 8:24 — missing terminal punctuation
+- LEV 8:25 — missing terminal punctuation
+- LEV 8:26 — missing terminal punctuation
+- LEV 9:1 — missing terminal punctuation
+- LEV 9:3 — missing terminal punctuation
+- LEV 9:9 — missing terminal punctuation
+- LEV 9:18 — missing terminal punctuation
+- LEV 10:9 — missing terminal punctuation
+- LEV 10:10 — missing terminal punctuation
+- LEV 11:4 — missing terminal punctuation
+- LEV 11:5 — missing terminal punctuation
+- LEV 11:6 — missing terminal punctuation
+- LEV 11:9 — missing terminal punctuation
+- LEV 11:13 — missing terminal punctuation
+- LEV 11:14 — missing terminal punctuation
+- LEV 11:15 — missing terminal punctuation
+- LEV 11:16 — missing terminal punctuation
+- LEV 11:17 — missing terminal punctuation
+- LEV 11:18 — missing terminal punctuation
+- LEV 11:21 — missing terminal punctuation
+- LEV 11:29 — missing terminal punctuation
+- LEV 11:46 — missing terminal punctuation
+- LEV 13:4 — missing terminal punctuation
+- LEV 13:9 — missing terminal punctuation
+- LEV 13:10 — missing terminal punctuation
+- LEV 13:12 — missing terminal punctuation
+- LEV 13:16 — missing terminal punctuation
+- LEV 13:18 — missing terminal punctuation
+- LEV 13:24 — missing terminal punctuation
+- LEV 13:26 — missing terminal punctuation
+- LEV 13:29 — missing terminal punctuation
+- LEV 13:32 — missing terminal punctuation
+- LEV 13:35 — missing terminal punctuation
+- LEV 13:38 — missing terminal punctuation
+- LEV 13:43 — missing terminal punctuation
+- LEV 13:47 — missing terminal punctuation
+- LEV 13:48 — missing terminal punctuation
+- LEV 13:53 — missing terminal punctuation
+- LEV 14:3 — missing terminal punctuation
+- LEV 14:4 — missing terminal punctuation
+- LEV 14:5 — missing terminal punctuation
+- LEV 14:21 — missing terminal punctuation
+- LEV 14:22 — missing terminal punctuation
+- LEV 14:24 — missing terminal punctuation
+- LEV 14:26 — missing terminal punctuation
+- LEV 14:34 — missing terminal punctuation
+- LEV 14:37 — missing terminal punctuation
+- LEV 14:39 — missing terminal punctuation
+- LEV 14:43 — missing terminal punctuation
+- LEV 14:54 — missing terminal punctuation
+- LEV 14:55 — missing terminal punctuation
+- LEV 15:32 — missing terminal punctuation
+- LEV 16:1 — missing terminal punctuation
+- LEV 17:3 — missing terminal punctuation
+- LEV 17:8 — missing terminal punctuation
+- LEV 21:18 — missing terminal punctuation
+- LEV 21:19 — missing terminal punctuation
+- LEV 21:20 — missing terminal punctuation
+- LEV 22:4 — missing terminal punctuation
+- LEV 22:5 — missing terminal punctuation
+- LEV 22:32 — missing terminal punctuation
+- LEV 23:10 — missing terminal punctuation
+- LEV 23:42 — missing terminal punctuation
+- LEV 25:3 — missing terminal punctuation
+- LEV 25:18 — missing terminal punctuation
+- LEV 25:26 — missing terminal punctuation
+- LEV 25:47 — missing terminal punctuation
+- LEV 25:48 — missing terminal punctuation
+- LEV 26:3 — missing terminal punctuation
+- LEV 26:4 — missing terminal punctuation
+- LEV 26:14 — missing terminal punctuation
+- LEV 26:15 — missing terminal punctuation
+- LEV 26:23 — missing terminal punctuation
+- LEV 26:27 — missing terminal punctuation
+- LEV 26:40 — missing terminal punctuation
+- LEV 26:41 — missing terminal punctuation
+- LEV 27:20 — missing terminal punctuation
+- LEV 27:22 — missing terminal punctuation
+- NUM 1:18 — missing terminal punctuation
+- NUM 1:20 — missing terminal punctuation
+- NUM 1:22 — missing terminal punctuation
+- NUM 1:24 — missing terminal punctuation
+- NUM 1:26 — missing terminal punctuation
+- NUM 1:28 — missing terminal punctuation
+- NUM 1:30 — missing terminal punctuation
+- NUM 1:32 — missing terminal punctuation
+- NUM 1:34 — missing terminal punctuation
+- NUM 1:36 — missing terminal punctuation
+- NUM 1:38 — missing terminal punctuation
+- NUM 1:42 — missing terminal punctuation
+- NUM 1:45 — missing terminal punctuation
+- NUM 1:52 — missing terminal punctuation
+- NUM 2:5 — missing terminal punctuation
+- NUM 2:7 — missing terminal punctuation
+- NUM 2:10 — missing terminal punctuation
+- NUM 2:12 — missing terminal punctuation
+- NUM 2:14 — missing terminal punctuation
+- NUM 2:18 — missing terminal punctuation
+- NUM 2:20 — missing terminal punctuation
+- NUM 2:22 — missing terminal punctuation
+- NUM 2:25 — missing terminal punctuation
+- NUM 2:27 — missing terminal punctuation
+- NUM 2:29 — missing terminal punctuation
+- NUM 3:6 — missing terminal punctuation
+- NUM 3:7 — missing terminal punctuation
+- NUM 3:23 — missing terminal punctuation
+- NUM 3:25 — missing terminal punctuation
+- NUM 3:29 — missing terminal punctuation
+- NUM 3:46 — missing terminal punctuation
+- NUM 4:2 — missing terminal punctuation
+- NUM 4:9 — missing terminal punctuation
+- NUM 4:18 — missing terminal punctuation
+- NUM 4:25 — missing terminal punctuation
+- NUM 4:31 — missing terminal punctuation
+- NUM 4:34 — missing terminal punctuation
+- NUM 4:38 — missing terminal punctuation
+- NUM 4:39 — missing terminal punctuation
+- NUM 4:42 — missing terminal punctuation
+- NUM 4:43 — missing terminal punctuation
+- NUM 4:46 — missing terminal punctuation
+- NUM 4:47 — missing terminal punctuation
+- NUM 4:48 — missing terminal punctuation
+- NUM 5:6 — missing terminal punctuation
+- NUM 5:12 — missing terminal punctuation
+- NUM 5:13 — missing terminal punctuation
+- NUM 5:14 — missing terminal punctuation
+- NUM 5:21 — missing terminal punctuation
+- NUM 5:29 — missing terminal punctuation
+- NUM 6:2 — missing terminal punctuation
+- NUM 6:10 — missing terminal punctuation
+- NUM 6:13 — missing terminal punctuation
+- NUM 7:1 — missing terminal punctuation
+- NUM 7:2 — missing terminal punctuation
+- NUM 7:7 — missing terminal punctuation
+- NUM 7:13 — missing terminal punctuation
+- NUM 7:14 — missing terminal punctuation
+- NUM 7:15 — missing terminal punctuation
+- NUM 7:16 — missing terminal punctuation
+- NUM 7:19 — missing terminal punctuation
+- NUM 7:20 — missing terminal punctuation
+- NUM 7:21 — missing terminal punctuation
+- NUM 7:22 — missing terminal punctuation
+- NUM 7:25 — missing terminal punctuation
+- NUM 7:26 — missing terminal punctuation
+- NUM 7:27 — missing terminal punctuation
+- NUM 7:28 — missing terminal punctuation
+- NUM 7:31 — missing terminal punctuation
+- NUM 7:32 — missing terminal punctuation
+- NUM 7:33 — missing terminal punctuation
+- NUM 7:34 — missing terminal punctuation
+- NUM 7:37 — missing terminal punctuation
+- NUM 7:38 — missing terminal punctuation
+- NUM 7:39 — missing terminal punctuation
+- NUM 7:40 — missing terminal punctuation
+- NUM 7:43 — missing terminal punctuation
+- NUM 7:44 — missing terminal punctuation
+- NUM 7:45 — missing terminal punctuation
+- NUM 7:46 — missing terminal punctuation
+- NUM 7:49 — missing terminal punctuation
+- NUM 7:50 — missing terminal punctuation
+- NUM 7:51 — missing terminal punctuation
+- NUM 7:52 — missing terminal punctuation
+- NUM 7:55 — missing terminal punctuation
+- NUM 7:56 — missing terminal punctuation
+- NUM 7:57 — missing terminal punctuation
+- NUM 7:58 — missing terminal punctuation
+- NUM 7:61 — missing terminal punctuation
+- NUM 7:62 — missing terminal punctuation
+- NUM 7:63 — missing terminal punctuation
+- NUM 7:64 — missing terminal punctuation
+- NUM 7:67 — missing terminal punctuation
+- NUM 7:68 — missing terminal punctuation
+- NUM 7:69 — missing terminal punctuation
+- NUM 7:70 — missing terminal punctuation
+- NUM 7:73 — missing terminal punctuation
+- NUM 7:74 — missing terminal punctuation
+- NUM 7:75 — missing terminal punctuation
+- NUM 7:76 — missing terminal punctuation
+- NUM 7:79 — missing terminal punctuation
+- NUM 7:80 — missing terminal punctuation
+- NUM 7:81 — missing terminal punctuation
+- NUM 7:82 — missing terminal punctuation
+- NUM 8:9 — missing terminal punctuation
+- NUM 8:10 — missing terminal punctuation
+- NUM 8:14 — missing terminal punctuation
+- NUM 9:6 — missing terminal punctuation
+- NUM 9:11 — missing terminal punctuation
+- NUM 11:19 — missing terminal punctuation
+- NUM 12:3 — missing terminal punctuation
+- NUM 13:18 — missing terminal punctuation
+- NUM 13:19 — missing terminal punctuation
+- NUM 14:6 — missing terminal punctuation
+- NUM 14:21 — missing terminal punctuation
+- NUM 14:22 — missing terminal punctuation
+- NUM 14:29 — missing terminal punctuation
+- NUM 14:36 — missing terminal punctuation
+- NUM 15:2 — missing terminal punctuation
+- NUM 15:3 — missing terminal punctuation
+- NUM 15:4 — missing terminal punctuation
+- NUM 15:8 — missing terminal punctuation
+- NUM 15:18 — missing terminal punctuation
+- NUM 15:22 — missing terminal punctuation
+- NUM 15:23 — missing terminal punctuation
+- NUM 16:1 — missing terminal punctuation
+- NUM 16:2 — missing terminal punctuation
+- NUM 16:4 — missing terminal punctuation
+- NUM 16:39 — missing terminal punctuation
+- NUM 19:4 — missing terminal punctuation
+- NUM 20:15 — missing terminal punctuation
+- NUM 20:25 — missing terminal punctuation
+- NUM 24:1 — missing terminal punctuation
+- NUM 25:12 — missing terminal punctuation
+- NUM 26:5 — missing terminal punctuation
+- NUM 26:12 — missing terminal punctuation
+- NUM 26:15 — missing terminal punctuation
+- NUM 26:16 — missing terminal punctuation
+- NUM 26:23 — missing terminal punctuation
+- NUM 26:30 — missing terminal punctuation
+- NUM 26:31 — missing terminal punctuation
+- NUM 26:38 — missing terminal punctuation
+- NUM 26:48 — missing terminal punctuation
+- NUM 27:1 — missing terminal punctuation
+- NUM 27:18 — missing terminal punctuation
+- NUM 28:11 — missing terminal punctuation
+- NUM 28:12 — missing terminal punctuation
+- NUM 28:20 — missing terminal punctuation
+- NUM 28:21 — missing terminal punctuation
+- NUM 28:28 — missing terminal punctuation
+- NUM 28:29 — missing terminal punctuation
+- NUM 29:2 — missing terminal punctuation
+- NUM 29:3 — missing terminal punctuation
+- NUM 29:4 — missing terminal punctuation
+- NUM 29:9 — missing terminal punctuation
+- NUM 29:10 — missing terminal punctuation
+- NUM 29:12 — missing terminal punctuation
+- NUM 29:13 — missing terminal punctuation
+- NUM 29:14 — missing terminal punctuation
+- NUM 29:15 — missing terminal punctuation
+- NUM 29:17 — missing terminal punctuation
+- NUM 29:18 — missing terminal punctuation
+- NUM 29:20 — missing terminal punctuation
+- NUM 29:21 — missing terminal punctuation
+- NUM 29:23 — missing terminal punctuation
+- NUM 29:24 — missing terminal punctuation
+- NUM 29:26 — missing terminal punctuation
+- NUM 29:27 — missing terminal punctuation
+- NUM 29:29 — missing terminal punctuation
+- NUM 29:30 — missing terminal punctuation
+- NUM 29:32 — missing terminal punctuation
+- NUM 29:33 — missing terminal punctuation
+- NUM 29:36 — missing terminal punctuation
+- NUM 29:37 — missing terminal punctuation
+- NUM 30:3 — missing terminal punctuation
+- NUM 30:6 — missing terminal punctuation
+- NUM 30:10 — missing terminal punctuation
+- NUM 31:14 — missing terminal punctuation
+- NUM 31:22 — missing terminal punctuation
+- NUM 31:32 — missing terminal punctuation
+- NUM 31:33 — missing terminal punctuation
+- NUM 31:34 — missing terminal punctuation
+- NUM 31:42 — missing terminal punctuation
+- NUM 31:43 — missing terminal punctuation
+- NUM 31:44 — missing terminal punctuation
+- NUM 31:45 — missing terminal punctuation
+- NUM 31:48 — missing terminal punctuation
+- NUM 32:3 — missing terminal punctuation
+- NUM 32:16 — missing terminal punctuation
+- NUM 32:20 — missing terminal punctuation
+- NUM 32:21 — missing terminal punctuation
+- NUM 32:26 — missing terminal punctuation
+- NUM 32:34 — missing terminal punctuation
+- NUM 32:35 — missing terminal punctuation
+- NUM 32:37 — missing terminal punctuation
+- NUM 33:22 — missing terminal punctuation
+- NUM 33:51 — missing terminal punctuation
+- NUM 33:52 — missing terminal punctuation
+- NUM 34:2 — missing terminal punctuation
+- NUM 34:4 — missing terminal punctuation
+- NUM 34:7 — missing terminal punctuation
+- NUM 34:8 — missing terminal punctuation
+- NUM 34:10 — missing terminal punctuation
+- NUM 34:11 — missing terminal punctuation
+- NUM 35:10 — missing terminal punctuation
+- NUM 35:20 — missing terminal punctuation
+- NUM 35:22 — missing terminal punctuation
+- NUM 35:23 — missing terminal punctuation
+- NUM 35:26 — missing terminal punctuation
+- NUM 36:1 — missing terminal punctuation
+- NUM 36:2 — missing terminal punctuation
+- NUM 36:6 — missing terminal punctuation
+- DEU 1:3 — missing terminal punctuation
+- DEU 1:6 — missing terminal punctuation
+- DEU 1:26 — missing terminal punctuation
+- DEU 1:30 — missing terminal punctuation
+- DEU 1:32 — missing terminal punctuation
+- DEU 1:35 — missing terminal punctuation
+- DEU 2:16 — missing terminal punctuation
+- DEU 2:18 — missing terminal punctuation
+- DEU 2:20 — missing terminal punctuation
+- DEU 2:28 — missing terminal punctuation
+- DEU 3:19 — missing terminal punctuation
+- DEU 4:9 — missing terminal punctuation
+- DEU 4:10 — missing terminal punctuation
+- DEU 4:16 — missing terminal punctuation
+- DEU 4:17 — missing terminal punctuation
+- DEU 4:25 — missing terminal punctuation
+- DEU 4:30 — missing terminal punctuation
+- DEU 4:37 — missing terminal punctuation
+- DEU 4:41 — missing terminal punctuation
+- DEU 4:45 — missing terminal punctuation
+- DEU 4:48 — missing terminal punctuation
+- DEU 5:4 — missing terminal punctuation
+- DEU 5:9 — missing terminal punctuation
+- DEU 5:14 — missing terminal punctuation
+- DEU 5:23 — missing terminal punctuation
+- DEU 5:32 — missing terminal punctuation
+- DEU 6:10 — missing terminal punctuation
+- DEU 6:11 — missing terminal punctuation
+- DEU 6:18 — missing terminal punctuation
+- DEU 6:21 — missing terminal punctuation
+- DEU 6:22 — missing terminal punctuation
+- DEU 6:23 — missing terminal punctuation
+- DEU 7:1 — missing terminal punctuation
+- DEU 7:9 — missing terminal punctuation
+- DEU 7:12 — missing terminal punctuation
+- DEU 7:17 — missing terminal punctuation
+- DEU 7:18 — missing terminal punctuation
+- DEU 7:25 — missing terminal punctuation
+- DEU 8:7 — missing terminal punctuation
+- DEU 8:8 — missing terminal punctuation
+- DEU 8:12 — missing terminal punctuation
+- DEU 8:13 — missing terminal punctuation
+- DEU 8:14 — missing terminal punctuation
+- DEU 8:15 — missing terminal punctuation
+- DEU 8:16 — missing terminal punctuation
+- DEU 9:1 — missing terminal punctuation
+- DEU 10:12 — missing terminal punctuation
+- DEU 10:17 — missing terminal punctuation
+- DEU 11:2 — missing terminal punctuation
+- DEU 11:3 — missing terminal punctuation
+- DEU 11:4 — missing terminal punctuation
+- DEU 11:5 — missing terminal punctuation
+- DEU 11:8 — missing terminal punctuation
+- DEU 11:11 — missing terminal punctuation
+- DEU 11:13 — missing terminal punctuation
+- DEU 11:16 — missing terminal punctuation
+- DEU 11:22 — missing terminal punctuation
+- DEU 11:27 — missing terminal punctuation
+- DEU 12:8 — missing terminal punctuation
+- DEU 12:11 — missing terminal punctuation
+- DEU 12:13 — missing terminal punctuation
+- DEU 12:29 — missing terminal punctuation
+- DEU 13:1 — missing terminal punctuation
+- DEU 13:2 — missing terminal punctuation
+- DEU 13:6 — missing terminal punctuation
+- DEU 13:7 — missing terminal punctuation
+- DEU 13:13 — missing terminal punctuation
+- DEU 13:14 — missing terminal punctuation
+- DEU 13:17 — missing terminal punctuation
+- DEU 14:1 — missing terminal punctuation
+- DEU 14:4 — missing terminal punctuation
+- DEU 14:7 — missing terminal punctuation
+- DEU 14:9 — missing terminal punctuation
+- DEU 14:12 — missing terminal punctuation
+- DEU 14:13 — missing terminal punctuation
+- DEU 14:14 — missing terminal punctuation
+- DEU 14:15 — missing terminal punctuation
+- DEU 14:16 — missing terminal punctuation
+- DEU 14:17 — missing terminal punctuation
+- DEU 14:24 — missing terminal punctuation
+- DEU 14:25 — missing terminal punctuation
+- DEU 15:3 — missing terminal punctuation
+- DEU 15:4 — missing terminal punctuation
+- DEU 15:16 — missing terminal punctuation
+- DEU 16:5 — missing terminal punctuation
+- DEU 17:2 — missing terminal punctuation
+- DEU 17:3 — missing terminal punctuation
+- DEU 17:4 — missing terminal punctuation
+- DEU 17:8 — missing terminal punctuation
+- DEU 17:14 — missing terminal punctuation
+- DEU 17:18 — missing terminal punctuation
+- DEU 18:6 — missing terminal punctuation
+- DEU 18:10 — missing terminal punctuation
+- DEU 19:1 — missing terminal punctuation
+- DEU 19:5 — missing terminal punctuation
+- DEU 19:8 — missing terminal punctuation
+- DEU 19:9 — missing terminal punctuation
+- DEU 19:11 — missing terminal punctuation
+- DEU 19:16 — missing terminal punctuation
+- DEU 19:18 — missing terminal punctuation
+- DEU 20:2 — missing terminal punctuation
+- DEU 20:3 — missing terminal punctuation
+- DEU 20:12 — missing terminal punctuation
+- DEU 20:16 — missing terminal punctuation
+- DEU 21:1 — missing terminal punctuation
+- DEU 21:3 — missing terminal punctuation
+- DEU 21:10 — missing terminal punctuation
+- DEU 21:11 — missing terminal punctuation
+- DEU 21:12 — missing terminal punctuation
+- DEU 21:15 — missing terminal punctuation
+- DEU 21:16 — missing terminal punctuation
+- DEU 21:18 — missing terminal punctuation
+- DEU 21:19 — missing terminal punctuation
+- DEU 21:22 — missing terminal punctuation
+- DEU 22:13 — missing terminal punctuation
+- DEU 22:14 — missing terminal punctuation
+- DEU 22:16 — missing terminal punctuation
+- DEU 22:18 — missing terminal punctuation
+- DEU 22:20 — missing terminal punctuation
+- DEU 22:23 — missing terminal punctuation
+- DEU 22:25 — missing terminal punctuation
+- DEU 22:28 — missing terminal punctuation
+- DEU 23:12 — missing terminal punctuation
+- DEU 24:3 — missing terminal punctuation
+- DEU 25:1 — missing terminal punctuation
+- DEU 25:8 — missing terminal punctuation
+- DEU 25:11 — missing terminal punctuation
+- DEU 26:1 — missing terminal punctuation
+- DEU 26:18 — missing terminal punctuation
+- DEU 27:6 — missing terminal punctuation
+- DEU 28:1 — missing terminal punctuation
+- DEU 28:47 — missing terminal punctuation
+- DEU 28:49 — missing terminal punctuation
+- DEU 28:54 — missing terminal punctuation
+- DEU 28:56 — missing terminal punctuation
+- DEU 28:58 — missing terminal punctuation
+- DEU 28:59 — missing terminal punctuation
+- DEU 29:7 — missing terminal punctuation
+- DEU 29:10 — missing terminal punctuation
+- DEU 29:14 — missing terminal punctuation
+- DEU 29:16 — missing terminal punctuation
+- DEU 29:18 — missing terminal punctuation
+- DEU 29:22 — missing terminal punctuation
+- DEU 29:25 — missing terminal punctuation
+- DEU 29:27 — missing terminal punctuation
+- DEU 30:1 — missing terminal punctuation
+- DEU 30:2 — missing terminal punctuation
+- DEU 30:9 — missing terminal punctuation
+- DEU 30:17 — missing terminal punctuation
+- DEU 31:1 — missing terminal punctuation
+- DEU 31:10 — missing terminal punctuation
+- DEU 31:24 — missing terminal punctuation
+- DEU 32:13 — missing terminal punctuation
+- DEU 32:26 — missing terminal punctuation
+- DEU 32:37 — missing terminal punctuation
+- DEU 32:40 — missing terminal punctuation
+- DEU 32:45 — missing terminal punctuation
+- DEU 32:49 — missing terminal punctuation
+- DEU 33:8 — missing terminal punctuation
+- DEU 33:13 — missing terminal punctuation
+- DEU 33:14 — missing terminal punctuation
+- DEU 33:15 — missing terminal punctuation
+- DEU 33:23 — missing terminal punctuation
+- DEU 34:1 — missing terminal punctuation
+- DEU 34:2 — missing terminal punctuation
+- DEU 34:10 — missing terminal punctuation
+- DEU 34:11 — missing terminal punctuation
+- JOS 1:14 — missing terminal punctuation
+- JOS 2:9 — missing terminal punctuation
+- JOS 2:12 — missing terminal punctuation
+- JOS 3:2 — missing terminal punctuation
+- JOS 3:14 — missing terminal punctuation
+- JOS 4:2 — missing terminal punctuation
+- JOS 4:4 — missing terminal punctuation
+- JOS 4:5 — missing terminal punctuation
+- JOS 6:13 — missing terminal punctuation
+- JOS 7:14 — missing terminal punctuation
+- JOS 7:16 — missing terminal punctuation
+- JOS 7:17 — missing terminal punctuation
+- JOS 7:24 — missing terminal punctuation
+- JOS 7:25 — missing terminal punctuation
+- JOS 8:30 — missing terminal punctuation
+- JOS 9:1 — missing terminal punctuation
+- JOS 9:3 — missing terminal punctuation
+- JOS 9:4 — missing terminal punctuation
+- JOS 9:9 — missing terminal punctuation
+- JOS 10:1 — missing terminal punctuation
+- JOS 10:18 — missing terminal punctuation
+- JOS 10:36 — missing terminal punctuation
+- JOS 10:38 — missing terminal punctuation
+- JOS 11:1 — missing terminal punctuation
+- JOS 11:2 — missing terminal punctuation
+- JOS 12:2 — missing terminal punctuation
+- JOS 12:4 — missing terminal punctuation
+- JOS 12:7 — missing terminal punctuation
+- JOS 13:2 — missing terminal punctuation
+- JOS 13:3 — missing terminal punctuation
+- JOS 13:4 — missing terminal punctuation
+- JOS 13:5 — missing terminal punctuation
+- JOS 13:9 — missing terminal punctuation
+- JOS 13:10 — missing terminal punctuation
+- JOS 13:16 — missing terminal punctuation
+- JOS 13:17 — missing terminal punctuation
+- JOS 13:18 — missing terminal punctuation
+- JOS 13:19 — missing terminal punctuation
+- JOS 13:20 — missing terminal punctuation
+- JOS 15:2 — missing terminal punctuation
+- JOS 15:3 — missing terminal punctuation
+- JOS 15:8 — missing terminal punctuation
+- JOS 15:21 — missing terminal punctuation
+- JOS 15:22 — missing terminal punctuation
+- JOS 15:23 — missing terminal punctuation
+- JOS 15:24 — missing terminal punctuation
+- JOS 15:25 — missing terminal punctuation
+- JOS 15:26 — missing terminal punctuation
+- JOS 15:27 — missing terminal punctuation
+- JOS 15:28 — missing terminal punctuation
+- JOS 15:29 — missing terminal punctuation
+- JOS 15:30 — missing terminal punctuation
+- JOS 15:31 — missing terminal punctuation
+- JOS 15:33 — missing terminal punctuation
+- JOS 15:34 — missing terminal punctuation
+- JOS 15:35 — missing terminal punctuation
+- JOS 15:37 — missing terminal punctuation
+- JOS 15:38 — missing terminal punctuation
+- JOS 15:39 — missing terminal punctuation
+- JOS 15:40 — missing terminal punctuation
+- JOS 15:42 — missing terminal punctuation
+- JOS 15:43 — missing terminal punctuation
+- JOS 15:48 — missing terminal punctuation
+- JOS 15:49 — missing terminal punctuation
+- JOS 15:50 — missing terminal punctuation
+- JOS 15:52 — missing terminal punctuation
+- JOS 15:53 — missing terminal punctuation
+- JOS 15:55 — missing terminal punctuation
+- JOS 15:56 — missing terminal punctuation
+- JOS 15:58 — missing terminal punctuation
+- JOS 15:61 — missing terminal punctuation
+- JOS 16:2 — missing terminal punctuation
+- JOS 17:17 — missing terminal punctuation
+- JOS 18:16 — missing terminal punctuation
+- JOS 18:21 — missing terminal punctuation
+- JOS 18:22 — missing terminal punctuation
+- JOS 18:23 — missing terminal punctuation
+- JOS 18:25 — missing terminal punctuation
+- JOS 18:26 — missing terminal punctuation
+- JOS 18:27 — missing terminal punctuation
+- JOS 19:2 — missing terminal punctuation
+- JOS 19:3 — missing terminal punctuation
+- JOS 19:4 — missing terminal punctuation
+- JOS 19:5 — missing terminal punctuation
+- JOS 19:12 — missing terminal punctuation
+- JOS 19:13 — missing terminal punctuation
+- JOS 19:14 — missing terminal punctuation
+- JOS 19:18 — missing terminal punctuation
+- JOS 19:19 — missing terminal punctuation
+- JOS 19:20 — missing terminal punctuation
+- JOS 19:21 — missing terminal punctuation
+- JOS 19:25 — missing terminal punctuation
+- JOS 19:26 — missing terminal punctuation
+- JOS 19:27 — missing terminal punctuation
+- JOS 19:28 — missing terminal punctuation
+- JOS 19:33 — missing terminal punctuation
+- JOS 19:35 — missing terminal punctuation
+- JOS 19:36 — missing terminal punctuation
+- JOS 19:37 — missing terminal punctuation
+- JOS 19:41 — missing terminal punctuation
+- JOS 19:42 — missing terminal punctuation
+- JOS 19:43 — missing terminal punctuation
+- JOS 19:44 — missing terminal punctuation
+- JOS 19:45 — missing terminal punctuation
+- JOS 20:2 — missing terminal punctuation
+- JOS 21:1 — missing terminal punctuation
+- JOS 21:5 — missing terminal punctuation
+- JOS 21:10 — missing terminal punctuation
+- JOS 21:13 — missing terminal punctuation
+- JOS 21:14 — missing terminal punctuation
+- JOS 21:15 — missing terminal punctuation
+- JOS 21:17 — missing terminal punctuation
+- JOS 21:23 — missing terminal punctuation
+- JOS 21:28 — missing terminal punctuation
+- JOS 21:30 — missing terminal punctuation
+- JOS 21:34 — missing terminal punctuation
+- JOS 21:36 — missing terminal punctuation
+- JOS 21:38 — missing terminal punctuation
+- JOS 22:1 — missing terminal punctuation
+- JOS 22:13 — missing terminal punctuation
+- JOS 22:26 — missing terminal punctuation
+- JOS 22:31 — missing terminal punctuation
+- JOS 23:1 — missing terminal punctuation
+- JOS 23:6 — missing terminal punctuation
+- JOS 23:8 — missing terminal punctuation
+- JOS 23:12 — missing terminal punctuation
+- JOS 23:15 — missing terminal punctuation
+- JDG 2:11 — missing terminal punctuation
+- JDG 3:1 — missing terminal punctuation
+- JDG 3:21 — missing terminal punctuation
+- JDG 6:3 — missing terminal punctuation
+- JDG 6:7 — missing terminal punctuation
+- JDG 6:9 — missing terminal punctuation
+- JDG 6:36 — missing terminal punctuation
+- JDG 8:13 — missing terminal punctuation
+- JDG 8:34 — missing terminal punctuation
+- JDG 9:16 — missing terminal punctuation
+- JDG 9:17 — missing terminal punctuation
+- JDG 9:18 — missing terminal punctuation
+- JDG 9:22 — missing terminal punctuation
+- JDG 9:30 — missing terminal punctuation
+- JDG 10:11 — missing terminal punctuation
+- JDG 11:5 — missing terminal punctuation
+- JDG 11:14 — missing terminal punctuation
+- JDG 11:30 — missing terminal punctuation
+- JDG 12:5 — missing terminal punctuation
+- JDG 12:8 — missing terminal punctuation
+- JDG 14:11 — missing terminal punctuation
+- JDG 16:29 — missing terminal punctuation
+- JDG 18:11 — missing terminal punctuation
+- JDG 18:17 — missing terminal punctuation
+- JDG 19:18 — missing terminal punctuation
+- JDG 20:8 — missing terminal punctuation
+- JDG 20:9 — missing terminal punctuation
+- JDG 20:13 — missing terminal punctuation
+- JDG 20:27 — missing terminal punctuation
+- RUT 1:3 — missing terminal punctuation
+- RUT 1:12 — missing terminal punctuation
+- RUT 2:6 — missing terminal punctuation
+- RUT 2:15 — missing terminal punctuation
+- RUT 4:3 — missing terminal punctuation
+- RUT 4:18 — missing terminal punctuation
+- RUT 4:19 — missing terminal punctuation
+- RUT 4:20 — missing terminal punctuation
+- RUT 4:21 — missing terminal punctuation
+- 1SA 1:9 — missing terminal punctuation
+- 1SA 2:13 — missing terminal punctuation
+- 1SA 3:2 — missing terminal punctuation
+- 1SA 6:17 — missing terminal punctuation
+- 1SA 8:4 — missing terminal punctuation
+- 1SA 10:17 — missing terminal punctuation
+- 1SA 11:7 — missing terminal punctuation
+- 1SA 13:1 — missing terminal punctuation
+- 1SA 13:11 — missing terminal punctuation
+- 1SA 13:20 — missing terminal punctuation
+- 1SA 14:38 — missing terminal punctuation
+- 1SA 15:24 — missing terminal punctuation
+- 1SA 17:34 — missing terminal punctuation
+- 1SA 17:39 — missing terminal punctuation
+- 1SA 18:26 — missing terminal punctuation
+- 1SA 18:28 — missing terminal punctuation
+- 1SA 19:4 — missing terminal punctuation
+- 1SA 20:12 — missing terminal punctuation
+- 1SA 20:14 — missing terminal punctuation
+- 1SA 20:19 — missing terminal punctuation
+- 1SA 22:7 — missing terminal punctuation
+- 1SA 22:9 — missing terminal punctuation
+- 1SA 24:20 — missing terminal punctuation
+- 1SA 25:18 — missing terminal punctuation
+- 1SA 25:23 — missing terminal punctuation
+- 1SA 25:30 — missing terminal punctuation
+- 1SA 25:32 — missing terminal punctuation
+- 1SA 26:10 — missing terminal punctuation
+- 1SA 26:13 — missing terminal punctuation
+- 1SA 30:11 — missing terminal punctuation
+- 1SA 30:13 — missing terminal punctuation
+- 1SA 30:27 — missing terminal punctuation
+- 1SA 30:28 — missing terminal punctuation
+- 1SA 30:29 — missing terminal punctuation
+- 1SA 30:30 — missing terminal punctuation
+- 1SA 31:8 — missing terminal punctuation
+- 1SA 31:11 — missing terminal punctuation
+- 2SA 1:1 — missing terminal punctuation
+- 2SA 3:2 — missing terminal punctuation
+- 2SA 3:4 — missing terminal punctuation
+- 2SA 3:9 — missing terminal punctuation
+- 2SA 3:17 — missing terminal punctuation
+- 2SA 5:14 — missing terminal punctuation
+- 2SA 5:15 — missing terminal punctuation
+- 2SA 7:1 — missing terminal punctuation
+- 2SA 7:8 — missing terminal punctuation
+- 2SA 7:10 — missing terminal punctuation
+- 2SA 7:14 — missing terminal punctuation
+- 2SA 8:9 — missing terminal punctuation
+- 2SA 8:10 — missing terminal punctuation
+- 2SA 8:16 — missing terminal punctuation
+- 2SA 8:17 — missing terminal punctuation
+- 2SA 10:2 — missing terminal punctuation
+- 2SA 11:19 — missing terminal punctuation
+- 2SA 11:23 — missing terminal punctuation
+- 2SA 12:7 — missing terminal punctuation
+- 2SA 14:1 — missing terminal punctuation
+- 2SA 14:2 — missing terminal punctuation
+- 2SA 15:33 — missing terminal punctuation
+- 2SA 16:5 — missing terminal punctuation
+- 2SA 17:1 — missing terminal punctuation
+- 2SA 17:27 — missing terminal punctuation
+- 2SA 17:28 — missing terminal punctuation
+- 2SA 18:6 — missing terminal punctuation
+- 2SA 18:25 — missing terminal punctuation
+- 2SA 19:5 — missing terminal punctuation
+- 2SA 19:16 — missing terminal punctuation
+- 2SA 19:19 — missing terminal punctuation
+- 2SA 20:23 — missing terminal punctuation
+- 2SA 20:24 — missing terminal punctuation
+- 2SA 20:25 — missing terminal punctuation
+- 2SA 21:5 — missing terminal punctuation
+- 2SA 21:8 — missing terminal punctuation
+- 2SA 22:2 — missing terminal punctuation
+- 2SA 22:5 — missing terminal punctuation
+- 2SA 22:14 — missing terminal punctuation
+- 2SA 22:26 — missing terminal punctuation
+- 2SA 22:33 — missing terminal punctuation
+- 2SA 22:34 — missing terminal punctuation
+- 2SA 23:6 — missing terminal punctuation
+- 2SA 23:24 — missing terminal punctuation
+- 2SA 23:25 — missing terminal punctuation
+- 2SA 23:26 — missing terminal punctuation
+- 2SA 23:27 — missing terminal punctuation
+- 2SA 23:28 — missing terminal punctuation
+- 2SA 23:29 — missing terminal punctuation
+- 2SA 23:30 — missing terminal punctuation
+- 2SA 23:31 — missing terminal punctuation
+- 2SA 23:32 — missing terminal punctuation
+- 2SA 23:34 — missing terminal punctuation
+- 2SA 23:35 — missing terminal punctuation
+- 2SA 23:36 — missing terminal punctuation
+- 2SA 23:37 — missing terminal punctuation
+- 2SA 23:38 — missing terminal punctuation
+- 1KI 1:17 — missing terminal punctuation
+- 1KI 1:29 — missing terminal punctuation
+- 1KI 1:44 — missing terminal punctuation
+- 1KI 2:8 — missing terminal punctuation
+- 1KI 2:36 — missing terminal punctuation
+- 1KI 3:11 — missing terminal punctuation
+- 1KI 4:2 — missing terminal punctuation
+- 1KI 4:3 — missing terminal punctuation
+- 1KI 4:4 — missing terminal punctuation
+- 1KI 4:5 — missing terminal punctuation
+- 1KI 4:8 — missing terminal punctuation
+- 1KI 4:9 — missing terminal punctuation
+- 1KI 4:11 — missing terminal punctuation
+- 1KI 4:12 — missing terminal punctuation
+- 1KI 4:13 — missing terminal punctuation
+- 1KI 4:14 — missing terminal punctuation
+- 1KI 4:16 — missing terminal punctuation
+- 1KI 4:17 — missing terminal punctuation
+- 1KI 4:18 — missing terminal punctuation
+- 1KI 4:22 — missing terminal punctuation
+- 1KI 5:15 — missing terminal punctuation
+- 1KI 6:12 — missing terminal punctuation
+- 1KI 7:13 — missing terminal punctuation
+- 1KI 7:41 — missing terminal punctuation
+- 1KI 7:42 — missing terminal punctuation
+- 1KI 7:43 — missing terminal punctuation
+- 1KI 7:44 — missing terminal punctuation
+- 1KI 7:48 — missing terminal punctuation
+- 1KI 7:49 — missing terminal punctuation
+- 1KI 8:18 — missing terminal punctuation
+- 1KI 8:22 — missing terminal punctuation
+- 1KI 8:23 — missing terminal punctuation
+- 1KI 8:31 — missing terminal punctuation
+- 1KI 8:33 — missing terminal punctuation
+- 1KI 8:35 — missing terminal punctuation
+- 1KI 8:37 — missing terminal punctuation
+- 1KI 8:38 — missing terminal punctuation
+- 1KI 8:41 — missing terminal punctuation
+- 1KI 8:42 — missing terminal punctuation
+- 1KI 8:44 — missing terminal punctuation
+- 1KI 8:46 — missing terminal punctuation
+- 1KI 8:47 — missing terminal punctuation
+- 1KI 8:48 — missing terminal punctuation
+- 1KI 8:49 — missing terminal punctuation
+- 1KI 8:54 — missing terminal punctuation
+- 1KI 8:57 — missing terminal punctuation
+- 1KI 8:59 — missing terminal punctuation
+- 1KI 9:4 — missing terminal punctuation
+- 1KI 9:6 — missing terminal punctuation
+- 1KI 9:7 — missing terminal punctuation
+- 1KI 9:10 — missing terminal punctuation
+- 1KI 9:17 — missing terminal punctuation
+- 1KI 9:18 — missing terminal punctuation
+- 1KI 9:20 — missing terminal punctuation
+- 1KI 10:4 — missing terminal punctuation
+- 1KI 10:6 — missing terminal punctuation
+- 1KI 10:14 — missing terminal punctuation
+- 1KI 11:1 — missing terminal punctuation
+- 1KI 11:9 — missing terminal punctuation
+- 1KI 11:15 — missing terminal punctuation
+- 1KI 11:30 — missing terminal punctuation
+- 1KI 11:31 — missing terminal punctuation
+- 1KI 12:2 — missing terminal punctuation
+- 1KI 12:13 — missing terminal punctuation
+- 1KI 12:26 — missing terminal punctuation
+- 1KI 12:32 — missing terminal punctuation
+- 1KI 13:1 — missing terminal punctuation
+- 1KI 13:8 — missing terminal punctuation
+- 1KI 13:16 — missing terminal punctuation
+- 1KI 13:20 — missing terminal punctuation
+- 1KI 13:21 — missing terminal punctuation
+- 1KI 13:23 — missing terminal punctuation
+- 1KI 14:1 — missing terminal punctuation
+- 1KI 14:7 — missing terminal punctuation
+- 1KI 14:8 — missing terminal punctuation
+- 1KI 15:29 — missing terminal punctuation
+- 1KI 16:2 — missing terminal punctuation
+- 1KI 16:9 — missing terminal punctuation
+- 1KI 16:12 — missing terminal punctuation
+- 1KI 16:30 — missing terminal punctuation
+- 1KI 17:3 — missing terminal punctuation
+- 1KI 17:19 — missing terminal punctuation
+- 1KI 18:3 — missing terminal punctuation
+- 1KI 18:29 — missing terminal punctuation
+- 1KI 18:31 — missing terminal punctuation
+- 1KI 19:15 — missing terminal punctuation
+- 1KI 21:9 — missing terminal punctuation
+- 1KI 22:26 — missing terminal punctuation
+- 2KI 3:22 — missing terminal punctuation
+- 2KI 7:12 — missing terminal punctuation
+- 2KI 10:2 — missing terminal punctuation
+- 2KI 10:12 — missing terminal punctuation
+- 2KI 10:32 — missing terminal punctuation
+- 2KI 11:5 — missing terminal punctuation
+- 2KI 11:13 — missing terminal punctuation
+- 2KI 12:11 — missing terminal punctuation
+- 2KI 12:17 — missing terminal punctuation
+- 2KI 12:20 — missing terminal punctuation
+- 2KI 13:16 — missing terminal punctuation
+- 2KI 14:26 — missing terminal punctuation
+- 2KI 15:13 — missing terminal punctuation
+- 2KI 16:2 — missing terminal punctuation
+- 2KI 16:12 — missing terminal punctuation
+- 2KI 17:7 — missing terminal punctuation
+- 2KI 17:8 — missing terminal punctuation
+- 2KI 17:9 — missing terminal punctuation
+- 2KI 17:10 — missing terminal punctuation
+- 2KI 17:11 — missing terminal punctuation
+- 2KI 17:12 — missing terminal punctuation
+- 2KI 17:15 — missing terminal punctuation
+- 2KI 17:22 — missing terminal punctuation
+- 2KI 17:30 — missing terminal punctuation
+- 2KI 17:34 — missing terminal punctuation
+- 2KI 18:17 — missing terminal punctuation
+- 2KI 18:31 — missing terminal punctuation
+- 2KI 19:2 — missing terminal punctuation
+- 2KI 19:17 — missing terminal punctuation
+- 2KI 21:11 — missing terminal punctuation
+- 2KI 21:14 — missing terminal punctuation
+- 2KI 21:21 — missing terminal punctuation
+- 2KI 22:4 — missing terminal punctuation
+- 2KI 22:6 — missing terminal punctuation
+- 2KI 22:18 — missing terminal punctuation
+- 2KI 24:3 — missing terminal punctuation
+- 2KI 25:15 — missing terminal punctuation
+- 2KI 25:18 — missing terminal punctuation
+- 2KI 25:19 — missing terminal punctuation
+- 1CH 1:1 — missing terminal punctuation
+- 1CH 1:2 — missing terminal punctuation
+- 1CH 1:3 — missing terminal punctuation
+- 1CH 1:11 — missing terminal punctuation
+- 1CH 1:13 — missing terminal punctuation
+- 1CH 1:14 — missing terminal punctuation
+- 1CH 1:15 — missing terminal punctuation
+- 1CH 1:20 — missing terminal punctuation
+- 1CH 1:21 — missing terminal punctuation
+- 1CH 1:22 — missing terminal punctuation
+- 1CH 1:24 — missing terminal punctuation
+- 1CH 1:25 — missing terminal punctuation
+- 1CH 1:26 — missing terminal punctuation
+- 1CH 1:29 — missing terminal punctuation
+- 1CH 1:30 — missing terminal punctuation
+- 1CH 1:51 — missing terminal punctuation
+- 1CH 1:52 — missing terminal punctuation
+- 1CH 1:53 — missing terminal punctuation
+- 1CH 2:1 — missing terminal punctuation
+- 1CH 2:10 — missing terminal punctuation
+- 1CH 2:11 — missing terminal punctuation
+- 1CH 2:12 — missing terminal punctuation
+- 1CH 2:13 — missing terminal punctuation
+- 1CH 2:14 — missing terminal punctuation
+- 1CH 2:15 — missing terminal punctuation
+- 1CH 2:36 — missing terminal punctuation
+- 1CH 2:37 — missing terminal punctuation
+- 1CH 2:38 — missing terminal punctuation
+- 1CH 2:39 — missing terminal punctuation
+- 1CH 2:40 — missing terminal punctuation
+- 1CH 2:50 — missing terminal punctuation
+- 1CH 3:1 — missing terminal punctuation
+- 1CH 3:2 — missing terminal punctuation
+- 1CH 3:6 — missing terminal punctuation
+- 1CH 3:10 — missing terminal punctuation
+- 1CH 3:11 — missing terminal punctuation
+- 1CH 3:12 — missing terminal punctuation
+- 1CH 3:13 — missing terminal punctuation
+- 1CH 3:17 — missing terminal punctuation
+- 1CH 4:21 — missing terminal punctuation
+- 1CH 4:24 — missing terminal punctuation
+- 1CH 4:28 — missing terminal punctuation
+- 1CH 4:29 — missing terminal punctuation
+- 1CH 4:32 — missing terminal punctuation
+- 1CH 4:34 — missing terminal punctuation
+- 1CH 4:35 — missing terminal punctuation
+- 1CH 4:36 — missing terminal punctuation
+- 1CH 4:42 — missing terminal punctuation
+- 1CH 5:4 — missing terminal punctuation
+- 1CH 5:5 — missing terminal punctuation
+- 1CH 6:4 — missing terminal punctuation
+- 1CH 6:5 — missing terminal punctuation
+- 1CH 6:6 — missing terminal punctuation
+- 1CH 6:7 — missing terminal punctuation
+- 1CH 6:8 — missing terminal punctuation
+- 1CH 6:9 — missing terminal punctuation
+- 1CH 6:10 — missing terminal punctuation
+- 1CH 6:11 — missing terminal punctuation
+- 1CH 6:12 — missing terminal punctuation
+- 1CH 6:13 — missing terminal punctuation
+- 1CH 6:22 — missing terminal punctuation
+- 1CH 6:23 — missing terminal punctuation
+- 1CH 6:26 — missing terminal punctuation
+- 1CH 6:29 — missing terminal punctuation
+- 1CH 6:33 — missing terminal punctuation
+- 1CH 6:34 — missing terminal punctuation
+- 1CH 6:35 — missing terminal punctuation
+- 1CH 6:36 — missing terminal punctuation
+- 1CH 6:37 — missing terminal punctuation
+- 1CH 6:39 — missing terminal punctuation
+- 1CH 6:40 — missing terminal punctuation
+- 1CH 6:41 — missing terminal punctuation
+- 1CH 6:42 — missing terminal punctuation
+- 1CH 6:44 — missing terminal punctuation
+- 1CH 6:45 — missing terminal punctuation
+- 1CH 6:46 — missing terminal punctuation
+- 1CH 6:50 — missing terminal punctuation
+- 1CH 6:51 — missing terminal punctuation
+- 1CH 6:52 — missing terminal punctuation
+- 1CH 6:57 — missing terminal punctuation
+- 1CH 6:58 — missing terminal punctuation
+- 1CH 6:59 — missing terminal punctuation
+- 1CH 6:67 — missing terminal punctuation
+- 1CH 6:68 — missing terminal punctuation
+- 1CH 6:69 — missing terminal punctuation
+- 1CH 6:71 — missing terminal punctuation
+- 1CH 6:72 — missing terminal punctuation
+- 1CH 6:73 — missing terminal punctuation
+- 1CH 6:74 — missing terminal punctuation
+- 1CH 6:77 — missing terminal punctuation
+- 1CH 6:79 — missing terminal punctuation
+- 1CH 6:80 — missing terminal punctuation
+- 1CH 7:20 — missing terminal punctuation
+- 1CH 7:25 — missing terminal punctuation
+- 1CH 7:26 — missing terminal punctuation
+- 1CH 7:28 — missing terminal punctuation
+- 1CH 7:36 — missing terminal punctuation
+- 1CH 8:1 — missing terminal punctuation
+- 1CH 8:3 — missing terminal punctuation
+- 1CH 8:4 — missing terminal punctuation
+- 1CH 8:9 — missing terminal punctuation
+- 1CH 8:12 — missing terminal punctuation
+- 1CH 8:14 — missing terminal punctuation
+- 1CH 8:15 — missing terminal punctuation
+- 1CH 8:17 — missing terminal punctuation
+- 1CH 8:19 — missing terminal punctuation
+- 1CH 8:20 — missing terminal punctuation
+- 1CH 8:22 — missing terminal punctuation
+- 1CH 8:23 — missing terminal punctuation
+- 1CH 8:24 — missing terminal punctuation
+- 1CH 8:26 — missing terminal punctuation
+- 1CH 8:29 — missing terminal punctuation
+- 1CH 8:30 — missing terminal punctuation
+- 1CH 8:31 — missing terminal punctuation
+- 1CH 9:3 — missing terminal punctuation
+- 1CH 9:7 — missing terminal punctuation
+- 1CH 9:10 — missing terminal punctuation
+- 1CH 9:11 — missing terminal punctuation
+- 1CH 9:12 — missing terminal punctuation
+- 1CH 9:14 — missing terminal punctuation
+- 1CH 9:15 — missing terminal punctuation
+- 1CH 9:17 — missing terminal punctuation
+- 1CH 9:35 — missing terminal punctuation
+- 1CH 9:36 — missing terminal punctuation
+- 1CH 9:41 — missing terminal punctuation
+- 1CH 9:42 — missing terminal punctuation
+- 1CH 10:11 — missing terminal punctuation
+- 1CH 10:13 — missing terminal punctuation
+- 1CH 11:13 — missing terminal punctuation
+- 1CH 11:18 — missing terminal punctuation
+- 1CH 11:26 — missing terminal punctuation
+- 1CH 11:27 — missing terminal punctuation
+- 1CH 11:28 — missing terminal punctuation
+- 1CH 11:29 — missing terminal punctuation
+- 1CH 11:30 — missing terminal punctuation
+- 1CH 11:31 — missing terminal punctuation
+- 1CH 11:32 — missing terminal punctuation
+- 1CH 11:33 — missing terminal punctuation
+- 1CH 11:34 — missing terminal punctuation
+- 1CH 11:35 — missing terminal punctuation
+- 1CH 11:36 — missing terminal punctuation
+- 1CH 11:37 — missing terminal punctuation
+- 1CH 11:38 — missing terminal punctuation
+- 1CH 11:39 — missing terminal punctuation
+- 1CH 11:40 — missing terminal punctuation
+- 1CH 11:41 — missing terminal punctuation
+- 1CH 11:42 — missing terminal punctuation
+- 1CH 11:43 — missing terminal punctuation
+- 1CH 11:44 — missing terminal punctuation
+- 1CH 11:45 — missing terminal punctuation
+- 1CH 11:46 — missing terminal punctuation
+- 1CH 12:3 — missing terminal punctuation
+- 1CH 12:4 — missing terminal punctuation
+- 1CH 12:5 — missing terminal punctuation
+- 1CH 12:6 — missing terminal punctuation
+- 1CH 12:9 — missing terminal punctuation
+- 1CH 12:10 — missing terminal punctuation
+- 1CH 12:11 — missing terminal punctuation
+- 1CH 12:12 — missing terminal punctuation
+- 1CH 12:26 — missing terminal punctuation
+- 1CH 12:27 — missing terminal punctuation
+- 1CH 14:4 — missing terminal punctuation
+- 1CH 14:5 — missing terminal punctuation
+- 1CH 14:6 — missing terminal punctuation
+- 1CH 14:14 — missing terminal punctuation
+- 1CH 15:5 — missing terminal punctuation
+- 1CH 15:6 — missing terminal punctuation
+- 1CH 15:7 — missing terminal punctuation
+- 1CH 15:8 — missing terminal punctuation
+- 1CH 15:9 — missing terminal punctuation
+- 1CH 15:11 — missing terminal punctuation
+- 1CH 15:12 — missing terminal punctuation
+- 1CH 15:17 — missing terminal punctuation
+- 1CH 16:5 — missing terminal punctuation
+- 1CH 16:12 — missing terminal punctuation
+- 1CH 16:15 — missing terminal punctuation
+- 1CH 16:16 — missing terminal punctuation
+- 1CH 16:17 — missing terminal punctuation
+- 1CH 16:18 — missing terminal punctuation
+- 1CH 16:19 — missing terminal punctuation
+- 1CH 16:21 — missing terminal punctuation
+- 1CH 16:39 — missing terminal punctuation
+- 1CH 16:40 — missing terminal punctuation
+- 1CH 16:41 — missing terminal punctuation
+- 1CH 17:7 — missing terminal punctuation
+- 1CH 17:9 — missing terminal punctuation
+- 1CH 17:13 — missing terminal punctuation
+- 1CH 17:26 — missing terminal punctuation
+- 1CH 18:9 — missing terminal punctuation
+- 1CH 18:15 — missing terminal punctuation
+- 1CH 18:16 — missing terminal punctuation
+- 1CH 21:15 — missing terminal punctuation
+- 1CH 23:2 — missing terminal punctuation
+- 1CH 23:4 — missing terminal punctuation
+- 1CH 23:28 — missing terminal punctuation
+- 1CH 23:29 — missing terminal punctuation
+- 1CH 23:30 — missing terminal punctuation
+- 1CH 24:7 — missing terminal punctuation
+- 1CH 24:8 — missing terminal punctuation
+- 1CH 24:9 — missing terminal punctuation
+- 1CH 24:10 — missing terminal punctuation
+- 1CH 24:11 — missing terminal punctuation
+- 1CH 24:12 — missing terminal punctuation
+- 1CH 24:13 — missing terminal punctuation
+- 1CH 24:14 — missing terminal punctuation
+- 1CH 24:15 — missing terminal punctuation
+- 1CH 24:16 — missing terminal punctuation
+- 1CH 24:17 — missing terminal punctuation
+- 1CH 25:1 — missing terminal punctuation
+- 1CH 25:9 — missing terminal punctuation
+- 1CH 25:10 — missing terminal punctuation
+- 1CH 25:11 — missing terminal punctuation
+- 1CH 25:12 — missing terminal punctuation
+- 1CH 25:13 — missing terminal punctuation
+- 1CH 25:14 — missing terminal punctuation
+- 1CH 25:15 — missing terminal punctuation
+- 1CH 25:16 — missing terminal punctuation
+- 1CH 25:17 — missing terminal punctuation
+- 1CH 25:18 — missing terminal punctuation
+- 1CH 25:19 — missing terminal punctuation
+- 1CH 25:20 — missing terminal punctuation
+- 1CH 25:21 — missing terminal punctuation
+- 1CH 25:22 — missing terminal punctuation
+- 1CH 25:23 — missing terminal punctuation
+- 1CH 25:24 — missing terminal punctuation
+- 1CH 25:25 — missing terminal punctuation
+- 1CH 25:26 — missing terminal punctuation
+- 1CH 25:27 — missing terminal punctuation
+- 1CH 25:28 — missing terminal punctuation
+- 1CH 25:29 — missing terminal punctuation
+- 1CH 25:30 — missing terminal punctuation
+- 1CH 26:2 — missing terminal punctuation
+- 1CH 26:4 — missing terminal punctuation
+- 1CH 26:10 — missing terminal punctuation
+- 1CH 26:23 — missing terminal punctuation
+- 1CH 26:26 — missing terminal punctuation
+- 1CH 27:17 — missing terminal punctuation
+- 1CH 27:19 — missing terminal punctuation
+- 1CH 27:20 — missing terminal punctuation
+- 1CH 27:21 — missing terminal punctuation
+- 1CH 27:25 — missing terminal punctuation
+- 1CH 27:26 — missing terminal punctuation
+- 1CH 27:27 — missing terminal punctuation
+- 1CH 27:28 — missing terminal punctuation
+- 1CH 27:29 — missing terminal punctuation
+- 1CH 27:30 — missing terminal punctuation
+- 1CH 28:4 — missing terminal punctuation
+- 1CH 29:3 — missing terminal punctuation
+- 1CH 29:6 — missing terminal punctuation
+- 1CH 29:29 — missing terminal punctuation
+- 2CH 2:8 — missing terminal punctuation
+- 2CH 2:13 — missing terminal punctuation
+- 2CH 2:15 — missing terminal punctuation
+- 2CH 4:11 — missing terminal punctuation
+- 2CH 4:12 — missing terminal punctuation
+- 2CH 4:14 — missing terminal punctuation
+- 2CH 4:15 — missing terminal punctuation
+- 2CH 4:19 — missing terminal punctuation
+- 2CH 5:11 — missing terminal punctuation
+- 2CH 5:12 — missing terminal punctuation
+- 2CH 6:14 — missing terminal punctuation
+- 2CH 6:22 — missing terminal punctuation
+- 2CH 6:24 — missing terminal punctuation
+- 2CH 6:26 — missing terminal punctuation
+- 2CH 6:28 — missing terminal punctuation
+- 2CH 6:29 — missing terminal punctuation
+- 2CH 6:30 — missing terminal punctuation
+- 2CH 6:32 — missing terminal punctuation
+- 2CH 6:34 — missing terminal punctuation
+- 2CH 6:38 — missing terminal punctuation
+- 2CH 7:13 — missing terminal punctuation
+- 2CH 7:17 — missing terminal punctuation
+- 2CH 7:19 — missing terminal punctuation
+- 2CH 8:1 — missing terminal punctuation
+- 2CH 8:5 — missing terminal punctuation
+- 2CH 8:7 — missing terminal punctuation
+- 2CH 8:12 — missing terminal punctuation
+- 2CH 8:14 — missing terminal punctuation
+- 2CH 9:3 — missing terminal punctuation
+- 2CH 9:5 — missing terminal punctuation
+- 2CH 9:13 — missing terminal punctuation
+- 2CH 10:8 — missing terminal punctuation
+- 2CH 10:13 — missing terminal punctuation
+- 2CH 11:6 — missing terminal punctuation
+- 2CH 11:7 — missing terminal punctuation
+- 2CH 11:8 — missing terminal punctuation
+- 2CH 11:9 — missing terminal punctuation
+- 2CH 11:11 — missing terminal punctuation
+- 2CH 13:10 — missing terminal punctuation
+- 2CH 14:3 — missing terminal punctuation
+- 2CH 15:1 — missing terminal punctuation
+- 2CH 15:12 — missing terminal punctuation
+- 2CH 17:3 — missing terminal punctuation
+- 2CH 17:7 — missing terminal punctuation
+- 2CH 17:14 — missing terminal punctuation
+- 2CH 17:15 — missing terminal punctuation
+- 2CH 17:16 — missing terminal punctuation
+- 2CH 17:17 — missing terminal punctuation
+- 2CH 20:5 — missing terminal punctuation
+- 2CH 20:10 — missing terminal punctuation
+- 2CH 20:14 — missing terminal punctuation
+- 2CH 21:12 — missing terminal punctuation
+- 2CH 21:14 — missing terminal punctuation
+- 2CH 21:16 — missing terminal punctuation
+- 2CH 23:1 — missing terminal punctuation
+- 2CH 23:4 — missing terminal punctuation
+- 2CH 23:9 — missing terminal punctuation
+- 2CH 23:12 — missing terminal punctuation
+- 2CH 24:8 — missing terminal punctuation
+- 2CH 25:3 — missing terminal punctuation
+- 2CH 25:27 — missing terminal punctuation
+- 2CH 28:9 — missing terminal punctuation
+- 2CH 28:22 — missing terminal punctuation
+- 2CH 29:12 — missing terminal punctuation
+- 2CH 29:13 — missing terminal punctuation
+- 2CH 30:18 — missing terminal punctuation
+- 2CH 31:1 — missing terminal punctuation
+- 2CH 31:16 — missing terminal punctuation
+- 2CH 31:17 — missing terminal punctuation
+- 2CH 32:2 — missing terminal punctuation
+- 2CH 32:27 — missing terminal punctuation
+- 2CH 34:19 — missing terminal punctuation
+- 2CH 34:26 — missing terminal punctuation
+- 2CH 35:26 — missing terminal punctuation
+- 2CH 36:20 — missing terminal punctuation
+- EZR 1:9 — missing terminal punctuation
+- EZR 2:1 — missing terminal punctuation
+- EZR 2:3 — missing terminal punctuation
+- EZR 2:4 — missing terminal punctuation
+- EZR 2:5 — missing terminal punctuation
+- EZR 2:6 — missing terminal punctuation
+- EZR 2:7 — missing terminal punctuation
+- EZR 2:8 — missing terminal punctuation
+- EZR 2:9 — missing terminal punctuation
+- EZR 2:10 — missing terminal punctuation
+- EZR 2:11 — missing terminal punctuation
+- EZR 2:12 — missing terminal punctuation
+- EZR 2:13 — missing terminal punctuation
+- EZR 2:14 — missing terminal punctuation
+- EZR 2:15 — missing terminal punctuation
+- EZR 2:16 — missing terminal punctuation
+- EZR 2:17 — missing terminal punctuation
+- EZR 2:18 — missing terminal punctuation
+- EZR 2:19 — missing terminal punctuation
+- EZR 2:20 — missing terminal punctuation
+- EZR 2:21 — missing terminal punctuation
+- EZR 2:22 — missing terminal punctuation
+- EZR 2:23 — missing terminal punctuation
+- EZR 2:24 — missing terminal punctuation
+- EZR 2:25 — missing terminal punctuation
+- EZR 2:26 — missing terminal punctuation
+- EZR 2:27 — missing terminal punctuation
+- EZR 2:28 — missing terminal punctuation
+- EZR 2:29 — missing terminal punctuation
+- EZR 2:30 — missing terminal punctuation
+- EZR 2:31 — missing terminal punctuation
+- EZR 2:32 — missing terminal punctuation
+- EZR 2:33 — missing terminal punctuation
+- EZR 2:34 — missing terminal punctuation
+- EZR 2:35 — missing terminal punctuation
+- EZR 2:36 — missing terminal punctuation
+- EZR 2:37 — missing terminal punctuation
+- EZR 2:38 — missing terminal punctuation
+- EZR 2:43 — missing terminal punctuation
+- EZR 2:44 — missing terminal punctuation
+- EZR 2:45 — missing terminal punctuation
+- EZR 2:46 — missing terminal punctuation
+- EZR 2:47 — missing terminal punctuation
+- EZR 2:48 — missing terminal punctuation
+- EZR 2:49 — missing terminal punctuation
+- EZR 2:50 — missing terminal punctuation
+- EZR 2:51 — missing terminal punctuation
+- EZR 2:52 — missing terminal punctuation
+- EZR 2:53 — missing terminal punctuation
+- EZR 2:55 — missing terminal punctuation
+- EZR 2:56 — missing terminal punctuation
+- EZR 2:64 — missing terminal punctuation
+- EZR 2:66 — missing terminal punctuation
+- EZR 3:4 — missing terminal punctuation
+- EZR 3:12 — missing terminal punctuation
+- EZR 4:9 — missing terminal punctuation
+- EZR 4:14 — missing terminal punctuation
+- EZR 7:14 — missing terminal punctuation
+- EZR 7:15 — missing terminal punctuation
+- EZR 7:21 — missing terminal punctuation
+- EZR 7:27 — missing terminal punctuation
+- EZR 8:2 — missing terminal punctuation
+- EZR 8:3 — missing terminal punctuation
+- EZR 8:4 — missing terminal punctuation
+- EZR 8:5 — missing terminal punctuation
+- EZR 8:6 — missing terminal punctuation
+- EZR 8:7 — missing terminal punctuation
+- EZR 8:8 — missing terminal punctuation
+- EZR 8:9 — missing terminal punctuation
+- EZR 8:10 — missing terminal punctuation
+- EZR 8:11 — missing terminal punctuation
+- EZR 8:12 — missing terminal punctuation
+- EZR 8:13 — missing terminal punctuation
+- EZR 8:18 — missing terminal punctuation
+- EZR 8:19 — missing terminal punctuation
+- EZR 8:24 — missing terminal punctuation
+- EZR 8:26 — missing terminal punctuation
+- EZR 9:5 — missing terminal punctuation
+- EZR 9:10 — missing terminal punctuation
+- EZR 9:13 — missing terminal punctuation
+- EZR 10:7 — missing terminal punctuation
+- EZR 10:18 — missing terminal punctuation
+- EZR 10:31 — missing terminal punctuation
+- EZR 10:34 — missing terminal punctuation
+- EZR 10:35 — missing terminal punctuation
+- EZR 10:36 — missing terminal punctuation
+- EZR 10:37 — missing terminal punctuation
+- EZR 10:38 — missing terminal punctuation
+- EZR 10:39 — missing terminal punctuation
+- EZR 10:40 — missing terminal punctuation
+- EZR 10:41 — missing terminal punctuation
+- NEH 1:1 — missing terminal punctuation
+- NEH 1:8 — missing terminal punctuation
+- NEH 2:4 — missing terminal punctuation
+- NEH 2:7 — missing terminal punctuation
+- NEH 4:4 — missing terminal punctuation
+- NEH 6:1 — missing terminal punctuation
+- NEH 6:5 — missing terminal punctuation
+- NEH 7:1 — missing terminal punctuation
+- NEH 7:2 — missing terminal punctuation
+- NEH 7:6 — missing terminal punctuation
+- NEH 7:8 — missing terminal punctuation
+- NEH 7:9 — missing terminal punctuation
+- NEH 7:10 — missing terminal punctuation
+- NEH 7:11 — missing terminal punctuation
+- NEH 7:12 — missing terminal punctuation
+- NEH 7:13 — missing terminal punctuation
+- NEH 7:14 — missing terminal punctuation
+- NEH 7:15 — missing terminal punctuation
+- NEH 7:16 — missing terminal punctuation
+- NEH 7:17 — missing terminal punctuation
+- NEH 7:18 — missing terminal punctuation
+- NEH 7:19 — missing terminal punctuation
+- NEH 7:20 — missing terminal punctuation
+- NEH 7:21 — missing terminal punctuation
+- NEH 7:22 — missing terminal punctuation
+- NEH 7:23 — missing terminal punctuation
+- NEH 7:24 — missing terminal punctuation
+- NEH 7:25 — missing terminal punctuation
+- NEH 7:26 — missing terminal punctuation
+- NEH 7:27 — missing terminal punctuation
+- NEH 7:28 — missing terminal punctuation
+- NEH 7:29 — missing terminal punctuation
+- NEH 7:30 — missing terminal punctuation
+- NEH 7:31 — missing terminal punctuation
+- NEH 7:32 — missing terminal punctuation
+- NEH 7:33 — missing terminal punctuation
+- NEH 7:34 — missing terminal punctuation
+- NEH 7:35 — missing terminal punctuation
+- NEH 7:36 — missing terminal punctuation
+- NEH 7:37 — missing terminal punctuation
+- NEH 7:39 — missing terminal punctuation
+- NEH 7:40 — missing terminal punctuation
+- NEH 7:41 — missing terminal punctuation
+- NEH 7:46 — missing terminal punctuation
+- NEH 7:47 — missing terminal punctuation
+- NEH 7:48 — missing terminal punctuation
+- NEH 7:49 — missing terminal punctuation
+- NEH 7:50 — missing terminal punctuation
+- NEH 7:51 — missing terminal punctuation
+- NEH 7:52 — missing terminal punctuation
+- NEH 7:53 — missing terminal punctuation
+- NEH 7:54 — missing terminal punctuation
+- NEH 7:55 — missing terminal punctuation
+- NEH 7:57 — missing terminal punctuation
+- NEH 7:58 — missing terminal punctuation
+- NEH 7:66 — missing terminal punctuation
+- NEH 7:68 — missing terminal punctuation
+- NEH 7:73 — missing terminal punctuation
+- NEH 8:14 — missing terminal punctuation
+- NEH 9:7 — missing terminal punctuation
+- NEH 9:9 — missing terminal punctuation
+- NEH 9:16 — missing terminal punctuation
+- NEH 9:18 — missing terminal punctuation
+- NEH 10:1 — missing terminal punctuation
+- NEH 10:2 — missing terminal punctuation
+- NEH 10:3 — missing terminal punctuation
+- NEH 10:4 — missing terminal punctuation
+- NEH 10:5 — missing terminal punctuation
+- NEH 10:6 — missing terminal punctuation
+- NEH 10:7 — missing terminal punctuation
+- NEH 10:9 — missing terminal punctuation
+- NEH 10:10 — missing terminal punctuation
+- NEH 10:11 — missing terminal punctuation
+- NEH 10:12 — missing terminal punctuation
+- NEH 10:14 — missing terminal punctuation
+- NEH 10:15 — missing terminal punctuation
+- NEH 10:16 — missing terminal punctuation
+- NEH 10:17 — missing terminal punctuation
+- NEH 10:18 — missing terminal punctuation
+- NEH 10:19 — missing terminal punctuation
+- NEH 10:20 — missing terminal punctuation
+- NEH 10:21 — missing terminal punctuation
+- NEH 10:22 — missing terminal punctuation
+- NEH 10:23 — missing terminal punctuation
+- NEH 10:24 — missing terminal punctuation
+- NEH 10:25 — missing terminal punctuation
+- NEH 10:26 — missing terminal punctuation
+- NEH 10:28 — missing terminal punctuation
+- NEH 10:29 — missing terminal punctuation
+- NEH 10:32 — missing terminal punctuation
+- NEH 10:35 — missing terminal punctuation
+- NEH 10:36 — missing terminal punctuation
+- NEH 11:4 — missing terminal punctuation
+- NEH 11:10 — missing terminal punctuation
+- NEH 11:11 — missing terminal punctuation
+- NEH 11:12 — missing terminal punctuation
+- NEH 11:13 — missing terminal punctuation
+- NEH 11:15 — missing terminal punctuation
+- NEH 11:16 — missing terminal punctuation
+- NEH 11:25 — missing terminal punctuation
+- NEH 11:26 — missing terminal punctuation
+- NEH 11:27 — missing terminal punctuation
+- NEH 11:28 — missing terminal punctuation
+- NEH 11:29 — missing terminal punctuation
+- NEH 11:31 — missing terminal punctuation
+- NEH 11:32 — missing terminal punctuation
+- NEH 11:33 — missing terminal punctuation
+- NEH 11:34 — missing terminal punctuation
+- NEH 12:1 — missing terminal punctuation
+- NEH 12:2 — missing terminal punctuation
+- NEH 12:3 — missing terminal punctuation
+- NEH 12:4 — missing terminal punctuation
+- NEH 12:5 — missing terminal punctuation
+- NEH 12:6 — missing terminal punctuation
+- NEH 12:10 — missing terminal punctuation
+- NEH 12:12 — missing terminal punctuation
+- NEH 12:13 — missing terminal punctuation
+- NEH 12:14 — missing terminal punctuation
+- NEH 12:15 — missing terminal punctuation
+- NEH 12:16 — missing terminal punctuation
+- NEH 12:17 — missing terminal punctuation
+- NEH 12:18 — missing terminal punctuation
+- NEH 12:19 — missing terminal punctuation
+- NEH 12:20 — missing terminal punctuation
+- NEH 12:28 — missing terminal punctuation
+- NEH 12:32 — missing terminal punctuation
+- NEH 12:33 — missing terminal punctuation
+- NEH 12:34 — missing terminal punctuation
+- NEH 12:35 — missing terminal punctuation
+- NEH 12:38 — missing terminal punctuation
+- NEH 12:40 — missing terminal punctuation
+- NEH 12:41 — missing terminal punctuation
+- NEH 13:1 — missing terminal punctuation
+- NEH 13:4 — missing terminal punctuation
+- NEH 13:8 — missing terminal punctuation
+- NEH 13:23 — missing terminal punctuation
+- NEH 13:30 — missing terminal punctuation
+- EST 1:1 — missing terminal punctuation
+- EST 1:2 — missing terminal punctuation
+- EST 1:3 — missing terminal punctuation
+- EST 1:10 — missing terminal punctuation
+- EST 1:13 — missing terminal punctuation
+- EST 1:21 — missing terminal punctuation
+- EST 2:2 — missing terminal punctuation
+- EST 2:3 — missing terminal punctuation
+- EST 2:5 — missing terminal punctuation
+- EST 2:12 — missing terminal punctuation
+- EST 3:10 — missing terminal punctuation
+- EST 4:13 — missing terminal punctuation
+- EST 6:7 — missing terminal punctuation
+- EST 8:11 — missing terminal punctuation
+- EST 9:3 — missing terminal punctuation
+- EST 9:6 — missing terminal punctuation
+- EST 9:7 — missing terminal punctuation
+- EST 9:8 — missing terminal punctuation
+- EST 9:9 — missing terminal punctuation
+- EST 9:20 — missing terminal punctuation
+- EST 9:26 — missing terminal punctuation
+- EST 9:27 — missing terminal punctuation
+- EST 9:30 — missing terminal punctuation
+- JOB 1:13 — missing terminal punctuation
+- JOB 1:14 — missing terminal punctuation
+- JOB 1:18 — missing terminal punctuation
+- JOB 1:20 — missing terminal punctuation
+- JOB 3:9 — missing terminal punctuation
+- JOB 3:13 — missing terminal punctuation
+- JOB 3:14 — missing terminal punctuation
+- JOB 3:20 — missing terminal punctuation
+- JOB 3:21 — missing terminal punctuation
+- JOB 4:3 — missing terminal punctuation
+- JOB 4:13 — missing terminal punctuation
+- JOB 4:18 — missing terminal punctuation
+- JOB 5:8 — missing terminal punctuation
+- JOB 6:15 — missing terminal punctuation
+- JOB 6:16 — missing terminal punctuation
+- JOB 6:17 — missing terminal punctuation
+- JOB 7:2 — missing terminal punctuation
+- JOB 7:13 — missing terminal punctuation
+- JOB 7:17 — missing terminal punctuation
+- JOB 8:5 — missing terminal punctuation
+- JOB 8:13 — missing terminal punctuation
+- JOB 8:16 — missing terminal punctuation
+- JOB 9:27 — missing terminal punctuation
+- JOB 9:30 — missing terminal punctuation
+- JOB 9:33 — missing terminal punctuation
+- JOB 10:5 — missing terminal punctuation
+- JOB 10:20 — missing terminal punctuation
+- JOB 10:21 — missing terminal punctuation
+- JOB 11:5 — missing terminal punctuation
+- JOB 11:13 — missing terminal punctuation
+- JOB 11:14 — missing terminal punctuation
+- JOB 11:15 — missing terminal punctuation
+- JOB 11:16 — missing terminal punctuation
+- JOB 12:7 — missing terminal punctuation
+- JOB 14:1 — missing terminal punctuation
+- JOB 14:8 — missing terminal punctuation
+- JOB 14:18 — missing terminal punctuation
+- JOB 15:12 — missing terminal punctuation
+- JOB 15:15 — missing terminal punctuation
+- JOB 15:18 — missing terminal punctuation
+- JOB 15:24 — missing terminal punctuation
+- JOB 15:25 — missing terminal punctuation
+- JOB 16:16 — missing terminal punctuation
+- JOB 19:5 — missing terminal punctuation
+- JOB 19:25 — missing terminal punctuation
+- JOB 19:26 — missing terminal punctuation
+- JOB 19:28 — missing terminal punctuation
+- JOB 20:6 — missing terminal punctuation
+- JOB 20:12 — missing terminal punctuation
+- JOB 20:19 — missing terminal punctuation
+- JOB 21:23 — missing terminal punctuation
+- JOB 22:10 — missing terminal punctuation
+- JOB 22:19 — missing terminal punctuation
+- JOB 22:23 — missing terminal punctuation
+- JOB 22:24 — missing terminal punctuation
+- JOB 23:8 — missing terminal punctuation
+- JOB 27:2 — missing terminal punctuation
+- JOB 27:3 — missing terminal punctuation
+- JOB 27:14 — missing terminal punctuation
+- JOB 27:16 — missing terminal punctuation
+- JOB 28:25 — missing terminal punctuation
+- JOB 28:26 — missing terminal punctuation
+- JOB 29:3 — missing terminal punctuation
+- JOB 29:4 — missing terminal punctuation
+- JOB 29:5 — missing terminal punctuation
+- JOB 29:7 — missing terminal punctuation
+- JOB 29:8 — missing terminal punctuation
+- JOB 29:9 — missing terminal punctuation
+- JOB 29:10 — missing terminal punctuation
+- JOB 31:5 — missing terminal punctuation
+- JOB 31:7 — missing terminal punctuation
+- JOB 31:9 — missing terminal punctuation
+- JOB 31:13 — missing terminal punctuation
+- JOB 31:16 — missing terminal punctuation
+- JOB 31:17 — missing terminal punctuation
+- JOB 31:18 — missing terminal punctuation
+- JOB 31:19 — missing terminal punctuation
+- JOB 31:20 — missing terminal punctuation
+- JOB 31:21 — missing terminal punctuation
+- JOB 31:24 — missing terminal punctuation
+- JOB 31:25 — missing terminal punctuation
+- JOB 31:26 — missing terminal punctuation
+- JOB 31:27 — missing terminal punctuation
+- JOB 31:29 — missing terminal punctuation
+- JOB 31:30 — missing terminal punctuation
+- JOB 31:33 — missing terminal punctuation
+- JOB 31:38 — missing terminal punctuation
+- JOB 31:39 — missing terminal punctuation
+- JOB 33:8 — missing terminal punctuation
+- JOB 33:16 — missing terminal punctuation
+- JOB 33:19 — missing terminal punctuation
+- JOB 33:23 — missing terminal punctuation
+- JOB 33:29 — missing terminal punctuation
+- JOB 34:14 — missing terminal punctuation
+- JOB 34:29 — missing terminal punctuation
+- JOB 34:31 — missing terminal punctuation
+- JOB 34:34 — missing terminal punctuation
+- JOB 35:10 — missing terminal punctuation
+- JOB 35:15 — missing terminal punctuation
+- JOB 36:8 — missing terminal punctuation
+- JOB 36:27 — missing terminal punctuation
+- JOB 37:2 — missing terminal punctuation
+- JOB 37:12 — missing terminal punctuation
+- JOB 38:6 — missing terminal punctuation
+- JOB 38:8 — missing terminal punctuation
+- JOB 38:9 — missing terminal punctuation
+- JOB 38:10 — missing terminal punctuation
+- JOB 38:12 — missing terminal punctuation
+- JOB 38:22 — missing terminal punctuation
+- JOB 38:25 — missing terminal punctuation
+- JOB 38:26 — missing terminal punctuation
+- JOB 38:39 — missing terminal punctuation
+- JOB 39:14 — missing terminal punctuation
+- JOB 39:21 — missing terminal punctuation
+- JOB 39:23 — missing terminal punctuation
+- PSA 2:9 — missing terminal punctuation
+- PSA 5:1 — missing terminal punctuation
+- PSA 7:3 — missing terminal punctuation
+- PSA 7:4 — missing terminal punctuation
+- PSA 8:3 — missing terminal punctuation
+- PSA 8:7 — missing terminal punctuation
+- PSA 10:17 — missing terminal punctuation
+- PSA 13:5 — missing terminal punctuation
+- PSA 15:2 — missing terminal punctuation
+- PSA 17:4 — missing terminal punctuation
+- PSA 17:8 — missing terminal punctuation
+- PSA 18:46 — missing terminal punctuation
+- PSA 18:47 — missing terminal punctuation
+- PSA 18:49 — missing terminal punctuation
+- PSA 22:15 — missing terminal punctuation
+- PSA 26:6 — missing terminal punctuation
+- PSA 26:9 — missing terminal punctuation
+- PSA 30:8 — missing terminal punctuation
+- PSA 38:19 — missing terminal punctuation
+- PSA 41:11 — missing terminal punctuation
+- PSA 43:1 — missing terminal punctuation
+- PSA 43:3 — missing terminal punctuation
+- PSA 44:14 — missing terminal punctuation
+- PSA 44:15 — missing terminal punctuation
+- PSA 46:8 — missing terminal punctuation
+- PSA 48:4 — missing terminal punctuation
+- PSA 50:9 — missing terminal punctuation
+- PSA 54:2 — missing terminal punctuation
+- PSA 55:2 — missing terminal punctuation
+- PSA 55:13 — missing terminal punctuation
+- PSA 56:12 — missing terminal punctuation
+- PSA 58:4 — missing terminal punctuation
+- PSA 59:2 — missing terminal punctuation
+- PSA 59:11 — missing terminal punctuation
+- PSA 63:5 — missing terminal punctuation
+- PSA 64:2 — missing terminal punctuation
+- PSA 66:8 — missing terminal punctuation
+- PSA 66:13 — missing terminal punctuation
+- PSA 68:7 — missing terminal punctuation
+- PSA 68:20 — missing terminal punctuation
+- PSA 69:8 — missing terminal punctuation
+- PSA 69:9 — missing terminal punctuation
+- PSA 69:25 — missing terminal punctuation
+- PSA 69:34 — missing terminal punctuation
+- PSA 71:4 — missing terminal punctuation
+- PSA 71:9 — missing terminal punctuation
+- PSA 71:10 — missing terminal punctuation
+- PSA 72:11 — missing terminal punctuation
+- PSA 73:5 — missing terminal punctuation
+- PSA 73:13 — missing terminal punctuation
+- PSA 73:20 — missing terminal punctuation
+- PSA 75:6 — missing terminal punctuation
+- PSA 76:8 — missing terminal punctuation
+- PSA 78:2 — missing terminal punctuation
+- PSA 78:5 — missing terminal punctuation
+- PSA 78:6 — missing terminal punctuation
+- PSA 78:7 — missing terminal punctuation
+- PSA 78:9 — missing terminal punctuation
+- PSA 78:21 — missing terminal punctuation
+- PSA 78:22 — missing terminal punctuation
+- PSA 78:23 — missing terminal punctuation
+- PSA 78:27 — missing terminal punctuation
+- PSA 78:38 — missing terminal punctuation
+- PSA 80:1 — missing terminal punctuation
+- PSA 80:14 — missing terminal punctuation
+- PSA 83:6 — missing terminal punctuation
+- PSA 83:9 — missing terminal punctuation
+- PSA 83:11 — missing terminal punctuation
+- PSA 83:13 — missing terminal punctuation
+- PSA 86:12 — missing terminal punctuation
+- PSA 89:30 — missing terminal punctuation
+- PSA 89:31 — missing terminal punctuation
+- PSA 89:32 — missing terminal punctuation
+- PSA 91:5 — missing terminal punctuation
+- PSA 91:8 — missing terminal punctuation
+- PSA 91:10 — missing terminal punctuation
+- PSA 92:1 — missing terminal punctuation
+- PSA 92:14 — missing terminal punctuation
+- PSA 94:12 — missing terminal punctuation
+- PSA 95:7 — missing terminal punctuation
+- PSA 95:8 — missing terminal punctuation
+- PSA 96:5 — missing terminal punctuation
+- PSA 96:12 — missing terminal punctuation
+- PSA 97:8 — missing terminal punctuation
+- PSA 98:5 — missing terminal punctuation
+- PSA 98:8 — missing terminal punctuation
+- PSA 99:3 — missing terminal punctuation
+- PSA 102:9 — missing terminal punctuation
+- PSA 102:15 — missing terminal punctuation
+- PSA 102:16 — missing terminal punctuation
+- PSA 102:18 — missing terminal punctuation
+- PSA 102:19 — missing terminal punctuation
+- PSA 103:2 — missing terminal punctuation
+- PSA 104:14 — missing terminal punctuation
+- PSA 105:8 — missing terminal punctuation
+- PSA 105:14 — missing terminal punctuation
+- PSA 105:16 — missing terminal punctuation
+- PSA 105:18 — missing terminal punctuation
+- PSA 105:21 — missing terminal punctuation
+- PSA 105:26 — missing terminal punctuation
+- PSA 105:34 — missing terminal punctuation
+- PSA 105:41 — missing terminal punctuation
+- PSA 105:44 — missing terminal punctuation
+- PSA 106:21 — missing terminal punctuation
+- PSA 106:26 — missing terminal punctuation
+- PSA 106:32 — missing terminal punctuation
+- PSA 106:34 — missing terminal punctuation
+- PSA 106:35 — missing terminal punctuation
+- PSA 106:37 — missing terminal punctuation
+- PSA 107:9 — missing terminal punctuation
+- PSA 107:10 — missing terminal punctuation
+- PSA 107:23 — missing terminal punctuation
+- PSA 107:31 — missing terminal punctuation
+- PSA 107:36 — missing terminal punctuation
+- PSA 107:39 — missing terminal punctuation
+- PSA 108:3 — missing terminal punctuation
+- PSA 108:5 — missing terminal punctuation
+- PSA 109:21 — missing terminal punctuation
+- PSA 109:26 — missing terminal punctuation
+- PSA 109:30 — missing terminal punctuation
+- PSA 113:5 — missing terminal punctuation
+- PSA 113:6 — missing terminal punctuation
+- PSA 113:7 — missing terminal punctuation
+- PSA 113:8 — missing terminal punctuation
+- PSA 114:1 — missing terminal punctuation
+- PSA 114:7 — missing terminal punctuation
+- PSA 115:5 — missing terminal punctuation
+- PSA 115:6 — missing terminal punctuation
+- PSA 116:18 — missing terminal punctuation
+- PSA 119:2 — missing terminal punctuation
+- PSA 122:3 — missing terminal punctuation
+- PSA 124:2 — missing terminal punctuation
+- PSA 132:3 — missing terminal punctuation
+- PSA 132:4 — missing terminal punctuation
+- PSA 132:13 — missing terminal punctuation
+- PSA 135:1 — missing terminal punctuation
+- PSA 135:3 — missing terminal punctuation
+- PSA 135:4 — missing terminal punctuation
+- PSA 139:9 — missing terminal punctuation
+- PSA 139:19 — missing terminal punctuation
+- PSA 140:1 — missing terminal punctuation
+- PSA 144:7 — missing terminal punctuation
+- PSA 146:5 — missing terminal punctuation
+- PSA 147:8 — missing terminal punctuation
+- PSA 147:14 — missing terminal punctuation
+- PSA 148:7 — missing terminal punctuation
+- PSA 149:6 — missing terminal punctuation
+- PSA 149:8 — missing terminal punctuation
+- PRO 1:2 — missing terminal punctuation
+- PRO 1:3 — missing terminal punctuation
+- PRO 1:15 — missing terminal punctuation
+- PRO 1:17 — missing terminal punctuation
+- PRO 1:24 — missing terminal punctuation
+- PRO 1:25 — missing terminal punctuation
+- PRO 1:27 — missing terminal punctuation
+- PRO 2:1 — missing terminal punctuation
+- PRO 2:2 — missing terminal punctuation
+- PRO 2:3 — missing terminal punctuation
+- PRO 2:4 — missing terminal punctuation
+- PRO 2:12 — missing terminal punctuation
+- PRO 2:13 — missing terminal punctuation
+- PRO 2:14 — missing terminal punctuation
+- PRO 2:16 — missing terminal punctuation
+- PRO 3:11 — missing terminal punctuation
+- PRO 5:10 — missing terminal punctuation
+- PRO 6:1 — missing terminal punctuation
+- PRO 6:2 — missing terminal punctuation
+- PRO 6:7 — missing terminal punctuation
+- PRO 6:10 — missing terminal punctuation
+- PRO 6:17 — missing terminal punctuation
+- PRO 6:18 — missing terminal punctuation
+- PRO 6:23 — missing terminal punctuation
+- PRO 6:30 — missing terminal punctuation
+- PRO 7:6 — missing terminal punctuation
+- PRO 7:7 — missing terminal punctuation
+- PRO 7:8 — missing terminal punctuation
+- PRO 8:20 — missing terminal punctuation
+- PRO 9:14 — missing terminal punctuation
+- PRO 21:25 — missing terminal punctuation
+- PRO 22:24 — missing terminal punctuation
+- PRO 23:1 — missing terminal punctuation
+- PRO 23:7 — missing terminal punctuation
+- PRO 23:10 — missing terminal punctuation
+- PRO 23:17 — missing terminal punctuation
+- PRO 23:31 — missing terminal punctuation
+- PRO 23:33 — missing terminal punctuation
+- PRO 24:1 — missing terminal punctuation
+- PRO 24:3 — missing terminal punctuation
+- PRO 24:5 — missing terminal punctuation
+- PRO 24:11 — missing terminal punctuation
+- PRO 24:15 — missing terminal punctuation
+- PRO 24:17 — missing terminal punctuation
+- PRO 24:19 — missing terminal punctuation
+- PRO 24:21 — missing terminal punctuation
+- PRO 24:30 — missing terminal punctuation
+- PRO 24:33 — missing terminal punctuation
+- PRO 25:6 — missing terminal punctuation
+- PRO 25:21 — missing terminal punctuation
+- PRO 26:18 — missing terminal punctuation
+- PRO 26:24 — missing terminal punctuation
+- PRO 26:25 — missing terminal punctuation
+- PRO 27:15 — missing terminal punctuation
+- PRO 27:25 — missing terminal punctuation
+- PRO 27:26 — missing terminal punctuation
+- PRO 30:11 — missing terminal punctuation
+- PRO 30:12 — missing terminal punctuation
+- PRO 30:13 — missing terminal punctuation
+- PRO 30:22 — missing terminal punctuation
+- PRO 30:25 — missing terminal punctuation
+- PRO 30:26 — missing terminal punctuation
+- PRO 30:27 — missing terminal punctuation
+- PRO 30:30 — missing terminal punctuation
+- PRO 30:32 — missing terminal punctuation
+- PRO 31:6 — missing terminal punctuation
+- ECC 3:12 — missing terminal punctuation
+- ECC 7:1 — missing terminal punctuation
+- ECC 7:5 — missing terminal punctuation
+- ECC 7:11 — missing terminal punctuation
+- ECC 7:21 — missing terminal punctuation
+- ECC 8:16 — missing terminal punctuation
+- ECC 12:1 — missing terminal punctuation
+- ECC 12:3 — missing terminal punctuation
+- ECC 12:5 — missing terminal punctuation
+- SNG 1:4 — missing terminal punctuation
+- SNG 1:13 — missing terminal punctuation
+- SNG 3:7 — missing terminal punctuation
+- SNG 6:8 — missing terminal punctuation
+- ISA 1:29 — missing terminal punctuation
+- ISA 3:1 — missing terminal punctuation
+- ISA 3:2 — missing terminal punctuation
+- ISA 3:16 — missing terminal punctuation
+- ISA 3:18 — missing terminal punctuation
+- ISA 3:19 — missing terminal punctuation
+- ISA 3:20 — missing terminal punctuation
+- ISA 3:21 — missing terminal punctuation
+- ISA 3:22 — missing terminal punctuation
+- ISA 4:3 — missing terminal punctuation
+- ISA 5:1 — missing terminal punctuation
+- ISA 5:5 — missing terminal punctuation
+- ISA 8:6 — missing terminal punctuation
+- ISA 8:7 — missing terminal punctuation
+- ISA 9:3 — missing terminal punctuation
+- ISA 10:1 — missing terminal punctuation
+- ISA 10:6 — missing terminal punctuation
+- ISA 10:10 — missing terminal punctuation
+- ISA 14:3 — missing terminal punctuation
+- ISA 14:5 — missing terminal punctuation
+- ISA 17:4 — missing terminal punctuation
+- ISA 17:7 — missing terminal punctuation
+- ISA 17:9 — missing terminal punctuation
+- ISA 18:1 — missing terminal punctuation
+- ISA 19:1 — missing terminal punctuation
+- ISA 19:24 — missing terminal punctuation
+- ISA 20:1 — missing terminal punctuation
+- ISA 21:14 — missing terminal punctuation
+- ISA 22:15 — missing terminal punctuation
+- ISA 24:4 — missing terminal punctuation
+- ISA 28:5 — missing terminal punctuation
+- ISA 28:7 — missing terminal punctuation
+- ISA 28:11 — missing terminal punctuation
+- ISA 28:14 — missing terminal punctuation
+- ISA 28:17 — missing terminal punctuation
+- ISA 29:13 — missing terminal punctuation
+- ISA 29:22 — missing terminal punctuation
+- ISA 30:4 — missing terminal punctuation
+- ISA 32:5 — missing terminal punctuation
+- ISA 32:12 — missing terminal punctuation
+- ISA 32:14 — missing terminal punctuation
+- ISA 34:7 — missing terminal punctuation
+- ISA 36:16 — missing terminal punctuation
+- ISA 37:5 — missing terminal punctuation
+- ISA 37:18 — missing terminal punctuation
+- ISA 37:21 — missing terminal punctuation
+- ISA 37:34 — missing terminal punctuation
+- ISA 38:2 — missing terminal punctuation
+- ISA 40:30 — missing terminal punctuation
+- ISA 41:8 — missing terminal punctuation
+- ISA 41:19 — missing terminal punctuation
+- ISA 42:6 — missing terminal punctuation
+- ISA 43:6 — missing terminal punctuation
+- ISA 43:16 — missing terminal punctuation
+- ISA 43:18 — missing terminal punctuation
+- ISA 44:3 — missing terminal punctuation
+- ISA 44:24 — missing terminal punctuation
+- ISA 44:25 — missing terminal punctuation
+- ISA 45:2 — missing terminal punctuation
+- ISA 45:5 — missing terminal punctuation
+- ISA 45:23 — missing terminal punctuation
+- ISA 46:9 — missing terminal punctuation
+- ISA 49:1 — missing terminal punctuation
+- ISA 49:8 — missing terminal punctuation
+- ISA 50:6 — missing terminal punctuation
+- ISA 51:12 — missing terminal punctuation
+- ISA 54:2 — missing terminal punctuation
+- ISA 55:10 — missing terminal punctuation
+- ISA 56:4 — missing terminal punctuation
+- ISA 56:6 — missing terminal punctuation
+- ISA 58:13 — missing terminal punctuation
+- ISA 59:4 — missing terminal punctuation
+- ISA 59:12 — missing terminal punctuation
+- ISA 62:6 — missing terminal punctuation
+- ISA 63:7 — missing terminal punctuation
+- ISA 63:12 — missing terminal punctuation
+- ISA 64:1 — missing terminal punctuation
+- ISA 65:3 — missing terminal punctuation
+- ISA 65:6 — missing terminal punctuation
+- ISA 65:11 — missing terminal punctuation
+- ISA 66:10 — missing terminal punctuation
+- JER 2:8 — missing terminal punctuation
+- JER 2:10 — missing terminal punctuation
+- JER 2:15 — missing terminal punctuation
+- JER 2:26 — missing terminal punctuation
+- JER 3:7 — missing terminal punctuation
+- JER 3:14 — missing terminal punctuation
+- JER 4:11 — missing terminal punctuation
+- JER 6:18 — missing terminal punctuation
+- JER 7:5 — missing terminal punctuation
+- JER 7:6 — missing terminal punctuation
+- JER 7:9 — missing terminal punctuation
+- JER 7:13 — missing terminal punctuation
+- JER 7:22 — missing terminal punctuation
+- JER 8:1 — missing terminal punctuation
+- JER 9:13 — missing terminal punctuation
+- JER 10:17 — missing terminal punctuation
+- JER 10:20 — missing terminal punctuation
+- JER 11:3 — missing terminal punctuation
+- JER 11:4 — missing terminal punctuation
+- JER 11:6 — missing terminal punctuation
+- JER 11:21 — missing terminal punctuation
+- JER 11:22 — missing terminal punctuation
+- JER 13:9 — missing terminal punctuation
+- JER 13:13 — missing terminal punctuation
+- JER 13:26 — missing terminal punctuation
+- JER 14:15 — missing terminal punctuation
+- JER 15:13 — missing terminal punctuation
+- JER 16:6 — missing terminal punctuation
+- JER 16:8 — missing terminal punctuation
+- JER 16:11 — missing terminal punctuation
+- JER 16:14 — missing terminal punctuation
+- JER 17:1 — missing terminal punctuation
+- JER 17:5 — missing terminal punctuation
+- JER 17:7 — missing terminal punctuation
+- JER 17:19 — missing terminal punctuation
+- JER 17:20 — missing terminal punctuation
+- JER 17:21 — missing terminal punctuation
+- JER 17:22 — missing terminal punctuation
+- JER 17:24 — missing terminal punctuation
+- JER 18:7 — missing terminal punctuation
+- JER 18:9 — missing terminal punctuation
+- JER 18:15 — missing terminal punctuation
+- JER 19:1 — missing terminal punctuation
+- JER 19:4 — missing terminal punctuation
+- JER 19:7 — missing terminal punctuation
+- JER 19:10 — missing terminal punctuation
+- JER 20:16 — missing terminal punctuation
+- JER 22:1 — missing terminal punctuation
+- JER 22:11 — missing terminal punctuation
+- JER 22:24 — missing terminal punctuation
+- JER 23:7 — missing terminal punctuation
+- JER 23:38 — missing terminal punctuation
+- JER 23:39 — missing terminal punctuation
+- JER 25:1 — missing terminal punctuation
+- JER 25:4 — missing terminal punctuation
+- JER 25:5 — missing terminal punctuation
+- JER 25:8 — missing terminal punctuation
+- JER 25:18 — missing terminal punctuation
+- JER 25:19 — missing terminal punctuation
+- JER 25:20 — missing terminal punctuation
+- JER 25:21 — missing terminal punctuation
+- JER 25:22 — missing terminal punctuation
+- JER 25:24 — missing terminal punctuation
+- JER 25:25 — missing terminal punctuation
+- JER 25:28 — missing terminal punctuation
+- JER 26:4 — missing terminal punctuation
+- JER 26:5 — missing terminal punctuation
+- JER 26:8 — missing terminal punctuation
+- JER 26:20 — missing terminal punctuation
+- JER 26:21 — missing terminal punctuation
+- JER 26:22 — missing terminal punctuation
+- JER 27:2 — missing terminal punctuation
+- JER 27:19 — missing terminal punctuation
+- JER 27:20 — missing terminal punctuation
+- JER 28:3 — missing terminal punctuation
+- JER 28:10 — missing terminal punctuation
+- JER 29:1 — missing terminal punctuation
+- JER 29:2 — missing terminal punctuation
+- JER 29:12 — missing terminal punctuation
+- JER 29:16 — missing terminal punctuation
+- JER 29:18 — missing terminal punctuation
+- JER 29:31 — missing terminal punctuation
+- JER 30:2 — missing terminal punctuation
+- JER 30:4 — missing terminal punctuation
+- JER 31:31 — missing terminal punctuation
+- JER 32:2 — missing terminal punctuation
+- JER 32:3 — missing terminal punctuation
+- JER 32:4 — missing terminal punctuation
+- JER 32:17 — missing terminal punctuation
+- JER 32:18 — missing terminal punctuation
+- JER 32:19 — missing terminal punctuation
+- JER 32:20 — missing terminal punctuation
+- JER 32:21 — missing terminal punctuation
+- JER 32:28 — missing terminal punctuation
+- JER 32:29 — missing terminal punctuation
+- JER 32:31 — missing terminal punctuation
+- JER 32:33 — missing terminal punctuation
+- JER 32:37 — missing terminal punctuation
+- JER 33:10 — missing terminal punctuation
+- JER 33:17 — missing terminal punctuation
+- JER 33:20 — missing terminal punctuation
+- JER 33:25 — missing terminal punctuation
+- JER 34:2 — missing terminal punctuation
+- JER 34:4 — missing terminal punctuation
+- JER 34:6 — missing terminal punctuation
+- JER 34:8 — missing terminal punctuation
+- JER 34:19 — missing terminal punctuation
+- JER 35:3 — missing terminal punctuation
+- JER 35:6 — missing terminal punctuation
+- JER 35:8 — missing terminal punctuation
+- JER 35:16 — missing terminal punctuation
+- JER 35:18 — missing terminal punctuation
+- JER 36:5 — missing terminal punctuation
+- JER 36:11 — missing terminal punctuation
+- JER 36:22 — missing terminal punctuation
+- JER 36:25 — missing terminal punctuation
+- JER 37:11 — missing terminal punctuation
+- JER 37:16 — missing terminal punctuation
+- JER 38:7 — missing terminal punctuation
+- JER 38:17 — missing terminal punctuation
+- JER 39:2 — missing terminal punctuation
+- JER 39:9 — missing terminal punctuation
+- JER 39:13 — missing terminal punctuation
+- JER 40:2 — missing terminal punctuation
+- JER 40:7 — missing terminal punctuation
+- JER 40:13 — missing terminal punctuation
+- JER 41:4 — missing terminal punctuation
+- JER 41:11 — missing terminal punctuation
+- JER 41:17 — missing terminal punctuation
+- JER 42:1 — missing terminal punctuation
+- JER 42:2 — missing terminal punctuation
+- JER 42:8 — missing terminal punctuation
+- JER 42:11 — missing terminal punctuation
+- JER 42:13 — missing terminal punctuation
+- JER 42:14 — missing terminal punctuation
+- JER 42:15 — missing terminal punctuation
+- JER 43:1 — missing terminal punctuation
+- JER 43:4 — missing terminal punctuation
+- JER 43:6 — missing terminal punctuation
+- JER 43:9 — missing terminal punctuation
+- JER 44:2 — missing terminal punctuation
+- JER 44:7 — missing terminal punctuation
+- JER 44:16 — missing terminal punctuation
+- JER 47:2 — missing terminal punctuation
+- JER 48:20 — missing terminal punctuation
+- JER 48:21 — missing terminal punctuation
+- JER 48:22 — missing terminal punctuation
+- JER 48:23 — missing terminal punctuation
+- JER 48:36 — missing terminal punctuation
+- JER 50:11 — missing terminal punctuation
+- JER 51:15 — missing terminal punctuation
+- JER 51:20 — missing terminal punctuation
+- JER 51:21 — missing terminal punctuation
+- JER 51:22 — missing terminal punctuation
+- JER 51:31 — missing terminal punctuation
+- JER 51:61 — missing terminal punctuation
+- JER 51:63 — missing terminal punctuation
+- JER 52:6 — missing terminal punctuation
+- JER 52:12 — missing terminal punctuation
+- JER 52:18 — missing terminal punctuation
+- JER 52:29 — missing terminal punctuation
+- JER 52:31 — missing terminal punctuation
+- LAM 3:34 — missing terminal punctuation
+- LAM 3:35 — missing terminal punctuation
+- LAM 3:41 — missing terminal punctuation
+- LAM 3:49 — missing terminal punctuation
+- LAM 3:61 — missing terminal punctuation
+- LAM 4:7 — missing terminal punctuation
+- LAM 5:17 — missing terminal punctuation
+- LAM 5:21 — missing terminal punctuation
+- EZK 1:4 — missing terminal punctuation
+- EZK 1:10 — missing terminal punctuation
+- EZK 1:27 — missing terminal punctuation
+- EZK 3:26 — missing terminal punctuation
+- EZK 4:1 — missing terminal punctuation
+- EZK 5:7 — missing terminal punctuation
+- EZK 7:20 — missing terminal punctuation
+- EZK 9:3 — missing terminal punctuation
+- EZK 11:2 — missing terminal punctuation
+- EZK 11:19 — missing terminal punctuation
+- EZK 12:18 — missing terminal punctuation
+- EZK 13:10 — missing terminal punctuation
+- EZK 13:15 — missing terminal punctuation
+- EZK 13:17 — missing terminal punctuation
+- EZK 13:22 — missing terminal punctuation
+- EZK 14:10 — missing terminal punctuation
+- EZK 14:13 — missing terminal punctuation
+- EZK 14:15 — missing terminal punctuation
+- EZK 14:17 — missing terminal punctuation
+- EZK 14:19 — missing terminal punctuation
+- EZK 16:2 — missing terminal punctuation
+- EZK 16:9 — missing terminal punctuation
+- EZK 16:11 — missing terminal punctuation
+- EZK 16:23 — missing terminal punctuation
+- EZK 16:30 — missing terminal punctuation
+- EZK 16:31 — missing terminal punctuation
+- EZK 16:36 — missing terminal punctuation
+- EZK 16:53 — missing terminal punctuation
+- EZK 16:56 — missing terminal punctuation
+- EZK 16:62 — missing terminal punctuation
+- EZK 17:13 — missing terminal punctuation
+- EZK 17:22 — missing terminal punctuation
+- EZK 18:5 — missing terminal punctuation
+- EZK 18:6 — missing terminal punctuation
+- EZK 18:7 — missing terminal punctuation
+- EZK 18:8 — missing terminal punctuation
+- EZK 18:10 — missing terminal punctuation
+- EZK 18:11 — missing terminal punctuation
+- EZK 18:12 — missing terminal punctuation
+- EZK 18:14 — missing terminal punctuation
+- EZK 18:15 — missing terminal punctuation
+- EZK 18:16 — missing terminal punctuation
+- EZK 18:27 — missing terminal punctuation
+- EZK 20:4 — missing terminal punctuation
+- EZK 20:5 — missing terminal punctuation
+- EZK 20:6 — missing terminal punctuation
+- EZK 20:10 — missing terminal punctuation
+- EZK 20:15 — missing terminal punctuation
+- EZK 20:17 — missing terminal punctuation
+- EZK 20:19 — missing terminal punctuation
+- EZK 20:23 — missing terminal punctuation
+- EZK 20:25 — missing terminal punctuation
+- EZK 20:33 — missing terminal punctuation
+- EZK 20:34 — missing terminal punctuation
+- EZK 20:35 — missing terminal punctuation
+- EZK 20:37 — missing terminal punctuation
+- EZK 21:2 — missing terminal punctuation
+- EZK 21:7 — missing terminal punctuation
+- EZK 21:9 — missing terminal punctuation
+- EZK 21:14 — missing terminal punctuation
+- EZK 21:25 — missing terminal punctuation
+- EZK 21:28 — missing terminal punctuation
+- EZK 23:2 — missing terminal punctuation
+- EZK 23:5 — missing terminal punctuation
+- EZK 23:14 — missing terminal punctuation
+- EZK 23:28 — missing terminal punctuation
+- EZK 23:38 — missing terminal punctuation
+- EZK 23:40 — missing terminal punctuation
+- EZK 23:46 — missing terminal punctuation
+- EZK 24:3 — missing terminal punctuation
+- EZK 24:9 — missing terminal punctuation
+- EZK 24:10 — missing terminal punctuation
+- EZK 24:22 — missing terminal punctuation
+- EZK 24:25 — missing terminal punctuation
+- EZK 25:3 — missing terminal punctuation
+- EZK 25:6 — missing terminal punctuation
+- EZK 25:8 — missing terminal punctuation
+- EZK 25:9 — missing terminal punctuation
+- EZK 25:12 — missing terminal punctuation
+- EZK 25:15 — missing terminal punctuation
+- EZK 26:2 — missing terminal punctuation
+- EZK 26:19 — missing terminal punctuation
+- EZK 28:2 — missing terminal punctuation
+- EZK 28:3 — missing terminal punctuation
+- EZK 28:4 — missing terminal punctuation
+- EZK 28:6 — missing terminal punctuation
+- EZK 28:21 — missing terminal punctuation
+- EZK 29:13 — missing terminal punctuation
+- EZK 31:10 — missing terminal punctuation
+- EZK 31:13 — missing terminal punctuation
+- EZK 33:2 — missing terminal punctuation
+- EZK 33:3 — missing terminal punctuation
+- EZK 33:14 — missing terminal punctuation
+- EZK 34:8 — missing terminal punctuation
+- EZK 34:20 — missing terminal punctuation
+- EZK 34:28 — missing terminal punctuation
+- EZK 35:2 — missing terminal punctuation
+- EZK 35:10 — missing terminal punctuation
+- EZK 36:3 — missing terminal punctuation
+- EZK 36:13 — missing terminal punctuation
+- EZK 36:34 — missing terminal punctuation
+- EZK 37:20 — missing terminal punctuation
+- EZK 37:21 — missing terminal punctuation
+- EZK 37:22 — missing terminal punctuation
+- EZK 38:4 — missing terminal punctuation
+- EZK 38:5 — missing terminal punctuation
+- EZK 38:10 — missing terminal punctuation
+- EZK 38:11 — missing terminal punctuation
+- EZK 38:15 — missing terminal punctuation
+- EZK 38:19 — missing terminal punctuation
+- EZK 39:1 — missing terminal punctuation
+- EZK 39:2 — missing terminal punctuation
+- EZK 39:26 — missing terminal punctuation
+- EZK 40:32 — missing terminal punctuation
+- EZK 40:35 — missing terminal punctuation
+- EZK 41:13 — missing terminal punctuation
+- EZK 41:16 — missing terminal punctuation
+- EZK 43:1 — missing terminal punctuation
+- EZK 43:23 — missing terminal punctuation
+- EZK 47:15 — missing terminal punctuation
+- DAN 1:3 — missing terminal punctuation
+- DAN 1:6 — missing terminal punctuation
+- DAN 2:17 — missing terminal punctuation
+- DAN 2:21 — missing terminal punctuation
+- DAN 2:27 — missing terminal punctuation
+- DAN 2:32 — missing terminal punctuation
+- DAN 3:4 — missing terminal punctuation
+- DAN 3:10 — missing terminal punctuation
+- DAN 3:11 — missing terminal punctuation
+- DAN 4:1 — missing terminal punctuation
+- DAN 4:20 — missing terminal punctuation
+- DAN 4:21 — missing terminal punctuation
+- DAN 4:23 — missing terminal punctuation
+- DAN 4:28 — missing terminal punctuation
+- DAN 4:29 — missing terminal punctuation
+- DAN 4:31 — missing terminal punctuation
+- DAN 5:18 — missing terminal punctuation
+- DAN 5:22 — missing terminal punctuation
+- DAN 5:23 — missing terminal punctuation
+- DAN 7:19 — missing terminal punctuation
+- DAN 7:21 — missing terminal punctuation
+- DAN 7:26 — missing terminal punctuation
+- DAN 8:5 — missing terminal punctuation
+- DAN 9:1 — missing terminal punctuation
+- DAN 9:4 — missing terminal punctuation
+- DAN 9:9 — missing terminal punctuation
+- DAN 9:20 — missing terminal punctuation
+- DAN 9:24 — missing terminal punctuation
+- DAN 10:4 — missing terminal punctuation
+- DAN 10:5 — missing terminal punctuation
+- DAN 10:14 — missing terminal punctuation
+- DAN 10:18 — missing terminal punctuation
+- DAN 11:8 — missing terminal punctuation
+- HOS 2:2 — missing terminal punctuation
+- HOS 2:21 — missing terminal punctuation
+- HOS 3:2 — missing terminal punctuation
+- HOS 4:10 — missing terminal punctuation
+- JOL 3:2 — missing terminal punctuation
+- JOL 3:5 — missing terminal punctuation
+- AMO 2:6 — missing terminal punctuation
+- AMO 2:11 — missing terminal punctuation
+- AMO 2:13 — missing terminal punctuation
+- AMO 2:14 — missing terminal punctuation
+- AMO 3:13 — missing terminal punctuation
+- AMO 4:7 — missing terminal punctuation
+- AMO 5:4 — missing terminal punctuation
+- AMO 6:3 — missing terminal punctuation
+- AMO 6:4 — missing terminal punctuation
+- AMO 6:5 — missing terminal punctuation
+- AMO 7:12 — missing terminal punctuation
+- AMO 8:4 — missing terminal punctuation
+- AMO 8:5 — missing terminal punctuation
+- AMO 9:11 — missing terminal punctuation
+- OBA 1:12 — missing terminal punctuation
+- JON 2:1 — missing terminal punctuation
+- JON 3:7 — missing terminal punctuation
+- JON 4:10 — missing terminal punctuation
+- MIC 3:2 — missing terminal punctuation
+- MIC 3:5 — missing terminal punctuation
+- MIC 3:9 — missing terminal punctuation
+- MIC 3:10 — missing terminal punctuation
+- MIC 5:5 — missing terminal punctuation
+- MIC 5:13 — missing terminal punctuation
+- HAB 3:17 — missing terminal punctuation
+- ZEP 1:4 — missing terminal punctuation
+- ZEP 1:5 — missing terminal punctuation
+- ZEP 2:1 — missing terminal punctuation
+- HAG 1:14 — missing terminal punctuation
+- HAG 2:6 — missing terminal punctuation
+- HAG 2:15 — missing terminal punctuation
+- HAG 2:21 — missing terminal punctuation
+- ZEC 1:14 — missing terminal punctuation
+- ZEC 2:3 — missing terminal punctuation
+- ZEC 4:2 — missing terminal punctuation
+- ZEC 6:2 — missing terminal punctuation
+- ZEC 6:10 — missing terminal punctuation
+- ZEC 6:11 — missing terminal punctuation
+- ZEC 6:12 — missing terminal punctuation
+- ZEC 7:1 — missing terminal punctuation
+- ZEC 7:2 — missing terminal punctuation
+- ZEC 7:9 — missing terminal punctuation
+- ZEC 7:13 — missing terminal punctuation
+- ZEC 8:14 — missing terminal punctuation
+- ZEC 8:17 — missing terminal punctuation
+- ZEC 8:20 — missing terminal punctuation
+- ZEC 9:6 — missing terminal punctuation
+- ZEC 11:4 — missing terminal punctuation
+- ZEC 11:15 — missing terminal punctuation
+- ZEC 12:9 — missing terminal punctuation
+- ZEC 12:12 — missing terminal punctuation
+- ZEC 12:13 — missing terminal punctuation
+- ZEC 13:4 — missing terminal punctuation
+- MAL 1:2 — missing terminal punctuation
+- MAT 2:1 — missing terminal punctuation
+- MAT 2:14 — missing terminal punctuation
+- MAT 2:19 — missing terminal punctuation
+- MAT 2:22 — missing terminal punctuation
+- MAT 3:1 — missing terminal punctuation
+- MAT 3:5 — missing terminal punctuation
+- MAT 4:5 — missing terminal punctuation
+- MAT 4:8 — missing terminal punctuation
+- MAT 4:15 — missing terminal punctuation
+- MAT 5:14 — missing terminal punctuation
+- MAT 5:23 — missing terminal punctuation
+- MAT 5:34 — missing terminal punctuation
+- MAT 5:44 — missing terminal punctuation
+- MAT 6:3 — missing terminal punctuation
+- MAT 6:14 — missing terminal punctuation
+- MAT 6:17 — missing terminal punctuation
+- MAT 6:19 — missing terminal punctuation
+- MAT 7:7 — missing terminal punctuation
+- MAT 8:5 — missing terminal punctuation
+- MAT 8:16 — missing terminal punctuation
+- MAT 9:20 — missing terminal punctuation
+- MAT 9:23 — missing terminal punctuation
+- MAT 10:2 — missing terminal punctuation
+- MAT 10:3 — missing terminal punctuation
+- MAT 10:9 — missing terminal punctuation
+- MAT 10:17 — missing terminal punctuation
+- MAT 10:37 — missing terminal punctuation
+- MAT 11:2 — missing terminal punctuation
+- MAT 11:5 — missing terminal punctuation
+- MAT 11:9 — missing terminal punctuation
+- MAT 11:16 — missing terminal punctuation
+- MAT 12:3 — missing terminal punctuation
+- MAT 12:16 — missing terminal punctuation
+- MAT 12:49 — missing terminal punctuation
+- MAT 13:2 — missing terminal punctuation
+- MAT 13:24 — missing terminal punctuation
+- MAT 16:4 — missing terminal punctuation
+- MAT 19:11 — missing terminal punctuation
+- MAT 21:6 — missing terminal punctuation
+- MAT 25:24 — missing terminal punctuation
+- MRK 1:16 — missing terminal punctuation
+- MRK 3:16 — missing terminal punctuation
+- MRK 4:3 — missing terminal punctuation
+- MRK 8:16 — missing terminal punctuation
+- MRK 9:30 — missing terminal punctuation
+- MRK 12:43 — missing terminal punctuation
+- MRK 15:42 — missing terminal punctuation
+- LUK 1:70 — missing terminal punctuation
+- LUK 2:27 — missing terminal punctuation
+- LUK 2:31 — missing terminal punctuation
+- LUK 2:34 — missing terminal punctuation
+- LUK 2:42 — missing terminal punctuation
+- LUK 2:47 — missing terminal punctuation
+- LUK 3:15 — missing terminal punctuation
+- LUK 5:17 — missing terminal punctuation
+- LUK 7:33 — missing terminal punctuation
+- LUK 10:32 — missing terminal punctuation
+- LUK 10:41 — missing terminal punctuation
+- LUK 11:37 — missing terminal punctuation
+- LUK 11:49 — missing terminal punctuation
+- LUK 11:50 — missing terminal punctuation
+- LUK 12:45 — missing terminal punctuation
+- LUK 13:8 — missing terminal punctuation
+- LUK 14:8 — missing terminal punctuation
+- LUK 14:29 — missing terminal punctuation
+- LUK 18:4 — missing terminal punctuation
+- LUK 18:29 — missing terminal punctuation
+- LUK 18:40 — missing terminal punctuation
+- LUK 19:13 — missing terminal punctuation
+- LUK 19:22 — missing terminal punctuation
+- LUK 19:29 — missing terminal punctuation
+- LUK 19:37 — missing terminal punctuation
+- LUK 19:41 — missing terminal punctuation
+- LUK 19:45 — missing terminal punctuation
+- LUK 20:27 — missing terminal punctuation
+- LUK 20:30 — missing terminal punctuation
+- LUK 20:42 — missing terminal punctuation
+- LUK 21:3 — missing terminal punctuation
+- LUK 21:14 — missing terminal punctuation
+- LUK 21:29 — missing terminal punctuation
+- LUK 22:25 — missing terminal punctuation
+- LUK 22:31 — missing terminal punctuation
+- LUK 22:41 — missing terminal punctuation
+- LUK 22:63 — missing terminal punctuation
+- LUK 22:66 — missing terminal punctuation
+- LUK 23:9 — missing terminal punctuation
+- LUK 23:36 — missing terminal punctuation
+- LUK 24:6 — missing terminal punctuation
+- LUK 24:22 — missing terminal punctuation
+- LUK 24:33 — missing terminal punctuation
+- LUK 24:46 — missing terminal punctuation
+- LUK 24:52 — missing terminal punctuation
+- JHN 1:26 — missing terminal punctuation
+- JHN 2:9 — missing terminal punctuation
+- JHN 3:14 — missing terminal punctuation
+- JHN 3:17 — missing terminal punctuation
+- JHN 3:23 — missing terminal punctuation
+- JHN 4:1 — missing terminal punctuation
+- JHN 4:2 — missing terminal punctuation
+- JHN 4:13 — missing terminal punctuation
+- JHN 5:22 — missing terminal punctuation
+- JHN 6:22 — missing terminal punctuation
+- JHN 6:38 — missing terminal punctuation
+- JHN 6:68 — missing terminal punctuation
+- JHN 8:3 — missing terminal punctuation
+- JHN 9:20 — missing terminal punctuation
+- JHN 10:35 — missing terminal punctuation
+- JHN 11:49 — missing terminal punctuation
+- JHN 12:10 — missing terminal punctuation
+- JHN 12:12 — missing terminal punctuation
+- JHN 13:3 — missing terminal punctuation
+- JHN 13:4 — missing terminal punctuation
+- JHN 13:13 — missing terminal punctuation
+- JHN 14:16 — missing terminal punctuation
+- JHN 16:9 — missing terminal punctuation
+- JHN 16:10 — missing terminal punctuation
+- JHN 20:30 — missing terminal punctuation
+- ACT 1:1 — missing terminal punctuation
+- ACT 1:2 — missing terminal punctuation
+- ACT 1:10 — missing terminal punctuation
+- ACT 1:21 — missing terminal punctuation
+- ACT 2:9 — missing terminal punctuation
+- ACT 2:10 — missing terminal punctuation
+- ACT 2:17 — missing terminal punctuation
+- ACT 2:19 — missing terminal punctuation
+- ACT 2:22 — missing terminal punctuation
+- ACT 2:23 — missing terminal punctuation
+- ACT 2:24 — missing terminal punctuation
+- ACT 2:30 — missing terminal punctuation
+- ACT 2:34 — missing terminal punctuation
+- ACT 3:1 — missing terminal punctuation
+- ACT 4:1 — missing terminal punctuation
+- ACT 4:5 — missing terminal punctuation
+- ACT 4:8 — missing terminal punctuation
+- ACT 4:9 — missing terminal punctuation
+- ACT 4:15 — missing terminal punctuation
+- ACT 4:19 — missing terminal punctuation
+- ACT 4:24 — missing terminal punctuation
+- ACT 4:29 — missing terminal punctuation
+- ACT 4:36 — missing terminal punctuation
+- ACT 5:22 — missing terminal punctuation
+- ACT 5:35 — missing terminal punctuation
+- ACT 7:2 — missing terminal punctuation
+- ACT 7:15 — missing terminal punctuation
+- ACT 7:31 — missing terminal punctuation
+- ACT 7:38 — missing terminal punctuation
+- ACT 7:39 — missing terminal punctuation
+- ACT 7:45 — missing terminal punctuation
+- ACT 7:52 — missing terminal punctuation
+- ACT 7:57 — missing terminal punctuation
+- ACT 8:9 — missing terminal punctuation
+- ACT 8:18 — missing terminal punctuation
+- ACT 8:22 — missing terminal punctuation
+- ACT 8:27 — missing terminal punctuation
+- ACT 9:13 — missing terminal punctuation
+- ACT 9:15 — missing terminal punctuation
+- ACT 9:28 — missing terminal punctuation
+- ACT 10:1 — missing terminal punctuation
+- ACT 10:11 — missing terminal punctuation
+- ACT 10:40 — missing terminal punctuation
+- ACT 11:2 — missing terminal punctuation
+- ACT 11:13 — missing terminal punctuation
+- ACT 13:23 — missing terminal punctuation
+- ACT 14:9 — missing terminal punctuation
+- ACT 14:14 — missing terminal punctuation
+- ACT 14:21 — missing terminal punctuation
+- ACT 15:4 — missing terminal punctuation
+- ACT 15:16 — missing terminal punctuation
+- ACT 15:24 — missing terminal punctuation
+- ACT 16:20 — missing terminal punctuation
+- ACT 17:22 — missing terminal punctuation
+- ACT 17:23 — missing terminal punctuation
+- ACT 17:25 — missing terminal punctuation
+- ACT 17:26 — missing terminal punctuation
+- ACT 18:12 — missing terminal punctuation
+- ACT 18:14 — missing terminal punctuation
+- ACT 19:1 — missing terminal punctuation
+- ACT 19:11 — missing terminal punctuation
+- ACT 19:36 — missing terminal punctuation
+- ACT 20:18 — missing terminal punctuation
+- ACT 20:19 — missing terminal punctuation
+- ACT 20:20 — missing terminal punctuation
+- ACT 20:22 — missing terminal punctuation
+- ACT 20:26 — missing terminal punctuation
+- ACT 20:27 — missing terminal punctuation
+- ACT 20:29 — missing terminal punctuation
+- ACT 20:37 — missing terminal punctuation
+- ACT 21:10 — missing terminal punctuation
+- ACT 21:27 — missing terminal punctuation
+- ACT 22:12 — missing terminal punctuation
+- ACT 22:17 — missing terminal punctuation
+- ACT 22:23 — missing terminal punctuation
+- ACT 23:7 — missing terminal punctuation
+- ACT 23:20 — missing terminal punctuation
+- ACT 24:6 — missing terminal punctuation
+- ACT 24:14 — missing terminal punctuation
+- ACT 24:18 — missing terminal punctuation
+- ACT 24:20 — missing terminal punctuation
+- ACT 25:2 — missing terminal punctuation
+- ACT 25:14 — missing terminal punctuation
+- ACT 26:2 — missing terminal punctuation
+- ACT 26:4 — missing terminal punctuation
+- ACT 26:11 — missing terminal punctuation
+- ACT 26:12 — missing terminal punctuation
+- ACT 26:16 — missing terminal punctuation
+- ACT 26:22 — missing terminal punctuation
+- ACT 26:25 — missing terminal punctuation
+- ACT 27:9 — missing terminal punctuation
+- ACT 27:16 — missing terminal punctuation
+- ACT 27:23 — missing terminal punctuation
+- ACT 27:30 — missing terminal punctuation
+- ACT 28:9 — missing terminal punctuation
+- ACT 28:25 — missing terminal punctuation
+- ACT 28:30 — missing terminal punctuation
+- ROM 1:20 — missing terminal punctuation
+- ROM 4:16 — missing terminal punctuation
+- ROM 7:16 — missing terminal punctuation
+- ROM 9:10 — missing terminal punctuation
+- ROM 9:31 — missing terminal punctuation
+- ROM 15:17 — missing terminal punctuation
+- ROM 16:25 — missing terminal punctuation
+- ROM 16:26 — missing terminal punctuation
+- 1CO 1:1 — missing terminal punctuation
+- 1CO 1:2 — missing terminal punctuation
+- 1CO 1:5 — missing terminal punctuation
+- 1CO 5:3 — missing terminal punctuation
+- 1CO 5:4 — missing terminal punctuation
+- 1CO 6:9 — missing terminal punctuation
+- 1CO 7:29 — missing terminal punctuation
+- 1CO 7:32 — missing terminal punctuation
+- 1CO 8:5 — missing terminal punctuation
+- 1CO 10:1 — missing terminal punctuation
+- 1CO 10:2 — missing terminal punctuation
+- 1CO 10:3 — missing terminal punctuation
+- 1CO 11:20 — missing terminal punctuation
+- 1CO 11:23 — missing terminal punctuation
+- 1CO 12:21 — missing terminal punctuation
+- 1CO 13:9 — missing terminal punctuation
+- 1CO 15:3 — missing terminal punctuation
+- 1CO 15:4 — missing terminal punctuation
+- 1CO 16:15 — missing terminal punctuation
+- 1CO 16:24 — missing terminal punctuation
+- 2CO 1:3 — missing terminal punctuation
+- 2CO 1:9 — missing terminal punctuation
+- 2CO 1:10 — missing terminal punctuation
+- 2CO 1:15 — missing terminal punctuation
+- 2CO 3:2 — missing terminal punctuation
+- 2CO 3:5 — missing terminal punctuation
+- 2CO 3:7 — missing terminal punctuation
+- 2CO 3:12 — missing terminal punctuation
+- 2CO 4:3 — missing terminal punctuation
+- 2CO 4:8 — missing terminal punctuation
+- 2CO 5:2 — missing terminal punctuation
+- 2CO 5:8 — missing terminal punctuation
+- 2CO 5:9 — missing terminal punctuation
+- 2CO 6:2 — missing terminal punctuation
+- 2CO 6:4 — missing terminal punctuation
+- 2CO 6:5 — missing terminal punctuation
+- 2CO 6:6 — missing terminal punctuation
+- 2CO 6:7 — missing terminal punctuation
+- 2CO 8:1 — missing terminal punctuation
+- 2CO 8:3 — missing terminal punctuation
+- 2CO 8:13 — missing terminal punctuation
+- 2CO 8:16 — missing terminal punctuation
+- 2CO 8:20 — missing terminal punctuation
+- 2CO 9:13 — missing terminal punctuation
+- 2CO 10:1 — missing terminal punctuation
+- 2CO 10:4 — missing terminal punctuation
+- 2CO 10:8 — missing terminal punctuation
+- 2CO 10:14 — missing terminal punctuation
+- 2CO 10:15 — missing terminal punctuation
+- 2CO 11:25 — missing terminal punctuation
+- 2CO 11:26 — missing terminal punctuation
+- 2CO 12:3 — missing terminal punctuation
+- 2CO 13:2 — missing terminal punctuation
+- GAL 2:7 — missing terminal punctuation
+- GAL 4:13 — missing terminal punctuation
+- EPH 3:8 — missing terminal punctuation
+- EPH 5:8 — missing terminal punctuation
+- PHP 2:6 — missing terminal punctuation
+- 1TH 4:16 — missing terminal punctuation
+- 2TH 1:3 — missing terminal punctuation
+- 2TH 1:4 — missing terminal punctuation
+- 2TH 1:5 — missing terminal punctuation
+- 2TH 1:6 — missing terminal punctuation
+- 2TH 1:7 — missing terminal punctuation
+- 2TH 1:8 — missing terminal punctuation
+- 2TH 1:9 — missing terminal punctuation
+- 2TH 2:1 — missing terminal punctuation
+- 2TH 2:8 — missing terminal punctuation
+- 2TH 2:13 — missing terminal punctuation
+- 2TH 2:16 — missing terminal punctuation
+- 2TH 3:1 — missing terminal punctuation
+- 2TH 3:7 — missing terminal punctuation
+- 2TH 3:14 — missing terminal punctuation
+- 1TI 1:3 — missing terminal punctuation
+- 1TI 3:2 — missing terminal punctuation
+- 2TI 1:4 — missing terminal punctuation
+- 2TI 1:16 — missing terminal punctuation
+- TIT 1:2 — missing terminal punctuation
+- TIT 1:8 — missing terminal punctuation
+- TIT 1:10 — missing terminal punctuation
+- TIT 2:1 — missing terminal punctuation
+- TIT 2:3 — missing terminal punctuation
+- TIT 2:4 — missing terminal punctuation
+- TIT 2:7 — missing terminal punctuation
+- TIT 2:13 — missing terminal punctuation
+- TIT 3:4 — missing terminal punctuation
+- TIT 3:5 — missing terminal punctuation
+- TIT 3:6 — missing terminal punctuation
+- PHM 1:1 — missing terminal punctuation
+- PHM 1:2 — missing terminal punctuation
+- PHM 1:4 — missing terminal punctuation
+- PHM 1:5 — missing terminal punctuation
+- PHM 1:8 — missing terminal punctuation
+- PHM 1:9 — missing terminal punctuation
+- PHM 1:11 — missing terminal punctuation
+- PHM 1:12 — missing terminal punctuation
+- PHM 1:13 — missing terminal punctuation
+- PHM 1:23 — missing terminal punctuation
+- HEB 1:7 — missing terminal punctuation
+- HEB 2:7 — missing terminal punctuation
+- HEB 3:10 — missing terminal punctuation
+- HEB 9:18 — missing terminal punctuation
+- HEB 9:25 — missing terminal punctuation
+- HEB 10:11 — missing terminal punctuation
+- HEB 10:16 — missing terminal punctuation
+- HEB 11:34 — missing terminal punctuation
+- HEB 11:37 — missing terminal punctuation
+- HEB 12:19 — missing terminal punctuation
+- JAS 1:13 — missing terminal punctuation
+- JAS 2:8 — missing terminal punctuation
+- JAS 3:7 — missing terminal punctuation
+- 1PE 4:15 — missing terminal punctuation
+- 1PE 4:16 — missing terminal punctuation
+- 1PE 5:14 — missing terminal punctuation
+- 2PE 1:1 — missing terminal punctuation
+- 2PE 1:3 — missing terminal punctuation
+- 2PE 1:5 — missing terminal punctuation
+- 2PE 1:6 — missing terminal punctuation
+- 2PE 1:13 — missing terminal punctuation
+- 2PE 2:4 — missing terminal punctuation
+- 2PE 2:5 — missing terminal punctuation
+- 2PE 2:6 — missing terminal punctuation
+- 2PE 2:12 — missing terminal punctuation
+- 2PE 2:13 — missing terminal punctuation
+- 2PE 2:14 — missing terminal punctuation
+- 2PE 3:1 — missing terminal punctuation
+- 2PE 3:3 — missing terminal punctuation
+- 2PE 3:14 — missing terminal punctuation
+- 2PE 3:15 — missing terminal punctuation
+- 1JN 1:1 — missing terminal punctuation
+- 2JN 1:1 — missing terminal punctuation
+- JUD 1:12 — missing terminal punctuation
+- JUD 1:14 — missing terminal punctuation
+- JUD 1:17 — missing terminal punctuation
+- JUD 1:22 — missing terminal punctuation
+- JUD 1:24 — missing terminal punctuation
+- REV 1:4 — missing terminal punctuation
+- REV 1:5 — missing terminal punctuation
+- REV 1:10 — missing terminal punctuation
+- REV 1:12 — missing terminal punctuation
+- REV 1:13 — missing terminal punctuation
+- REV 1:14 — missing terminal punctuation
+- REV 1:17 — missing terminal punctuation
+- REV 1:19 — missing terminal punctuation
+- REV 2:2 — missing terminal punctuation
+- REV 2:24 — missing terminal punctuation
+- REV 2:26 — missing terminal punctuation
+- REV 2:27 — missing terminal punctuation
+- REV 3:7 — missing terminal punctuation
+- REV 3:9 — missing terminal punctuation
+- REV 3:14 — missing terminal punctuation
+- REV 4:9 — missing terminal punctuation
+- REV 5:9 — missing terminal punctuation
+- REV 5:11 — missing terminal punctuation
+- REV 6:16 — missing terminal punctuation
+- REV 7:2 — missing terminal punctuation
+- REV 7:5 — missing terminal punctuation
+- REV 7:6 — missing terminal punctuation
+- REV 7:7 — missing terminal punctuation
+- REV 7:11 — missing terminal punctuation
+- REV 8:8 — missing terminal punctuation
+- REV 9:20 — missing terminal punctuation
+- REV 10:5 — missing terminal punctuation
+- REV 10:6 — missing terminal punctuation
+- REV 11:16 — missing terminal punctuation
+- REV 11:17 — missing terminal punctuation
+- REV 12:1 — missing terminal punctuation
+- REV 14:2 — missing terminal punctuation
+- REV 14:6 — missing terminal punctuation
+- REV 14:9 — missing terminal punctuation
+- REV 15:2 — missing terminal punctuation
+- REV 16:5 — missing terminal punctuation
+- REV 17:1 — missing terminal punctuation
+- REV 17:9 — missing terminal punctuation
+- REV 18:2 — missing terminal punctuation
+- REV 18:12 — missing terminal punctuation
+- REV 18:15 — missing terminal punctuation
+- REV 18:17 — missing terminal punctuation
+- REV 19:5 — missing terminal punctuation
+- REV 19:17 — missing terminal punctuation
+- REV 20:1 — missing terminal punctuation
+- REV 21:10 — missing terminal punctuation
+- REV 21:11 — missing terminal punctuation
+- REV 21:19 — missing terminal punctuation
+- REV 22:18 — missing terminal punctuation
+
+## info (544)
+- GEN 22:16 — verse continues in next (grouping/split)
+- EXO 1:6 — verse continues in next (grouping/split)
+- EXO 1:13 — verse continues in next (grouping/split)
+- EXO 10:1 — verse continues in next (grouping/split)
+- EXO 10:4 — verse continues in next (grouping/split)
+- EXO 10:5 — verse continues in next (grouping/split)
+- EXO 14:6 — verse continues in next (grouping/split)
+- EXO 23:2 — verse continues in next (grouping/split)
+- LEV 20:4 — verse continues in next (grouping/split)
+- LEV 21:2 — verse continues in next (grouping/split)
+- NUM 19:2 — verse continues in next (grouping/split)
+- NUM 27:13 — verse continues in next (grouping/split)
+- NUM 27:16 — verse continues in next (grouping/split)
+- NUM 32:11 — verse continues in next (grouping/split)
+- DEU 18:16 — verse continues in next (grouping/split)
+- JOS 4:12 — verse continues in next (grouping/split)
+- JDG 1:31 — verse continues in next (grouping/split)
+- JDG 2:1 — verse continues in next (grouping/split)
+- JDG 2:20 — verse continues in next (grouping/split)
+- JDG 2:21 — verse continues in next (grouping/split)
+- JDG 7:10 — verse continues in next (grouping/split)
+- 1SA 3:3 — verse continues in next (grouping/split)
+- 2SA 4:2 — verse continues in next (grouping/split)
+- 2SA 4:9 — verse continues in next (grouping/split)
+- 1KI 9:1 — verse continues in next (grouping/split)
+- 2KI 5:2 — verse continues in next (grouping/split)
+- 1CH 18:10 — verse continues in next (grouping/split)
+- 1CH 19:2 — verse continues in next (grouping/split)
+- 2CH 6:36 — verse continues in next (grouping/split)
+- 2CH 6:37 — verse continues in next (grouping/split)
+- EZR 4:1 — verse continues in next (grouping/split)
+- EZR 7:1 — verse continues in next (grouping/split)
+- EZR 7:2 — verse continues in next (grouping/split)
+- EZR 7:3 — verse continues in next (grouping/split)
+- EZR 7:4 — verse continues in next (grouping/split)
+- EZR 7:5 — verse continues in next (grouping/split)
+- JOB 37:17 — verse continues in next (grouping/split)
+- PSA 44:20 — verse continues in next (grouping/split)
+- PSA 49:1 — verse continues in next (grouping/split)
+- PSA 49:7 — verse continues in next (grouping/split)
+- PSA 49:8 — verse continues in next (grouping/split)
+- PSA 49:18 — verse continues in next (grouping/split)
+- PSA 78:30 — verse continues in next (grouping/split)
+- PSA 79:6 — verse continues in next (grouping/split)
+- PSA 132:2 — verse continues in next (grouping/split)
+- PRO 22:17 — verse continues in next (grouping/split)
+- PRO 22:18 — verse continues in next (grouping/split)
+- PRO 22:20 — verse continues in next (grouping/split)
+- PRO 27:23 — verse continues in next (grouping/split)
+- ISA 8:3 — verse continues in next (grouping/split)
+- ISA 20:3 — verse continues in next (grouping/split)
+- ISA 30:12 — verse continues in next (grouping/split)
+- JER 2:23 — verse continues in next (grouping/split)
+- JER 5:12 — verse continues in next (grouping/split)
+- JER 29:15 — verse continues in next (grouping/split)
+- JER 29:22 — verse continues in next (grouping/split)
+- EZK 1:2 — verse continues in next (grouping/split)
+- MAT 4:13 — verse continues in next (grouping/split)
+- MAT 7:28 — verse continues in next (grouping/split)
+- MAT 13:20 — verse continues in next (grouping/split)
+- MAT 13:34 — verse continues in next (grouping/split)
+- MAT 13:41 — verse continues in next (grouping/split)
+- MAT 13:49 — verse continues in next (grouping/split)
+- MAT 14:1 — verse continues in next (grouping/split)
+- MAT 14:3 — verse continues in next (grouping/split)
+- MAT 18:2 — verse continues in next (grouping/split)
+- MAT 19:4 — verse continues in next (grouping/split)
+- MAT 19:18 — verse continues in next (grouping/split)
+- MAT 20:11 — verse continues in next (grouping/split)
+- MAT 20:26 — verse continues in next (grouping/split)
+- MAT 20:27 — verse continues in next (grouping/split)
+- MAT 22:2 — verse continues in next (grouping/split)
+- MAT 22:5 — verse continues in next (grouping/split)
+- MAT 22:23 — verse continues in next (grouping/split)
+- MAT 22:41 — verse continues in next (grouping/split)
+- MAT 23:1 — verse continues in next (grouping/split)
+- MAT 23:6 — verse continues in next (grouping/split)
+- MAT 23:29 — verse continues in next (grouping/split)
+- MAT 23:34 — verse continues in next (grouping/split)
+- MAT 24:15 — verse continues in next (grouping/split)
+- MAT 24:16 — verse continues in next (grouping/split)
+- MAT 24:17 — verse continues in next (grouping/split)
+- MAT 24:23 — verse continues in next (grouping/split)
+- MAT 24:38 — verse continues in next (grouping/split)
+- MAT 24:48 — verse continues in next (grouping/split)
+- MAT 24:49 — verse continues in next (grouping/split)
+- MAT 24:50 — verse continues in next (grouping/split)
+- MAT 25:35 — verse continues in next (grouping/split)
+- MAT 26:6 — verse continues in next (grouping/split)
+- MAT 26:14 — verse continues in next (grouping/split)
+- MAT 26:27 — verse continues in next (grouping/split)
+- MAT 26:59 — verse continues in next (grouping/split)
+- MAT 27:3 — verse continues in next (grouping/split)
+- MAT 27:9 — verse continues in next (grouping/split)
+- MAT 27:33 — verse continues in next (grouping/split)
+- MAT 27:39 — verse continues in next (grouping/split)
+- MAT 27:59 — verse continues in next (grouping/split)
+- MAT 27:62 — verse continues in next (grouping/split)
+- MAT 28:12 — verse continues in next (grouping/split)
+- MAT 28:19 — verse continues in next (grouping/split)
+- MRK 1:14 — verse continues in next (grouping/split)
+- MRK 1:23 — verse continues in next (grouping/split)
+- MRK 1:32 — verse continues in next (grouping/split)
+- MRK 1:43 — verse continues in next (grouping/split)
+- MRK 3:7 — verse continues in next (grouping/split)
+- MRK 3:14 — verse continues in next (grouping/split)
+- MRK 3:17 — verse continues in next (grouping/split)
+- MRK 3:18 — verse continues in next (grouping/split)
+- MRK 3:24 — verse continues in next (grouping/split)
+- MRK 3:28 — verse continues in next (grouping/split)
+- MRK 4:11 — verse continues in next (grouping/split)
+- MRK 4:18 — verse continues in next (grouping/split)
+- MRK 4:26 — verse continues in next (grouping/split)
+- MRK 5:2 — verse continues in next (grouping/split)
+- MRK 5:3 — verse continues in next (grouping/split)
+- MRK 5:25 — verse continues in next (grouping/split)
+- MRK 6:8 — verse continues in next (grouping/split)
+- MRK 6:19 — verse continues in next (grouping/split)
+- MRK 6:49 — verse continues in next (grouping/split)
+- MRK 6:51 — verse continues in next (grouping/split)
+- MRK 7:9 — verse continues in next (grouping/split)
+- MRK 7:11 — verse continues in next (grouping/split)
+- MRK 7:21 — verse continues in next (grouping/split)
+- MRK 8:34 — verse continues in next (grouping/split)
+- MRK 9:47 — verse continues in next (grouping/split)
+- MRK 10:29 — verse continues in next (grouping/split)
+- MRK 11:1 — verse continues in next (grouping/split)
+- MRK 12:29 — verse continues in next (grouping/split)
+- MRK 12:38 — verse continues in next (grouping/split)
+- MRK 13:5 — verse continues in next (grouping/split)
+- MRK 13:24 — verse continues in next (grouping/split)
+- MRK 13:34 — verse continues in next (grouping/split)
+- MRK 13:35 — verse continues in next (grouping/split)
+- MRK 15:29 — verse continues in next (grouping/split)
+- MRK 15:40 — verse continues in next (grouping/split)
+- MRK 15:45 — verse continues in next (grouping/split)
+- MRK 16:4 — verse continues in next (grouping/split)
+- MRK 16:17 — verse continues in next (grouping/split)
+- LUK 1:1 — verse continues in next (grouping/split)
+- LUK 1:2 — verse continues in next (grouping/split)
+- LUK 1:3 — verse continues in next (grouping/split)
+- LUK 1:8 — verse continues in next (grouping/split)
+- LUK 1:14 — verse continues in next (grouping/split)
+- LUK 1:26 — verse continues in next (grouping/split)
+- LUK 1:46 — verse continues in next (grouping/split)
+- LUK 1:54 — verse continues in next (grouping/split)
+- LUK 1:69 — verse continues in next (grouping/split)
+- LUK 1:71 — verse continues in next (grouping/split)
+- LUK 1:72 — verse continues in next (grouping/split)
+- LUK 1:73 — verse continues in next (grouping/split)
+- LUK 1:74 — verse continues in next (grouping/split)
+- LUK 1:76 — verse continues in next (grouping/split)
+- LUK 1:77 — verse continues in next (grouping/split)
+- LUK 1:78 — verse continues in next (grouping/split)
+- LUK 2:22 — verse continues in next (grouping/split)
+- LUK 2:29 — verse continues in next (grouping/split)
+- LUK 2:30 — verse continues in next (grouping/split)
+- LUK 3:1 — verse continues in next (grouping/split)
+- LUK 3:3 — verse continues in next (grouping/split)
+- LUK 3:5 — verse continues in next (grouping/split)
+- LUK 3:19 — verse continues in next (grouping/split)
+- LUK 3:21 — verse continues in next (grouping/split)
+- LUK 3:23 — verse continues in next (grouping/split)
+- LUK 4:18 — verse continues in next (grouping/split)
+- LUK 6:17 — verse continues in next (grouping/split)
+- LUK 6:27 — verse continues in next (grouping/split)
+- LUK 7:4 — verse continues in next (grouping/split)
+- LUK 8:1 — verse continues in next (grouping/split)
+- LUK 8:2 — verse continues in next (grouping/split)
+- LUK 8:41 — verse continues in next (grouping/split)
+- LUK 9:7 — verse continues in next (grouping/split)
+- LUK 9:21 — verse continues in next (grouping/split)
+- LUK 9:30 — verse continues in next (grouping/split)
+- LUK 9:38 — verse continues in next (grouping/split)
+- LUK 11:53 — verse continues in next (grouping/split)
+- ACT 15:17 — verse continues in next (grouping/split)
+- ACT 23:34 — verse continues in next (grouping/split)
+- ROM 1:1 — verse continues in next (grouping/split)
+- ROM 1:2 — verse continues in next (grouping/split)
+- ROM 1:3 — verse continues in next (grouping/split)
+- ROM 1:9 — verse continues in next (grouping/split)
+- ROM 1:11 — verse continues in next (grouping/split)
+- ROM 1:18 — verse continues in next (grouping/split)
+- ROM 1:22 — verse continues in next (grouping/split)
+- ROM 1:26 — verse continues in next (grouping/split)
+- ROM 1:29 — verse continues in next (grouping/split)
+- ROM 1:30 — verse continues in next (grouping/split)
+- ROM 2:5 — verse continues in next (grouping/split)
+- ROM 2:7 — verse continues in next (grouping/split)
+- ROM 2:9 — verse continues in next (grouping/split)
+- ROM 2:10 — verse continues in next (grouping/split)
+- ROM 2:12 — verse continues in next (grouping/split)
+- ROM 2:17 — verse continues in next (grouping/split)
+- ROM 2:18 — verse continues in next (grouping/split)
+- ROM 2:19 — verse continues in next (grouping/split)
+- ROM 2:20 — verse continues in next (grouping/split)
+- ROM 2:23 — verse continues in next (grouping/split)
+- ROM 2:28 — verse continues in next (grouping/split)
+- ROM 3:9 — verse continues in next (grouping/split)
+- ROM 3:16 — verse continues in next (grouping/split)
+- ROM 3:21 — verse continues in next (grouping/split)
+- ROM 3:22 — verse continues in next (grouping/split)
+- ROM 3:23 — verse continues in next (grouping/split)
+- ROM 3:25 — verse continues in next (grouping/split)
+- ROM 3:29 — verse continues in next (grouping/split)
+- ROM 4:11 — verse continues in next (grouping/split)
+- ROM 4:13 — verse continues in next (grouping/split)
+- ROM 4:19 — verse continues in next (grouping/split)
+- ROM 4:20 — verse continues in next (grouping/split)
+- ROM 4:23 — verse continues in next (grouping/split)
+- ROM 4:24 — verse continues in next (grouping/split)
+- ROM 5:3 — verse continues in next (grouping/split)
+- ROM 5:20 — verse continues in next (grouping/split)
+- ROM 6:6 — verse continues in next (grouping/split)
+- ROM 6:17 — verse continues in next (grouping/split)
+- ROM 6:22 — verse continues in next (grouping/split)
+- ROM 7:9 — verse continues in next (grouping/split)
+- ROM 7:22 — verse continues in next (grouping/split)
+- ROM 8:3 — verse continues in next (grouping/split)
+- ROM 8:12 — verse continues in next (grouping/split)
+- ROM 8:19 — verse continues in next (grouping/split)
+- ROM 8:20 — verse continues in next (grouping/split)
+- ROM 8:38 — verse continues in next (grouping/split)
+- ROM 9:1 — verse continues in next (grouping/split)
+- ROM 9:3 — verse continues in next (grouping/split)
+- ROM 9:4 — verse continues in next (grouping/split)
+- ROM 9:11 — verse continues in next (grouping/split)
+- ROM 9:12 — verse continues in next (grouping/split)
+- ROM 9:22 — verse continues in next (grouping/split)
+- ROM 9:23 — verse continues in next (grouping/split)
+- ROM 9:27 — verse continues in next (grouping/split)
+- ROM 9:30 — verse continues in next (grouping/split)
+- ROM 9:32 — verse continues in next (grouping/split)
+- ROM 10:6 — verse continues in next (grouping/split)
+- ROM 11:7 — verse continues in next (grouping/split)
+- ROM 11:13 — verse continues in next (grouping/split)
+- ROM 11:17 — verse continues in next (grouping/split)
+- ROM 11:20 — verse continues in next (grouping/split)
+- ROM 11:25 — verse continues in next (grouping/split)
+- ROM 11:30 — verse continues in next (grouping/split)
+- ROM 11:31 — verse continues in next (grouping/split)
+- ROM 12:4 — verse continues in next (grouping/split)
+- ROM 12:6 — verse continues in next (grouping/split)
+- ROM 12:7 — verse continues in next (grouping/split)
+- ROM 13:3 — verse continues in next (grouping/split)
+- ROM 14:11 — verse continues in next (grouping/split)
+- ROM 14:16 — verse continues in next (grouping/split)
+- ROM 15:5 — verse continues in next (grouping/split)
+- ROM 15:8 — verse continues in next (grouping/split)
+- ROM 15:15 — verse continues in next (grouping/split)
+- ROM 15:18 — verse continues in next (grouping/split)
+- ROM 15:20 — verse continues in next (grouping/split)
+- ROM 15:23 — verse continues in next (grouping/split)
+- ROM 15:30 — verse continues in next (grouping/split)
+- ROM 15:31 — verse continues in next (grouping/split)
+- ROM 16:1 — verse continues in next (grouping/split)
+- ROM 16:3 — verse continues in next (grouping/split)
+- ROM 16:17 — verse continues in next (grouping/split)
+- 1CO 1:7 — verse continues in next (grouping/split)
+- 1CO 1:14 — verse continues in next (grouping/split)
+- 1CO 3:2 — verse continues in next (grouping/split)
+- 1CO 3:12 — verse continues in next (grouping/split)
+- 1CO 3:21 — verse continues in next (grouping/split)
+- 2CO 4:13 — verse continues in next (grouping/split)
+- GAL 1:1 — verse continues in next (grouping/split)
+- GAL 1:3 — verse continues in next (grouping/split)
+- GAL 1:4 — verse continues in next (grouping/split)
+- GAL 1:11 — verse continues in next (grouping/split)
+- GAL 1:13 — verse continues in next (grouping/split)
+- GAL 1:15 — verse continues in next (grouping/split)
+- GAL 1:16 — verse continues in next (grouping/split)
+- GAL 1:22 — verse continues in next (grouping/split)
+- GAL 2:9 — verse continues in next (grouping/split)
+- GAL 2:11 — verse continues in next (grouping/split)
+- GAL 2:15 — verse continues in next (grouping/split)
+- GAL 3:6 — verse continues in next (grouping/split)
+- GAL 3:25 — verse continues in next (grouping/split)
+- GAL 3:26 — verse continues in next (grouping/split)
+- GAL 4:4 — verse continues in next (grouping/split)
+- GAL 5:5 — verse continues in next (grouping/split)
+- GAL 5:19 — verse continues in next (grouping/split)
+- GAL 5:20 — verse continues in next (grouping/split)
+- GAL 5:22 — verse continues in next (grouping/split)
+- GAL 6:4 — verse continues in next (grouping/split)
+- EPH 1:5 — verse continues in next (grouping/split)
+- EPH 1:7 — verse continues in next (grouping/split)
+- EPH 1:9 — verse continues in next (grouping/split)
+- EPH 1:11 — verse continues in next (grouping/split)
+- EPH 1:13 — verse continues in next (grouping/split)
+- EPH 1:15 — verse continues in next (grouping/split)
+- EPH 1:17 — verse continues in next (grouping/split)
+- EPH 1:18 — verse continues in next (grouping/split)
+- EPH 1:19 — verse continues in next (grouping/split)
+- EPH 1:20 — verse continues in next (grouping/split)
+- EPH 1:22 — verse continues in next (grouping/split)
+- EPH 2:1 — verse continues in next (grouping/split)
+- EPH 2:4 — verse continues in next (grouping/split)
+- EPH 2:5 — verse continues in next (grouping/split)
+- EPH 2:6 — verse continues in next (grouping/split)
+- EPH 2:8 — verse continues in next (grouping/split)
+- EPH 2:11 — verse continues in next (grouping/split)
+- EPH 2:13 — verse continues in next (grouping/split)
+- EPH 2:15 — verse continues in next (grouping/split)
+- EPH 2:19 — verse continues in next (grouping/split)
+- EPH 3:2 — verse continues in next (grouping/split)
+- EPH 3:3 — verse continues in next (grouping/split)
+- EPH 3:9 — verse continues in next (grouping/split)
+- EPH 3:10 — verse continues in next (grouping/split)
+- EPH 3:11 — verse continues in next (grouping/split)
+- EPH 3:14 — verse continues in next (grouping/split)
+- EPH 3:16 — verse continues in next (grouping/split)
+- EPH 3:17 — verse continues in next (grouping/split)
+- EPH 3:18 — verse continues in next (grouping/split)
+- EPH 3:20 — verse continues in next (grouping/split)
+- EPH 4:1 — verse continues in next (grouping/split)
+- EPH 4:5 — verse continues in next (grouping/split)
+- EPH 4:12 — verse continues in next (grouping/split)
+- EPH 4:20 — verse continues in next (grouping/split)
+- EPH 4:21 — verse continues in next (grouping/split)
+- EPH 4:22 — verse continues in next (grouping/split)
+- EPH 4:23 — verse continues in next (grouping/split)
+- EPH 4:26 — verse continues in next (grouping/split)
+- EPH 5:1 — verse continues in next (grouping/split)
+- EPH 5:3 — verse continues in next (grouping/split)
+- EPH 5:9 — verse continues in next (grouping/split)
+- EPH 5:15 — verse continues in next (grouping/split)
+- EPH 5:18 — verse continues in next (grouping/split)
+- EPH 5:19 — verse continues in next (grouping/split)
+- EPH 5:20 — verse continues in next (grouping/split)
+- EPH 5:22 — verse continues in next (grouping/split)
+- EPH 5:25 — verse continues in next (grouping/split)
+- EPH 5:26 — verse continues in next (grouping/split)
+- EPH 5:28 — verse continues in next (grouping/split)
+- EPH 6:2 — verse continues in next (grouping/split)
+- EPH 6:5 — verse continues in next (grouping/split)
+- EPH 6:6 — verse continues in next (grouping/split)
+- EPH 6:14 — verse continues in next (grouping/split)
+- EPH 6:17 — verse continues in next (grouping/split)
+- EPH 6:18 — verse continues in next (grouping/split)
+- EPH 6:19 — verse continues in next (grouping/split)
+- PHP 1:3 — verse continues in next (grouping/split)
+- PHP 1:4 — verse continues in next (grouping/split)
+- PHP 1:9 — verse continues in next (grouping/split)
+- PHP 1:10 — verse continues in next (grouping/split)
+- PHP 1:12 — verse continues in next (grouping/split)
+- PHP 1:13 — verse continues in next (grouping/split)
+- PHP 1:18 — verse continues in next (grouping/split)
+- PHP 1:19 — verse continues in next (grouping/split)
+- PHP 1:22 — verse continues in next (grouping/split)
+- PHP 1:23 — verse continues in next (grouping/split)
+- PHP 1:25 — verse continues in next (grouping/split)
+- PHP 1:27 — verse continues in next (grouping/split)
+- PHP 1:29 — verse continues in next (grouping/split)
+- PHP 2:1 — verse continues in next (grouping/split)
+- PHP 2:7 — verse continues in next (grouping/split)
+- PHP 2:9 — verse continues in next (grouping/split)
+- PHP 2:10 — verse continues in next (grouping/split)
+- PHP 2:12 — verse continues in next (grouping/split)
+- PHP 2:14 — verse continues in next (grouping/split)
+- PHP 2:15 — verse continues in next (grouping/split)
+- PHP 2:17 — verse continues in next (grouping/split)
+- PHP 2:20 — verse continues in next (grouping/split)
+- PHP 2:25 — verse continues in next (grouping/split)
+- PHP 2:29 — verse continues in next (grouping/split)
+- PHP 3:5 — verse continues in next (grouping/split)
+- PHP 3:8 — verse continues in next (grouping/split)
+- PHP 3:9 — verse continues in next (grouping/split)
+- PHP 3:10 — verse continues in next (grouping/split)
+- PHP 3:13 — verse continues in next (grouping/split)
+- PHP 3:17 — verse continues in next (grouping/split)
+- PHP 4:6 — verse continues in next (grouping/split)
+- PHP 4:15 — verse continues in next (grouping/split)
+- COL 1:1 — verse continues in next (grouping/split)
+- COL 1:3 — verse continues in next (grouping/split)
+- COL 1:4 — verse continues in next (grouping/split)
+- COL 1:5 — verse continues in next (grouping/split)
+- COL 1:9 — verse continues in next (grouping/split)
+- COL 1:10 — verse continues in next (grouping/split)
+- COL 1:11 — verse continues in next (grouping/split)
+- COL 1:13 — verse continues in next (grouping/split)
+- COL 1:15 — verse continues in next (grouping/split)
+- COL 1:19 — verse continues in next (grouping/split)
+- COL 1:21 — verse continues in next (grouping/split)
+- COL 1:22 — verse continues in next (grouping/split)
+- COL 1:25 — verse continues in next (grouping/split)
+- COL 2:1 — verse continues in next (grouping/split)
+- COL 2:6 — verse continues in next (grouping/split)
+- COL 2:11 — verse continues in next (grouping/split)
+- COL 2:14 — verse continues in next (grouping/split)
+- COL 2:16 — verse continues in next (grouping/split)
+- COL 2:18 — verse continues in next (grouping/split)
+- COL 2:20 — verse continues in next (grouping/split)
+- COL 3:9 — verse continues in next (grouping/split)
+- 1TH 1:4 — verse continues in next (grouping/split)
+- 1TH 1:9 — verse continues in next (grouping/split)
+- 1TH 2:3 — verse continues in next (grouping/split)
+- 1TH 2:11 — verse continues in next (grouping/split)
+- 1TH 2:14 — verse continues in next (grouping/split)
+- 1TH 2:17 — verse continues in next (grouping/split)
+- 1TH 3:1 — verse continues in next (grouping/split)
+- 1TH 3:2 — verse continues in next (grouping/split)
+- 1TH 3:6 — verse continues in next (grouping/split)
+- 1TH 3:12 — verse continues in next (grouping/split)
+- 1TH 4:3 — verse continues in next (grouping/split)
+- 1TH 4:4 — verse continues in next (grouping/split)
+- 1TH 4:11 — verse continues in next (grouping/split)
+- 1TH 5:1 — verse continues in next (grouping/split)
+- 1TH 5:9 — verse continues in next (grouping/split)
+- 1TH 5:12 — verse continues in next (grouping/split)
+- 1TI 1:6 — verse continues in next (grouping/split)
+- 1TI 1:8 — verse continues in next (grouping/split)
+- 1TI 1:9 — verse continues in next (grouping/split)
+- 1TI 1:10 — verse continues in next (grouping/split)
+- 1TI 1:18 — verse continues in next (grouping/split)
+- 1TI 2:1 — verse continues in next (grouping/split)
+- 1TI 2:3 — verse continues in next (grouping/split)
+- 1TI 2:9 — verse continues in next (grouping/split)
+- 1TI 3:3 — verse continues in next (grouping/split)
+- 1TI 3:8 — verse continues in next (grouping/split)
+- 1TI 3:14 — verse continues in next (grouping/split)
+- 1TI 4:1 — verse continues in next (grouping/split)
+- 1TI 5:1 — verse continues in next (grouping/split)
+- 1TI 5:11 — verse continues in next (grouping/split)
+- 1TI 6:3 — verse continues in next (grouping/split)
+- 1TI 6:4 — verse continues in next (grouping/split)
+- 1TI 6:13 — verse continues in next (grouping/split)
+- 1TI 6:15 — verse continues in next (grouping/split)
+- 1TI 6:17 — verse continues in next (grouping/split)
+- 1TI 6:20 — verse continues in next (grouping/split)
+- 2TI 1:1 — verse continues in next (grouping/split)
+- 2TI 1:9 — verse continues in next (grouping/split)
+- 2TI 1:10 — verse continues in next (grouping/split)
+- 2TI 2:11 — verse continues in next (grouping/split)
+- 2TI 2:12 — verse continues in next (grouping/split)
+- 2TI 2:24 — verse continues in next (grouping/split)
+- 2TI 2:25 — verse continues in next (grouping/split)
+- 2TI 3:2 — verse continues in next (grouping/split)
+- 2TI 3:3 — verse continues in next (grouping/split)
+- 2TI 3:6 — verse continues in next (grouping/split)
+- 2TI 3:10 — verse continues in next (grouping/split)
+- 2TI 3:16 — verse continues in next (grouping/split)
+- 2TI 4:3 — verse continues in next (grouping/split)
+- 2TI 4:9 — verse continues in next (grouping/split)
+- TIT 1:1 — verse continues in next (grouping/split)
+- HEB 1:3 — verse continues in next (grouping/split)
+- HEB 1:11 — verse continues in next (grouping/split)
+- HEB 2:2 — verse continues in next (grouping/split)
+- HEB 2:11 — verse continues in next (grouping/split)
+- HEB 2:14 — verse continues in next (grouping/split)
+- HEB 3:5 — verse continues in next (grouping/split)
+- HEB 3:7 — verse continues in next (grouping/split)
+- HEB 3:8 — verse continues in next (grouping/split)
+- HEB 3:14 — verse continues in next (grouping/split)
+- HEB 4:6 — verse continues in next (grouping/split)
+- HEB 5:1 — verse continues in next (grouping/split)
+- HEB 5:9 — verse continues in next (grouping/split)
+- HEB 6:1 — verse continues in next (grouping/split)
+- HEB 6:4 — verse continues in next (grouping/split)
+- HEB 6:5 — verse continues in next (grouping/split)
+- HEB 6:11 — verse continues in next (grouping/split)
+- HEB 6:13 — verse continues in next (grouping/split)
+- HEB 6:17 — verse continues in next (grouping/split)
+- HEB 6:19 — verse continues in next (grouping/split)
+- HEB 7:1 — verse continues in next (grouping/split)
+- HEB 7:2 — verse continues in next (grouping/split)
+- HEB 7:9 — verse continues in next (grouping/split)
+- HEB 7:13 — verse continues in next (grouping/split)
+- HEB 7:15 — verse continues in next (grouping/split)
+- HEB 7:18 — verse continues in next (grouping/split)
+- HEB 7:20 — verse continues in next (grouping/split)
+- HEB 7:23 — verse continues in next (grouping/split)
+- HEB 7:26 — verse continues in next (grouping/split)
+- HEB 8:1 — verse continues in next (grouping/split)
+- HEB 8:8 — verse continues in next (grouping/split)
+- HEB 9:3 — verse continues in next (grouping/split)
+- HEB 9:9 — verse continues in next (grouping/split)
+- HEB 9:11 — verse continues in next (grouping/split)
+- HEB 9:13 — verse continues in next (grouping/split)
+- HEB 9:16 — verse continues in next (grouping/split)
+- HEB 9:19 — verse continues in next (grouping/split)
+- HEB 9:27 — verse continues in next (grouping/split)
+- HEB 10:3 — verse continues in next (grouping/split)
+- HEB 10:8 — verse continues in next (grouping/split)
+- HEB 10:12 — verse continues in next (grouping/split)
+- HEB 10:19 — verse continues in next (grouping/split)
+- HEB 10:20 — verse continues in next (grouping/split)
+- HEB 10:21 — verse continues in next (grouping/split)
+- HEB 10:22 — verse continues in next (grouping/split)
+- HEB 10:23 — verse continues in next (grouping/split)
+- HEB 10:24 — verse continues in next (grouping/split)
+- HEB 10:26 — verse continues in next (grouping/split)
+- HEB 10:28 — verse continues in next (grouping/split)
+- HEB 10:32 — verse continues in next (grouping/split)
+- HEB 10:35 — verse continues in next (grouping/split)
+- HEB 11:17 — verse continues in next (grouping/split)
+- HEB 11:24 — verse continues in next (grouping/split)
+- HEB 11:33 — verse continues in next (grouping/split)
+- HEB 11:35 — verse continues in next (grouping/split)
+- HEB 11:36 — verse continues in next (grouping/split)
+- HEB 11:39 — verse continues in next (grouping/split)
+- HEB 12:1 — verse continues in next (grouping/split)
+- HEB 12:5 — verse continues in next (grouping/split)
+- HEB 12:12 — verse continues in next (grouping/split)
+- HEB 12:18 — verse continues in next (grouping/split)
+- HEB 12:22 — verse continues in next (grouping/split)
+- HEB 12:23 — verse continues in next (grouping/split)
+- HEB 12:28 — verse continues in next (grouping/split)
+- HEB 13:10 — verse continues in next (grouping/split)
+- HEB 13:20 — verse continues in next (grouping/split)
+- JAS 1:2 — verse continues in next (grouping/split)
+- JAS 1:9 — verse continues in next (grouping/split)
+- JAS 1:19 — verse continues in next (grouping/split)
+- JAS 1:21 — verse continues in next (grouping/split)
+- JAS 1:23 — verse continues in next (grouping/split)
+- JAS 2:2 — verse continues in next (grouping/split)
+- JAS 2:3 — verse continues in next (grouping/split)
+- JAS 2:12 — verse continues in next (grouping/split)
+- JAS 2:15 — verse continues in next (grouping/split)
+- JAS 4:13 — verse continues in next (grouping/split)
+- JAS 5:19 — verse continues in next (grouping/split)
+- 1PE 1:1 — verse continues in next (grouping/split)
+- 1PE 1:4 — verse continues in next (grouping/split)
+- 1PE 1:6 — verse continues in next (grouping/split)
+- 1PE 1:10 — verse continues in next (grouping/split)
+- 1PE 1:17 — verse continues in next (grouping/split)
+- 1PE 1:18 — verse continues in next (grouping/split)
+- 1PE 1:20 — verse continues in next (grouping/split)
+- 1PE 1:22 — verse continues in next (grouping/split)
+- 1PE 1:24 — verse continues in next (grouping/split)
+- 1PE 2:1 — verse continues in next (grouping/split)
+- 1PE 2:2 — verse continues in next (grouping/split)
+- 1PE 2:7 — verse continues in next (grouping/split)
+- 1PE 2:11 — verse continues in next (grouping/split)
+- 1PE 2:13 — verse continues in next (grouping/split)
+- 1PE 3:1 — verse continues in next (grouping/split)
+- 1PE 3:3 — verse continues in next (grouping/split)
+- 1PE 3:15 — verse continues in next (grouping/split)
+- 1PE 3:18 — verse continues in next (grouping/split)
+- 1PE 4:1 — verse continues in next (grouping/split)
+- 1PE 5:2 — verse continues in next (grouping/split)
+- 1PE 5:6 — verse continues in next (grouping/split)
+- 2PE 3:11 — verse continues in next (grouping/split)
+- 1JN 4:2 — verse continues in next (grouping/split)
+- 3JN 1:13 — verse continues in next (grouping/split)

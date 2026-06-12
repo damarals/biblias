@@ -1,13 +1,14 @@
 # Worklist — JFAA
 
-## high (7)
+## high (8)
+- GEN 36:41 — verse much shorter than other versions (21 vs median 45 chars)
+- GEN 36:42 — verse much shorter than other versions (21 vs median 45 chars)
 - 2KI 5:19 — verse much shorter than other versions (29 vs median 71 chars)
 - JER 8:11 — verse much shorter than other versions (42 vs median 93 chars)
 - MRK 12:22 — verse much shorter than other versions (40 vs median 94 chars)
-- 2CO 2:11 — verse much shorter than other versions (41 vs median 85 chars)
-- 2CO 12:6 — verse much shorter than other versions (72 vs median 183 chars)
+- 2CO 2:11 — verse much shorter than other versions (41 vs median 84 chars)
+- 2CO 12:6 — verse much shorter than other versions (72 vs median 182 chars)
 - 2CO 13:13 — verse much shorter than other versions (27 vs median 58 chars)
-- REV 2:28 — verse much shorter than other versions (36 vs median 76 chars)
 
 ## low (497)
 - GEN 5:23 — missing terminal punctuation

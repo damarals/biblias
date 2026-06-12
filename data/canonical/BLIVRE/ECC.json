@@ -1,0 +1,956 @@
+{
+  "id": 21,
+  "code": "ECC",
+  "name": "Eclesiastes",
+  "abbrev": "Ec",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Palavras do Pregador, filho de Davi, rei em Jerusalém. "
+        },
+        {
+          "number": 2,
+          "text": "Futilidade das futilidades! - diz o Pregador - futilidade das futilidades! Tudo é fútil! "
+        },
+        {
+          "number": 3,
+          "text": "Que proveito tem o homem de todo o seu trabalho que ele trabalha abaixo do sol? "
+        },
+        {
+          "number": 4,
+          "text": "Geração vai, e geração vem; porém a terra permanece para sempre. "
+        },
+        {
+          "number": 5,
+          "text": "O sol nasce, e o sol se põe; e se apressa ao seu lugar onde nasceu. "
+        },
+        {
+          "number": 6,
+          "text": "O vento vai ao sul, e rodeia para o norte; continuamente o vento vai rodeando e voltando aos lugares onde circulou. "
+        },
+        {
+          "number": 7,
+          "text": "Todos os rios vão para o mar, e contudo o mar não se enche; ao lugar onde os ribeiros correm, para ali eles voltam a correr. "
+        },
+        {
+          "number": 8,
+          "text": "Todas estas coisas são tão cansativas, que ninguém consegue descrever; os olhos não ficam satisfeitos de ver, nem os ouvidos se enchem de ouvir. "
+        },
+        {
+          "number": 9,
+          "text": "O que foi, isso será; e o que se fez, isso será feito; de modo que nada há de novo abaixo do sol. "
+        },
+        {
+          "number": 10,
+          "text": "Existe algo que se possa dizer: Vê isto, que é novo?Isso já existia nos tempos passados, que foram antes de nós. "
+        },
+        {
+          "number": 11,
+          "text": "Não há lembrança das coisas que já aconteceram; e das coisas que vão acontecer, também delas não haverá lembrança entre aqueles que vierem depois. "
+        },
+        {
+          "number": 12,
+          "text": "Eu o Pregador, me tornei rei sobre Israel em Jerusalém. "
+        },
+        {
+          "number": 13,
+          "text": "E dei meu coração a investigar e pesquisar com sabedoria sobre tudo o que acontece abaixo do céu; esta cansativa ocupação Deus deu aos filhos dos homens, para que nela fossem forçados. "
+        },
+        {
+          "number": 14,
+          "text": "Vi todas as obras que são feitas abaixo do sol, e eis que tudo é futilidade e aflição de espírito. "
+        },
+        {
+          "number": 15,
+          "text": "O que é torto não pode ser endireitado; o que está em falta não pode ser contado. "
+        },
+        {
+          "number": 16,
+          "text": "Eu falei ao meu coração, dizendo: Eis que eu me tornei grande, e aumentei em sabedoria, sobre todos os que tinham sido antes de mim em Jerusalém; e meu coração experimentou uma abundância de sabedoria e conhecimento. "
+        },
+        {
+          "number": 17,
+          "text": "E dei meu coração para entender sabedoria, e para entender loucuras e tolices; e percebi que também isto era aflição. "
+        },
+        {
+          "number": 18,
+          "text": "Porque na muita sabedoria há muito aborrecimento, e aquele que aumenta em conhecimento aumenta em angústia. "
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Disse eu em meu coração: Vamos! Eu te provarei com alegria, por isso dá atenção ao que é bom! Porém eis que isto também era futilidade. "
+        },
+        {
+          "number": 2,
+          "text": "Eu disse ao riso: Estás doido; e à alegria: De que esta serve? "
+        },
+        {
+          "number": 3,
+          "text": "Decidi como experiência entregar minha carne ao vinho (guiando porém meu coração com sabedoria) e praticar a loucura, para eu ver o que era melhor aos filhos dos homens fazerem abaixo do céu durante os dias de suas vidas. "
+        },
+        {
+          "number": 4,
+          "text": "Fiz para mim obras grandiosas; construí casas para mim; plantei vinhas para mim. "
+        },
+        {
+          "number": 5,
+          "text": "Fiz para mim pomares e jardins; e plantei neles árvores de toda espécie de frutos. "
+        },
+        {
+          "number": 6,
+          "text": "Fiz para mim tanques de águas, para regar com eles o bosque em que se plantavam as árvores. "
+        },
+        {
+          "number": 7,
+          "text": "Adquiri escravos e escravas, e tive escravos nascidos em casa; também tive grande rebanho de vacas e ovelhas, mais do que todos os que houve antes de mim em Jerusalém. "
+        },
+        {
+          "number": 8,
+          "text": "Também juntei para mim prata, ouro, e tesouros de reis e de províncias; reservei para mim cantores e cantoras, e dos prazeres dos filhos dos homens: várias mulheres. "
+        },
+        {
+          "number": 9,
+          "text": "Então me engrandeci e aumentei, mais do que todos quantos houve antes de mim em Jerusalém; além disto minha sabedoria ficou comigo. "
+        },
+        {
+          "number": 10,
+          "text": "E tudo quanto meus olhos desejaram, eu não lhes neguei; nem privei meu coração de alegria alguma, pois meu coração se alegrou de todo o meu trabalho; e esta foi minha parte que obtive de todo o meu trabalho. "
+        },
+        {
+          "number": 11,
+          "text": "E eu olhei para todas as obras que minhas mãos fizeram, como também para o trabalho ao qual me dispus a trabalhar; e eis que tudo era fútil como perseguir o vento,  e que não havia proveito algum abaixo do sol. "
+        },
+        {
+          "number": 12,
+          "text": "Então passei a observar a sabedoria, as loucuras e a tolice; porque o que o homem pode fazer depois do rei, que já não tenha sido feito? "
+        },
+        {
+          "number": 13,
+          "text": "Então eu vi que a sabedoria é melhor do que a tolice, assim como a luz é melhor do que as trevas. "
+        },
+        {
+          "number": 14,
+          "text": "Os olhos do sábio estão em sua cabeça, mas o tolo anda em trevas; então eu também entendi que o mesmo futuro acontece a todos eles. "
+        },
+        {
+          "number": 15,
+          "text": "Por isso eu disse em meu coração: Assim como acontece ao tolo, também acontecerá a mim; por que então eu me tornei mais sábio? Então disse em meu coração que isto também era inútil. "
+        },
+        {
+          "number": 16,
+          "text": "Porque não haverá lembrança para sempre, nem do sábio, nem do tolo; porque de tudo quanto agora há, nos dias futuros será esquecido; e o sábio morre assim como o tolo. "
+        },
+        {
+          "number": 17,
+          "text": "Por isso detestei a vida, porque a obra que é feita abaixo do sol me faz sofrer; pois tudo é fútil como perseguir o vento. "
+        },
+        {
+          "number": 18,
+          "text": "Eu também detestei todo o meu trabalho em que trabalhei abaixo do sol, porque o deixarei ao homem que virá depois de mim. "
+        },
+        {
+          "number": 19,
+          "text": "Pois quem sabe se ele será sábio ou tolo? Contudo ele terá controle de todo o meu trabalho em que trabalhei, e que sabiamente conduzi abaixo do sol; também isso é futilidade. "
+        },
+        {
+          "number": 20,
+          "text": "Por isso eu fiz meu coração perder a esperança de todo o meu trabalho em que trabalhei abaixo do sol. "
+        },
+        {
+          "number": 21,
+          "text": "Porque há um tipo de homem que trabalha com sabedoria, conhecimento e habilidade; porém deixará tudo como herança a um outro homem que não trabalhou naquilo; também isto é fútil e muito desagradável. "
+        },
+        {
+          "number": 22,
+          "text": "Pois que proveito o homem tem por todo o seu trabalho e cansaço de seu coração em que ele trabalha abaixo do sol? "
+        },
+        {
+          "number": 23,
+          "text": "Porque todos os seus dias são dores, e aflição é sua rotina; até de noite seu coração não descansa; também isto é futilidade. "
+        },
+        {
+          "number": 24,
+          "text": "Não há nada melhor ao homem do que comer, beber, e fazer sua alma se alegrar de seu trabalho; eu também vi que isto vem da mão de Deus. "
+        },
+        {
+          "number": 25,
+          "text": "(Pois quem melhor comeria ou teria pressa, a não ser eu mesmo?) "
+        },
+        {
+          "number": 26,
+          "text": "Porque ao homem bom perante sua face, Deus dá sabedoria, conhecimento e alegria; porém ao pecador ele dá trabalho cansativo, para juntar e recolher, para o dar ao bom diante da sua face; também isto é fútil como perseguir o vento. "
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Para todas as coisas há um tempo determinado, e todo propósito abaixo do céu tem seu tempo. "
+        },
+        {
+          "number": 2,
+          "text": "Tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o que foi plantado. "
+        },
+        {
+          "number": 3,
+          "text": "Tempo de matar e tempo de curar; tempo de derrubar e tempo de construir. "
+        },
+        {
+          "number": 4,
+          "text": "Tempo de chorar e tempo de rir; tempo de lamentar, e tempo de saltar. "
+        },
+        {
+          "number": 5,
+          "text": "Tempo de espalhar pedras e tempo de juntar pedras; tempo de abraçar e tempo de evitar abraçar. "
+        },
+        {
+          "number": 6,
+          "text": "Tempo de buscar e tempo de perder; tempo de guardar e tempo de jogar fora. "
+        },
+        {
+          "number": 7,
+          "text": "Tempo de rasgar e tempo de costurar; tempo de ficar calado e tempo de falar. "
+        },
+        {
+          "number": 8,
+          "text": "Tempo de amar e tempo de odiar; tempo de guerra e tempo de paz. "
+        },
+        {
+          "number": 9,
+          "text": "Que proveito tem o trabalhador naquilo em que ele trabalha? "
+        },
+        {
+          "number": 10,
+          "text": "Tenho visto a ocupação que Deus deu aos filhos dos homens, para com ela os manter ocupados. "
+        },
+        {
+          "number": 11,
+          "text": "Tudo ele fez belo ao seu tempo; também pôs a sensação de eternidade no coração deles, sem que o homem consiga entender a obra que Deus fez, desde o princípio até o fim. "
+        },
+        {
+          "number": 12,
+          "text": "Tenho percebido que não há coisa melhor para eles do que se alegrarem e fazerem o bem em suas vidas; "
+        },
+        {
+          "number": 13,
+          "text": "E também que todo homem coma, beba e fique contente com todo o seu trabalho; isto é um presente de Deus. "
+        },
+        {
+          "number": 14,
+          "text": "Eu sei que tudo quanto Deus faz durará para sempre; a isso nada será acrescentado e nada será diminuído; e Deus faz assim para que haja temor perante sua presença. "
+        },
+        {
+          "number": 15,
+          "text": "O que tem sido agora, já foi antes; e o que vier a ser também já foi; Deus busca de volta o que foi passado. "
+        },
+        {
+          "number": 16,
+          "text": "Vi mais abaixo do sol: que no lugar do juízo havia ali perversidade; e que no lugar da justiça havia ali perversidade. "
+        },
+        {
+          "number": 17,
+          "text": "Eu disse em meu coração: Deus julgará ao justo e ao perverso, porque ali há tempo para todo propósito e para toda obra. "
+        },
+        {
+          "number": 18,
+          "text": "Eu disse em meu coração quanto aos filhos dos homens, que Deus lhes provaria, para lhes mostrar que eles são como animais. "
+        },
+        {
+          "number": 19,
+          "text": "Porque o que acontece aos filhos dos homens, isso mesmo também acontece aos animais; o mesmo acontece a eles todos ; assim como um morre, assim também morre o outro; e todos tem uma mesma respiração; e a vantagem dos homens sobre os animais é nenhuma, pois todos são fúteis. "
+        },
+        {
+          "number": 20,
+          "text": "Todos vão a um mesmo lugar; todos vieram do pó da terra , e todos voltarão ao pó. "
+        },
+        {
+          "number": 21,
+          "text": "Quem tem certeza de que o fôlego de vida dos homens sobe para cima, e que o fôlego de vida dos animais desce para debaixo da terra? "
+        },
+        {
+          "number": 22,
+          "text": "Por isso tenho visto que não há coisa melhor do que o homem se alegrar de suas obras, porque essa é a parte que lhe pertence; pois quem pode levá-lo a ver o que será depois de sua morte ? "
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Depois me virei, e observei todas as opressões que são feitas abaixo do sol; e eis que vi as lágrimas dos oprimidos, que não tinham consolador; a força estava do lado dos seus opressores, porém eles não tinham quem os consolasse. "
+        },
+        {
+          "number": 2,
+          "text": "Por isso eu considerei os mortos, que já morreram, serem mais merecedores de elogios do que os vivos, que ainda vivem. "
+        },
+        {
+          "number": 3,
+          "text": "E melhor que estes ambos, é aquele que ainda não existe; que não viu as más obras, que são feitas abaixo do sol. "
+        },
+        {
+          "number": 4,
+          "text": "Também vi eu que todo o trabalho, e toda a habilidade em obras, causa ao homem a inveja de seu próximo; também isto é fútil como perseguir o vento.  "
+        },
+        {
+          "number": 5,
+          "text": "O tolo junta suas mãos, e come sua própria carne. "
+        },
+        {
+          "number": 6,
+          "text": "É melhor uma mão cheia com descanso, do que ambas as mãos cheias com trabalho e perseguição ao vento.  "
+        },
+        {
+          "number": 7,
+          "text": "Então eu me voltei, e vi uma futilidade abaixo do sol: "
+        },
+        {
+          "number": 8,
+          "text": "Havia um que era sozinho, sem filho, nem irmão; e seu trabalho não tem fim, nem seus olhos se fartam de riquezas; nem diz : Para quem estou trabalhando, e privando minha alma do que é bom? Também isso é futilidade e enfadonha ocupação. "
+        },
+        {
+          "number": 9,
+          "text": "Dois são melhores do que um, porque eles têm melhor recompensa por seu trabalho. "
+        },
+        {
+          "number": 10,
+          "text": "Porque se vierem a cair, um levanta ao seu companheiro; mas ai daquele que está só, pois caso caia, não há outro que o levante. "
+        },
+        {
+          "number": 11,
+          "text": "Também se dois deitarem juntos, eles se aquecem; mas o sozinho, como se aquecerá? "
+        },
+        {
+          "number": 12,
+          "text": "E se alguém prevalecer contra um, os dois resistirão contra ele; porque o cordão de três dobras não se quebra tão depressa. "
+        },
+        {
+          "number": 13,
+          "text": "Melhor é o garoto pobre e sábio, do que o rei velho e tolo, que não aceita mais receber advertência. "
+        },
+        {
+          "number": 14,
+          "text": "Porque da prisão ele sai para reinar, ainda que tenha nascido pobre em seu próprio reino. "
+        },
+        {
+          "number": 15,
+          "text": "Vi todos os vivos que andam abaixo do sol com o garoto sucessor, que estará em seu lugar. "
+        },
+        {
+          "number": 16,
+          "text": "Não tem fim todo o povo, todo o que houve antes deles; assim como também os descendentes não se alegrarão por ele, de modo que isto também é fútil como perseguir o vento. "
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Guarda teu pé, quando entrares na casa de Deus, e prefira te achegares para ouvir do que para dar sacrifícios de tolos, pois não sabem que fazem mal. "
+        },
+        {
+          "number": 2,
+          "text": "Não te precipites com tua boca, nem te apresse com teu coração, a pronunciar palavra alguma perante a face de Deus; porque Deus está nos céus, e tu estás sobre a terra; por isso tuas palavras sejam poucas. "
+        },
+        {
+          "number": 3,
+          "text": "Porque assim como da muita ocupação vêm os sonhos, assim também a voz do tolo vem das muitas palavras. "
+        },
+        {
+          "number": 4,
+          "text": "Quando tu prometeres cumprir algum voto a Deus, não demores em pagá-lo; porque ele não se agrada de tolos. Paga o que votares. "
+        },
+        {
+          "number": 5,
+          "text": "Melhor é que não votes, do que votares, e não pagares. "
+        },
+        {
+          "number": 6,
+          "text": "Não permitas a tua boca, que faça a tua carne pecar; nem digas perante a face do mensageiro, que foi um erro; porque farias irar a Deus tanto com tua voz, a ponto dele destruir a obra de tuas mãos? "
+        },
+        {
+          "number": 7,
+          "text": "Porque na abundância de sonhos há coisas inúteis, assim como na abundância de palavras; porém teme a Deus. "
+        },
+        {
+          "number": 8,
+          "text": "Se tu vires em algum território a opressão dos pobres, e a violência contra o direito e a justiça, não te maravilhes de tal caso; porque aquele que tem maior autoridade supervisiona as outras autoridades menores; e há outros de ainda maior autoridade que eles. "
+        },
+        {
+          "number": 9,
+          "text": "Mas o proveito da terra é para todos; até o rei se serve do campo. "
+        },
+        {
+          "number": 10,
+          "text": "Aquele que amar o dinheiro, nunca se fartará de dinheiro; e quem amar a riqueza, nunca se fartará com seus bens; isto também é futilidade. "
+        },
+        {
+          "number": 11,
+          "text": "Onde os bens se multiplicam, ali se multiplicam também os que a comem; e que proveito pois tem seus donos, a não ser somente ver a riqueza com seus olhos? "
+        },
+        {
+          "number": 12,
+          "text": "Doce é o sono do trabalhador, quer coma pouco, quer muito; porém a fartura do rico não o deixa dormir. "
+        },
+        {
+          "number": 13,
+          "text": "Há um mal causador de sofrimentos que vi abaixo do sol: as riquezas que seus donos guardam para seu próprio mal. "
+        },
+        {
+          "number": 14,
+          "text": "Porque as mesmas riquezas se perdem com negócios malsucedidos; e quando gera algum filho, nada lhe fica em sua mão. "
+        },
+        {
+          "number": 15,
+          "text": "Assim como ele saiu do ventre de sua mão, nu ele voltará, indo assim como veio; e nada tomará de seu trabalho, para levar em sua mão. "
+        },
+        {
+          "number": 16,
+          "text": "De modo que isto também é um mal causador de sofrimentos, que exatamente como veio, assim se vai; e que proveito ele teve em trabalhar para o vento? "
+        },
+        {
+          "number": 17,
+          "text": "Além disso, ele comeu em trevas todos os seus dias; sofreu muito, e teve enfermidades e irritações. "
+        },
+        {
+          "number": 18,
+          "text": "Eis o que eu vi, algo bom e belo: comer, beber, e experimentar o que é bom de todo o seu trabalho em que trabalhou abaixo do sol, durante os dias de sua vida, que Deus lhe deu; porque isto é a parte que lhe pertence. "
+        },
+        {
+          "number": 19,
+          "text": "E todo homem a quem Deus deu riquezas e bens, e lhe deu poder para comer delas, e tomar sua parte, e se alegrar de seu trabalho; isto é presente de Deus. "
+        },
+        {
+          "number": 20,
+          "text": "Pois ele não se lembrará muito dos dias de sua vida, porque Deus lhe responde com alegria de seu coração. "
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Há um mal que vi abaixo do sol, e é muito frequente entre os homens: "
+        },
+        {
+          "number": 2,
+          "text": "Um homem a quem Deus deu riquezas, bens, e honra; e nada lhe falta de tudo quanto a sua alma deseja; porém Deus não lhe dá poder para dessas coisas comer; ao invés disso, um estranho as come; isso é futilidade e um mal causador de sofrimento. "
+        },
+        {
+          "number": 3,
+          "text": "Se o homem gerar cem filhos , e viver muitos anos, e os dias de seus anos forem muitos, porém se sua alma não se fartar daquilo que é bom, nem tiver sepultamento, digo que ter sido abortado teria sido melhor para ele. "
+        },
+        {
+          "number": 4,
+          "text": "Pois veio em futilidade, e se vai em trevas; e nas trevas seu nome é encoberto. "
+        },
+        {
+          "number": 5,
+          "text": "Alguém que nunca tivesse visto o sol, nem o conhecido, teria mais descanso do que ele. "
+        },
+        {
+          "number": 6,
+          "text": "E ainda que vivesse mil anos duas vezes, e não experimentasse o que é bom, por acaso não vão todos para o mesmo lugar? "
+        },
+        {
+          "number": 7,
+          "text": "Todo o trabalho do homem é para sua boca; porém sua alma nunca se satisfaz. "
+        },
+        {
+          "number": 8,
+          "text": "Porque que vantagem tem o sábio sobre o tolo? E o que mais tem o pobre, em saber andar perante os vivos? "
+        },
+        {
+          "number": 9,
+          "text": "Melhor é a vista dos olhos do que o vaguear da cobiça; também isto é fútil como perseguir o vento.  "
+        },
+        {
+          "number": 10,
+          "text": "Seja o que for, seu nome já foi chamado; e já se sabe o que o homem é; e que não pode disputar contra aquele que é mais poderoso do que ele. "
+        },
+        {
+          "number": 11,
+          "text": "Pois quanto mais palavras há, maior é a futilidade; e que proveito tem homem com elas ? "
+        },
+        {
+          "number": 12,
+          "text": "Pois quem é que sabe o que é bom na vida para o homem, durante os dias de sua vida inútil, os quais ele gasta como sombra? Pois quem contará ao homem o que haverá depois dele abaixo do sol? "
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Melhor é uma boa reputação do que o bom óleo perfumado; e o dia da morte de alguém é melhor que o dia de seu nascimento "
+        },
+        {
+          "number": 2,
+          "text": "Melhor é ir à casa do luto do que a casa do banquete, porque isto é o fim de todos os homens; e os vivos tomam isto em seus corações. "
+        },
+        {
+          "number": 3,
+          "text": "Melhor é o sofrimento do que o riso, porque com a tristeza do rosto o coração se aperfeiçoa. "
+        },
+        {
+          "number": 4,
+          "text": "O coração dos sábios está na casa do luto, mas o coração dos tolos está na casa da alegria. "
+        },
+        {
+          "number": 5,
+          "text": "Melhor é ouvir a repreensão do sábio do que alguém ouvir a canção dos tolos; "
+        },
+        {
+          "number": 6,
+          "text": "Pois o riso dos tolos é como o ruído de espinhos debaixo de uma panela; também isto é futilidade. "
+        },
+        {
+          "number": 7,
+          "text": "Verdadeiramente a opressão faz até o sábio enlouquecer, e o suborno corrompe o coração. "
+        },
+        {
+          "number": 8,
+          "text": "Melhor é o fim das coisas do que o princípio delas; melhor é o paciente de espírito que o arrogante de espírito. "
+        },
+        {
+          "number": 9,
+          "text": "Não te apresses em teu espírito para te irares, porque a ira repousa no colo dos tolos. "
+        },
+        {
+          "number": 10,
+          "text": "Nunca digas: Por que os dias passados foram melhores que estes de agora ? Pois não haveria sabedoria nisto que perguntarias. "
+        },
+        {
+          "number": 11,
+          "text": "Boa é a sabedoria com a herança; e proveito há para os que veem ao sol; "
+        },
+        {
+          "number": 12,
+          "text": "Porque a sabedoria serve de proteção, assim como o dinheiro serve de proteção; mas a maior vantagem do conhecimento é que a sabedoria dá vida aos que a possuem. "
+        },
+        {
+          "number": 13,
+          "text": "Observa a obra de Deus, pois quem poderá endireitar o que ele entortou? "
+        },
+        {
+          "number": 14,
+          "text": "No dia da prosperidade, alegra-te; mas no dia da adversidade, considera; pois Deus faz um em contraposição ao outro, para que o homem não consiga descobrir o que haverá depois dele. "
+        },
+        {
+          "number": 15,
+          "text": "Tudo isto vi nos meus dias de futilidade: há justo que perece em sua justiça, e há perverso que prolonga sua vida em sua maldade. "
+        },
+        {
+          "number": 16,
+          "text": "Não sejas justo demais, nem sejas sábio demais; para que destruirias a ti mesmo? "
+        },
+        {
+          "number": 17,
+          "text": "Não sejas perverso demais, nem sejas tolo; para que morrerias antes de teu tempo? "
+        },
+        {
+          "number": 18,
+          "text": "É bom que retenhas isto, e também não retires tua mão disto, pois quem teme a Deus escapa de tudo isto. "
+        },
+        {
+          "number": 19,
+          "text": "A sabedoria fortalece ao sábio, mais do que dez homens de autoridade que estejam na cidade. "
+        },
+        {
+          "number": 20,
+          "text": "Verdadeiramente não há homem justo sobre a terra, que faça o bem, e nunca peque. "
+        },
+        {
+          "number": 21,
+          "text": "Além disso, não dês atenção a todas as palavras que forem ditas, para que não venhas a ouvir que teu servo te amaldiçoa; "
+        },
+        {
+          "number": 22,
+          "text": "Pois teu coração sabe que também tu já amaldiçoaste a outros. "
+        },
+        {
+          "number": 23,
+          "text": "Tudo isto investiguei com sabedoria. Eu disse: Terei para mim mais sabedoria;porém ela ficava ainda mais longe de mim. "
+        },
+        {
+          "number": 24,
+          "text": "Quem pode encontrar o que está distante e tão profundo? "
+        },
+        {
+          "number": 25,
+          "text": "Decidi em meu coração conhecer, investigar e buscar a sabedoria e a razão; e saber o mal que há na tolice e na loucura das maluquices. "
+        },
+        {
+          "number": 26,
+          "text": "E eu encontrei uma coisa mais amarga que a morte: a mulher cujo coração são redes e armadilhas, e suas mãos são amarras; quem for bom perante Deus escapará dela; mas o pecador ficará preso nela. "
+        },
+        {
+          "number": 27,
+          "text": "Olha isto:(diz o pregador, enquanto ele procurava entender as coisas ,uma por uma) "
+        },
+        {
+          "number": 28,
+          "text": "Aquilo que minha alma tem buscado, ainda não achei; um homem entre mil eu achei; mas uma mulher entre todas estas não achei. "
+        },
+        {
+          "number": 29,
+          "text": "Eis que somente achei isto: que Deus fez os homens corretos, porém foram eles que buscaram muitos desejos ruins. "
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quem é semelhante ao sábio? E quem sabe a interpretação das coisas? A sabedoria do homem faz seu rosto brilhar, e a dureza de seu rosto é alterada. "
+        },
+        {
+          "number": 2,
+          "text": "Eu digo: obedece às ordens do rei, por causa do juramento que fizeste a Deus. "
+        },
+        {
+          "number": 3,
+          "text": "Não te apresses de sair da presença dele, nem persistas em alguma coisa má; pois tudo que ele deseja, ele faz. "
+        },
+        {
+          "number": 4,
+          "text": "Naquilo que há a palavra do rei, ali há autoridade; e quem lhe dirá: O que estás fazendo? "
+        },
+        {
+          "number": 5,
+          "text": "Quem obedecer ao mandamento não experimentará mal algum; e o coração do sábio sabe a hora e a maneira corretas . "
+        },
+        {
+          "number": 6,
+          "text": "Porque para todo propósito há uma hora e uma maneira correta ; por isso o mal do homem é muito sobre ele: "
+        },
+        {
+          "number": 7,
+          "text": "Pois ele não sabe o que irá acontecer. Quem pode lhe avisar o que vai acontecer, e quando? "
+        },
+        {
+          "number": 8,
+          "text": "Não há homem nenhum que tenha domínio sobre o espírito, para reter ao espírito; nem tem domínio sobre dia da morte, nem meios de escapar d esta guerra; nem a perversidade livrará a seus donos. "
+        },
+        {
+          "number": 9,
+          "text": "Tudo isto vi quando fiz coração considerar toda obra que se faz abaixo do sol: há um tempo em que um homem passa a dominar outro homem, para sua própria ruína. "
+        },
+        {
+          "number": 10,
+          "text": "Também assim vi os perversos sepultados, e vinham, e saíam do lugar santo; e eles foram esquecidos na cidade em que assim fizeram; isso também é futilidade. "
+        },
+        {
+          "number": 11,
+          "text": "Dado que o julgamento pela obra má não é feito imediatamente, por causa disso o coração dos filhos dos homens está cheio de vontade neles, para fazer o mal. "
+        },
+        {
+          "number": 12,
+          "text": "Ainda que um pecador faça o mal cem vezes e sua vida se prolongue, mesmo assim eu sei, que as coisas boas acontecerão aos que temem a Deus, aos que temerem diante da sua face. "
+        },
+        {
+          "number": 13,
+          "text": "Porém ao perverso não sucederá o bem, e não prolongará seus dias, que serão como uma sombra, pois ele não tem temor diane de Deus. "
+        },
+        {
+          "number": 14,
+          "text": "Há outra futilidade que é feita sobre a terra: que há justos a quem acontece conforme as obras dos perversos, e há perversos a quem acontece conforme as obras dos justos. Digo que isso também é futilidade. "
+        },
+        {
+          "number": 15,
+          "text": "Assim elogiei a alegria, pois o homem não tem nada melhor abaixo do sol do que comer, beber e se alegrar; que isso acompanhe seu trabalho nos dias de sua vida, que Deus lhe dá abaixo do sol. "
+        },
+        {
+          "number": 16,
+          "text": "Enquanto entregava meu coração a entender a sabedoria, e ver a ocupação que é feita abaixo do sol (ainda que nem de dia, nem de noite, o homem veja sono em seus olhos), "
+        },
+        {
+          "number": 17,
+          "text": "Então vi toda a obra de Deus, que o homem não pode compreender a obra que é feita abaixo do sol; mesmo que o homem trabalhe para a buscar, ele não a encontrará; ainda que o sábio diga que a conhece, ele não pode compreendê -la . "
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Por isso fiz meu coração considerar todas estas coisas, para entender com clareza tudo isto: que os justos, e os sábios, e suas obras, estão nas mãos de Deus; até o amor e o ódio, o homem nada sabe o que há à sua frente. "
+        },
+        {
+          "number": 2,
+          "text": "Tudo acontece de modo semelhante a todos; o mesmo acontece ao justo e ao perverso; ao bom e ao puro, assim como ao impuro; tanto ao que sacrifica, como ao que não sacrifica; tanto ao bom, como ao pecador; ao que jura, assim como ao que teme fazer juramento. "
+        },
+        {
+          "number": 3,
+          "text": "Esta coisa má existe entre tudo o que é feito abaixo do sol, que a todos aconteça o mesmo; e que o coração dos filhos homens esteja cheio de maldade, e que haja loucuras em seus corações durante suas vidas, e depois eles vão para entre os mortos. "
+        },
+        {
+          "number": 4,
+          "text": "Porque para aquele que está junto a todos os vivos há esperança (pois melhor é um cão vivo do que um leão morto). "
+        },
+        {
+          "number": 5,
+          "text": "Porque os vivos sabem que vão morrer; mas os mortos não sabem coisa alguma, nem também tem mais recompensa; pois a lembrança deles já foi esquecida. "
+        },
+        {
+          "number": 6,
+          "text": "Até seu amor, até seu ódio, e até sua inveja já pereceu e nenhuma parte nunca mais lhes pertence, em tudo quanto se faz abaixo do sol. "
+        },
+        {
+          "number": 7,
+          "text": "Vai, come com alegria teu pão, e bebe com bom coração o teu vinho; pois Deus se agrada de tuas obras. "
+        },
+        {
+          "number": 8,
+          "text": "Em todo tempo sejam brancas as tuas roupas, e nunca falte óleo sobre tua cabeça. "
+        },
+        {
+          "number": 9,
+          "text": "Aproveite a vida com a mulher que tu amas, todos os dias da tua fútil vida, que Deus te deu abaixo do sol, todos os teus fúteis dias; porque esta é a parte que te pertence nesta vida e em teu trabalho no qual trabalhaste abaixo do sol. "
+        },
+        {
+          "number": 10,
+          "text": "Tudo quanto vier à tua mão para fazer, faze conforme as tuas forças; porque no mundo dos mortos, para onde tu vais, não há obra, nem planos, nem conhecimento, nem sabedoria alguma. "
+        },
+        {
+          "number": 11,
+          "text": "Voltei-me, e vi abaixo do sol, que a corrida não é dos velozes, nem dos guerreiros a batalha, nem dos sábios o pão, nem dos prudentes as riquezas, nem dos conhecedores o favor; mas que o tempo e a ocasião imprevista acontece a todos estes. "
+        },
+        {
+          "number": 12,
+          "text": "Porque também o homem não sabe seu tempo, assim como os peixes que são capturados pela maligna rede; e como os passarinhos que são presos na armadilha; assim também os filhos dos homens são pegos pelo tempo mau, quando cai de repente sobre eles. "
+        },
+        {
+          "number": 13,
+          "text": "Também vi esta sabedoria abaixo do sol, que considerei grande: "
+        },
+        {
+          "number": 14,
+          "text": "Havia uma pequena cidade, em que havia poucas pessoas; e veio contra ela um grande rei, e a cercou, e levantou contra ela grandes barreiras. "
+        },
+        {
+          "number": 15,
+          "text": "E se achou nela um homem pobre sábio, que livrou aquela cidade com sua sabedoria; porém ninguém se lembrou daquele pobre homem. "
+        },
+        {
+          "number": 16,
+          "text": "Então eu disse: Melhor é a sabedoria do que a força; ainda que a sabedoria do pobre tenha sido desprezada, e suas palavras não tenham sido ouvidas. "
+        },
+        {
+          "number": 17,
+          "text": "As palavras dos sábios devem ser ouvidas em quietude, mais do que o grito daquele que domina sobre os tolos. "
+        },
+        {
+          "number": 18,
+          "text": "Melhor é a sabedoria do que as armas de guerra; porém um só pecador destrói muitas coisas boas. "
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Assim como as moscas mortas fazem cheirar mal do óleo do perfumador, assim também um pouco de tolice se sobrepõe à sabedoria e honra. "
+        },
+        {
+          "number": 2,
+          "text": "O coração do sábio está à sua direita; mas o coração do tolo está à sua esquerda. "
+        },
+        {
+          "number": 3,
+          "text": "E até quando o tolo vai pelo caminho, falta-lhe bom-senso em seu coração, e diz a todos que é ele é tolo. "
+        },
+        {
+          "number": 4,
+          "text": "Se o espírito de um chefe se levantar contra ti, não deixes teu lugar, porque a calma aquieta grandes ofensas. "
+        },
+        {
+          "number": 5,
+          "text": "Há um mal que vi abaixo do sol, um tipo de erro que é proveniente dos que têm autoridade: "
+        },
+        {
+          "number": 6,
+          "text": "Põem o tolo em cargos elevados, mas os ricos sentam em lugares baixos. "
+        },
+        {
+          "number": 7,
+          "text": "Vi servos a cavalo, e príncipes que andavam a pé como se fossem servos sobre a terra. "
+        },
+        {
+          "number": 8,
+          "text": "Quem cavar uma cova, nela cairá; e quem romper um muro, uma cobra o morderá. "
+        },
+        {
+          "number": 9,
+          "text": "Quem extrai pedras, por elas será ferido; e quem parte lenha, correrá perigo por ela. "
+        },
+        {
+          "number": 10,
+          "text": "Se o ferro está embotado, e não afiar o corte, então deve se pôr mais forças; mas a sabedoria é proveitosa para se ter sucesso. "
+        },
+        {
+          "number": 11,
+          "text": "Se a cobra morder sem estar encantada, então proveito nenhum tem a fala do encantador. "
+        },
+        {
+          "number": 12,
+          "text": "As palavras da boca do sábio são agradáveis; porém os lábios do tolo o devoram. "
+        },
+        {
+          "number": 13,
+          "text": "O princípio das palavras de sua boca é tolice; e o fim de sua boca é uma loucura ruim. "
+        },
+        {
+          "number": 14,
+          "text": "O tolo multiplica as palavras, porém ninguém sabe o que virá no futuro; e quem lhe fará saber o que será depois dele? "
+        },
+        {
+          "number": 15,
+          "text": "O trabalho dos tolos lhes traz cansaço, porque não sabem ir à cidade. "
+        },
+        {
+          "number": 16,
+          "text": "Ai de ti, ó terra cujo rei é um menino, e cujos príncipes comem pela madrugada! "
+        },
+        {
+          "number": 17,
+          "text": "Bem-aventurada é tu, ó terra, cujo rei é filho de nobres, e cujos príncipes comem no tempo devido , para se fortalecerem, e não para se embebedarem! "
+        },
+        {
+          "number": 18,
+          "text": "Pela muita preguiça o teto se deteriora; e pala frouxidão das mãos a casa tem goteiras. "
+        },
+        {
+          "number": 19,
+          "text": "Para rir se fazem banquetes, e o vinho alegra aos vivos; mas o dinheiro responde por tudo. "
+        },
+        {
+          "number": 20,
+          "text": "Nem mesmo em pensamento amaldiçoes ao rei, nem também no interior de teu quarto amaldiçoes ao rico, porque as aves dos céus levam o que foi falado, e os que tem asas contam o que foi dito. "
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lança teu pão sobre as águas, porque depois de muitos dias tu o encontrarás. "
+        },
+        {
+          "number": 2,
+          "text": "Dá uma parte a sete, e até a oito; porque não sabes que mal haverá sobre a terra. "
+        },
+        {
+          "number": 3,
+          "text": "Se as nuvens estiverem cheias, há chuva sobre a terra; e se a árvore cair, seja para ou sul ou seja para o norte, no lugar em que a árvore cair, ali ela ficará. "
+        },
+        {
+          "number": 4,
+          "text": "Quem ficar dando atenção ao vento, nunca semeará; e o que olhar para as nuvens nunca ceifará. "
+        },
+        {
+          "number": 5,
+          "text": "Assim como tu não sabes qual é o caminho do vento, nem como se formam os ossos do feto no ventre da grávida, assim também tu não sabes a obra de Deus, que faz todas as coisas. "
+        },
+        {
+          "number": 6,
+          "text": "Pela manhã semeia tua semente, e à tarde não retires tua mão; pois tu não sabes qual tentativa dará certo, se uma, se outra, ou se ambas as tentativas serão boas. "
+        },
+        {
+          "number": 7,
+          "text": "Certamente a luz é agradável, e ver o sol é bom para os olhos. "
+        },
+        {
+          "number": 8,
+          "text": "Mesmo se o homem viver muitos anos, e em todos eles se alegrar, ele também deve se lembrar dos dias de trevas, porque serão muitos. Tudo o que acontece é futilidade. "
+        },
+        {
+          "number": 9,
+          "text": "Alegra-te, rapaz, em tua juventude; e agrada o teu coração nos dias de tua juventude; e anda pelos caminhos do teu coração, e na vista de teus olhos; sabe, porém, que por todas estas coisas, Deus te trará a julgamento. "
+        },
+        {
+          "number": 10,
+          "text": "Portanto afasta o desagrado de teu coração, e tira de tua carne o mal; pois a adolescência e a juventude são futilidade.  "
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Portanto lembra-te de teu Criador nos dias de tua juventude, antes que venham os dias ruins, e cheguem os anos, dos quais venhas a dizer: Não tenho neles contentamento; "
+        },
+        {
+          "number": 2,
+          "text": "Antes que se escureçam o sol, a luz, a lua e as estrelas; e voltem as nuvens após a chuva. "
+        },
+        {
+          "number": 3,
+          "text": "No dia em que os guardas da casa tremerem, e os homens fortes se encurvarem; e cessarem os moedores, por terem diminuído, e se escurecerem os que olham pelas janelas; "
+        },
+        {
+          "number": 4,
+          "text": "E as portas da rua se fecharem, enquanto se abaixa o ruído da moedura; e se levantar a voz das aves, e todas as vozes do canto se encurvarem. "
+        },
+        {
+          "number": 5,
+          "text": "Como também quando temerem as coisas altas, e houver espantos no caminho; e florescer a amendoeira, e o gafanhoto se tornar pesado, e acabar o apetite; porque o homem vai para sua casa eterna, e os que choram andarão ao redor da praça; "
+        },
+        {
+          "number": 6,
+          "text": "Antes que se afrouxe a correia de prata, e de despedace a vasilha de ouro; e se quebre o vaso junto à fonte, e se despedace a roda junto ao poço. "
+        },
+        {
+          "number": 7,
+          "text": "E o pó volte à terra, assim como era; e o espírito  volte a Deus, que o deu. "
+        },
+        {
+          "number": 8,
+          "text": "Futilidade das futilidades! - diz o pregador - Tudo é futilidade. "
+        },
+        {
+          "number": 9,
+          "text": "Além do Pregador ter sido sábio, ele também ensinou conhecimento ao povo. Ele ouviu, investigou e pôs em ordem muitos provérbios. "
+        },
+        {
+          "number": 10,
+          "text": "O Pregador procurou achar palavras agradáveis, e escreveu coisas corretas, palavras de verdade. "
+        },
+        {
+          "number": 11,
+          "text": "As palavras dos sábios são como aguilhões, e como pregos bem fixados pelos mestres das congregações, que foram dadas pelo único Pastor. "
+        },
+        {
+          "number": 12,
+          "text": "Além destas coisas, filho meu, tem cuidado; fazer muitos livros é algo que não tem fim; e estudar muito cansa a carne. "
+        },
+        {
+          "number": 13,
+          "text": "De tudo o que foi ouvido, a conclusão é: teme a Deus, e guarda os mandamentos dele; porque isto é o dever de todo homem.  "
+        },
+        {
+          "number": 14,
+          "text": "Porque Deus trará a julgamento toda obra, até mesmo tudo o que está encoberto, seja bom ou mal."
+        }
+      ]
+    }
+  ]
+}

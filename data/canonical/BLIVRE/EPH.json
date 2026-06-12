@@ -1,0 +1,658 @@
+{
+  "id": 49,
+  "code": "EPH",
+  "name": "Efésios",
+  "abbrev": "Ef",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus. "
+        },
+        {
+          "number": 2,
+          "text": "Graça e paz, de Deus nosso Pai, e do Senhor Jesus Cristo, sejam convosco. "
+        },
+        {
+          "number": 3,
+          "text": "Bendito seja o Deus e Pai do nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituis nos lugares celestiais em Cristo. "
+        },
+        {
+          "number": 4,
+          "text": "Assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em amor. "
+        },
+        {
+          "number": 5,
+          "text": "E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade; "
+        },
+        {
+          "number": 6,
+          "text": "para louvor da glória de sua graça, a qual nos concedeu gratuitamente  no Amado. "
+        },
+        {
+          "number": 7,
+          "text": "Nele temos a libertação  pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça, "
+        },
+        {
+          "number": 8,
+          "text": "que ele fez transbordar em nós em toda sabedoria e prudência. "
+        },
+        {
+          "number": 9,
+          "text": "E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que propôs nele,  "
+        },
+        {
+          "number": 10,
+          "text": "para a administração do cumprimento dos tempos, isto é, voltar a reunir todas as coisas em Cristo, tanto as que estão nos céus, quanto as que estão na terra. "
+        },
+        {
+          "number": 11,
+          "text": "Nele também fomos feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas segundo o conselho da sua vontade, "
+        },
+        {
+          "number": 12,
+          "text": "para que fôssemos para louvor da sua glória, nós os que primeiro esperamos em Cristo. "
+        },
+        {
+          "number": 13,
+          "text": "E também vós, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação, e nele crestes, nele fostes selados com o Espírito Santo da promessa, "
+        },
+        {
+          "number": 14,
+          "text": "que é a garantia da nossa herança, até a libertação  da propriedade de Deus , para louvor da sua glória. "
+        },
+        {
+          "number": 15,
+          "text": "Por isso eu, desde que ouvi da fé que há entre vós no Senhor Jesus, e do amor a todos os santos, "
+        },
+        {
+          "number": 16,
+          "text": "não paro de agradecer a Deus por vós, lembrando-me em minhas orações. "
+        },
+        {
+          "number": 17,
+          "text": "Oro para que o Deus de nosso Senhor Jesus Cristo, o Pai glorioso  , vos dê o Espírito de sabedoria e de revelação no conhecimento dele; "
+        },
+        {
+          "number": 18,
+          "text": "e que sejam iluminados os olhos do vosso coração, para que conheçais qual é a esperança para a qual ele chamou, quais são as riquezas da gloriosa herança  dele nos santos, "
+        },
+        {
+          "number": 19,
+          "text": "e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força, "
+        },
+        {
+          "number": 20,
+          "text": "a qual ele operou em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus, "
+        },
+        {
+          "number": 21,
+          "text": "acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia, não só nesta era, mas também na futura. "
+        },
+        {
+          "number": 22,
+          "text": "Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas para a Igreja, "
+        },
+        {
+          "number": 23,
+          "text": "que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas. "
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E vós estáveis mortos em vossas ofensas e pecados, "
+        },
+        {
+          "number": 2,
+          "text": "nos quais antes andastes conforme o proceder deste mundo, conforme o príncipe do poder do ar, do espírito que agora opera nos filhos da desobediência. "
+        },
+        {
+          "number": 3,
+          "text": "Entre esses também todos nós antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como também os outros. "
+        },
+        {
+          "number": 4,
+          "text": "Mas Deus, que é rico em misericórdia, pelo seu muito amor com que nos amou, "
+        },
+        {
+          "number": 5,
+          "text": "estando nós ainda mortos em nossas ofensas, nos deu vida juntamente com Cristo (pela graça sois salvos), "
+        },
+        {
+          "number": 6,
+          "text": "nos ressuscitou, juntamente com ele , e nos fez sentar nos lugares celestiais, em Cristo Jesus; "
+        },
+        {
+          "number": 7,
+          "text": "para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela sua bondade conosco em Cristo Jesus. "
+        },
+        {
+          "number": 8,
+          "text": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós; é dom de Deus; "
+        },
+        {
+          "number": 9,
+          "text": "não por obras, para que ninguém tenha orgulho de si mesmo. "
+        },
+        {
+          "number": 10,
+          "text": "Pois nós fomos feitos por ele, criados em Cristo Jesus para as boas obras, que Deus preparou para que nelas andássemos. "
+        },
+        {
+          "number": 11,
+          "text": "Portanto, lembrai-vos de que vós, antes, éreis gentios na carne, e chamados de não-circuncidados pelos que se chamam participantes da circuncisão na carne, feita por mãos humanas; "
+        },
+        {
+          "number": 12,
+          "text": "que naquele tempo estáveis sem Cristo, excluídos da comunidade de Israel, e estranhos aos pactos da promessa, não tendo esperança, e sem Deus no mundo. "
+        },
+        {
+          "number": 13,
+          "text": "Mas agora em Cristo Jesus, vós que antes estáveis longe, chegastes para perto pelo sangue de Cristo, "
+        },
+        {
+          "number": 14,
+          "text": "pois ele é a nossa paz. Dos dois povos ele fez um, e derrubou do meio o muro da separação. "
+        },
+        {
+          "number": 15,
+          "text": "Na sua carne ele desfez a inimizade da Lei dos mandamentos que consistia em ordenanças, para criar em si mesmo os dois em um novo homem, fazendo a paz; "
+        },
+        {
+          "number": 16,
+          "text": "e pela cruz reconciliar com Deus a ambos num só corpo, matando nela a inimizade. "
+        },
+        {
+          "number": 17,
+          "text": "Ele veio, e proclamou o evangelho da paz a vós que estáveis longe, e paz aos que estavam perto. "
+        },
+        {
+          "number": 18,
+          "text": "Pois por meio dele ambos temos acesso ao Pai por um mesmo Espírito. "
+        },
+        {
+          "number": 19,
+          "text": "Portanto, já não sois estrangeiros, nem forasteiros, mas sim, concidadãos dos santos, e membros da família de Deus, "
+        },
+        {
+          "number": 20,
+          "text": "edificados sobre o fundamento dos apóstolos e dos profetas, do qual Cristo Jesus é a pedra principal da esquina. "
+        },
+        {
+          "number": 21,
+          "text": "Nele o edifício todo, bem ajustado, cresce para ser um templo santo no Senhor. "
+        },
+        {
+          "number": 22,
+          "text": "Nele também vós sois juntamente edificados para serdes morada de Deus em Espírito. "
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Por isso eu, Paulo, sou prisioneiro de Cristo Jesus, para o benefício de vós, gentios. "
+        },
+        {
+          "number": 2,
+          "text": "Se é que já ouvistes da responsabilidade  acerca da graça de Deus, que me foi dada para vós; "
+        },
+        {
+          "number": 3,
+          "text": "que por revelação me foi dado a conhecer este mistério (conforme já vos escrevi um pouco; "
+        },
+        {
+          "number": 4,
+          "text": "quando o ledes, podeis entender o meu entendimento deste mistério de Cristo). "
+        },
+        {
+          "number": 5,
+          "text": "Esse mistério  em outras gerações não foi dado a conhecer aos seres humanos  , como agora foi revelado pelo Espírito aos seus santos apóstolos e profetas: "
+        },
+        {
+          "number": 6,
+          "text": "isto é,  que os gentios são conjuntamente herdeiros, membros de um mesmo corpo, e participantes da promessa em Cristo Jesus por meio do evangelho. "
+        },
+        {
+          "number": 7,
+          "text": "Eu fui feito servidor desse evangelho conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder. "
+        },
+        {
+          "number": 8,
+          "text": "A mim, o menor de todos os santos, foi dada esta graça de anunciar aos gentios, por meio do Evangelho, as inimagináveis riquezas de Cristo, "
+        },
+        {
+          "number": 9,
+          "text": "E para esclarecer qual é a administração  do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas,  "
+        },
+        {
+          "number": 10,
+          "text": "para que a multiforme sabedoria de Deus seja agora manifestada pela igreja aos domínios e autoridades nos lugares celestes, "
+        },
+        {
+          "number": 11,
+          "text": "conforme o eterno propósito que ele cumpriu em Cristo Jesus, nosso Senhor, "
+        },
+        {
+          "number": 12,
+          "text": "no qual temos coragem  e acesso confiante pela fé nele.  "
+        },
+        {
+          "number": 13,
+          "text": "Portanto, eu vos peço que não vos desanimeis em minhas aflições por vós. Elas são a vossa glória. "
+        },
+        {
+          "number": 14,
+          "text": "Por causa disso me ponho de joelhos diante do Pai;  "
+        },
+        {
+          "number": 15,
+          "text": "do qual toda a família nos céus e na terra recebe nome. "
+        },
+        {
+          "number": 16,
+          "text": "Oro para que, conforme a sua riquíssima glória,  ele vos conceda que sejais fortalecidos com poder pelo seu Espírito no interior de cada um,  "
+        },
+        {
+          "number": 17,
+          "text": "para que Cristo habite em vossos corações pela fé. Oro para que vós estejais enraizados e firmados no amor, "
+        },
+        {
+          "number": 18,
+          "text": "e assim possais compreender, com todos os santos, qual é a largura, comprimento, profundidade, e altura, "
+        },
+        {
+          "number": 19,
+          "text": "e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios de toda a plenitude de Deus. "
+        },
+        {
+          "number": 20,
+          "text": "E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós, "
+        },
+        {
+          "number": 21,
+          "text": "a ele seja a glória na Igreja, e em Cristo Jesus, por todas as gerações para todo o sempre, Amém! "
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Portanto, eu, o prisioneiro no Senhor, rogo-vos que andeis como é digno do chamado com que fostes chamados, "
+        },
+        {
+          "number": 2,
+          "text": "com toda humildade e mansidão; com paciência, tolerando uns aos outros em amor. "
+        },
+        {
+          "number": 3,
+          "text": "Procurai guardar a unidade do Espírito pelo vínculo da paz. "
+        },
+        {
+          "number": 4,
+          "text": "Há um só corpo, e um só Espírito, como também fostes chamados em uma só esperança do vosso chamado. "
+        },
+        {
+          "number": 5,
+          "text": "Um só Senhor, uma só fé, um só batismo; "
+        },
+        {
+          "number": 6,
+          "text": "um só Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos. "
+        },
+        {
+          "number": 7,
+          "text": "Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo. "
+        },
+        {
+          "number": 8,
+          "text": "Por isso diz: Quando ele subiu ao alto, levou cativo o cativeiro,  e deu dons às pessoas.  "
+        },
+        {
+          "number": 9,
+          "text": "(O que significa este “ele subiu”, senão que ele também tinha descido às partes mais baixas da terra?) "
+        },
+        {
+          "number": 10,
+          "text": "Aquele que desceu é também o mesmo que subiu muito acima de todos os céus, para preencher  todas as coisas. "
+        },
+        {
+          "number": 11,
+          "text": "E ele mesmo deu uns como apóstolos, outros como profetas outros como evangelistas, e outros como pastores e instrutores. "
+        },
+        {
+          "number": 12,
+          "text": "para o aperfeiçoamento dos santos, para a obra do serviço,  para a edificação do corpo de Cristo; "
+        },
+        {
+          "number": 13,
+          "text": "até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, à maturidade,  à medida da estatura da plenitude de Cristo.  "
+        },
+        {
+          "number": 14,
+          "text": "O fim disso é que não mais sejamos crianças inconstantes, levadas de um lado para outro por todo vento de doutrina, pelo engano dos pessoas que, para enganar, usam de fraudes com astúcia. "
+        },
+        {
+          "number": 15,
+          "text": "Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é a cabeça: Cristo. "
+        },
+        {
+          "number": 16,
+          "text": "É dele que todo o corpo, bem ajustado e unido por todos os ligamentos, conforme a operação de cada parte na medida devida, proporciona o crescimento do corpo, para a sua própria edificação em amor. "
+        },
+        {
+          "number": 17,
+          "text": "Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os gentios andam, na futilidade das suas mentes. "
+        },
+        {
+          "number": 18,
+          "text": "Esses têm o entendimento nas trevas, e estão separados da vida de Deus pela ignorância que há neles, pela dureza do seu coração. "
+        },
+        {
+          "number": 19,
+          "text": "Como se tornaram insensíveis, eles se entregaram à sensualidade, para cometerem com avidez toda impureza. "
+        },
+        {
+          "number": 20,
+          "text": "Mas não foi assim que vós aprendestes de Cristo; "
+        },
+        {
+          "number": 21,
+          "text": "se é que o ouvistes, e fostes ensinados nele, como a verdade está em Jesus; "
+        },
+        {
+          "number": 22,
+          "text": "quanto ao comportamento passado, que deveis abandonar o velho ser humano, que se corrompe pelos maus desejos de engano; "
+        },
+        {
+          "number": 23,
+          "text": "que deveis vos renovar no espírito da vossa mente; "
+        },
+        {
+          "number": 24,
+          "text": "e que deveis vos revestir do novo ser humano, que é criado conforme Deus na verdadeira justiça e santidade. "
+        },
+        {
+          "number": 25,
+          "text": "Portanto, abandonai a mentira, e falai a verdade cada um ao seu próximo; pois somos membros uns dos outros. "
+        },
+        {
+          "number": 26,
+          "text": "Quando irardes, não pequeis;  o sol não se ponha sobre a vossa ira; "
+        },
+        {
+          "number": 27,
+          "text": "nem deis lugar ao diabo. "
+        },
+        {
+          "number": 28,
+          "text": "O que furtava, não furte mais; em vez disso, trabalhe, operando com as próprias mãos o bem, para que tenha o que repartir com o que tiver necessidade. "
+        },
+        {
+          "number": 29,
+          "text": "Não saia de vossa boca palavra imoral; mas sim a boa para a edificação conforme a necessidade; para que comunique graça aos que a ouvem. "
+        },
+        {
+          "number": 30,
+          "text": "E não entristeçais o Espírito Santo de Deus, no qual fostes selados para o dia da libertação.  "
+        },
+        {
+          "number": 31,
+          "text": "Toda amargura, raiva, ira, gritaria, e maledicência sejam tiradas do meio de vós, assim como toda malícia. "
+        },
+        {
+          "number": 32,
+          "text": "Em vez disso, sede benignos uns com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo. "
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Portanto, sede imitadores de Deus, como filhos amados; "
+        },
+        {
+          "number": 2,
+          "text": "e andai em amor, como também Cristo vos amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus. "
+        },
+        {
+          "number": 3,
+          "text": "Mas o pecado sexual, e toda impureza ou cobiça, nem mesmo se nomeie entre vós, como convém a santos; "
+        },
+        {
+          "number": 4,
+          "text": "nem imoralidades, nem palavras tolas, nem escárnios, que não convêm; em vez disso, atos de gratidão. "
+        },
+        {
+          "number": 5,
+          "text": "Pois sabeis disto, que nenhum pecador no sexo, ou impuro, ou ganancioso, que é idólatra, tem herança no reino de Cristo e de Deus. "
+        },
+        {
+          "number": 6,
+          "text": "Ninguém vos engane com palavras vazias; pois por essas coisas a ira de Deus vem sobre os filhos da desobediência. "
+        },
+        {
+          "number": 7,
+          "text": "Portanto não sejais parceiros deles.  "
+        },
+        {
+          "number": 8,
+          "text": "Pois antes vós éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz "
+        },
+        {
+          "number": 9,
+          "text": "(porque o fruto da luz  consiste em toda bondade, justiça, e verdade), "
+        },
+        {
+          "number": 10,
+          "text": "buscando descobrir o que agrada ao Senhor. "
+        },
+        {
+          "number": 11,
+          "text": "E não participeis das obras infrutíferas das trevas, pelo contrário, reprovai-as. "
+        },
+        {
+          "number": 12,
+          "text": "pois é vergonhoso até dizer o que eles fazem em segredo. "
+        },
+        {
+          "number": 13,
+          "text": "Mas todas essas coisas, quando são reprovadas, tornam-se visíveis pela luz, porque tudo o que se se torna visível é luz. "
+        },
+        {
+          "number": 14,
+          "text": "Por isso se diz: Desperta tu, que dormes, e levanta-te dos mortos, e Cristo te iluminará. "
+        },
+        {
+          "number": 15,
+          "text": "Portanto vede cuidadosamente como vos conduzis,  não como tolos, mas sim como sábios; "
+        },
+        {
+          "number": 16,
+          "text": "aproveitai o tempo, porque os dias são maus. "
+        },
+        {
+          "number": 17,
+          "text": "Por isso, não sejais imprudentes, mas entendei qual é a vontade do Senhor. "
+        },
+        {
+          "number": 18,
+          "text": "E não fiqueis bêbados com vinho, em que há devassidão, mas enchei-vos do Espírito; "
+        },
+        {
+          "number": 19,
+          "text": "falando entre vós com salmos, hinos e cânticos espirituais; cantando e louvando ao Senhor no vosso coração; "
+        },
+        {
+          "number": 20,
+          "text": "agradecendo sempre por tudo a Deus, o Pai, no nome do nosso Senhor Jesus Cristo; "
+        },
+        {
+          "number": 21,
+          "text": "sujeitando-vos uns aos outros no temor a Cristo. "
+        },
+        {
+          "number": 22,
+          "text": "Mulheres, sujeitai-vos aos vossos próprios maridos, assim como ao Senhor; "
+        },
+        {
+          "number": 23,
+          "text": "porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e ele é o salvador do corpo. "
+        },
+        {
+          "number": 24,
+          "text": "Mas, assim como a Igreja está sujeita a Cristo, assim também as mulheres estejam em tudo sujeitas aos maridos. "
+        },
+        {
+          "number": 25,
+          "text": "Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela; "
+        },
+        {
+          "number": 26,
+          "text": "a fim de a santificar, havendo a purificado com a lavagem com água, pela palavra, "
+        },
+        {
+          "number": 27,
+          "text": "a fim de apresentar a si mesmo uma igreja gloriosa, sem mancha, nem ruga, nem algo semelhante; mas sim, santa e irrepreensível. "
+        },
+        {
+          "number": 28,
+          "text": "Assim os maridos devem amar as suas próprias esposas como os seus próprios corpos. Quem ama a sua esposa, ama a si mesmo; "
+        },
+        {
+          "number": 29,
+          "text": "pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também Cristo à Igreja. "
+        },
+        {
+          "number": 30,
+          "text": "pois somos membros de seu corpo.  "
+        },
+        {
+          "number": 31,
+          "text": "Por isso o homem deixará oseu pai e a sua mãe, e se ajuntará com a sua mulher; e os dois serão uma só carne. "
+        },
+        {
+          "number": 32,
+          "text": "Esse é um grande mistério, mas estou dizendo quanto a Cristo e à Igreja. "
+        },
+        {
+          "number": 33,
+          "text": "Assim também vós, cada um individualmente, ame a sua própria esposa como a si mesmo, e a mulher respeite o marido. "
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Filhos, sede obedientes aos vossos pais no Senhor, porque isso é justo. "
+        },
+        {
+          "number": 2,
+          "text": "Honra teu pai, e tua mãe (que é o primeiro mandamento com promessa); "
+        },
+        {
+          "number": 3,
+          "text": "para que te vá bem, e vivas muito tempo sobre a terra.  "
+        },
+        {
+          "number": 4,
+          "text": "Pais, não provoqueis à ira os vossos filhos, mas criai-os na disciplina e correção do Senhor. "
+        },
+        {
+          "number": 5,
+          "text": "Servos, obedecei aos vossos senhores segundo a carne, com temor e tremor, em sinceridade do vosso coração, assim como a Cristo; "
+        },
+        {
+          "number": 6,
+          "text": "não servindo somente quando vistos, como para agradar pessoas; mas sim, como servos de Cristo, fazendo de coração a vontade de Deus; "
+        },
+        {
+          "number": 7,
+          "text": "servindo de boa vontade como ao Senhor, e não aos pessoas. "
+        },
+        {
+          "number": 8,
+          "text": "Pois sabeis que cada um receberá do Senhor todo o bem que fizer, seja servo, seja livre. "
+        },
+        {
+          "number": 9,
+          "text": "Senhores, fazei o mesmo a eles, abandonando as ameaças, pois sabeis também que o Senhor vosso e deles está nos céus, e que com ele não há acepção de pessoas. "
+        },
+        {
+          "number": 10,
+          "text": "Por fim, fortalecei-vos no Senhor e na força do seu poder. "
+        },
+        {
+          "number": 11,
+          "text": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as ciladas do diabo. "
+        },
+        {
+          "number": 12,
+          "text": "Pois temos de lutar não contra carne e sangue, mas sim contra os domínios e poderes, contra os senhores destas trevas, contra os males espirituais nos lugares celestes. "
+        },
+        {
+          "number": 13,
+          "text": "Portanto pegai toda a armadura de Deus, para que possais resistir no dia mal, e depois que fizerdes tudo, continuar firmes. "
+        },
+        {
+          "number": 14,
+          "text": "Estai, pois, firmes, com a vossa cintura envolvida com o cinturão da verdade, e vestidos com a couraça da justiça; "
+        },
+        {
+          "number": 15,
+          "text": "e calçados os pés com a prontidão do evangelho da paz. "
+        },
+        {
+          "number": 16,
+          "text": "Em tudo pegai o escudo da fé, com o qual podereis apagar todas as flechas inflamadas do maligno. "
+        },
+        {
+          "number": 17,
+          "text": "Pegai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus; "
+        },
+        {
+          "number": 18,
+          "text": "orando em todo tempo com toda oração e súplica no Espírito, e vigiando nisso com toda perseverança e súplica por todos os santos, "
+        },
+        {
+          "number": 19,
+          "text": "e por mim; a fim de que, quando eu abrir a boca, me seja dada palavra com ousadia, para tornar conhecido o mistério do evangelho, "
+        },
+        {
+          "number": 20,
+          "text": "pelo qual sou embaixador acorrentado;  para que dele eu possa falar com ousadia, como devo falar. "
+        },
+        {
+          "number": 21,
+          "text": "Para que também vós possais saber o que acontece comigo, e o que eu faço, Tíquico, o irmão amado, e fiel servidor do Senhor vos informará de tudo. "
+        },
+        {
+          "number": 22,
+          "text": "Eu o enviei até vós para isso, para que saibais o que acontece conosco, e ele conforte os vossos corações. "
+        },
+        {
+          "number": 23,
+          "text": "Paz seja com os irmãos, e amor com fé, da parte de Deus Pai, e do Senhor Jesus Cristo. "
+        },
+        {
+          "number": 24,
+          "text": "A graça seja com todos os que amam ao nosso Senhor Jesus Cristo com amor que não falha.  "
+        }
+      ]
+    }
+  ]
+}
