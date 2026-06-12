@@ -3,3 +3,6 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+# Working docs (specs, notes) — not versioned
+docs/
