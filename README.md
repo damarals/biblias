@@ -5,7 +5,7 @@
 </div>
 <br />
 <div align="center"><strong>Uma coletânea de 20 Bíblias em português</strong></div>
-<div align="center">Traduções em formatos abertos: Zefania (XML), SQLite e JSON,<br/> prontas para uso no OpenLP, Quelea ou para qualquer outro uso.</div>
+<div align="center">Traduções em formatos abertos: Zefania (XML), SQLite e JSON,<br/> prontas para uso no OpenLP, Quelea ou qualquer outro uso.</div>
 <br />
 <div align="center">
   <sub>Desenvolvido por <a href="https://github.com/damarals">Daniel Amaral</a> 👨‍💻</sub>
