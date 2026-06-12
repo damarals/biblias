@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/github/license/damarals/biblias?color=blue" alt="Licença" />
 </div>
 <br />
-<div align="center"><strong>Bíblias em português para softwares de projeção e leitura</strong></div>
-<div align="center">20 traduções em Zefania, SQLite e JSON.</div>
+<div align="center"><strong>Bíblias em português para projeção e leitura</strong></div>
+<div align="center">Uma coletânea de 20 traduções em formatos abertos (Zefania, SQLite e JSON),<br/> prontas para usar no OpenLP, no Quelea e em outros programas.</div>
 <br />
 <div align="center">
   <sub>Desenvolvido por <a href="https://github.com/damarals">Daniel Amaral</a> 👨‍💻</sub>
@@ -65,7 +65,7 @@ Fontes: `openlp` (SQLite local), `bolls`, `getbible`.
 
 ## Contribuindo
 
-Algumas versões têm versículos truncados na origem, e as com direito autoral nem sempre têm fonte limpa para corrigir. O `validate` lista os suspeitos numa worklist por versão. Para corrigir um versículo: edite `data/canonical/<VERSÃO>/<LIVRO>.json`, registre o ref em `data/corrections/<VERSÃO>.json` e abra um pull request.
+Algumas versões têm versículos truncados na origem, e as com direito autoral nem sempre têm fonte limpa para corrigir. Se quiser ajudar mas não souber por onde começar, abra a worklist da versão em [`data/worklist/`](data/worklist/): é a lista dos versículos suspeitos, gerada pelo `validate`. Para corrigir um, edite o texto em `data/canonical/<VERSÃO>/<LIVRO>.json`, anote o ref em `data/corrections/<VERSÃO>.json` (para protegê-lo de sobrescrita) e abra um pull request.
 
 ## Licença
 
