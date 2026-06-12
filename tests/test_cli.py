@@ -40,3 +40,25 @@ def test_fetch_then_build(tmp_path: Path, monkeypatch):
     r2 = runner.invoke(cli.app, ["build", "KJA", "--out", str(dist_dir)])
     assert r2.exit_code == 0
     assert (dist_dir / "KJA.xml").exists()
+
+
+import json as _json
+
+
+def test_fetch_refuses_when_corrections_exist(tmp_path: Path, monkeypatch):
+    sql_dir = tmp_path / "inst" / "sql"
+    sql_dir.mkdir(parents=True)
+    _make_db(sql_dir / "KJA.sqlite")
+    corr_dir = tmp_path / "data" / "corrections"
+    corr_dir.mkdir(parents=True)
+    (corr_dir / "KJA.json").write_text(_json.dumps([{"book": "PRO", "chapter": 10, "verse": 4}]))
+
+    monkeypatch.setattr(cli, "SQL_DIR", sql_dir)
+    monkeypatch.setattr(cli, "CANON_DIR", tmp_path / "data" / "canonical")
+    monkeypatch.setattr(cli, "CORRECTIONS_DIR", corr_dir)
+
+    blocked = runner.invoke(cli.app, ["fetch", "KJA"])
+    assert blocked.exit_code != 0
+
+    forced = runner.invoke(cli.app, ["fetch", "KJA", "--force"])
+    assert forced.exit_code == 0

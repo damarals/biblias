@@ -3,6 +3,7 @@ from pathlib import Path
 import typer
 
 import canon
+import corrections
 from exporters.zefania import ZefaniaExporter
 from sources.openlp_sqlite import OpenLpSqliteSource
 
@@ -10,13 +11,18 @@ app = typer.Typer(help="Ferramenta para gerar Bíblias em português a partir de
 
 SQL_DIR = Path("inst/sql")
 CANON_DIR = Path("data/canonical")
+CORRECTIONS_DIR = Path("data/corrections")
 
 
 @app.command()
-def fetch(code: str, source: str = "openlp") -> None:
+def fetch(code: str, source: str = "openlp", force: bool = False) -> None:
     """Busca uma versão de uma fonte e grava no canônico."""
     if source != "openlp":
         raise typer.BadParameter(f"Fonte desconhecida: {source}")
+    if not force and corrections.corrected_refs(code, CORRECTIONS_DIR):
+        raise typer.BadParameter(
+            f"{code} tem correções manuais registradas; use --force para sobrescrever."
+        )
     bible = OpenLpSqliteSource(SQL_DIR).fetch(code)
     canon.save_bible(bible, CANON_DIR)
     chapters = sum(len(b.chapters) for b in bible.books)
