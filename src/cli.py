@@ -42,6 +42,20 @@ def build(code: str, format: str = "zefania", out: Path = Path("dist")) -> None:
     typer.echo(f"{code}: {format} gerado em {out}.")
 
 
+@app.command(name="diff-sources")
+def diff_sources(code: str, sources: str = "bolls,getbible") -> None:
+    """Compara uma versão entre fontes, validando cada uma."""
+    for name in [s.strip() for s in sources.split(",") if s.strip()]:
+        try:
+            bible = make_source(name, SQL_DIR).fetch(code)
+        except Exception as exc:  # noqa: BLE001 - report any source failure as a row
+            typer.echo(f"{name}: indisponível ({type(exc).__name__})")
+            continue
+        counts = validate_mod.validate_bible(bible).counts
+        typer.echo(f"{name}: {counts[validate_mod.Tier.HIGH]} alta, "
+                   f"{counts[validate_mod.Tier.LOW]} baixa, {counts[validate_mod.Tier.INFO]} info")
+
+
 @app.command()
 def validate(code: str | None = typer.Argument(None)) -> None:
     """Valida o canônico e grava worklists por versão."""
