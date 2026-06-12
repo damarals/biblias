@@ -8,7 +8,7 @@ import validate as validate_mod
 import worklist
 from validate import Report
 from exporters.zefania import ZefaniaExporter
-from sources.openlp_sqlite import OpenLpSqliteSource
+from sources.registry import make_source
 
 app = typer.Typer(help="Ferramenta para gerar Bíblias em português a partir de uma fonte canônica.")
 
@@ -21,13 +21,12 @@ WORKLIST_DIR = Path("data/worklist")
 @app.command()
 def fetch(code: str, source: str = "openlp", force: bool = False) -> None:
     """Busca uma versão de uma fonte e grava no canônico."""
-    if source != "openlp":
-        raise typer.BadParameter(f"Fonte desconhecida: {source}")
     if not force and corrections.corrected_refs(code, CORRECTIONS_DIR):
         raise typer.BadParameter(
             f"{code} tem correções manuais registradas; use --force para sobrescrever."
         )
-    bible = OpenLpSqliteSource(SQL_DIR).fetch(code)
+    adapter = make_source(source, SQL_DIR)
+    bible = adapter.fetch(code)
     canon.save_bible(bible, CANON_DIR)
     chapters = sum(len(b.chapters) for b in bible.books)
     typer.echo(f"{code}: {chapters} capítulos gravados no canônico.")
