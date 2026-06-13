@@ -123,7 +123,7 @@ def render_downloads(rows: list[dict]) -> None:
         series[r["version"]][datetime.date.fromisoformat(r["date"])] = int(r["count"])
     dates = sorted({datetime.date.fromisoformat(r["date"]) for r in rows})
 
-    fig, ax = plt.subplots(figsize=(7, 4.5))
+    fig, ax = plt.subplots(figsize=(7, 5))
     palette = plt.cm.tab20.colors
     drawn = 0
     for i, code in enumerate(CODES):
@@ -138,12 +138,13 @@ def render_downloads(rows: list[dict]) -> None:
         only = dates[0] if dates else datetime.date.today()
         ax.set_xlim(only - datetime.timedelta(days=20), only + datetime.timedelta(days=20))
     _style(ax, "Downloads por versão", "", "Downloads")
+    fig.subplots_adjust(left=0.14, right=0.96, top=0.90, bottom=0.30)
     if drawn:
         legend = ax.legend(ncol=5, fontsize=10, loc="upper center",
-                           bbox_to_anchor=(0.5, -0.12), frameon=False)
+                           bbox_to_anchor=(0.5, -0.16), frameon=False)
         for text in legend.get_texts():
             text.set_fontfamily("monospace")
-    fig.savefig(DOWNLOADS_SVG, bbox_inches="tight")
+    fig.savefig(DOWNLOADS_SVG)
 
 
 def render_stars(dates: list) -> None:
@@ -152,7 +153,7 @@ def render_stars(dates: list) -> None:
     import matplotlib.dates as mdates
     import matplotlib.pyplot as plt
 
-    fig, ax = plt.subplots(figsize=(7, 4.5))
+    fig, ax = plt.subplots(figsize=(7, 5))
     if dates:
         ys = list(range(1, len(dates) + 1))
         ax.plot(dates, ys, lw=2, color=PRIMARY)
@@ -160,7 +161,8 @@ def render_stars(dates: list) -> None:
     ax.xaxis.set_major_locator(mdates.YearLocator())
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
     _style(ax, "Estrelas ao longo do tempo", "", "Estrelas")
-    fig.savefig(STARS_SVG, bbox_inches="tight")
+    fig.subplots_adjust(left=0.14, right=0.96, top=0.90, bottom=0.12)
+    fig.savefig(STARS_SVG)
 
 
 def main() -> None:
