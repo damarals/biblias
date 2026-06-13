@@ -33,6 +33,7 @@ def test_fetch_then_build(tmp_path: Path, monkeypatch):
     dist_dir = tmp_path / "dist"
     monkeypatch.setattr(cli, "SQL_DIR", sql_dir)
     monkeypatch.setattr(cli, "CANON_DIR", canon_dir)
+    monkeypatch.setattr(cli, "CORRECTIONS_DIR", tmp_path / "data" / "corrections")
 
     r1 = runner.invoke(cli.app, ["fetch", "KJA"])
     assert r1.exit_code == 0
@@ -70,6 +71,7 @@ def test_build_multiple_formats(tmp_path: Path, monkeypatch):
     dist_dir = tmp_path / "dist"
     monkeypatch.setattr(cli, "SQL_DIR", sql_dir)
     monkeypatch.setattr(cli, "CANON_DIR", canon_dir)
+    monkeypatch.setattr(cli, "CORRECTIONS_DIR", tmp_path / "data" / "corrections")
 
     runner.invoke(cli.app, ["fetch", "KJA"])
     r = runner.invoke(cli.app, ["build", "KJA", "--format", "zefania,sqlite,json", "--out", str(dist_dir)])
