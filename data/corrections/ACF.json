@@ -85,6 +85,18 @@
   },
   {
     "book": "NUM",
+    "chapter": 3,
+    "verse": 20,
+    "was": "E os filhos de Merari pelas suas famílias: Maeli e Musi; estas são as famílias dos levitas, segundo a casa de seus pais.",
+    "now": "E os filhos de Merari pelas suas famílias: Mali e Musi; estas são as famílias dos levitas, segundo a casa de seus pais.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO tem 'Maeli' mas deve ser 'Mali' conforme ACF"
+  },
+  {
+    "book": "NUM",
     "chapter": 7,
     "verse": 84,
     "was": "Verszeile ohne Text",
@@ -146,6 +158,18 @@
   },
   {
     "book": "JOS",
+    "chapter": 3,
+    "verse": 3,
+    "was": "E ordenaram ao povo, dizendo: Quando virdes a arca da aliança do SENHOR vosso Deus, e que os sacerdotes levitas a levam, partireis vós também do vosso lugar, e seguireis.",
+    "now": "E ordenaram ao povo, dizendo: Quando virdes a arca da aliança do SENHOR vosso Deus, e que os sacerdotes levitas a levam, partireis vós também do vosso lugar, e a seguireis.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO has 'seguireis' but both sources have 'a seguireis' (with 'a'). The word 'a' is miss"
+  },
+  {
+    "book": "JOS",
     "chapter": 4,
     "verse": 9,
     "was": "Verszeile ohne Text",
@@ -155,6 +179,30 @@
       "thiagobodruk/biblia:acf",
       "bibliaonline.com.br:acf"
     ]
+  },
+  {
+    "book": "JOS",
+    "chapter": 12,
+    "verse": 23,
+    "was": "O rei de Dor no outeiro de Dor, outro; o rei de Goiim em Gilgal, outro;",
+    "now": "O rei de Dor no outeiro de Dor, outro; o rei de Goim em Gilgal, outro;",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO has 'Goiim' (with double i) but both sources have 'Goim' (single i). The spelling is"
+  },
+  {
+    "book": "JDG",
+    "chapter": 8,
+    "verse": 1,
+    "was": "ENTÃO os homens de Efraim lhes disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente.",
+    "now": "ENTÃO os homens de Efraim lhe disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO tem 'lhes disseram' (plural) mas bolls corretamente tem 'lhe disseram' (singular), p"
   },
   {
     "book": "JDG",
@@ -253,6 +301,78 @@
     ]
   },
   {
+    "book": "1CH",
+    "chapter": 8,
+    "verse": 11,
+    "was": "E de Husim gerou a Abitude e a Elpaal.",
+    "now": "E de Husim gerou a Abitube e a Elpaal.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): Our text 'Abitude' should be 'Abitube' per both sources - this is a corrupted proper name."
+  },
+  {
+    "book": "1CH",
+    "chapter": 9,
+    "verse": 44,
+    "was": "E teve Azel seis filhos, e estes foram os seus nomes: Azricão, Bocru, Ismael, Seraías, Obadias e Hanã; estes foram os filhos de Azel.",
+    "now": "E teve Azel seis filhos, e estes foram os seus nomes: Azricão, Bocru, Ismael, Searias, Obadias e Hanã; estes foram os filhos de Azel.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): Our text 'Seraías' should be 'Searias' per both sources - incorrect spelling of proper nam"
+  },
+  {
+    "book": "EZR",
+    "chapter": 7,
+    "verse": 12,
+    "was": "Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da lei do Deus do céu, paz perfeita, etc.",
+    "now": "Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da lei do Deus do céu, paz perfeita, em tal tempo.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO truncou 'etc.' mas as fontes têm 'em tal tempo'. Perda de conteúdo real do versículo"
+  },
+  {
+    "book": "NEH",
+    "chapter": 7,
+    "verse": 62,
+    "was": "Os filhos de Dalaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois.",
+    "now": "Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO tem 'Dalaías' mas deve ser 'Delaías' conforme ACF"
+  },
+  {
+    "book": "EST",
+    "chapter": 1,
+    "verse": 2,
+    "was": "Que, assentando-se o rei Assuero no trono do seu reino, que estava na fortaleza de Susã,",
+    "now": "Que, naqueles dias, assentando-se o rei Assuero no trono do seu reino, que estava na fortaleza de Susã,",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO is missing 'naqueles dias' phrase at start. Both sources include this phrase."
+  },
+  {
+    "book": "EST",
+    "chapter": 3,
+    "verse": 3,
+    "was": "Então os servos do rei, que estavam à porta do rei, disseram a Mardoqueu: Por que transgride o mandado do rei?",
+    "now": "Então os servos do rei, que estavam à porta do rei, disseram a Mardoqueu: Por que transgrides o mandado do rei?",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO has wrong verb form: 'transgride' should be 'transgrides' (2nd person singular). Sou"
+  },
+  {
     "book": "JOB",
     "chapter": 12,
     "verse": 14,
@@ -301,6 +421,18 @@
     ]
   },
   {
+    "book": "PRO",
+    "chapter": 7,
+    "verse": 11,
+    "was": "Estava alvoroçada e irriquieta; não paravam em sua casa os seus pés.",
+    "now": "Estava alvoroçada e irrequieta; não paravam em sua casa os seus pés.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): Spelling error: NOSSO has 'irriquieta' but sources show correct 'irrequieta'."
+  },
+  {
     "book": "JER",
     "chapter": 18,
     "verse": 14,
@@ -325,6 +457,54 @@
     ]
   },
   {
+    "book": "MAT",
+    "chapter": 1,
+    "verse": 18,
+    "was": "Ora, o nascimento de Jesus Cristo foi assim: Estando Maria, sua mãe, desposada com José, antes de se ajuntarem, achou-se ter concebido do Espírito Santo.",
+    "now": "Ora, o nascimento de Jesus Cristo foi assim: Que estando Maria, sua mãe, desposada com José, antes de se ajuntarem, achou-se ter concebido do Espírito Santo.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO is missing 'Que' at the beginning of the clause ('Que estando Maria'). Both sources "
+  },
+  {
+    "book": "MAT",
+    "chapter": 4,
+    "verse": 6,
+    "was": "E disse-lhe: Se tu és o Filho de Deus, lança-te de aqui abaixo; porque está escrito: Que aos seus anjos dará ordens a teu respeito, E tomar-te-ão nas mãos, Para que nunca tropeces em alguma pedra.",
+    "now": "E disse-lhe: Se tu és o Filho de Deus, lança-te de aqui abaixo; porque está escrito: Que aos seus anjos dará ordens a teu respeito, e tomar-te-ão nas mãos, para que nunca tropeces com o teu pé em alguma pedra.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO is missing 'com o teu pé' - both sources agree on the complete text 'tropeces com o "
+  },
+  {
+    "book": "LUK",
+    "chapter": 9,
+    "verse": 12,
+    "was": "E já o dia começava a declinar; então, chegando-se a ele os doze, disseram-lhe: Despede a multidão, para que, indo aos lugares e aldeias em redor, se agasalhem, e achem que comer; porque aqui estamos em lugar deserto.",
+    "now": "E já o dia começava a declinar; então, chegando-se a ele os doze, disseram-lhe: Despede a multidão, para que, indo aos lugares e aldeias em redor, se agasalhem, e achem o que comer; porque aqui estamos em lugar deserto.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO has 'achem que comer' but both sources have 'achem o que comer'. Missing the article"
+  },
+  {
+    "book": "LUK",
+    "chapter": 22,
+    "verse": 1,
+    "was": "ESTAVA, pois, perto a festa dos ázimos, chamada a páscoa.",
+    "now": "ESTAVA, pois, perto a festa dos pães ázimos, chamada a páscoa.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO is missing 'pães' (breads). Both sources show 'festa dos pães ázimos' while NOSSO ha"
+  },
+  {
     "book": "LUK",
     "chapter": 24,
     "verse": 5,
@@ -338,6 +518,18 @@
   },
   {
     "book": "ACT",
+    "chapter": 1,
+    "verse": 20,
+    "was": "Porque no livro dos Salmos está escrito: Fique deserta a sua habitação, E não haja quem nela habite, Tome outro o seu bispado.",
+    "now": "Porque no livro dos Salmos está escrito: Fique deserta a sua habitação, E não haja quem nela habite, e: Tome outro o seu bispado.",
+    "source": "thiagobodruk/biblia:acf",
+    "corroborated_by": [
+      "bolls:ACF11"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO missing 'e:' before 'Tome outro' - sources show 'e: Tome outro'"
+  },
+  {
+    "book": "ACT",
     "chapter": 5,
     "verse": 19,
     "was": "Verszeile ohne Text",
@@ -347,6 +539,18 @@
       "thiagobodruk/biblia:acf",
       "bibliaonline.com.br:acf"
     ]
+  },
+  {
+    "book": "ACT",
+    "chapter": 10,
+    "verse": 6,
+    "was": "Este está com um certo Simão curtidor, que tem a sua casa junto do mar. Ele te dirá o que deves fazer.",
+    "now": "Este está hospedado com um certo Simão curtidor, que tem a sua casa junto do mar. Ele te dirá o que deves fazer.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO missing 'hospedado' - should read 'Este está hospedado com um certo Simão'"
   },
   {
     "book": "ACT",
@@ -373,6 +577,42 @@
     ]
   },
   {
+    "book": "GAL",
+    "chapter": 2,
+    "verse": 20,
+    "was": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a na fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim.",
+    "now": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a pela fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO tem 'na fé do Filho' mas as fontes têm 'pela fé do Filho'. Mudança preposicional que"
+  },
+  {
+    "book": "PHP",
+    "chapter": 4,
+    "verse": 3,
+    "was": "E peço-te também a ti, meu verdadeiro companheiro, que ajudes essas mulheres que trabalharam comigo no evangelho, e com Clemente, e com os outros cooperadores, cujos nomes estão no livro da vida.",
+    "now": "E peço-te também a ti, meu verdadeiro companheiro, que ajudes essas mulheres que trabalharam comigo no evangelho, e com Clemente, e com os meus outros cooperadores, cujos nomes estão no livro da vida.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO omits 'meus' before 'outros cooperadores'. Should read 'com os meus outros cooperado"
+  },
+  {
+    "book": "1TH",
+    "chapter": 4,
+    "verse": 3,
+    "was": "Porque esta é a vontade de Deus, a vossa santificação; que vos abstenhais da prostituição;",
+    "now": "Porque esta é a vontade de Deus, a vossa santificação; que vos abstenhais da fornicação;",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): Wrong word: 'prostituição' instead of 'fornicação' - both sources agree on 'fornicação'"
+  },
+  {
     "book": "1TH",
     "chapter": 5,
     "verse": 5,
@@ -383,5 +623,17 @@
       "thiagobodruk/biblia:acf",
       "bibliaonline.com.br:acf"
     ]
+  },
+  {
+    "book": "REV",
+    "chapter": 11,
+    "verse": 8,
+    "was": "E jazerão os seus corpos mortos na praça da grande cidade que espiritualmente se chama Sodoma e Egito, onde o seu Senhor também foi crucificado.",
+    "now": "E jazerão os seus corpos mortos na praça da grande cidade que espiritualmente se chama Sodoma e Egito, onde o nosso Senhor também foi crucificado.",
+    "source": "bolls:ACF11",
+    "corroborated_by": [
+      "thiagobodruk/biblia:acf"
+    ],
+    "note": "auditoria ACF (workflow Haiku, consenso bolls+bodruk): NOSSO reads 'seu Senhor' but both sources read 'nosso Senhor'. Single word omission corrup"
   }
 ]
