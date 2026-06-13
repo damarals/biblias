@@ -1,0 +1,14 @@
+[
+  {
+    "book": "PRO",
+    "chapter": 10,
+    "verse": 4,
+    "was": "As mãos preguiçosas empobrecem o ser humano, porém as mãos laboriosas lhe",
+    "now": "As mãos preguiçosas empobrecem o ser humano, porém as mãos laboriosas lhe produzem riqueza.",
+    "source": "Bíblia King James Atualizada — Abba Press 2019 (PDF oficial, p.1246)",
+    "corroborated_by": [
+      "github:misaelbr/biblias#2"
+    ],
+    "note": "truncado no master digital (bolls/aplicativodabiblia/etc. compartilham o defeito); restaurado da edição impressa oficial; idêntico ao PR #2 da comunidade"
+  }
+]
