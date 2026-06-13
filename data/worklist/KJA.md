@@ -15,7 +15,7 @@
 - NUM 27:3 — verse much shorter than other versions — likely truncation (83 vs median 167 chars)
 - PSA 25:14 — verse much shorter than other versions — likely truncation (36 vs median 81 chars)
 
-## low (526)
+## low (525)
 - GEN 3:20 — missing terminal punctuation
 - GEN 4:1 — missing terminal punctuation
 - GEN 8:22 — missing terminal punctuation
@@ -417,7 +417,6 @@
 - PRO 8:21 — missing terminal punctuation
 - PRO 9:18 — missing terminal punctuation
 - PRO 10:3 — missing terminal punctuation
-- PRO 10:4 — missing terminal punctuation
 - PRO 10:5 — missing terminal punctuation
 - PRO 10:8 — missing terminal punctuation
 - PRO 10:9 — missing terminal punctuation
