@@ -1,13 +1,11 @@
 # Worklist — KJA
 
-## high (2)
+## high (1)
 - MAT 26:25 — corruption (leaked marker / placeholder)
-- PSA 25:14 — verse much shorter than other versions — likely truncation (36 vs median 81 chars)
 
-## low (376)
+## low (335)
 - GEN 3:20 — missing terminal punctuation
 - GEN 4:1 — missing terminal punctuation
-- GEN 8:22 — missing terminal punctuation
 - GEN 10:26 — missing terminal punctuation
 - GEN 10:27 — missing terminal punctuation
 - GEN 10:28 — missing terminal punctuation
@@ -19,7 +17,6 @@
 - GEN 25:13 — missing terminal punctuation
 - GEN 25:14 — missing terminal punctuation
 - GEN 27:5 — missing terminal punctuation
-- GEN 30:43 — missing terminal punctuation
 - GEN 36:4 — missing terminal punctuation
 - GEN 36:15 — missing terminal punctuation
 - GEN 36:20 — missing terminal punctuation
@@ -32,8 +29,6 @@
 - LEV 16:6 — missing terminal punctuation
 - LEV 20:4 — missing terminal punctuation
 - LEV 26:27 — missing terminal punctuation
-- NUM 20:29 — missing terminal punctuation
-- NUM 24:16 — missing terminal punctuation
 - NUM 24:22 — missing terminal punctuation
 - NUM 32:34 — missing terminal punctuation
 - NUM 32:35 — missing terminal punctuation
@@ -265,49 +260,14 @@
 - EST 9:7 — missing terminal punctuation
 - EST 9:8 — missing terminal punctuation
 - JOB 31:5 — missing terminal punctuation
-- PSA 18:34 — missing terminal punctuation
 - PSA 18:36 — missing terminal punctuation
-- PSA 18:37 — missing terminal punctuation
-- PSA 25:5 — missing terminal punctuation
-- PSA 25:14 — missing terminal punctuation
-- PSA 58:11 — missing terminal punctuation
 - PSA 78:1 — missing terminal punctuation
 - PSA 83:6 — missing terminal punctuation
-- PSA 90:16 — missing terminal punctuation
 - PSA 96:7 — missing terminal punctuation
-- PSA 96:13 — missing terminal punctuation
 - PSA 111:1 — missing terminal punctuation
 - PSA 111:2 — missing terminal punctuation
-- PSA 111:3 — missing terminal punctuation
-- PSA 111:6 — missing terminal punctuation
-- PSA 111:8 — missing terminal punctuation
-- PSA 111:9 — missing terminal punctuation
-- PSA 112:1 — missing terminal punctuation
-- PSA 112:2 — missing terminal punctuation
-- PSA 112:3 — missing terminal punctuation
-- PSA 112:5 — missing terminal punctuation
-- PSA 112:10 — missing terminal punctuation
 - PSA 114:1 — missing terminal punctuation
-- PSA 148:14 — missing terminal punctuation
-- PRO 1:7 — missing terminal punctuation
-- PRO 1:8 — missing terminal punctuation
-- PRO 1:19 — missing terminal punctuation
-- PRO 2:17 — missing terminal punctuation
-- PRO 3:17 — missing terminal punctuation
-- PRO 3:22 — missing terminal punctuation
-- PRO 3:32 — missing terminal punctuation
-- PRO 3:35 — missing terminal punctuation
-- PRO 4:20 — missing terminal punctuation
-- PRO 5:12 — missing terminal punctuation
-- PRO 5:23 — missing terminal punctuation
-- PRO 6:35 — missing terminal punctuation
-- PRO 8:3 — missing terminal punctuation
-- PRO 8:21 — missing terminal punctuation
-- PRO 9:18 — missing terminal punctuation
-- PRO 10:32 — missing terminal punctuation
-- PRO 16:17 — missing terminal punctuation
 - PRO 26:13 — missing terminal punctuation
-- PRO 31:28 — missing terminal punctuation
 - ISA 2:18 — missing terminal punctuation
 - ISA 4:4 — missing terminal punctuation
 - ISA 10:10 — missing terminal punctuation
@@ -316,12 +276,10 @@
 - ISA 66:3 — missing terminal punctuation
 - JER 7:13 — missing terminal punctuation
 - JER 21:4 — missing terminal punctuation
-- JER 28:1 — missing terminal punctuation
 - JER 29:15 — missing terminal punctuation
 - JER 37:11 — missing terminal punctuation
 - JER 38:7 — missing terminal punctuation
 - JER 43:1 — missing terminal punctuation
-- JER 43:11 — missing terminal punctuation
 - EZK 13:8 — missing terminal punctuation
 - EZK 31:10 — missing terminal punctuation
 - EZK 34:8 — missing terminal punctuation
@@ -382,7 +340,7 @@
 - REV 3:13 — missing terminal punctuation
 - REV 11:16 — missing terminal punctuation
 
-## info (1859)
+## info (1852)
 - GEN 1:17 — verse continues in next (grouping/split)
 - GEN 4:15 — verse continues in next (grouping/split)
 - GEN 6:1 — verse continues in next (grouping/split)
@@ -1352,7 +1310,6 @@
 - PSA 108:10 — verse continues in next (grouping/split)
 - PSA 109:1 — verse continues in next (grouping/split)
 - PSA 109:30 — verse continues in next (grouping/split)
-- PSA 111:7 — verse continues in next (grouping/split)
 - PSA 113:5 — verse continues in next (grouping/split)
 - PSA 113:7 — verse continues in next (grouping/split)
 - PSA 116:8 — verse continues in next (grouping/split)
@@ -2135,7 +2092,6 @@
 - NUM 23:10 — shorter but complete — critical-text/versification (33 vs median 133 chars)
 - NUM 24:3 — much shorter — continues in next verse (versification split) (48 vs median 104 chars)
 - NUM 24:8 — shorter but complete — critical-text/versification (46 vs median 162 chars)
-- NUM 24:16 — much shorter — list/continuation (37 vs median 151 chars)
 - NUM 24:17 — shorter but complete — critical-text/versification (23 vs median 190 chars)
 - NUM 24:18 — shorter but complete — critical-text/versification (44 vs median 101 chars)
 - NUM 24:21 — shorter but complete — critical-text/versification (39 vs median 111 chars)
@@ -2220,14 +2176,9 @@
 - PSA 111:2 — much shorter — list/continuation (35 vs median 79 chars)
 - PSA 111:4 — shorter but complete — critical-text/versification (38 vs median 77 chars)
 - PSA 111:5 — shorter but complete — critical-text/versification (33 vs median 67 chars)
-- PSA 111:8 — much shorter — list/continuation (30 vs median 72 chars)
-- PSA 111:9 — much shorter — list/continuation (31 vs median 96 chars)
 - PSA 111:10 — shorter but complete — critical-text/versification (45 vs median 135 chars)
-- PSA 112:2 — much shorter — list/continuation (35 vs median 78 chars)
-- PSA 112:3 — much shorter — list/continuation (35 vs median 74 chars)
 - PSA 112:8 — shorter but complete — critical-text/versification (38 vs median 96 chars)
 - PSA 112:9 — shorter but complete — critical-text/versification (49 vs median 106 chars)
-- PSA 112:10 — much shorter — list/continuation (41 vs median 99 chars)
 - PSA 146:1 — shorter but complete — critical-text/versification (8 vs median 46 chars)
 - PRO 10:1 — shorter but complete — critical-text/versification (22 vs median 97 chars)
 - SNG 1:4 — shorter but complete — critical-text/versification (84 vs median 191 chars)
