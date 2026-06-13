@@ -158,7 +158,7 @@ def render_stars(dates: list) -> None:
         ax.plot(dates, ys, lw=2, color=PRIMARY)
         ax.fill_between(dates, ys, alpha=0.10, color=PRIMARY)
     ax.xaxis.set_major_locator(mdates.YearLocator())
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%m/%y"))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
     _style(ax, "Estrelas ao longo do tempo", "", "Estrelas")
     fig.savefig(STARS_SVG, bbox_inches="tight")
 
