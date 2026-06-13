@@ -18,6 +18,17 @@
 - **SQLite** — banco no esquema do [OpenLP](https://openlp.org/) (outros programas usam esquemas SQLite diferentes).
 - **JSON** — formato aberto, para qualquer outro uso.
 
+## Estatísticas
+
+<table>
+  <tr>
+    <td width="50%"><img src="data/stats/stars.svg" alt="Estrelas ao longo do tempo" width="100%"></td>
+    <td width="50%"><img src="data/stats/downloads.svg" alt="Downloads por versão" width="100%"></td>
+  </tr>
+</table>
+
+<sub>Atualizado diariamente. As estrelas têm histórico completo; os downloads (por versão, nas Releases) acumulam dia a dia a partir de junho de 2026, já que o GitHub só expõe o total atual de cada arquivo.</sub>
+
 ## Traduções
 
 Baixe o formato que quiser na última [release](https://github.com/damarals/biblias/releases/latest). As de domínio público (†) podem ser redistribuídas livremente; as demais pertencem a suas editoras.
