@@ -2140,5 +2140,670 @@
     "source": "Bíblia King James Atualizada — Abba Press 2019 (PDF oficial)",
     "corroborated_by": [],
     "note": "truncado no master digital; restaurado da edição oficial (auditoria PDF, extração Haiku verificada por substring)"
+  },
+  {
+    "book": "EXO",
+    "chapter": 15,
+    "verse": 5,
+    "was": "Águas do abismo os encobriram;",
+    "now": "Águas do abismo os encobriram; como pedras sucumbiram ao fundo.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "EXO",
+    "chapter": 15,
+    "verse": 16,
+    "was": "Terror e pavor abateu-se sobre eles;",
+    "now": "Terror e pavor abateu-se sobre eles; pelo poder do teu braço forte ficaram paralisados como pedra; até que passe o teu povo, ó Yahweh, até que passe este povo que Tu adquiriste!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 24,
+    "verse": 8,
+    "was": "Deus os libertou do Egito e os vem comandando;",
+    "now": "Deus os libertou do Egito e os vem comandando; eles têm a força dos búfalos mais fortes. Devoram nações inimigas e despedaçam seus ossos; com suas flechas certeiras os atravessam.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 24,
+    "verse": 17,
+    "was": "Eu vejo, mas não agora;",
+    "now": "Eu vejo, mas não agora; eu avisto, mas não de perto. Um rei, como uma estrela poderosa, surgirá de Jacó; um cetro se levantará dentre os filhos de Israel. Ele esmagará as cabeças dos moabitas e aniquilará todos os arrogantes, filhos de Sete!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 24,
+    "verse": 18,
+    "was": "Edom será totalmente conquistado por Israel;",
+    "now": "Edom será totalmente conquistado por Israel; Seir, seu inimigo, igualmente será dominado. Contudo, Israel se fortalecerá!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 24,
+    "verse": 19,
+    "was": "Dos descendentes de Jacó sairá o dominador;",
+    "now": "Dos descendentes de Jacó sairá o dominador; ele exterminará todos os que restarem em Edom e nas demais cidades!\" Os últimos oráculos de Balaão",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 24,
+    "verse": 22,
+    "was": "Mesmo quando for destruído o Keneu, quando Ashur, a Assíria,",
+    "now": "Mesmo quando for destruído o Keneu, quando Ashur, a Assíria, o fizer cativo, ainda voltará!\"",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 6,
+    "was": "de Hezrom, o grupo familiar dos hezronitas;",
+    "now": "de Hezrom, o grupo familiar dos hezronitas; de Carmim, o grupo familiar dos carmitas.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 16,
+    "was": "de Ozni, o clã oznita;",
+    "now": "de Ozni, o clã oznita; de Eri, o clã erita;",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 17,
+    "was": "de Arodi, o clã arodita;",
+    "now": "de Arodi, o clã arodita; de Areli, o clã arelita.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 24,
+    "was": "de Jasube, o clã jasubita;",
+    "now": "de Jasube, o clã jasubita; de Sinron, o clã sinronita.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 31,
+    "was": "de Asriel, o clã asrielita;",
+    "now": "de Asriel, o clã asrielita; de Siquém, o clã siquemita;",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 32,
+    "was": "de Semida, o clã semidaíta;",
+    "now": "de Semida, o clã semidaíta; de Héfer, o clã heferita.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 39,
+    "was": "De Shefufam, o clã shufamita;",
+    "now": "De Shefufam, o clã shufamita; de Hufã, o clã hufamita.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "NUM",
+    "chapter": 26,
+    "verse": 49,
+    "was": "de Jezer, o clã jezerita;",
+    "now": "de Jezer, o clã jezerita; de Silém, o clã silemita.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "RUT",
+    "chapter": 4,
+    "verse": 19,
+    "was": "Hezrom gerou Rão;",
+    "now": "Hezrom gerou Rão; Rão gerou Aminadabe;",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "RUT",
+    "chapter": 4,
+    "verse": 20,
+    "was": "Aminadabe gerou Naassom;",
+    "now": "Aminadabe gerou Naassom; Naassom gerou Salmom;",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "RUT",
+    "chapter": 4,
+    "verse": 21,
+    "was": "Salmom gerou Boaz;",
+    "now": "Salmom gerou Boaz; Boaz gerou Obede;",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "RUT",
+    "chapter": 4,
+    "verse": 22,
+    "was": "Obede gerou Jessé;",
+    "now": "Obede gerou Jessé; e Jessé gerou Davi.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 18,
+    "verse": 36,
+    "was": "Aplainaste o meu caminho, para que, andando livre, meus tornozelos não se",
+    "now": "Aplainaste o meu caminho, para que, andando livre, meus tornozelos não se torçam.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 19,
+    "verse": 6,
+    "was": "Parte de uma extremidade dos céus e percorre o seu caminho até o outro extremo;",
+    "now": "Parte de uma extremidade dos céus e percorre o seu caminho até o outro extremo; nada escapa ao seu fulgor.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 78,
+    "verse": 1,
+    "was": "Escuta meu ensino, ó povo meu, presta atenção às palavras da minha",
+    "now": "Escuta meu ensino, ó povo meu, presta atenção às palavras da minha boca!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 96,
+    "verse": 10,
+    "was": "Anunciai entre as nações: “O SENHOR é rei. Sim, o mundo está firme e não será abalado;",
+    "now": "Anunciai entre as nações: “O SENHOR é rei. Sim, o mundo está firme e não será abalado; Ele julgará os povos com retidão!\"",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 106,
+    "verse": 4,
+    "was": "Lembra-te de mim, ó Eterno, de acordo com a tua benevolência para com teu povo;",
+    "now": "Lembra-te de mim, ó Eterno, de acordo com a tua benevolência para com teu povo; vem em meu socorro quando o salvares,",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PRO",
+    "chapter": 1,
+    "verse": 5,
+    "was": "Mesmo o sábio que lhes der ouvidos aumentará em muito seu entendimento,",
+    "now": "Mesmo o sábio que lhes der ouvidos aumentará em muito seu entendimento, e quem tem discernimento obterá clara orientação",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PRO",
+    "chapter": 1,
+    "verse": 11,
+    "was": "Se te convidarem: “Vem conosco, embosquemo-nos para assaltar e matar alguém;",
+    "now": "Se te convidarem: “Vem conosco, embosquemo-nos para assaltar e matar alguém; espreitemos o incauto, ainda que apenas por diversão!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PRO",
+    "chapter": 4,
+    "verse": 4,
+    "was": "meu querido pai me ensinava, dizendo: “Retém em teu coração as minhas palavras;",
+    "now": "meu querido pai me ensinava, dizendo: “Retém em teu coração as minhas palavras; obedece às minhas ordenanças e viverás feliz.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "PRO",
+    "chapter": 26,
+    "verse": 13,
+    "was": "O preguiçoso alega: “Há uma fera violenta no caminho, um leão feroz rondando",
+    "now": "O preguiçoso alega: “Há uma fera violenta no caminho, um leão feroz rondando pelas ruas!\"",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "ISA",
+    "chapter": 32,
+    "verse": 14,
+    "was": "A fortaleza será abandonada, a cidade barulhenta ficará deserta, a cidadela e a torre das sentinelas se tornarão covis, uma delícia para os jumentos, uma pastagem para os rebanhos,",
+    "now": "A fortaleza será abandonada, a cidade barulhenta ficará deserta, a cidadela e a torre das sentinelas se tornarão covis, uma delícia para os jumentos, uma pastagem para os rebanhos, O derramamento do Espírito",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "MAT",
+    "chapter": 20,
+    "verse": 19,
+    "was": "E o entregarão aos gentios para ser zombado, torturado e crucificado; mas ao terceiro dia Ele será ressuscitado!” É preciso sabedoria para pedir",
+    "now": "E o entregarão aos gentios para ser zombado, torturado e crucificado; mas ao terceiro dia Ele será ressuscitado!” É preciso sabedoria para pedir (Mc 10.35-45)",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "LUK",
+    "chapter": 8,
+    "verse": 25,
+    "was": "Jesus, no entanto, dirigiu-se aos seus discípulos e indagou: “Onde está a vossa fé?” Mas eles, amedrontados e maravilhados, interrogavam uns aos outros: “Quem é este que até aos ventos e às ondas dá ordens, e eles lhe obedecem?” A libertação de um endemoninhado",
+    "now": "Jesus, no entanto, dirigiu-se aos seus discípulos e indagou: “Onde está a vossa fé?” Mas eles, amedrontados e maravilhados, interrogavam uns aos outros: “Quem é este que até aos ventos e às ondas dá ordens, e eles lhe obedecem?” A libertação de um endemoninhado (Mt 8.28-34; Mc 5.1-20)",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "LUK",
+    "chapter": 24,
+    "verse": 49,
+    "was": "Eis que Eu sobre vós envio a promessa de meu Pai; contudo, permanecei na cidade, até que sejais revestidos do poder do alto!” Jesus é elevado ao céu",
+    "now": "Eis que Eu sobre vós envio a promessa de meu Pai; contudo, permanecei na cidade, até que sejais revestidos do poder do alto!” Jesus é elevado ao céu (Mc 16.19-20)",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "JHN",
+    "chapter": 1,
+    "verse": 35,
+    "was": "No dia seguinte,",
+    "now": "No dia seguinte, João estava outra vez na companhia de dois dos seus discípulos",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA family"
+    ]
+  },
+  {
+    "book": "GEN",
+    "chapter": 4,
+    "verse": 15,
+    "was": "Contudo, o SENHOR lhe asseverou: “Não acontecerá assim! Se alguém matar",
+    "now": "Contudo, o SENHOR lhe asseverou: “Não acontecerá assim! Se alguém matar a Caim, sofrerá sete vezes a vingança.” E o SENHOR colocou em Caim um sinal, para que ninguém que viesse a encontrá-lo o matasse.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017)",
+    "corroborated_by": [
+      "ACF",
+      "ARA",
+      "NAA",
+      "NVT",
+      "KJF"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 1,
+    "was": "Aleluia! De todo o coração, louvarei ao SENHOR,",
+    "now": "Aleluia! De todo o coração, louvarei ao SENHOR, na congregação dos justos e na assembleia dos que se reúnem para adorá-lo.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 2,
+    "was": "Portentosas são as obras do SENHOR,",
+    "now": "Portentosas são as obras do SENHOR, dignas de profunda meditação para quem as aprecia.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 4,
+    "was": "Ele fez memoráveis as suas maravilhas;",
+    "now": "Ele fez memoráveis as suas maravilhas; o SENHOR é misericordioso e compassivo.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 5,
+    "was": "Provê o sustento dos que o temem;",
+    "now": "Provê o sustento dos que o temem; porquanto, tem sempre presente a lembrança da sua aliança.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 10,
+    "was": "O temor do SENHOR é o princípio da sabedoria;",
+    "now": "O temor do SENHOR é o princípio da sabedoria; todos os que cumprem seus preceitos demonstram bom senso. Ele será louvado por toda a eternidade!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 6,
+    "was": "O justo jamais será grandemente abalado;",
+    "now": "O justo jamais será grandemente abalado; para sempre suscitará boas recordações.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 9,
+    "was": "Generosamente reparte o que possui com os pobres;",
+    "now": "Generosamente reparte o que possui com os pobres; perene será sua benevolência; de cabeça erguida será honrado e exaltado por muitos.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); acróstico restaurado sem os nomes das letras hebraicas",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "ARA"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 3,
+    "was": "Os feitos do Eterno são magníficos e majestosos, Vav e sua justiça permanece para sempre.",
+    "now": "Os feitos do Eterno são magníficos e majestosos, e sua justiça permanece para sempre.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 6,
+    "was": "Revelou a seu povo suas obras grandiosas, Lamed confiando-lhes as terras das nações.",
+    "now": "Revelou a seu povo suas obras grandiosas, confiando-lhes as terras das nações.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 7,
+    "was": "As realizações de suas mãos são verdadeiras e justas, Nun e todos os seus ensinamentos merecem absoluta confiança:",
+    "now": "As realizações de suas mãos são verdadeiras e justas, e todos os seus ensinamentos merecem absoluta confiança:",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 9,
+    "was": "Ele trouxe redenção a seu povo, Tsade promulgou para sempre sua aliança.",
+    "now": "Ele trouxe redenção a seu povo, promulgou para sempre sua aliança.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 1,
+    "was": "Aleluia! Quão feliz é a pessoa que teme ao SENHOR Bet e tem grande prazer em seus mandamentos!",
+    "now": "Aleluia! Quão feliz é a pessoa que teme ao SENHOR e tem grande prazer em seus mandamentos!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 2,
+    "was": "Sua linhagem será poderosa no país, Dalet abençoada geração de homens íntegros.",
+    "now": "Sua linhagem será poderosa no país, abençoada geração de homens íntegros.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 3,
+    "was": "Em sua casa haverá bens e riquezas, Vav e sua justiça permanece para sempre.",
+    "now": "Em sua casa haverá bens e riquezas, e sua justiça permanece para sempre.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 5,
+    "was": "Bem-aventurado quem se compadece e empresta com generosidade, Yud e com honestidade administra todos os seus negócios!",
+    "now": "Bem-aventurado quem se compadece e empresta com generosidade, e com honestidade administra todos os seus negócios!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 112,
+    "verse": 10,
+    "was": "Por isso, o ímpio o observa e fica irado, Shin range os dentes e se consome de ódio. Tav A ambição dos ímpios os levará à destruição!",
+    "now": "Por isso, o ímpio o observa e fica irado, range os dentes e se consome de ódio. A ambição dos ímpios os levará à destruição!",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
+  },
+  {
+    "book": "PSA",
+    "chapter": 111,
+    "verse": 8,
+    "was": "são firmes para todo o sempre, Ayin a fim de serem cumpridos fiel e retamente.",
+    "now": "são firmes para todo o sempre, a fim de serem cumpridos fiel e retamente.",
+    "source": "annas-archive.gl:KJA (Abba Press 2017); nome de letra hebraica acróstica removido do texto",
+    "corroborated_by": [
+      "ACF",
+      "NAA",
+      "Sl 119 da própria KJA (sem letras)"
+    ]
   }
 ]
