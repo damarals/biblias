@@ -112,6 +112,39 @@ def _style(ax, title: str, xlabel: str, ylabel: str) -> None:
         label.set_fontfamily("monospace")
 
 
+def _inline_labels(ax, last_date, end_values: dict, colors: dict) -> None:
+    """Direct labels at each line's right end, spread vertically with thin leaders.
+
+    Replaces the legend: with ~18 series the integer download counts collide
+    heavily at the last date, so labels are nudged apart by a minimum gap (in
+    axes fraction) and a faint leader ties each one back to its true endpoint.
+    """
+    import matplotlib.dates as mdates
+
+    ymin, ymax = ax.get_ylim()
+    span = (ymax - ymin) or 1.0
+    items = sorted(colors, key=lambda c: end_values.get(c, 0))
+    gap = min(0.052, 0.94 / len(items))
+    fracs, prev = [], -1.0
+    for c in items:
+        f = max((end_values.get(c, 0) - ymin) / span, prev + gap)
+        fracs.append(f)
+        prev = f
+    if fracs[-1] > 1.0:  # stack ran past the top — settle it back down
+        fracs[-1] = 1.0
+        for i in range(len(fracs) - 2, -1, -1):
+            fracs[i] = min(fracs[i], fracs[i + 1] - gap)
+    x = mdates.date2num(last_date)
+    for c, f in zip(items, fracs):
+        ax.annotate(
+            c, xy=(x, end_values.get(c, 0)), xycoords="data",
+            xytext=(1.02, min(max(f, 0.0), 1.0)), textcoords=ax.transAxes,
+            va="center", ha="left", fontsize=8.5, fontfamily="monospace",
+            color=colors[c], annotation_clip=False,
+            arrowprops=dict(arrowstyle="-", lw=0.5, color=colors[c], alpha=0.45),
+        )
+
+
 def render_downloads(rows: list[dict]) -> None:
     import matplotlib
     matplotlib.use("Agg")
@@ -125,25 +158,44 @@ def render_downloads(rows: list[dict]) -> None:
 
     fig, ax = plt.subplots(figsize=(7, 5))
     palette = plt.cm.tab20.colors
-    drawn = 0
+    colors: dict[str, tuple] = {}
     for i, code in enumerate(CODES):
         ys = [series[code].get(d, 0) for d in dates]
         if max(ys) == 0:
             continue
-        ax.plot(dates, ys, marker="o", ms=3, lw=1.5, color=palette[i % len(palette)], label=code)
-        drawn += 1
-    ax.xaxis.set_major_locator(mdates.AutoDateLocator(maxticks=5))
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%m/%y"))
+        colors[code] = palette[i % len(palette)]
+        ax.plot(dates, ys, marker="o", ms=3, lw=1.5, color=colors[code])
+
+    # X ticks: one per day (<=6) while the history fits in a single month; one per
+    # month (<=6) once it spans 2+. Ticks are pinned to real snapshot dates so labels
+    # never repeat -- an auto-locator scatters sub-day/sub-month ticks that the day or
+    # month formatter would collapse to identical strings.
+    from matplotlib.ticker import FixedLocator
+    if len({(d.year, d.month) for d in dates}) <= 1:
+        anchors, fmt, max_ticks = list(dates), "%d/%m/%Y", 4
+    else:
+        anchors, seen, fmt, max_ticks = [], set(), "%m/%y", 6
+        for d in dates:
+            key = (d.year, d.month)
+            if key not in seen:
+                seen.add(key)
+                anchors.append(d)
+    if len(anchors) <= max_ticks:
+        ticks = list(anchors)
+    else:  # evenly spaced, first and last always kept
+        keep = sorted({round(i * (len(anchors) - 1) / (max_ticks - 1)) for i in range(max_ticks)})
+        ticks = [anchors[i] for i in keep]
+    ax.xaxis.set_major_locator(FixedLocator(mdates.date2num(ticks)))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter(fmt))
     if len(dates) <= 1:
         only = dates[0] if dates else datetime.date.today()
         ax.set_xlim(only - datetime.timedelta(days=20), only + datetime.timedelta(days=20))
-    _style(ax, "Downloads por versão", "", "Downloads")
-    fig.subplots_adjust(left=0.14, right=0.96, top=0.90, bottom=0.30)
-    if drawn:
-        legend = ax.legend(ncol=5, fontsize=10, loc="upper center",
-                           bbox_to_anchor=(0.5, -0.16), frameon=False)
-        for text in legend.get_texts():
-            text.set_fontfamily("monospace")
+
+    _style(ax, "Histórico de downloads", "", "Downloads")
+    fig.subplots_adjust(left=0.14, right=0.85, top=0.90, bottom=0.12)
+    if colors:
+        ends = {c: series[c].get(dates[-1], 0) for c in colors}
+        _inline_labels(ax, dates[-1], ends, colors)
     fig.savefig(DOWNLOADS_SVG)
 
 
@@ -158,9 +210,10 @@ def render_stars(dates: list) -> None:
         ys = list(range(1, len(dates) + 1))
         ax.plot(dates, ys, lw=2, color=PRIMARY)
         ax.fill_between(dates, ys, alpha=0.10, color=PRIMARY)
+        ax.margins(x=0)  # curve touches both edges, no leading/trailing gap
     ax.xaxis.set_major_locator(mdates.YearLocator())
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
-    _style(ax, "Estrelas ao longo do tempo", "", "Estrelas")
+    _style(ax, "Histórico de estrelas", "", "Estrelas")
     fig.subplots_adjust(left=0.14, right=0.96, top=0.90, bottom=0.12)
     fig.savefig(STARS_SVG)
 
