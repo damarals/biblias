@@ -14,9 +14,9 @@
 
 ## Formatos
 
-- **Zefania XML** — formato padrão, importado por Quelea, MyBible, And Bible, OpenLP e outros.
-- **SQLite** — banco no esquema do [OpenLP](https://openlp.org/) (outros programas usam esquemas SQLite diferentes).
-- **JSON** — formato aberto, para qualquer outro uso.
+- **Zefania XML**: formato padrão, importado por Quelea, MyBible, And Bible, OpenLP e outros.
+- **SQLite**: banco no esquema do [OpenLP](https://openlp.org/) (outros programas usam esquemas SQLite diferentes).
+- **JSON**: formato aberto, para qualquer outro uso.
 
 <table>
   <tr>
@@ -30,7 +30,7 @@
 Baixe o formato que quiser na última [release](https://github.com/damarals/biblias/releases/latest). As de domínio público (†) podem ser redistribuídas livremente; as demais pertencem a suas editoras.
 
 | Bíblia | Sigla | Ano | Editora | Baixar |
-|---|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---|
 | Almeida Corrigida e Fiel | ACF | 1994 | SBTB | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ACF.xml)<br>[![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ACF.sqlite)<br>[![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ACF.json) |
 | Almeida Revista e Atualizada | ARA | 1993 | SBB | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARA.xml)<br>[![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARA.sqlite)<br>[![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARA.json) |
 | Almeida Revista e Corrigida | ARC | 1995 | SBB | [![Zefania](https://custom-icon-badges.demolab.com/badge/Baixar-Zefania-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARC.xml)<br>[![SQLite](https://custom-icon-badges.demolab.com/badge/Baixar-SQLite-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARC.sqlite)<br>[![JSON](https://custom-icon-badges.demolab.com/badge/Baixar-JSON-F25278?style=for-the-badge&logo=download&logoColor=white)](https://github.com/damarals/biblias/releases/latest/download/ARC.json) |
