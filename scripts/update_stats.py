@@ -30,6 +30,19 @@ CSV = Path("data/stats/downloads.csv")
 DOWNLOADS_SVG = Path("data/stats/downloads.svg")
 STARS_SVG = Path("data/stats/stars.svg")
 PRIMARY = "#2c5282"
+# matplotlib stamps <dc:date> into every SVG; dropping it keeps the output byte-identical
+# when the data hasn't changed, so the daily job only commits real movement.
+SVG_METADATA = {"Date": None}
+
+
+def _mpl():
+    """Agg backend plus a fixed hashsalt -- element ids are salted per process by
+    default, which would make every rendering differ even on identical data."""
+    import matplotlib
+    matplotlib.use("Agg")
+    matplotlib.rcParams["svg.hashsalt"] = "biblias"
+    import matplotlib.pyplot as plt
+    return plt
 
 
 def api(url, accept="application/vnd.github+json"):
@@ -146,10 +159,8 @@ def _inline_labels(ax, last_date, end_values: dict, colors: dict) -> None:
 
 
 def render_downloads(rows: list[dict]) -> None:
-    import matplotlib
-    matplotlib.use("Agg")
     import matplotlib.dates as mdates
-    import matplotlib.pyplot as plt
+    plt = _mpl()
 
     series: dict = collections.defaultdict(dict)
     for r in rows:
@@ -196,14 +207,12 @@ def render_downloads(rows: list[dict]) -> None:
     if colors:
         ends = {c: series[c].get(dates[-1], 0) for c in colors}
         _inline_labels(ax, dates[-1], ends, colors)
-    fig.savefig(DOWNLOADS_SVG)
+    fig.savefig(DOWNLOADS_SVG, metadata=SVG_METADATA)
 
 
 def render_stars(dates: list) -> None:
-    import matplotlib
-    matplotlib.use("Agg")
     import matplotlib.dates as mdates
-    import matplotlib.pyplot as plt
+    plt = _mpl()
 
     fig, ax = plt.subplots(figsize=(7, 5))
     if dates:
@@ -215,7 +224,7 @@ def render_stars(dates: list) -> None:
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
     _style(ax, "Histórico de estrelas", "", "Estrelas")
     fig.subplots_adjust(left=0.14, right=0.96, top=0.90, bottom=0.12)
-    fig.savefig(STARS_SVG)
+    fig.savefig(STARS_SVG, metadata=SVG_METADATA)
 
 
 def main() -> None:
