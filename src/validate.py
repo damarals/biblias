@@ -10,6 +10,10 @@ _HTML = re.compile(r"<[a-zA-Z/]")
 _FUSE = re.compile(r"[A-Za-zÀ-ÿ]\d|\d[A-Za-zÀ-ÿ]")  # footnote marker fused into a word (e.g. "le9")
 _JUNK = ("verszeile", "ohne text")                  # foreign placeholders leaked by legacy tooling
 _DASHES = set("—–- ")
+# Fused verse block: "[12-83] text…". Some versions publish list passages as a
+# single block covering a range; extraction then replicates that block into every
+# position of the range instead of storing it once.
+_SPAN = re.compile(r"^\s*\[\d+\s*[-\u2013]\s*\d+\]")
 
 # Paraphrases don't track formal verse boundaries; cross-version length comparison is invalid for them.
 _PARAPHRASE = frozenset({"OL", "MENS"})
@@ -60,6 +64,14 @@ def validate_bible(bible: Bible) -> Report:
                 if not text:
                     findings.append(Finding(book.code, chapter.number, verse.number,
                                             Tier.HIGH, "empty verse"))
+                    continue
+                prev = verses[i - 1].text.strip() if i else None
+                if prev and text == prev:
+                    reason = ("fused verse block replicated across the range"
+                              if _SPAN.match(text) else
+                              "duplicate of previous verse — the preceding verse is lost")
+                    findings.append(Finding(book.code, chapter.number, verse.number,
+                                            Tier.HIGH, reason))
                     continue
                 if _is_corruption(verse.text):
                     findings.append(Finding(book.code, chapter.number, verse.number,
